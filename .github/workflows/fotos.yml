@@ -7,6 +7,12 @@ on:
       modo:
         description: "candidatas o elegidas"
         default: candidatas
+      temas:
+        description: "solo estos temas (separados por comas; segunda ronda)"
+        default: ""
+      salida:
+        description: "carpeta de candidatas"
+        default: candidatas
 permissions:
   contents: write
 concurrency:
@@ -25,13 +31,13 @@ jobs:
             pip install --quiet pillow
             python3 .github/fotos/fotos.py elegidas elegidas.json elegidas
           else
-            python3 .github/fotos/fotos.py candidatas candidatas
+            python3 .github/fotos/fotos.py candidatas "${{ inputs.salida }}" "${{ inputs.temas }}"
           fi
       - name: Guardar en la rama fotos
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          D=$(mktemp -d); for x in candidatas elegidas elegidas.json; do if [ -e "$x" ]; then mv "$x" "$D"/; fi; done
+          D=$(mktemp -d); for x in candidatas* elegidas elegidas.json; do if [ -e "$x" ]; then mv "$x" "$D"/; fi; done
           if git fetch origin fotos; then git checkout -B fotos FETCH_HEAD; else git checkout --orphan fotos && git rm -rqf .; fi
           cp -r "$D"/. .
           git add -A

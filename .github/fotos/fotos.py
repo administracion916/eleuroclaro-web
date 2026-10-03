@@ -4,7 +4,8 @@ Solo fotos con licencia CC0 o de dominio público (Openverse: https://openverse.
 sin pedir permiso ni citar al autor. Igualmente se guarda autor, licencia y enlace de cada una en creditos.json.
 Nunca fotos de los periódicos.
 
-  python3 fotos.py candidatas salida/        -> baja miniaturas de varias fotos por tema para elegir
+  python3 fotos.py candidatas salida/ [temas] -> baja miniaturas de varias fotos por tema para elegir
+                                               (temas: lista separada por comas; usa BUSQUEDAS2 y solo bancos de fotos curados)
   python3 fotos.py elegidas ids.json salida/ -> baja las elegidas ({"tema": "id de Openverse"}) a 960x540
 """
 import json
@@ -33,6 +34,16 @@ BUSQUEDAS = {
     "general": ["newspapers", "newspaper coffee", "news paper stack"],
 }
 
+# Segunda ronda (3-10): temas sin una foto buena en la primera; solo de bancos curados (CURADOS).
+BUSQUEDAS2 = {
+    "pensiones": ["elderly couple bench", "senior walking park", "elderly hands", "grandparents walking", "old man reading"],
+    "impuestos": ["calculator", "paperwork desk", "documents signing", "receipts", "accounting"],
+    "general": ["euro banknotes", "euro money wallet", "euro coins banknotes", "money euro"],
+    "economia": ["madrid skyline", "europe city skyline", "frankfurt skyline", "city business district day"],
+    "transporte": ["airplane sky", "airplane wing window", "high speed train", "train station europe", "airport terminal"],
+}
+CURADOS = "stocksnap,rawpixel,wordpress"
+
 
 def pedir(url, tries=4):
     for i in range(tries):
@@ -46,26 +57,32 @@ def pedir(url, tries=4):
     return None
 
 
-def buscar(q):
+def buscar(q, fuentes=None):
     params = {"q": q, "license": "cc0,pdm", "category": "photograph", "mature": "false", "page_size": "20", "aspect_ratio": "wide,square"}
+    if fuentes:
+        params["source"] = fuentes
     datos = pedir(API + "?" + urllib.parse.urlencode(params))
     return json.loads(datos)["results"] if datos else []
 
 
-def candidatas(salida, por_tema=9):
+def candidatas(salida, temas=None, por_tema=9):
     meta = {}
-    for tema, qs in BUSQUEDAS.items():
+    busquedas, fuentes = BUSQUEDAS, None
+    if temas:
+        busquedas, fuentes = {t: BUSQUEDAS2.get(t) or BUSQUEDAS[t] for t in temas.split(",")}, CURADOS
+        por_tema = 12
+    for tema, qs in busquedas.items():
         os.makedirs(os.path.join(salida, tema), exist_ok=True)
         vistos, lista = set(), []
         for q in qs:
-            for r in buscar(q):
+            for r in buscar(q, fuentes):
                 if r["id"] in vistos or (r.get("width") or 0) < 1000:
                     continue
                 vistos.add(r["id"])
                 lista.append(r)
             time.sleep(2)
         # Repartir entre búsquedas: las primeras de cada una
-        lista = lista[: por_tema * 2]
+        lista = lista[: por_tema * 3]
         n = 0
         for r in lista:
             if n >= por_tema:
@@ -110,6 +127,6 @@ def elegidas(ids_json, salida):
 
 if __name__ == "__main__":
     if sys.argv[1] == "candidatas":
-        candidatas(sys.argv[2])
+        candidatas(sys.argv[2], sys.argv[3] if len(sys.argv) > 3 and sys.argv[3] else None)
     else:
         elegidas(sys.argv[2], sys.argv[3])
