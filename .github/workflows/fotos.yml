@@ -1,0 +1,38 @@
+# Busca y baja fotos de uso libre (CC0 o dominio público) para las noticias de prensa de la portada.
+# Deja el resultado en la rama «fotos» (no se publica): luego se eligen y se copian a mano a img/prensa/.
+name: Fotos de prensa
+on:
+  workflow_dispatch:
+    inputs:
+      modo:
+        description: "candidatas o elegidas"
+        default: candidatas
+permissions:
+  contents: write
+concurrency:
+  group: fotos
+jobs:
+  fotos:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fotos
+        run: |
+          set -e
+          if [ "${{ inputs.modo }}" = "elegidas" ]; then
+            git fetch origin fotos && git show FETCH_HEAD:elegidas.json > elegidas.json
+            pip install --quiet pillow
+            python3 .github/fotos/fotos.py elegidas elegidas.json elegidas
+          else
+            python3 .github/fotos/fotos.py candidatas candidatas
+          fi
+      - name: Guardar en la rama fotos
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          D=$(mktemp -d); for x in candidatas elegidas elegidas.json; do if [ -e "$x" ]; then mv "$x" "$D"/; fi; done
+          if git fetch origin fotos; then git checkout -B fotos FETCH_HEAD; else git checkout --orphan fotos && git rm -rqf .; fi
+          cp -r "$D"/. .
+          git add -A
+          git commit -qm "Fotos (${{ inputs.modo }})" && git push origin fotos
