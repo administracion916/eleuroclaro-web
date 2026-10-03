@@ -1,6 +1,6 @@
-// Enlace de alta de la newsletter (página de suscripción de beehiiv u otro proveedor).
+// Enlace de alta de la newsletter (página de suscripción de Substack).
 // Mientras esté vacío, el formulario avisa de que la newsletter arranca pronto.
-var NEWSLETTER_URL = "";
+var NEWSLETTER_URL = "https://eleuroclaro.substack.com/subscribe";
 
 (function () {
   var list = document.getElementById("video-list");
@@ -36,5 +36,14 @@ var NEWSLETTER_URL = "";
     if (!form.consent.checked) { msg.textContent = "Marca la casilla de privacidad para apuntarte."; return; }
     if (!NEWSLETTER_URL) { msg.textContent = "La newsletter arranca en octubre. Vuelve en unos días para apuntarte."; return; }
     window.location.href = NEWSLETTER_URL + (NEWSLETTER_URL.indexOf("?") < 0 ? "?" : "&") + "email=" + encodeURIComponent(email);
+  });
+})();
+
+// Ofertas con fecha de fin: se muestran solo hasta la fecha de data-hasta (hora de Madrid).
+(function () {
+  var ahora = Date.now();
+  document.querySelectorAll("[data-hasta]").forEach(function (el) {
+    var fin = Date.parse(el.getAttribute("data-hasta"));
+    if (!isNaN(fin) && ahora <= fin) el.hidden = false;
   });
 })();
