@@ -42,7 +42,7 @@ MEDIOS = {
 SECCIONES = {
     "Cinco Días": re.compile(r"^/(economia|companias)/"),
     "El País": re.compile(r"^/economia/"),
-    "Expansión": re.compile(r"^/(economia|empresas)/"),
+    "Expansión": re.compile(r"^/(economia|empresas)/(?!politica/)"),
     "elEconomista": re.compile(r"^/(economia|empresas-finanzas)/"),
     "Europa Press": re.compile(r"^/economia/"),
 }
