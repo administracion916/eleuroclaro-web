@@ -219,3 +219,4 @@ p { margin: 0; }
   .nav::-webkit-scrollbar { display: none; }
   .nav a { white-space: nowrap; flex: none; }
 }
+.regalo { margin-top: 1.4rem; padding: .7rem 1rem; border-radius: .4rem; background: var(--gold-soft); max-width: 34rem; }

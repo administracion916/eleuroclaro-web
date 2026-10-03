@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
+Disallow: /regalo/
 
 Sitemap: https://eleuroclaro.es/sitemap.xml
