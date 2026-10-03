@@ -1,0 +1,158 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>El Euro Claro</title>
+<meta name="description" content="La noticia económica del día y lo que significa para tu bolsillo, explicada en 90 segundos. Hipoteca, sueldo, ahorros y compra, sin tecnicismos.">
+<meta property="og:title" content="El Euro Claro">
+<meta property="og:description" content="La economía que te afecta, explicada en 90 segundos.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://eleuroclaro.es/">
+<meta property="og:locale" content="es_ES">
+<link rel="canonical" href="https://eleuroclaro.es/">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="fonts.css">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="top">
+  <div class="wrap">
+    <a class="brand" href="#inicio" aria-label="El Euro Claro, inicio">
+      <svg class="coin" viewBox="0 0 40 40" aria-hidden="true"><circle cx="20" cy="20" r="18" fill="#f4c51a"/><circle cx="20" cy="20" r="14.5" fill="none" stroke="var(--bg)" stroke-width="1.2" opacity=".6"/><text x="20" y="26.5" text-anchor="middle" font-family="Georgia, serif" font-size="19" font-weight="700" fill="#10294a">€</text></svg>
+      El Euro Claro
+    </a>
+    <nav class="nav" aria-label="Secciones">
+      <a href="#videos">Vídeos</a>
+      <a href="#newsletter">Newsletter</a>
+      <a href="#fuentes">Fuentes</a>
+      <a href="#anunciate">Anúnciate</a>
+    </nav>
+  </div>
+</header>
+
+<main id="inicio">
+  <section class="hero">
+    <div class="wrap">
+      <div>
+        <p class="eyebrow">Cada día · 60–90 segundos</p>
+        <h1>La noticia económica del día, <em>en euros de tu bolsillo</em>.</h1>
+        <p class="lead">Hipoteca, sueldo, ahorros y la compra. Te contamos qué ha pasado, por qué y cuánto te toca, sin tecnicismos y con el dato oficial delante.</p>
+        <div class="actions">
+          <a class="btn btn-primary" href="#newsletter">Recibe el resumen gratis</a>
+          <a class="btn btn-ghost" href="#videos">Ver los vídeos</a>
+        </div>
+      </div>
+
+      <aside class="ticket" aria-label="Cómo es cada vídeo">
+        <h2>Ticket de cada vídeo</h2>
+        <ol>
+          <li><span>0:00</span><span>Gancho: lo que te cambia</span></li>
+          <li><span>0:03</span><span>Qué ha pasado, con su fuente</span></li>
+          <li><span>0:20</span><span>Por qué ha pasado</span></li>
+          <li><span>0:50</span><span>Qué significa para ti, en €</span></li>
+          <li><span>1:15</span><span>Qué viene ahora</span></li>
+          <li><span>1:25</span><span>Tu pregunta en comentarios</span></li>
+        </ol>
+        <p class="total"><span>TOTAL</span><span>90 s</span></p>
+        <p class="note">Sin letra pequeña · Datos de INE, BCE, Banco de España y BOE</p>
+      </aside>
+    </div>
+  </section>
+
+  <section class="section alt" id="videos">
+    <div class="wrap">
+      <p class="eyebrow">Últimos vídeos</p>
+      <h2>Lo último que hemos explicado</h2>
+      <p class="intro">Un vídeo corto de lunes a viernes y el resumen de la semana cada domingo en YouTube.</p>
+      <div class="videos" id="video-list"></div>
+      <div class="empty" id="video-empty">
+        <strong>El primer vídeo sale el lunes 5 de octubre.</strong> Síguenos para verlo el primero; aquí aparecerán los últimos en cuanto se publiquen.
+      </div>
+      <div class="socials">
+        <a href="https://www.youtube.com/@eleuroclaro" rel="noopener">YouTube</a>
+        <a href="https://www.tiktok.com/@eleuroclaro" rel="noopener">TikTok</a>
+        <a href="https://www.instagram.com/eleuroclaro" rel="noopener">Instagram</a>
+        <a href="https://www.facebook.com/eleuroclaro" rel="noopener">Facebook</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="section" id="newsletter">
+    <div class="wrap news">
+      <div>
+        <p class="eyebrow">Newsletter · domingos</p>
+        <h2>Las 5 noticias de la semana que tocan tu bolsillo</h2>
+        <p class="intro">Un correo cada domingo, se lee en 3 minutos. Gratis y te das de baja con un clic.</p>
+        <ul class="checks">
+          <li>Euríbor, IPC, sueldos y ayudas del BOE, explicados</li>
+          <li>Un ejemplo con números redondos para cada noticia</li>
+          <li>El calendario de lo que viene la semana siguiente</li>
+        </ul>
+      </div>
+      <form class="signup" id="signup" novalidate>
+        <label for="email">Tu correo electrónico</label>
+        <input type="email" id="email" name="email" placeholder="nombre@correo.es" autocomplete="email" required>
+        <label class="consent" for="consent">
+          <input type="checkbox" id="consent" name="consent" required>
+          <span>Acepto recibir la newsletter y la <a href="privacidad.html">política de privacidad</a>.</span>
+        </label>
+        <button class="btn btn-primary" type="submit">Apuntarme gratis</button>
+        <p class="msg" id="signup-msg" role="status"></p>
+      </form>
+    </div>
+  </section>
+
+  <section class="section alt" id="fuentes">
+    <div class="wrap">
+      <p class="eyebrow">De dónde salen los datos</p>
+      <h2>Solo fuentes oficiales, siempre enlazadas</h2>
+      <p class="intro">Cada cifra que ves en pantalla viene de la fuente original y el enlace está en la descripción del vídeo. Explicamos lo que pasa; no te decimos en qué invertir.</p>
+      <div class="sources">
+        <span>INE</span><span>Banco Central Europeo</span><span>Banco de España</span><span>BOE</span>
+      </div>
+    </div>
+  </section>
+
+  <section class="section" id="anunciate">
+    <div class="wrap">
+      <p class="eyebrow">Para marcas</p>
+      <h2>Anúnciate en El Euro Claro</h2>
+      <p class="intro">Hablamos cada día con gente de 25 a 45 años que quiere entender qué pasa con su dinero. Si tu marca les ayuda a ahorrar, cobrar o decidir mejor, encajamos.</p>
+      <div class="ads">
+        <div>
+          <h3>Patrocinio de newsletter</h3>
+          <p>Un bloque destacado en el correo del domingo, marcado como publicidad.</p>
+        </div>
+        <div>
+          <h3>Mención en vídeo</h3>
+          <p>Integración de 10–15 s en un corto o en el resumen semanal, etiquetada como contenido patrocinado.</p>
+        </div>
+        <div>
+          <h3>Serie temática</h3>
+          <p>Varios vídeos sobre un tema (renta, hipoteca, ahorro) con tu marca como patrocinador.</p>
+        </div>
+      </div>
+      <p class="intro" style="margin-top:2rem">Escríbenos a <span class="mail">publicidad@eleuroclaro.es</span> y te mandamos audiencia y tarifas.</p>
+    </div>
+  </section>
+</main>
+
+<footer class="foot">
+  <div class="wrap">
+    <nav aria-label="Legal">
+      <a href="aviso-legal.html">Aviso legal</a>
+      <a href="privacidad.html">Privacidad</a>
+      <a href="cookies.html">Cookies</a>
+      <span>Contacto: <span class="mail">hola@eleuroclaro.es</span></span>
+    </nav>
+    <p class="disclaimer">El Euro Claro es un medio divulgativo. La información es general y no constituye asesoramiento financiero ni una recomendación de comprar o vender ningún producto. Algunos enlaces pueden ser de afiliado y se indica cuando lo son.</p>
+    <p>© 2026 El Euro Claro · Odana Ingeniería SL</p>
+  </div>
+</footer>
+
+<script src="videos.js"></script>
+<script src="site.js"></script>
+</body>
+</html>
