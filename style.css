@@ -48,10 +48,10 @@ p { margin: 0; }
 /* Cabecera: azul marino en todas las páginas */
 .top { background: var(--navy); border-bottom: 1px solid #1d3b5f; position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5; --focus: var(--sol); }
 .top .wrap { display: flex; align-items: center; gap: 1rem 1.6rem; flex-wrap: wrap; padding-block: .75rem; }
-.brand { display: flex; align-items: center; gap: .7rem; text-decoration: none; color: #fff; font-family: var(--font-display); font-weight: 700; font-size: clamp(1.6rem, 2.8vw, 2rem); letter-spacing: -.01em; line-height: 1.1; }
-.coin { width: 2.9rem; height: 2.9rem; flex: none; }
-@media (max-width: 40rem) { .coin { width: 2.4rem; height: 2.4rem; } }
-@media (min-width: 70rem) { .brand { font-size: 2.4rem; gap: .8rem; } .coin { width: 3.3rem; height: 3.3rem; } }
+.brand { display: flex; align-items: center; gap: .7rem; text-decoration: none; color: var(--sol); font-family: var(--font-display); font-weight: 700; font-size: clamp(1.95rem, 3.2vw, 2.35rem); letter-spacing: -.01em; line-height: 1.1; }
+.coin { width: 3.1rem; height: 3.1rem; flex: none; }
+@media (max-width: 48rem) { .coin { width: 2.7rem; height: 2.7rem; } }
+@media (min-width: 70rem) { .brand { font-size: 2.85rem; gap: .85rem; } .coin { width: 3.7rem; height: 3.7rem; } }
 .nav { display: flex; gap: 1.3rem; flex-wrap: wrap; font-size: .95rem; margin-left: auto; }
 .nav a { color: #c3cfe0; text-decoration: none; font-weight: 600; }
 .nav a:hover { color: #fff; }
@@ -313,7 +313,7 @@ img.presenta-avatar { object-fit: cover; filter: grayscale(1); }
   .tabla th, .tabla td { padding: .5rem .45rem; }
 }
 /* Móvil y tableta estrecha: el menú va en una sola fila que se desliza de lado, para que la cabecera fija ocupe poco */
-@media (max-width: 45rem) {
+@media (max-width: 48rem) {
   .top .wrap { row-gap: .4rem; }
   html { scroll-padding-top: 7rem; }
   .nav:focus-within { -webkit-mask-image: none; mask-image: none; }
