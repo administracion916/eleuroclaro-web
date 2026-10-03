@@ -159,3 +159,37 @@ p { margin: 0; }
 .book .fit span { font-weight: 700; color: var(--ink); }
 .books-date { margin-top: 1.6rem; color: var(--muted); font-size: .85rem; }
 @media (max-width: 52rem) { .shelf { grid-template-columns: 1fr; } }
+
+/* Páginas de datos (Euríbor, IRAV): cifra grande arriba y tablas de ejemplos */
+.page-head h1 { font-size: clamp(2.1rem, 5vw, 3.2rem); margin-block: .6rem 1.4rem; }
+.dato { background: var(--surface); border: 1px solid var(--line); border-left: 6px solid var(--gold); border-radius: .4rem; padding: 1.2rem 1.4rem; max-width: 40rem; display: grid; gap: .3rem; }
+.dato-gris { border-left-color: var(--line); }
+.dato .que, .dato-card .que { font-family: var(--font-mono); font-size: .8rem; letter-spacing: .06em; text-transform: uppercase; color: var(--muted); }
+.dato .cifra, .dato-card .cifra { font-family: var(--font-display); font-weight: 600; font-size: clamp(2.8rem, 9vw, 4.2rem); line-height: 1; color: var(--ink); font-variant-numeric: tabular-nums; }
+.dato .src, .src-line, .small { font-size: .88rem; color: var(--muted); }
+.src-line { margin-top: 1rem; max-width: 44rem; }
+.datos-pareja { display: grid; grid-template-columns: repeat(2, minmax(0, 18rem)); gap: 1rem; }
+.prose > * { max-width: 46rem; }
+.prose h2 { margin-bottom: 1rem; }
+.prose p, .prose ul { margin-bottom: .9rem; }
+.prose li { margin-bottom: .5rem; }
+.prose-p { margin-top: 1rem; max-width: 40rem; }
+.note-legal { margin-top: 1.6rem; }
+.tablebox { margin-block: 1.2rem; max-width: 46rem; }
+.tabla { border-collapse: collapse; width: 100%; font-size: .97rem; background: var(--surface); border: 1px solid var(--line); border-radius: .4rem; }
+.section.alt .tabla { background: var(--bg); }
+.tabla th, .tabla td { text-align: left; padding: .6rem .75rem; border-bottom: 1px solid var(--line); vertical-align: top; }
+.tabla th { font-size: .85rem; color: var(--muted); font-weight: 600; }
+.tabla .num { text-align: right; font-variant-numeric: tabular-nums; white-space: nowrap; }
+.tabla th.num { white-space: normal; }
+.tabla tbody tr:last-child td { border-bottom: 0; }
+.datos-home { display: grid; grid-template-columns: repeat(2, 1fr); gap: 1.4rem; margin-top: 1.8rem; }
+.dato-card { min-width: 0; display: grid; gap: .5rem; padding: 1.3rem 1.4rem; border: 1px solid var(--line); border-left: 6px solid var(--gold); border-radius: .4rem; background: var(--bg); text-decoration: none; color: var(--ink); }
+.dato-card .txt { color: var(--blue); font-weight: 600; }
+.dato-card .txt::after { content: " →"; }
+.dato-card:hover .txt { text-decoration: underline; }
+@media (max-width: 40rem) {
+  .datos-pareja, .datos-home { grid-template-columns: 1fr; }
+  .tabla { font-size: .9rem; }
+  .tabla th, .tabla td { padding: .5rem .45rem; }
+}
