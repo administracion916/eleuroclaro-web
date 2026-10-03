@@ -47,3 +47,37 @@ var NEWSLETTER_URL = "https://eleuroclaro.substack.com/subscribe";
     if (!isNaN(fin) && ahora <= fin) el.hidden = false;
   });
 })();
+
+// Titulares de prensa económica: los guarda cada hora una tarea de GitHub en prensa.json (misma web, sin llamadas a terceros).
+(function () {
+  var caja = document.getElementById("prensa");
+  var lista = document.getElementById("prensa-list");
+  if (!caja || !lista || !window.fetch) return;
+  function hace(fecha) {
+    var min = Math.round((Date.now() - Date.parse(fecha)) / 60000);
+    if (isNaN(min)) return "";
+    if (min < 60) return "hace " + Math.max(min, 1) + " min";
+    var h = Math.round(min / 60);
+    if (h < 24) return "hace " + h + " h";
+    return h < 48 ? "ayer" : "hace " + Math.round(h / 24) + " días";
+  }
+  fetch("prensa.json", { cache: "no-cache" })
+    .then(function (r) { return r.ok ? r.json() : null; })
+    .then(function (d) {
+      var items = (d && d.items) || [];
+      items.filter(function (it) { return /^https:\/\//.test(it.u || "") && it.t; }).slice(0, 6).forEach(function (it) {
+        var li = document.createElement("li");
+        var meta = document.createElement("span");
+        meta.className = "p-meta";
+        meta.textContent = it.m + (it.f ? " · " + hace(it.f) : "");
+        var a = document.createElement("a");
+        a.href = it.u;
+        a.rel = "noopener";
+        a.textContent = it.t;
+        li.append(meta, a);
+        lista.append(li);
+      });
+      if (lista.children.length) caja.hidden = false;
+    })
+    .catch(function () {});
+})();

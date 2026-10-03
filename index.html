@@ -4,9 +4,8 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>El Euro Claro</title>
-<meta name="description" content="La noticia económica del día y lo que significa para tu bolsillo, explicada en 90 segundos. Hipoteca, sueldo, ahorros y compra, sin tecnicismos.">
-<meta name="theme-color" content="#f5f7fb" media="(prefers-color-scheme: light)">
-<meta name="theme-color" content="#0c1424" media="(prefers-color-scheme: dark)">
+<meta name="description" content="La noticia económica del día y lo que significa para tu bolsillo, explicada en 90 segundos. Hipoteca, sueldo, ahorros y compra, sin tecnicismos y con datos oficiales.">
+<meta name="theme-color" content="#0e2a47">
 <meta property="og:site_name" content="El Euro Claro">
 <meta property="og:title" content="El Euro Claro">
 <meta property="og:description" content="La economía que te afecta, explicada en 90 segundos.">
@@ -28,67 +27,215 @@
 </head>
 <body>
 
+<svg width="0" height="0" style="position:absolute" aria-hidden="true" focusable="false">
+  <symbol id="i-yt" viewBox="0 0 24 24"><path fill="currentColor" fill-rule="evenodd" d="M6.5 5h11A4.5 4.5 0 0 1 22 9.5v5a4.5 4.5 0 0 1-4.5 4.5h-11A4.5 4.5 0 0 1 2 14.5v-5A4.5 4.5 0 0 1 6.5 5zM10 8.8v6.4l5.4-3.2z"/></symbol>
+  <symbol id="i-tt" viewBox="0 0 24 24"><path fill="currentColor" d="M13.5 2.5h3.2a4.3 4.3 0 0 0 4.3 4.3v3.3a7.4 7.4 0 0 1-4.2-1.3v6.6a6.3 6.3 0 1 1-6.3-6.3h.5v3.4h-.5a2.9 2.9 0 1 0 3 2.9z"/></symbol>
+  <symbol id="i-ig" viewBox="0 0 24 24"><g fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="5.5"/><circle cx="12" cy="12" r="4.2"/></g><circle cx="17.4" cy="6.6" r="1.3" fill="currentColor"/></symbol>
+  <symbol id="i-fb" viewBox="0 0 24 24"><path fill="currentColor" d="M12 2a10 10 0 0 0-1.6 19.9v-7H7.9V12h2.5V9.8c0-2.5 1.5-3.9 3.8-3.9 1.1 0 2.2.2 2.2.2v2.5h-1.3c-1.2 0-1.6.8-1.6 1.6V12h2.8l-.4 2.9h-2.4v7A10 10 0 0 0 12 2z"/></symbol>
+  <symbol id="i-wa" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round" d="M4 20l1.3-4A8.5 8.5 0 1 1 8.4 19z"/><path fill="currentColor" d="M9 7.6c.3-.2.7-.2.9.1l1 1.6c.2.3.1.6-.1.9l-.5.6c.6 1.2 1.6 2.2 2.8 2.8l.6-.5c.3-.2.6-.3.9-.1l1.6 1c.3.2.4.6.1.9l-.6.8c-.4.5-1 .7-1.6.5-2.7-.9-4.8-3-5.7-5.7-.2-.6 0-1.2.5-1.6z"/></symbol>
+</svg>
+
 <header class="top">
   <div class="wrap">
     <a class="brand" href="#inicio" aria-label="El Euro Claro, inicio">
-      <svg class="coin" viewBox="0 0 40 40" aria-hidden="true"><circle cx="20" cy="20" r="18" fill="#f4c51a"/><circle cx="20" cy="20" r="14.5" fill="none" stroke="var(--bg)" stroke-width="1.2" opacity=".6"/><text x="20" y="26.5" text-anchor="middle" font-family="Georgia, serif" font-size="19" font-weight="700" fill="#10294a">€</text></svg>
+      <svg class="coin" viewBox="0 0 40 40" aria-hidden="true"><circle cx="20" cy="20" r="18" fill="#f4c51a"/><circle cx="20" cy="20" r="14.5" fill="none" stroke="#0e2a47" stroke-width="1.2" opacity=".45"/><text x="20" y="26.5" text-anchor="middle" font-family="Georgia, serif" font-size="19" font-weight="700" fill="#10294a">€</text></svg>
       El Euro Claro
     </a>
     <nav class="nav" aria-label="Secciones">
+      <a href="#noticias">Noticias</a>
       <a href="#videos">Vídeos</a>
-      <a href="#datos">Datos</a>
       <a href="#kit">Kit</a>
       <a href="#newsletter">Newsletter</a>
       <a href="libros/">Libros</a>
       <a href="#anunciate">Anúnciate</a>
     </nav>
+    <a class="top-cta" href="https://eleuroclaro.gumroad.com/l/kit" rel="noopener">Kit de cuentas · 19&nbsp;€</a>
   </div>
 </header>
 
 <main id="inicio">
   <section class="hero">
     <div class="wrap">
-      <div>
-        <p class="eyebrow">Cada día · 60–90 segundos</p>
+      <div class="hero-txt">
+        <p class="eyebrow">Cada día · en 90 segundos</p>
         <h1>La noticia económica del día, <em>en euros de tu bolsillo</em>.</h1>
-        <p class="lead">Hipoteca, sueldo, ahorros y la compra. Te contamos qué ha pasado, por qué y cuánto te toca, sin tecnicismos y con el dato oficial delante.</p>
+        <p class="lead">Hipoteca, sueldo, ahorros y la compra. Qué ha pasado, por qué y cuánto te toca, sin tecnicismos y con el dato oficial delante.</p>
         <div class="actions">
-          <a class="btn btn-primary" href="#newsletter">Recibe el resumen gratis</a>
-          <a class="btn btn-ghost" href="#videos">Ver los vídeos</a>
+          <a class="btn btn-sol" href="#newsletter">Recibe el resumen gratis</a>
+          <a class="btn btn-line" href="#kit">Kit de cuentas de casa · 19&nbsp;€</a>
+        </div>
+        <div class="follow">
+          <p>Síguenos, es gratis:</p>
+          <ul class="social" aria-label="Redes de El Euro Claro">
+            <li><a href="https://www.youtube.com/@ElEuroClaro" rel="noopener"><svg aria-hidden="true"><use href="#i-yt"/></svg>YouTube</a></li>
+            <li><a href="https://www.tiktok.com/@eleuroclaro" rel="noopener"><svg aria-hidden="true"><use href="#i-tt"/></svg>TikTok</a></li>
+            <li><a href="https://www.instagram.com/eleuroclaro/" rel="noopener"><svg aria-hidden="true"><use href="#i-ig"/></svg>Instagram</a></li>
+            <li><a href="https://www.facebook.com/eleuroclaro" rel="noopener"><svg aria-hidden="true"><use href="#i-fb"/></svg>Facebook</a></li>
+          </ul>
+          <a class="share-wa" href="https://wa.me/?text=Mira%20El%20Euro%20Claro%3A%20la%20noticia%20econ%C3%B3mica%20del%20d%C3%ADa%20explicada%20en%20euros%2C%20en%2090%20segundos.%20https%3A%2F%2Feleuroclaro.es" rel="noopener"><svg aria-hidden="true"><use href="#i-wa"/></svg>Pásaselo a alguien por WhatsApp</a>
         </div>
       </div>
 
-      <aside class="ticket" aria-label="Cómo es cada vídeo">
-        <h2>Ticket de cada vídeo</h2>
-        <ol>
-          <li><span>0:00</span><span>Gancho: lo que te cambia</span></li>
-          <li><span>0:03</span><span>Qué ha pasado, con su fuente</span></li>
-          <li><span>0:20</span><span>Por qué ha pasado</span></li>
-          <li><span>0:50</span><span>Qué significa para ti, en €</span></li>
-          <li><span>1:15</span><span>Qué viene ahora</span></li>
-          <li><span>1:25</span><span>Tu pregunta en comentarios</span></li>
-        </ol>
-        <p class="total"><span>TOTAL</span><span>90 s</span></p>
-        <p class="note">Sin letra pequeña · Datos de INE, BCE, Banco de España y BOE</p>
+      <aside class="presenta" aria-label="Quién te lo cuenta">
+        <div class="presenta-top">
+          <svg class="presenta-avatar" viewBox="0 0 40 40" aria-hidden="true"><circle cx="20" cy="20" r="20" fill="#f4c51a"/><circle cx="20" cy="20" r="15.5" fill="none" stroke="#0e2a47" stroke-width="1" opacity=".35"/><text x="20" y="27" text-anchor="middle" font-family="Georgia, serif" font-size="20" font-weight="700" fill="#10294a">€</text></svg>
+          <div>
+            <p class="presenta-nombre">Pere Jaume</p>
+            <p class="presenta-rol">Quién te lo cuenta</p>
+          </div>
+        </div>
+        <p class="presenta-frase">«Traduzco la economía a euros.»</p>
+        <p class="presenta-txt">No soy economista: soy empresario y hago números cada mes, como tú. Te cuento la noticia del día con datos oficiales.</p>
       </aside>
+    </div>
+  </section>
+
+  <section class="cifras" id="datos" aria-labelledby="cifras-h">
+    <div class="wrap">
+      <h2 id="cifras-h">Lo que te cambia este mes</h2>
+      <div class="cifras-grid">
+        <a class="cifra-card" href="euribor/">
+          <span class="c-num">3,247&nbsp;%</span>
+          <span class="c-que">Euríbor de septiembre</span>
+          <span class="c-ti">Hipoteca de 150.000&nbsp;€: <strong>+88&nbsp;€ al mes</strong></span>
+        </a>
+        <a class="cifra-card" href="#n-ipc">
+          <span class="c-num">4,9&nbsp;%</span>
+          <span class="c-que">Precios en septiembre (IPC adelantado)</span>
+          <span class="c-ti">Lo que costaba 100&nbsp;€, hoy <strong>104,90&nbsp;€</strong></span>
+        </a>
+        <a class="cifra-card" href="alquiler-irav/">
+          <span class="c-num">2,47&nbsp;%</span>
+          <span class="c-que">Tope del alquiler (IRAV de agosto)</span>
+          <span class="c-ti">Alquiler de 900&nbsp;€: <strong>+22&nbsp;€ como mucho</strong> si tu contrato va por IRAV</span>
+        </a>
+      </div>
+      <p class="cifras-fuente">Datos oficiales del INE, el Banco de España y el BOE. Actualizado el 3 de octubre de 2026.</p>
+    </div>
+  </section>
+
+  <section class="section" id="noticias">
+    <div class="wrap">
+      <p class="eyebrow">Noticias</p>
+      <h2>Lo último que toca tu bolsillo</h2>
+      <p class="intro">Cada noticia con su dato oficial, lo que significa en euros y el enlace a la nota original para que lo compruebes tú.</p>
+      <div class="noticias-grid">
+        <div class="noticias">
+          <article class="noticia" id="n-euribor">
+            <p class="n-meta"><span class="n-org">Banco de España · BOE</span><time datetime="2026-10-02">2 oct</time></p>
+            <h3>El Euríbor sube al 3,247&nbsp;%, lo más alto en dos años</h3>
+            <p class="n-ti"><strong>Para ti:</strong> en una hipoteca variable de 150.000&nbsp;€ a 25 años (Euríbor + 1&nbsp;%), la cuota pasa de 725&nbsp;€ a 812&nbsp;€ al mes en la revisión.</p>
+            <p class="n-links"><a href="euribor/">Calcula tu caso</a><a class="ext" href="https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20519" rel="noopener">Fuente: BOE</a></p>
+          </article>
+          <article class="noticia" id="n-ipc">
+            <p class="n-meta"><span class="n-org">INE</span><time datetime="2026-09-29">29 sept</time></p>
+            <h3>Los precios suben un 4,9&nbsp;% en septiembre (en agosto, 4,3&nbsp;%)</h3>
+            <p class="n-ti"><strong>Para ti:</strong> lo que hace un año costaba 100&nbsp;€, hoy cuesta unos 104,90&nbsp;€. Y 10.000&nbsp;€ parados en la cuenta pierden unos 470&nbsp;€ de poder de compra en un año. Es el dato adelantado; el definitivo sale el 14 de octubre.</p>
+            <p class="n-links"><a class="ext" href="https://www.ine.es/dyngs/Prensa/adIPC0926.htm" rel="noopener">Fuente: INE</a></p>
+          </article>
+          <article class="noticia" id="n-bce">
+            <p class="n-meta"><span class="n-org">Banco Central Europeo</span><span>Desde el 16 sept</span></p>
+            <h3>El tipo de depósito del BCE está en el 2,50&nbsp;%</h3>
+            <p class="n-ti"><strong>Para ti:</strong> los tipos del BCE influyen en el Euríbor. En una hipoteca de 150.000&nbsp;€ a 25 años, cada cuarto de punto son unos 20&nbsp;€ al mes. Próxima decisión: 29 de octubre.</p>
+            <p class="n-links"><a class="ext" href="https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html" rel="noopener" hreflang="en">Fuente: BCE (en inglés)</a></p>
+          </article>
+          <article class="noticia" id="n-irav">
+            <p class="n-meta"><span class="n-org">INE</span><span>Dato de agosto</span></p>
+            <h3>El IRAV de agosto queda en el 2,47&nbsp;%: el tope para muchos alquileres</h3>
+            <p class="n-ti"><strong>Para ti:</strong> con un alquiler de 900&nbsp;€, si tu contrato se actualiza con el IRAV, sube como mucho unos 22&nbsp;€ al mes. Con el IPC de agosto (4,3&nbsp;%) serían 39&nbsp;€.</p>
+            <p class="n-links"><a href="alquiler-irav/">Mira cuánto te pueden subir</a><a class="ext" href="https://www.ine.es/" rel="noopener">Fuente: INE</a></p>
+          </article>
+          <article class="noticia" id="n-hipotecas">
+            <p class="n-meta"><span class="n-org">INE</span><span>Dato de julio</span></p>
+            <h3>Se firman un 3,5&nbsp;% menos hipotecas, pero más grandes: 180.785&nbsp;€ de media</h3>
+            <p class="n-ti"><strong>Para ti:</strong> la hipoteca media es unos 18.000&nbsp;€ mayor que hace un año.</p>
+            <p class="n-links"><a class="ext" href="https://www.ine.es/dyngs/Prensa/H0726.htm" rel="noopener">Fuente: INE</a></p>
+          </article>
+          <article class="noticia" id="n-vivienda">
+            <p class="n-meta"><span class="n-org">INE</span><span>2.º trimestre</span></p>
+            <h3>La vivienda sube un 12,2&nbsp;% en un año</h3>
+            <p class="n-ti"><strong>Para ti:</strong> un piso que costaba 200.000&nbsp;€ cuesta ahora unos 224.400&nbsp;€, y la entrada del 20&nbsp;% pasa de 40.000&nbsp;€ a casi 45.000&nbsp;€. La de segunda mano sube un 12,9&nbsp;% y la nueva, un 7,4&nbsp;%.</p>
+            <p class="n-links"><a class="ext" href="https://www.ine.es/dyngs/Prensa/IPV2T26.htm" rel="noopener">Fuente: INE</a></p>
+          </article>
+        </div>
+
+        <div class="noticias-side">
+          <section class="prensa" id="prensa" aria-labelledby="prensa-h" hidden>
+            <h3 id="prensa-h"><span class="vivo" aria-hidden="true"></span>Hoy en la prensa económica</h3>
+            <ul id="prensa-list"></ul>
+            <p class="prensa-nota">Titulares con enlace a la web de cada medio, que es quien los firma. Se actualizan cada hora.</p>
+          </section>
+
+          <aside class="agenda" aria-labelledby="agenda-h">
+            <h3 id="agenda-h">Próximas fechas</h3>
+            <ol>
+              <li><time datetime="2026-10-14">14 oct</time><span>IPC definitivo e IRAV de septiembre: lo que te pueden subir el alquiler<em>INE</em></span></li>
+              <li><time datetime="2026-10-26">26 oct</time><span>Hipotecas firmadas en agosto<em>INE</em></span></li>
+              <li><time datetime="2026-10-28">28 oct</time><span>Paro y empleo del verano (EPA)<em>INE</em></span></li>
+              <li><time datetime="2026-10-29">29 oct</time><span>El BCE decide los tipos de interés<em>BCE</em></span></li>
+              <li><time datetime="2026-10-30">30 oct</time><span>Precios de octubre (IPC adelantado) y crecimiento de la economía (PIB)<em>INE</em></span></li>
+              <li><time datetime="2026-11">Inicio nov</time><span>Euríbor de octubre: si tu hipoteca sube o baja<em>Banco de España</em></span></li>
+            </ol>
+            <p class="agenda-nota">Te lo contamos el mismo día en vídeo. Son las fechas del calendario oficial y pueden cambiar.</p>
+          </aside>
+        </div>
+      </div>
+
+      <div class="fuentes-row">
+        <span>Nuestras cifras salen de:</span>
+        <a href="https://www.ine.es/" rel="noopener">INE</a>
+        <a href="https://www.ecb.europa.eu/" rel="noopener">Banco Central Europeo</a>
+        <a href="https://www.bde.es/" rel="noopener">Banco de España</a>
+        <a href="https://www.boe.es/" rel="noopener">BOE</a>
+      </div>
+      <p class="fuentes-nota">Explicamos lo que pasa; no te decimos en qué invertir.</p>
     </div>
   </section>
 
   <section class="section alt" id="videos">
     <div class="wrap">
-      <p class="eyebrow">Últimos vídeos</p>
-      <h2>Lo último que hemos explicado</h2>
-      <p class="intro">Un vídeo corto de lunes a viernes y el resumen de la semana cada domingo en YouTube.</p>
+      <p class="eyebrow">Vídeos</p>
+      <h2>Un vídeo cada día, de lunes a viernes</h2>
+      <p class="intro">Y el resumen de la semana, los domingos en YouTube. Síguenos donde prefieras para no perderte ninguno.</p>
       <div class="videos" id="video-list"></div>
-      <div class="empty" id="video-empty">
-        <strong>El primer vídeo sale el lunes 5 de octubre.</strong> Síguenos para verlo el primero; aquí aparecerán los últimos en cuanto se publiquen.
+      <div class="semana" id="video-empty">
+        <p class="semana-tit">Primera semana: empezamos el lunes 5 de octubre</p>
+        <ol class="programa">
+          <li><span class="dia">Lun 5</span>Qué es el IPC y por qué todo sube cada año</li>
+          <li><span class="dia">Mar 6</span>Sueldo bruto y neto: qué te quitan de la nómina</li>
+          <li><span class="dia">Mié 7</span>Cómo afecta el Euríbor a tu hipoteca, con números</li>
+          <li><span class="dia">Jue 8</span>Salario mínimo 2026: cuánto es en 12 y 14 pagas</li>
+          <li><span class="dia">Vie 9</span>Qué es el BCE y cómo decide tu hipoteca</li>
+        </ol>
       </div>
-      <div class="socials">
-        <a href="https://www.youtube.com/@ElEuroClaro" rel="noopener">YouTube</a>
-        <a href="https://www.tiktok.com/@eleuroclaro" rel="noopener">TikTok</a>
-        <a href="https://www.instagram.com/eleuroclaro/" rel="noopener">Instagram</a>
-        <a href="https://www.facebook.com/eleuroclaro" rel="noopener">Facebook</a>
+      <ul class="social social-light" aria-label="Redes de El Euro Claro">
+        <li><a href="https://www.youtube.com/@ElEuroClaro" rel="noopener"><svg aria-hidden="true"><use href="#i-yt"/></svg>YouTube</a></li>
+        <li><a href="https://www.tiktok.com/@eleuroclaro" rel="noopener"><svg aria-hidden="true"><use href="#i-tt"/></svg>TikTok</a></li>
+        <li><a href="https://www.instagram.com/eleuroclaro/" rel="noopener"><svg aria-hidden="true"><use href="#i-ig"/></svg>Instagram</a></li>
+        <li><a href="https://www.facebook.com/eleuroclaro" rel="noopener"><svg aria-hidden="true"><use href="#i-fb"/></svg>Facebook</a></li>
+      </ul>
+    </div>
+  </section>
+
+  <section class="section kit-band" id="kit">
+    <div class="wrap kit">
+      <div>
+        <p class="eyebrow">Herramienta · Excel</p>
+        <h2>Kit de cuentas de casa</h2>
+        <p class="intro">Pon orden en tu dinero en 10 minutos. Solo rellenas las celdas amarillas y el Excel hace las cuentas.</p>
+        <ul class="checks">
+          <li>Presupuesto mensual 50/30/20: ves si gastas de más y cuánto deberías ahorrar</li>
+          <li>Calculadora de hipoteca: tu cuota y lo que pagarías si el Euríbor sube o baja</li>
+          <li>Plan de ahorro: tu fondo de emergencia y cuánto apartar para una meta</li>
+        </ul>
+        <p class="kit-precio"><strong>19&nbsp;€</strong> IVA incluido, precio en España</p>
+        <p class="kit-promo" data-hasta="2026-10-12T23:59:59+02:00" hidden>Oferta hasta el 12 de octubre a las 23:59 (hora peninsular): <strong>14&nbsp;€</strong> IVA incluido en España con el código <a href="https://eleuroclaro.gumroad.com/l/kit/CLARO5" rel="noopener">CLARO5</a>.</p>
+        <div class="actions">
+          <a class="btn btn-primary" href="https://eleuroclaro.gumroad.com/l/kit" rel="noopener">Comprar el kit</a>
+        </div>
+        <p class="kit-fine">Funciona en Excel, Google Sheets y Numbers. Lo vende Gumroad, que es quien te cobra y se encarga del IVA (su página de pago está en inglés). Allí verás primero el precio sin IVA: el IVA se suma al pagar y, si compras desde otro país, el total cambia según sus impuestos. Tienes 14 días desde la compra para pedir que te devolvamos el dinero, sin dar explicaciones: escríbenos a hola@eleuroclaro.es. Los cálculos son orientativos: no es asesoramiento financiero.</p>
       </div>
+      <a class="kit-img" href="https://eleuroclaro.gumroad.com/l/kit" rel="noopener" tabindex="-1" aria-hidden="true"><img src="img/kit-portada.png" width="1280" height="720" alt="" decoding="async"></a>
     </div>
   </section>
 
@@ -119,60 +266,7 @@
     </div>
   </section>
 
-  <section class="section alt" id="datos">
-    <div class="wrap">
-      <p class="eyebrow">Datos del mes</p>
-      <h2>Los dos datos que deciden tu hipoteca y tu alquiler</h2>
-      <p class="intro">El último dato oficial, qué significa y cuánto es en euros. Los actualizamos cada mes.</p>
-      <div class="datos-home">
-        <a class="dato-card" href="euribor/">
-          <span class="que">Euríbor · septiembre de 2026</span>
-          <span class="cifra">3,247 %</span>
-          <span class="txt">Cuánto cambia tu hipoteca, con ejemplos de cuota</span>
-        </a>
-        <a class="dato-card" href="alquiler-irav/">
-          <span class="que">IRAV · agosto de 2026</span>
-          <span class="cifra">2,47 %</span>
-          <span class="txt">Cuánto te pueden subir el alquiler este año</span>
-        </a>
-      </div>
-    </div>
-  </section>
-
-  <section class="section" id="kit">
-    <div class="wrap kit">
-      <div>
-        <p class="eyebrow">Herramienta · Excel</p>
-        <h2>Kit de cuentas de casa</h2>
-        <p class="intro">Pon orden en tu dinero en 10 minutos. Solo rellenas las celdas amarillas y el Excel hace las cuentas.</p>
-        <ul class="checks">
-          <li>Presupuesto mensual 50/30/20: ves si gastas de más y cuánto deberías ahorrar</li>
-          <li>Calculadora de hipoteca: tu cuota y lo que pagarías si el Euríbor sube o baja</li>
-          <li>Plan de ahorro: tu fondo de emergencia y cuánto apartar para una meta</li>
-        </ul>
-        <p class="kit-precio"><strong>19 €</strong> IVA incluido, precio en España</p>
-        <p class="kit-promo" data-hasta="2026-10-12T23:59:59+02:00" hidden>Oferta hasta el 12 de octubre a las 23:59 (hora peninsular): <strong>14 €</strong> IVA incluido en España con el código <a href="https://eleuroclaro.gumroad.com/l/kit/CLARO5" rel="noopener">CLARO5</a>.</p>
-        <div class="actions">
-          <a class="btn btn-primary" href="https://eleuroclaro.gumroad.com/l/kit" rel="noopener">Ver el kit</a>
-        </div>
-        <p class="kit-fine">Funciona en Excel, Google Sheets y Numbers. Lo vende Gumroad, que es quien te cobra y se encarga del IVA (su página de pago está en inglés). Allí verás primero el precio sin IVA: el IVA se suma al pagar y, si compras desde otro país, el total cambia según sus impuestos. Tienes 14 días desde la compra para pedir que te devolvamos el dinero, sin dar explicaciones: escríbenos a hola@eleuroclaro.es. Los cálculos son orientativos: no es asesoramiento financiero.</p>
-      </div>
-      <a class="kit-img" href="https://eleuroclaro.gumroad.com/l/kit" rel="noopener" tabindex="-1" aria-hidden="true"><img src="img/kit-portada.png" width="1280" height="720" alt="" loading="lazy" decoding="async"></a>
-    </div>
-  </section>
-
-  <section class="section alt" id="fuentes">
-    <div class="wrap">
-      <p class="eyebrow">De dónde salen los datos</p>
-      <h2>Solo fuentes oficiales, siempre enlazadas</h2>
-      <p class="intro">Cada cifra que ves en pantalla viene de la fuente original y el enlace está en la descripción del vídeo. Explicamos lo que pasa; no te decimos en qué invertir.</p>
-      <div class="sources">
-        <span>INE</span><span>Banco Central Europeo</span><span>Banco de España</span><span>BOE</span>
-      </div>
-    </div>
-  </section>
-
-  <section class="section" id="anunciate">
+  <section class="section alt" id="anunciate">
     <div class="wrap">
       <p class="eyebrow">Para marcas</p>
       <h2>Anúnciate en El Euro Claro</h2>
@@ -199,6 +293,13 @@
 <footer class="foot">
   <div class="wrap">
     <p class="lema">La economía de tu bolsillo, en euros claros.</p>
+    <ul class="social social-foot" aria-label="Redes de El Euro Claro">
+      <li><a href="https://www.youtube.com/@ElEuroClaro" rel="noopener"><svg aria-hidden="true"><use href="#i-yt"/></svg>YouTube</a></li>
+      <li><a href="https://www.tiktok.com/@eleuroclaro" rel="noopener"><svg aria-hidden="true"><use href="#i-tt"/></svg>TikTok</a></li>
+      <li><a href="https://www.instagram.com/eleuroclaro/" rel="noopener"><svg aria-hidden="true"><use href="#i-ig"/></svg>Instagram</a></li>
+      <li><a href="https://www.facebook.com/eleuroclaro" rel="noopener"><svg aria-hidden="true"><use href="#i-fb"/></svg>Facebook</a></li>
+      <li><a href="https://wa.me/?text=Mira%20El%20Euro%20Claro%3A%20la%20noticia%20econ%C3%B3mica%20del%20d%C3%ADa%20explicada%20en%20euros%2C%20en%2090%20segundos.%20https%3A%2F%2Feleuroclaro.es" rel="noopener"><svg aria-hidden="true"><use href="#i-wa"/></svg>Compartir por WhatsApp</a></li>
+    </ul>
     <nav aria-label="Legal">
       <a href="aviso-legal.html">Aviso legal</a>
       <a href="privacidad.html">Privacidad</a>
