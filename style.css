@@ -43,7 +43,7 @@ a:focus-visible, button:focus-visible, input:focus-visible { outline: 3px solid 
 h1, h2, h3 { font-family: var(--font-display); line-height: 1.12; text-wrap: balance; margin: 0; font-weight: 600; }
 p { margin: 0; }
 
-.wrap { max-width: var(--wrap); margin-inline: auto; padding-inline: 1.25rem; }
+.wrap { max-width: var(--wrap); margin-inline: auto; padding-inline: max(1.25rem, env(safe-area-inset-left)) max(1.25rem, env(safe-area-inset-right)); }
 
 /* Cabecera: azul marino en todas las páginas */
 .top { background: var(--navy); border-bottom: 1px solid #1d3b5f; position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5; --focus: var(--sol); }
@@ -132,17 +132,23 @@ img.presenta-avatar { object-fit: cover; filter: grayscale(1); }
 .section .intro { color: var(--muted); max-width: 40rem; }
 
 /* Noticias: tarjetas con el dato oficial; al lado, la prensa del día y las próximas fechas */
-.noticias-grid { display: grid; grid-template-columns: minmax(0, 1.9fr) minmax(0, 1fr); gap: 1.6rem; margin-top: 2rem; align-items: start; }
+/* En ordenador: noticias a la izquierda; prensa y fechas a la derecha. En el código la prensa va primero (orden de lectura y de teclado) */
+.noticias-grid { display: grid; grid-template-columns: minmax(0, 1.9fr) minmax(0, 1fr); grid-template-rows: auto 1fr; gap: 1rem 1.6rem; margin-top: 2rem; align-items: start; }
+.noticias-grid > .prensa { grid-column: 2; grid-row: 1; }
+.noticias { grid-column: 1; grid-row: 1 / span 2; }
+.noticias-side { grid-column: 2; grid-row: 2; }
+@media (min-width: 64.01rem) { .noticias-grid:has(> .prensa[hidden]) .noticias-side { grid-row: 1 / span 2; } }
 .noticias { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1rem; }
-.noticia { min-width: 0; background: var(--surface); border: 1px solid var(--line); border-top: 4px solid var(--sol); border-radius: .7rem; padding: 1.1rem 1.2rem 1.2rem; display: flex; flex-direction: column; gap: .55rem; scroll-margin-top: 6rem; }
+.noticia { min-width: 0; background: var(--surface); border: 1px solid var(--line); border-top: 4px solid var(--sol); border-radius: .7rem; padding: 1.1rem 1.2rem 1.2rem; display: flex; flex-direction: column; gap: .55rem; scroll-margin-top: .75rem; }
+.noticia:target { box-shadow: 0 0 0 3px var(--sol); }
 .n-meta { display: flex; justify-content: space-between; gap: .6rem; font-size: .76rem; font-weight: 700; color: var(--muted); text-transform: uppercase; letter-spacing: .05em; }
 .n-org { color: var(--blue); }
 .noticia h3 { font-size: 1.2rem; line-height: 1.25; }
 .n-ti { font-size: .95rem; color: var(--muted); }
 .n-ti strong { color: var(--ink); }
 .n-links { margin-top: auto; padding-top: .3rem; display: flex; flex-wrap: wrap; gap: .3rem 1.1rem; font-weight: 600; font-size: .92rem; }
-.n-links a::after { content: " →"; }
-.n-links a.ext::after { content: " ↗"; }
+.n-links a::after { content: " →"; content: " →" / ""; }
+.n-links a.ext::after { content: " ↗"; content: " ↗" / ""; }
 .noticias-side { display: grid; gap: 1rem; min-width: 0; }
 
 .prensa { background: var(--surface); border: 1px solid var(--line); border-radius: .7rem; padding: 1.1rem 1.2rem 1rem; }
@@ -154,7 +160,7 @@ img.presenta-avatar { object-fit: cover; filter: grayscale(1); }
 #prensa-list li { padding: .6rem 0; border-top: 1px solid var(--line); }
 #prensa-list li:first-child { border-top: 0; }
 .p-meta { display: block; font-size: .74rem; color: var(--muted); font-weight: 700; text-transform: uppercase; letter-spacing: .04em; margin-bottom: .15rem; }
-#prensa-list a { color: var(--ink); text-decoration: none; font-weight: 600; line-height: 1.35; font-size: .95rem; }
+#prensa-list a { color: var(--ink); text-decoration: none; font-weight: 600; line-height: 1.35; font-size: .95rem; overflow-wrap: anywhere; }
 #prensa-list a:hover { color: var(--blue); text-decoration: underline; }
 .prensa-nota { font-size: .78rem; color: var(--muted); margin-top: .5rem; }
 
@@ -176,8 +182,8 @@ img.presenta-avatar { object-fit: cover; filter: grayscale(1); }
 
 /* Vídeos */
 .videos { display: grid; grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr)); gap: 1.4rem; margin-top: 2rem; }
-.video { display: grid; gap: .5rem; text-decoration: none; color: var(--ink); min-width: 0; }
-.video .thumb { aspect-ratio: 16 / 9; max-width: 100%; border-radius: .5rem; background: var(--line) center / cover no-repeat; border: 1px solid var(--line); }
+.video { display: grid; gap: .5rem; align-content: start; text-decoration: none; color: var(--ink); min-width: 0; }
+.video .thumb { aspect-ratio: 16 / 9; width: 100%; border-radius: .5rem; background: var(--line) center / cover no-repeat; border: 1px solid var(--line); }
 .video .meta { font-size: .75rem; font-weight: 700; color: var(--muted); text-transform: uppercase; letter-spacing: .06em; }
 .video h3 { font-family: var(--font-body); font-size: 1.05rem; font-weight: 600; line-height: 1.35; }
 .video:hover h3 { color: var(--blue); }
@@ -192,10 +198,11 @@ img.presenta-avatar { object-fit: cover; filter: grayscale(1); }
 .news { display: grid; grid-template-columns: 1.2fr 1fr; gap: 2.5rem; align-items: start; }
 .news > * { min-width: 0; }
 .checks { list-style: none; padding: 0; margin: 1.2rem 0 0; display: grid; gap: .5rem; }
-.checks li::before { content: "€"; display: inline-grid; place-items: center; width: 1.4rem; height: 1.4rem; margin-right: .6rem; border-radius: 50%; background: var(--sol); color: var(--navy); font-weight: 700; font-size: .8rem; }
+.checks li { position: relative; padding-left: 2rem; }
+.checks li::before { content: "€"; position: absolute; left: 0; top: .15rem; display: grid; place-items: center; width: 1.4rem; height: 1.4rem; border-radius: 50%; background: var(--sol); color: var(--navy); font-weight: 700; font-size: .8rem; }
 .signup { background: var(--surface); border: 1px solid var(--line); border-radius: .7rem; padding: 1.5rem; display: grid; gap: .8rem; box-shadow: 0 18px 40px -30px rgba(15, 31, 61, .45); }
 .signup label { font-weight: 600; font-size: .95rem; }
-.signup input[type="email"] { width: 100%; padding: .8rem .9rem; border: 1px solid var(--line); border-radius: .45rem; background: var(--bg); color: var(--ink); font: inherit; }
+.signup input[type="email"] { width: 100%; padding: .8rem .9rem; border: 1px solid var(--muted); border-radius: .45rem; background: var(--bg); color: var(--ink); font: inherit; }
 .signup .consent { display: flex; gap: .6rem; align-items: flex-start; font-size: .85rem; color: var(--muted); font-weight: 400; }
 .signup .consent input { margin-top: .3rem; }
 .signup .msg { font-size: .9rem; color: var(--blue); min-height: 1.4em; }
@@ -287,9 +294,8 @@ img.presenta-avatar { object-fit: cover; filter: grayscale(1); }
 
 @media (max-width: 64rem) {
   /* Una sola columna: primero la prensa del día, luego las noticias y al final las fechas */
-  .noticias-grid { grid-template-columns: 1fr; }
-  .noticias-side { display: contents; }
-  .prensa { order: -1; }
+  .noticias-grid { grid-template-columns: minmax(0, 1fr); grid-template-rows: none; }
+  .noticias-grid > .prensa, .noticias, .noticias-side { grid-column: auto; grid-row: auto; }
 }
 @media (max-width: 52rem) {
   .hero .wrap, .news, .kit { grid-template-columns: 1fr; gap: 2.4rem; }
@@ -304,10 +310,12 @@ img.presenta-avatar { object-fit: cover; filter: grayscale(1); }
   .c-num { grid-row: span 2; font-size: 2.1rem; }
   .tabla { font-size: .9rem; }
   .tabla th, .tabla td { padding: .5rem .45rem; }
-  /* Móvil: el menú va en una sola fila que se desliza de lado, para que la cabecera fija ocupe poco */
+}
+/* Móvil y tableta estrecha: el menú va en una sola fila que se desliza de lado, para que la cabecera fija ocupe poco */
+@media (max-width: 45rem) {
   .top .wrap { row-gap: .4rem; }
   html { scroll-padding-top: 7rem; }
-  .noticia { scroll-margin-top: 7.5rem; }
+  .nav:focus-within { -webkit-mask-image: none; mask-image: none; }
   .nav { flex-wrap: nowrap; overflow-x: auto; gap: 1.1rem; scrollbar-width: none; -webkit-overflow-scrolling: touch; margin-left: -.35rem;
     padding: .35rem 0 .35rem .35rem; margin-block: -.35rem; margin-right: -.35rem; width: calc(100% + .7rem); scroll-padding-inline: .5rem 2.5rem;
     -webkit-mask-image: linear-gradient(to right, #000 calc(100% - 2.5rem), transparent); mask-image: linear-gradient(to right, #000 calc(100% - 2.5rem), transparent); }

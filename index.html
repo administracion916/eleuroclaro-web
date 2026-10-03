@@ -92,22 +92,22 @@
 
   <section class="cifras" id="datos" aria-labelledby="cifras-h">
     <div class="wrap">
-      <h2 id="cifras-h">Lo que te cambia este mes</h2>
+      <h2 id="cifras-h">Los datos de este mes, en tu bolsillo</h2>
       <div class="cifras-grid">
         <a class="cifra-card" href="euribor/">
           <span class="c-num">3,247&nbsp;%</span>
           <span class="c-que">Euríbor de septiembre</span>
-          <span class="c-ti">Hipoteca de 150.000&nbsp;€: <strong>+88&nbsp;€ al mes</strong></span>
+          <span class="c-ti">Hipoteca de 150.000&nbsp;€ en su revisión anual: <strong>+88&nbsp;€ al mes</strong></span>
         </a>
         <a class="cifra-card" href="#n-ipc">
           <span class="c-num">4,9&nbsp;%</span>
           <span class="c-que">Precios en septiembre (IPC adelantado)</span>
-          <span class="c-ti">Lo que costaba 100&nbsp;€, hoy <strong>104,90&nbsp;€</strong></span>
+          <span class="c-ti">Lo que hace un año costaba 100&nbsp;€, hoy <strong>104,90&nbsp;€</strong></span>
         </a>
         <a class="cifra-card" href="alquiler-irav/">
           <span class="c-num">2,47&nbsp;%</span>
           <span class="c-que">Tope del alquiler (IRAV de agosto)</span>
-          <span class="c-ti">Alquiler de 900&nbsp;€: <strong>+22&nbsp;€ como mucho</strong> si tu contrato va por IRAV</span>
+          <span class="c-ti">Alquiler de 900&nbsp;€: <strong>unos 22&nbsp;€ más como mucho</strong> si tu contrato va por IRAV</span>
         </a>
       </div>
       <p class="cifras-fuente">Datos oficiales del INE, el Banco de España y el BOE. Actualizado el 3 de octubre de 2026.</p>
@@ -118,25 +118,30 @@
     <div class="wrap">
       <p class="eyebrow">Noticias</p>
       <h2>Lo último que toca tu bolsillo</h2>
-      <p class="intro">Cada noticia con su dato oficial, lo que significa en euros y el enlace a la nota original para que lo compruebes tú.</p>
+      <p class="intro">Cada noticia con su dato oficial, lo que significa en euros y el enlace a la fuente oficial para que lo compruebes tú.</p>
       <div class="noticias-grid">
+        <section class="prensa" id="prensa" aria-labelledby="prensa-h" hidden>
+          <h3 id="prensa-h"><span class="vivo" aria-hidden="true"></span>Lo último en la prensa económica</h3>
+          <ul id="prensa-list"></ul>
+          <p class="prensa-nota">Titulares con enlace a la web de cada medio, que es quien los firma. Se actualizan cada hora, de 7 a 23&nbsp;h.</p>
+        </section>
         <div class="noticias">
           <article class="noticia" id="n-euribor">
             <p class="n-meta"><span class="n-org">Banco de España · BOE</span><time datetime="2026-10-02">2 oct</time></p>
             <h3>El Euríbor sube al 3,247&nbsp;%, lo más alto en dos años</h3>
-            <p class="n-ti"><strong>Para ti:</strong> en una hipoteca variable de 150.000&nbsp;€ a 25 años (Euríbor + 1&nbsp;%), la cuota pasa de 725&nbsp;€ a 812&nbsp;€ al mes en la revisión.</p>
+            <p class="n-ti"><strong>Para ti:</strong> en una hipoteca variable de 150.000&nbsp;€ a 25 años (Euríbor + 1&nbsp;%), la cuota pasa de 725&nbsp;€ (con el Euríbor de hace un año) a 812&nbsp;€ al mes en la revisión anual.</p>
             <p class="n-links"><a href="euribor/">Calcula tu caso</a><a class="ext" href="https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20519" rel="noopener">Fuente: BOE</a></p>
           </article>
           <article class="noticia" id="n-ipc">
             <p class="n-meta"><span class="n-org">INE</span><time datetime="2026-09-29">29 sept</time></p>
-            <h3>Los precios suben un 4,9&nbsp;% en septiembre (en agosto, 4,3&nbsp;%)</h3>
+            <h3>La inflación sube al 4,9&nbsp;% en septiembre (en agosto, 4,3&nbsp;%)</h3>
             <p class="n-ti"><strong>Para ti:</strong> lo que hace un año costaba 100&nbsp;€, hoy cuesta unos 104,90&nbsp;€. Y 10.000&nbsp;€ parados en la cuenta pierden unos 470&nbsp;€ de poder de compra en un año. Es el dato adelantado; el definitivo sale el 14 de octubre.</p>
             <p class="n-links"><a class="ext" href="https://www.ine.es/dyngs/Prensa/adIPC0926.htm" rel="noopener">Fuente: INE</a></p>
           </article>
           <article class="noticia" id="n-bce">
             <p class="n-meta"><span class="n-org">Banco Central Europeo</span><span>Desde el 16 sept</span></p>
             <h3>El tipo de depósito del BCE está en el 2,50&nbsp;%</h3>
-            <p class="n-ti"><strong>Para ti:</strong> los tipos del BCE influyen en el Euríbor. En una hipoteca de 150.000&nbsp;€ a 25 años, cada cuarto de punto son unos 20&nbsp;€ al mes. Próxima decisión: 29 de octubre.</p>
+            <p class="n-ti"><strong>Para ti:</strong> los tipos del BCE influyen en el Euríbor. En una hipoteca de 150.000&nbsp;€ a 25 años, cada cuarto de punto que sube o baja el Euríbor son unos 20&nbsp;€ al mes. Próxima decisión: 29 de octubre.</p>
             <p class="n-links"><a class="ext" href="https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html" rel="noopener" hreflang="en">Fuente: BCE (en inglés)</a></p>
           </article>
           <article class="noticia" id="n-irav">
@@ -160,12 +165,6 @@
         </div>
 
         <div class="noticias-side">
-          <section class="prensa" id="prensa" aria-labelledby="prensa-h" hidden>
-            <h3 id="prensa-h"><span class="vivo" aria-hidden="true"></span>Hoy en la prensa económica</h3>
-            <ul id="prensa-list"></ul>
-            <p class="prensa-nota">Titulares con enlace a la web de cada medio, que es quien los firma. Se actualizan cada hora.</p>
-          </section>
-
           <aside class="agenda" aria-labelledby="agenda-h">
             <h3 id="agenda-h">Próximas fechas</h3>
             <ol>
@@ -176,7 +175,7 @@
               <li><time datetime="2026-10-30">30 oct</time><span>Precios de octubre (IPC adelantado) y crecimiento de la economía (PIB)<em>INE</em></span></li>
               <li><time datetime="2026-11">Inicio nov</time><span>Euríbor de octubre: si tu hipoteca sube o baja<em>Banco de España</em></span></li>
             </ol>
-            <p class="agenda-nota">Te lo contamos el mismo día en vídeo. Son las fechas del calendario oficial y pueden cambiar.</p>
+            <p class="agenda-nota">Te lo contamos en vídeo esos días. Son las fechas del calendario oficial y pueden cambiar.</p>
           </aside>
         </div>
       </div>
@@ -195,8 +194,8 @@
   <section class="section alt" id="videos">
     <div class="wrap">
       <p class="eyebrow">Vídeos</p>
-      <h2>Un vídeo cada día, de lunes a viernes</h2>
-      <p class="intro">Y el resumen de la semana, los domingos en YouTube.</p>
+      <h2>Un vídeo corto cada día</h2>
+      <p class="intro">En 90 segundos, todos los días. Y desde el domingo 18, el resumen largo de la semana en YouTube.</p>
       <div class="videos" id="video-list"></div>
       <div class="semana" id="video-empty">
         <p class="semana-tit">Primera semana: empezamos el lunes 5 de octubre</p>
@@ -206,6 +205,8 @@
           <li><span class="dia">Mié 7</span>Cómo afecta el Euríbor a tu hipoteca, con números</li>
           <li><span class="dia">Jue 8</span>Salario mínimo 2026: cuánto es en 12 y 14 pagas</li>
           <li><span class="dia">Vie 9</span>Qué es el BCE y cómo decide tu hipoteca</li>
+          <li><span class="dia">Sáb 10</span>Regla 50/30/20: cómo repartir tu sueldo, con números</li>
+          <li><span class="dia">Dom 11</span>Cómo leer tu nómina: las 4 partes que tienes que mirar</li>
         </ol>
       </div>
       <div class="follow-row">

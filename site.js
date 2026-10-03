@@ -49,27 +49,34 @@ var NEWSLETTER_URL = "https://eleuroclaro.substack.com/subscribe";
 })();
 
 // Titulares de prensa económica: los guarda cada hora una tarea de GitHub en prensa.json (misma web, sin llamadas a terceros).
+// Solo se enseñan los de las últimas 36 horas: si la tarea se para, el bloque desaparece en vez de quedarse viejo.
 (function () {
   var caja = document.getElementById("prensa");
   var lista = document.getElementById("prensa-list");
   if (!caja || !lista || !window.fetch) return;
-  function hace(fecha) {
-    var min = Math.round((Date.now() - Date.parse(fecha)) / 60000);
-    if (isNaN(min)) return "";
-    if (min < 60) return "hace " + Math.max(min, 1) + " min";
-    var h = Math.round(min / 60);
-    if (h < 24) return "hace " + h + " h";
-    return h < 48 ? "ayer" : "hace " + Math.round(h / 24) + " días";
+  var MAX = 36 * 3600e3;
+  function dia(ms) { return new Date(ms).toLocaleDateString("es-ES", { timeZone: "Europe/Madrid" }); }
+  function hace(ms) {
+    var min = Math.max(1, Math.round((Date.now() - ms) / 60000));
+    if (min < 60) return "hace " + min + " min";
+    if (dia(ms) === dia(Date.now())) return "hace " + Math.round(min / 60) + " h";
+    if (dia(ms) === dia(Date.now() - 864e5)) return "ayer";
+    return "hace " + Math.round(min / 1440) + " días";
   }
   fetch("prensa.json", { cache: "no-cache" })
     .then(function (r) { return r.ok ? r.json() : null; })
     .then(function (d) {
-      var items = (d && d.items) || [];
-      items.filter(function (it) { return /^https:\/\//.test(it.u || "") && it.t; }).slice(0, 6).forEach(function (it) {
+      var items = (d && Array.isArray(d.items)) ? d.items : [];
+      items.filter(function (it) {
+        var ms = Date.parse(it && it.f);
+        return it && typeof it.t === "string" && typeof it.m === "string" && typeof it.u === "string" &&
+          /^https:\/\//.test(it.u) && !isNaN(ms) && Date.now() - ms < MAX;
+      }).slice(0, 6).forEach(function (it) {
+        var ms = Math.min(Date.parse(it.f), Date.now());
         var li = document.createElement("li");
         var meta = document.createElement("span");
         meta.className = "p-meta";
-        meta.textContent = it.m + (it.f ? " · " + hace(it.f) : "");
+        meta.textContent = it.m + " · " + hace(ms);
         var a = document.createElement("a");
         a.href = it.u;
         a.rel = "noopener";
@@ -80,4 +87,14 @@ var NEWSLETTER_URL = "https://eleuroclaro.substack.com/subscribe";
       if (lista.children.length) caja.hidden = false;
     })
     .catch(function () {});
+})();
+
+// Próximas fechas: las que ya han pasado se ocultan solas (solo las que tienen día exacto).
+(function () {
+  document.querySelectorAll(".agenda li").forEach(function (li) {
+    var t = li.querySelector("time");
+    var v = t && t.getAttribute("datetime");
+    if (!v || !/^\d{4}-\d{2}-\d{2}$/.test(v)) return;
+    if (Date.parse(v + "T23:59:59+01:00") < Date.now()) li.hidden = true;
+  });
 })();
