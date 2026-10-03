@@ -146,3 +146,16 @@ p { margin: 0; }
   .section { padding-block: 3rem; }
 }
 .videos:empty { display: none; }
+/* Libros: estantería en dos columnas; cada libro lleva un lomo de color a la izquierda */
+.books-head h1 { font-size: clamp(2.1rem, 5vw, 3.2rem); margin-block: .6rem 1rem; }
+.books-note { margin-top: 1.8rem; max-width: 44rem; padding: 1.2rem 1.4rem; border-radius: .5rem; background: var(--gold-soft); display: grid; gap: .7rem; font-size: .97rem; }
+.shelf { display: grid; grid-template-columns: repeat(2, 1fr); gap: 1.6rem; margin-top: 1.6rem; }
+.book { min-width: 0; background: var(--bg); border: 1px solid var(--line); border-left: 6px solid var(--blue); border-radius: .4rem; padding: 1.3rem 1.4rem; display: grid; gap: .6rem; align-content: start; }
+.section:not(.alt) .book { background: var(--surface); }
+.book:nth-child(2) { border-left-color: var(--gold); }
+.book h3 { font-size: 1.45rem; }
+.book .by { font-family: var(--font-mono); font-size: .8rem; color: var(--muted); letter-spacing: .03em; }
+.book .fit { color: var(--muted); font-size: .95rem; }
+.book .fit span { font-weight: 700; color: var(--ink); }
+.books-date { margin-top: 1.6rem; color: var(--muted); font-size: .85rem; }
+@media (max-width: 52rem) { .shelf { grid-template-columns: 1fr; } }
