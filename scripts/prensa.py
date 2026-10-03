@@ -37,6 +37,15 @@ MEDIOS = {
     "europapress.es": "Europa Press",
     "rtve.es": "RTVE",
 }
+# Secciones de cada web que entran (ruta del enlace). Así no se cuelan gadgets, famosos o política internacional
+# que algunos RSS de «economía» mezclan. Un medio que no está aquí entra entero.
+SECCIONES = {
+    "Cinco Días": re.compile(r"^/(economia|companias)/"),
+    "El País": re.compile(r"^/economia/"),
+    "Expansión": re.compile(r"^/(economia|empresas)/"),
+    "elEconomista": re.compile(r"^/(economia|empresas-finanzas)/"),
+    "Europa Press": re.compile(r"^/economia/"),
+}
 POR_MEDIO = 2
 TOTAL = 8
 HORAS = 36
@@ -173,6 +182,8 @@ def leer(url):
         if not enlace.startswith("https://") or RUTA_OPINION.search(enlace):
             continue
         medio = medio_de(enlace)
+        if medio in SECCIONES and not SECCIONES[medio].search(urllib.parse.urlsplit(enlace).path):
+            continue
         categorias = " ".join(normal(h.text or h.get("term") or "") for n in ("category", "subject") for h in hijos(e, n))
         if medio is None or OPINION.search(categorias):
             continue
