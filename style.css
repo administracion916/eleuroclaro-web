@@ -32,7 +32,7 @@
 
 * { box-sizing: border-box; }
 [hidden] { display: none !important; }
-html { scroll-behavior: smooth; scroll-padding-top: 5.5rem; }
+html { scroll-behavior: smooth; scroll-padding-top: 6.5rem; }
 @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
 body {
   margin: 0; background: var(--bg); color: var(--ink);
@@ -48,16 +48,17 @@ p { margin: 0; }
 /* Cabecera: azul marino en todas las páginas */
 .top { background: var(--navy); border-bottom: 1px solid #1d3b5f; position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5; --focus: var(--sol); }
 .top .wrap { display: flex; align-items: center; gap: 1rem 1.6rem; flex-wrap: wrap; padding-block: .75rem; }
-.brand { display: flex; align-items: center; gap: .7rem; text-decoration: none; color: var(--sol); font-family: var(--font-display); font-weight: 700; font-size: clamp(1.95rem, 3.2vw, 2.35rem); letter-spacing: -.01em; line-height: 1.1; }
-.coin { width: 3.1rem; height: 3.1rem; flex: none; }
-@media (max-width: 48rem) { .coin { width: 2.7rem; height: 2.7rem; } }
-@media (min-width: 70rem) { .brand { font-size: 2.85rem; gap: .85rem; } .coin { width: 3.7rem; height: 3.7rem; } }
+/* El nombre es lo más importante de la cabecera: casi todo el ancho en el móvil (sin pasarse en 320 px) y grande en el ordenador */
+.brand { display: flex; align-items: center; gap: .28em; text-decoration: none; color: var(--sol); font-family: var(--font-display); font-weight: 700; font-size: clamp(2.1rem, 10.6vw, 2.75rem); letter-spacing: -.01em; line-height: 1.1; }
+.coin { width: 1.28em; height: 1.28em; flex: none; }
+@media (min-width: 60.01rem) { .brand { font-size: 3rem; } }
+@media (min-width: 70rem) { .brand { font-size: 3.4rem; } .nav { gap: 1.1rem; } }
 .nav { display: flex; gap: 1.3rem; flex-wrap: wrap; font-size: .95rem; margin-left: auto; }
 .nav a { color: #c3cfe0; text-decoration: none; font-weight: 600; }
 .nav a:hover { color: #fff; }
 .nav a[aria-current="page"] { color: #fff; box-shadow: inset 0 -2px 0 var(--sol); }
 .top-cta { display: none; }
-@media (min-width: 60rem) {
+@media (min-width: 70rem) {
   .top-cta { display: inline-block; background: var(--sol); color: var(--navy); padding: .45rem .95rem; border-radius: 2rem; font-weight: 700; font-size: .9rem; text-decoration: none; white-space: nowrap; }
   .top-cta:hover { filter: brightness(1.06); }
 }
@@ -312,10 +313,10 @@ img.presenta-avatar { object-fit: cover; filter: grayscale(1); }
   .tabla { font-size: .9rem; }
   .tabla th, .tabla td { padding: .5rem .45rem; }
 }
-/* Móvil y tableta estrecha: el menú va en una sola fila que se desliza de lado, para que la cabecera fija ocupe poco */
-@media (max-width: 48rem) {
+/* Móvil y tableta: el nombre ocupa su fila y el menú va debajo en una sola fila que se desliza de lado */
+@media (max-width: 60rem) {
   .top .wrap { row-gap: .4rem; }
-  html { scroll-padding-top: 7rem; }
+  html { scroll-padding-top: 7.5rem; }
   .nav:focus-within { -webkit-mask-image: none; mask-image: none; }
   .nav { flex-wrap: nowrap; overflow-x: auto; gap: 1.1rem; scrollbar-width: none; -webkit-overflow-scrolling: touch; margin-left: -.35rem;
     padding: .35rem 0 .35rem .35rem; margin-block: -.35rem; margin-right: -.35rem; width: calc(100% + .7rem); scroll-padding-inline: .5rem 2.5rem;
