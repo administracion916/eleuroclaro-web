@@ -51,6 +51,7 @@ p { margin: 0; }
 .brand { display: flex; align-items: center; gap: .7rem; text-decoration: none; color: #fff; font-family: var(--font-display); font-weight: 700; font-size: clamp(1.6rem, 2.8vw, 2rem); letter-spacing: -.01em; line-height: 1.1; }
 .coin { width: 2.9rem; height: 2.9rem; flex: none; }
 @media (max-width: 40rem) { .coin { width: 2.4rem; height: 2.4rem; } }
+@media (min-width: 70rem) { .brand { font-size: 2.4rem; gap: .8rem; } .coin { width: 3.3rem; height: 3.3rem; } }
 .nav { display: flex; gap: 1.3rem; flex-wrap: wrap; font-size: .95rem; margin-left: auto; }
 .nav a { color: #c3cfe0; text-decoration: none; font-weight: 600; }
 .nav a:hover { color: #fff; }
