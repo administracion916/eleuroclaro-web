@@ -4,6 +4,7 @@ Lo ejecuta cada hora .github/workflows/prensa.yml. Solo se guarda el titular y e
 del medio, nunca el texto de la noticia. Se quitan las noticias de criptomonedas, las que parecen
 recomendaciones de inversión (El Euro Claro no recomienda invertir), los directos y los artículos
 de opinión o ideológicos. Solo se aceptan enlaces a los dominios de MEDIOS.
+Cada titular lleva un tema («c») para la ilustración propia que lo acompaña en la portada (ver TEMAS).
 Uso: python3 scripts/prensa.py prensa.json
 """
 import email.utils
@@ -68,6 +69,27 @@ DIRECTO = re.compile(r"\b(en )?directo\b|en vivo|[uú]ltima hora|minuto a minuto
 OPINION = re.compile(r"opini[oó]n|editorial|tribuna|an[aá]lisis|columna|\bblogs?\b|cartas? al director", re.I)
 RUTA_OPINION = re.compile(r"/(opinion|tribuna|blogs?|analisis|editorial|columnas?)/", re.I)
 ETIQUETA = re.compile(r"^(mapa|v[ií]deo|video|gr[aá]fico|fotos?|podcast|infograf[ií]a|exclusiva|entrevista)$", re.I)
+# Tema de cada titular, para la ilustración que lo acompaña en la portada (img/prensa/<tema>.svg; son dibujos
+# propios, nunca fotos de los medios). Gana el primero que encaja; el orden importa (p. ej. «huelga por la vivienda»
+# es vivienda y «coche eléctrico» es transporte). Se compara sin tildes y en minúsculas. Sin tema: «general».
+TEMAS = [
+    ("pensiones", r"pension|jubilac|jubilad"),
+    ("tipos", r"euribor|\bbce\b|banco central|tipos? de interes|(subida|bajada|recorte|alza|rebaja)s? de (los )?tipos|lagarde|reserva federal|\bfed\b|hipotec"),
+    ("vivienda", r"vivienda|alquil|inquilin|\bpisos?\b|inmobiliari|promotora|okupa|desahucio|\bsuelo\b"),
+    ("transporte", r"turis|hotel|\bviaj|vuelo|aerolinea|aeropuert|\bavion|\baena\b|renfe|\btren(es)?\b|ferrocarril|autobus|\bcoches?\b|automovil|automocion|vehiculo|matriculac|carretera"),
+    ("energia", r"\bluz\b|electricidad|electric|\bgas\b|gasolina|diesel|gasoleo|carburante|combustible|petroleo|\bbrent\b|\bopep\b|energ|renovable|fotovoltaic|eolic|nuclear|apagon"),
+    ("precios", r"\bipc\b|inflacion|precio|cesta de la compra|supermercad|alimento|aceite|\bleche\b|huevos|consumidor|encarec|abarat"),
+    ("empleo", r"empleo|\bparo\b|parados|desemple|\bepa\b|afiliad|afiliacion|seguridad social|salari|sueldo|\bsmi\b|nomina|trabajador|contratacion|despid|\beres?\b|\bertes?\b|huelga|sindicat|ccoo|comisiones obreras|\bugt\b|jornada|autonomos|teletrabajo|convenio"),
+    ("impuestos", r"hacienda|impuesto|tribut|\birpf\b|\biva\b|fiscal|\baeat\b|declaracion de la renta|presupuestos|deficit|deuda publica|recaudac"),
+    ("economia", r"\bpib\b|crecimiento|recesion|prevision|\bfmi\b|\bocde\b|airef|banco de espana|economia espanola|eurozona|zona euro|productividad|desaceleracion"),
+    ("bancos", r"\bbanc(o|os|a|aria|ario|arias|arios)\b|santander|bbva|caixabank|sabadell|bankinter|unicaja|ibercaja|kutxabank|abanca|cajamar|entidades financieras|credito|prestamo|morosidad"),
+    ("tecnologia", r"inteligencia artificial|\bia\b|tecnolog|digital|\bchips?\b|semiconductor|software|telecomunicac|startup|ciberataque|nvidia|openai"),
+    ("comercio", r"arancel|exportac|importac|comercio (exterior|mundial|internacional)|china|estados unidos|\beeuu\b|\bee\. ?uu\.?|trump|rusia|ucrania|oriente proximo|israel|\biran\b|guerra|geopolitic|bruselas|comision europea|\bue\b|union europea|mercosur|latinoameric|iberoameric|contenedor|\bpuertos?\b|naviera|\bg7\b|\bg20\b|sanciones"),
+    ("empresas", r"empresa|compania|resultados|beneficio|factura|\bventas\b|\bibex\b|\bbolsa\b|cotiza|accionista|\bopa\b|fusion|adquisicion|multinacional|consejero delegado|plantilla"),
+]
+TEMAS = [(k, re.compile(r)) for k, r in TEMAS]
+# Secciones de empresas: si el titular no dice nada más, la ilustración es la de empresas.
+RUTA_EMPRESAS = re.compile(r"^/(companias|empresas|empresas-finanzas)/")
 UA = "Mozilla/5.0 (compatible; ElEuroClaro/1.0; +https://eleuroclaro.es)"
 ETIQUETA_HTML = re.compile(r"</?[A-Za-z][^>]*>")
 
@@ -152,6 +174,16 @@ def titular(crudo):
     return t if len(t) <= 160 else t[:157].rsplit(" ", 1)[0] + "…"
 
 
+def tema(titulo, enlace=""):
+    t = "".join(c for c in unicodedata.normalize("NFD", titulo.lower()) if unicodedata.category(c) != "Mn")
+    for clave, patron in TEMAS:
+        if patron.search(t):
+            return clave
+    if RUTA_EMPRESAS.search(urllib.parse.urlsplit(enlace).path):
+        return "empresas"
+    return "general"
+
+
 def analizar(datos, charset):
     try:
         return ET.fromstring(datos)
@@ -191,7 +223,7 @@ def leer(url):
         d = fecha(texto(e, "pubDate", "published", "updated", "date"))
         if not t or d is None:
             continue
-        out.append({"t": t, "m": medio, "u": enlace, "f": d.strftime("%Y-%m-%dT%H:%M:%SZ")})
+        out.append({"t": t, "m": medio, "u": enlace, "f": d.strftime("%Y-%m-%dT%H:%M:%SZ"), "c": tema(t, enlace)})
     return out
 
 

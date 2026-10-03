@@ -159,11 +159,16 @@ img.presenta-avatar { object-fit: cover; filter: grayscale(1); }
 @keyframes pulso { 0% { box-shadow: 0 0 0 0 rgba(217, 58, 58, .55); } 70% { box-shadow: 0 0 0 .5rem rgba(217, 58, 58, 0); } 100% { box-shadow: 0 0 0 0 rgba(217, 58, 58, 0); } }
 @media (prefers-reduced-motion: reduce) { .vivo { animation: none; } }
 #prensa-list { list-style: none; margin: .6rem 0 0; padding: 0; }
-#prensa-list li { padding: .6rem 0; border-top: 1px solid var(--line); }
-#prensa-list li:first-child { border-top: 0; }
+/* Cada titular con su ilustración de tema: el primero, grande; los demás, miniatura cuadrada. Toda la fila es el enlace. */
+#prensa-list li { position: relative; display: grid; grid-template-columns: 4.5rem minmax(0, 1fr); gap: .85rem; align-items: center; padding: .7rem 0; border-top: 1px solid var(--line); }
+#prensa-list li:first-child { border-top: 0; grid-template-columns: minmax(0, 1fr); gap: .65rem; padding-top: .35rem; }
+.p-img { display: block; width: 4.5rem; height: 4.5rem; object-fit: cover; border-radius: .5rem; background: var(--line); }
+#prensa-list li:first-child .p-img { width: 100%; height: auto; aspect-ratio: 16 / 9; border-radius: .6rem; }
+#prensa-list li:first-child a { font-size: 1.1rem; }
+#prensa-list a::after { content: ""; position: absolute; inset: 0; }
 .p-meta { display: block; font-size: .74rem; color: var(--muted); font-weight: 700; text-transform: uppercase; letter-spacing: .04em; margin-bottom: .15rem; }
 #prensa-list a { color: var(--ink); text-decoration: none; font-weight: 600; line-height: 1.35; font-size: .95rem; overflow-wrap: anywhere; }
-#prensa-list a:hover { color: var(--blue); text-decoration: underline; }
+#prensa-list li:hover a { color: var(--blue); text-decoration: underline; }
 .prensa-nota { font-size: .78rem; color: var(--muted); margin-top: .5rem; }
 
 .agenda { background: var(--navy); color: #fff; border-radius: .7rem; padding: 1.1rem 1.2rem 1.1rem; --focus: var(--sol); }

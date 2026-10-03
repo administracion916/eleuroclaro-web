@@ -55,6 +55,8 @@ var NEWSLETTER_URL = "https://eleuroclaro.substack.com/subscribe";
   var lista = document.getElementById("prensa-list");
   if (!caja || !lista || !window.fetch) return;
   var MAX = 36 * 3600e3;
+  // Ilustraciones propias por tema (img/prensa/<tema>.svg), nunca fotos de los medios. El tema lo pone scripts/prensa.py.
+  var TEMAS = ["pensiones", "tipos", "vivienda", "transporte", "energia", "precios", "empleo", "impuestos", "economia", "bancos", "tecnologia", "comercio", "empresas", "general"];
   function dia(ms) { return new Date(ms).toLocaleDateString("es-ES", { timeZone: "Europe/Madrid" }); }
   function hace(ms) {
     var min = Math.max(1, Math.round((Date.now() - ms) / 60000));
@@ -81,7 +83,18 @@ var NEWSLETTER_URL = "https://eleuroclaro.substack.com/subscribe";
         a.href = it.u;
         a.rel = "noopener";
         a.textContent = it.t;
-        li.append(meta, a);
+        var img = document.createElement("img");
+        img.className = "p-img";
+        img.src = "img/prensa/" + (TEMAS.indexOf(it.c) >= 0 ? it.c : "general") + ".svg";
+        img.alt = "";
+        img.width = 320;
+        img.height = 180;
+        img.decoding = "async";
+        img.onerror = function () { this.onerror = null; this.src = "img/prensa/general.svg"; };
+        var txt = document.createElement("div");
+        txt.className = "p-txt";
+        txt.append(meta, a);
+        li.append(img, txt);
         lista.append(li);
       });
       if (lista.children.length) caja.hidden = false;
