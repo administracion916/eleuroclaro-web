@@ -11,6 +11,7 @@ import json
 import re
 import sys
 import urllib.request
+import urllib.parse
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
 
@@ -29,9 +30,19 @@ HORAS = 36
 FUERA = re.compile(
     r"cripto|bitcoin|\bbtc\b|ethereum|\bether\b|blockchain|\bnft|binance|coinbase|stablecoin|memecoin|"
     r"dogecoin|solana|\btokens?\b|qué comprar|dónde invertir|invertir en|valores para|acciones para|"
-    r"recomienda comprar|cartera modelo|precio objetivo|dividendo|\btrading\b|forex|bróker|broker|horóscopo|sorteo|lotería",
+    r"recomienda comprar|cartera modelo|precio objetivo|dividendo|\btrading\b|forex|bróker|broker|horóscopo|sorteo|lotería|"
+    r"neoliberal|izquierda|derecha|en directo",
     re.I,
 )
+# El medio se saca del enlace: algunos RSS mezclan noticias de otras cabeceras del mismo grupo.
+MEDIOS = {
+    "cincodias.elpais.com": "Cinco Días",
+    "elpais.com": "El País",
+    "expansion.com": "Expansión",
+    "eleconomista.es": "elEconomista",
+    "europapress.es": "Europa Press",
+    "rtve.es": "RTVE",
+}
 UA = "Mozilla/5.0 (compatible; ElEuroClaro/1.0; +https://eleuroclaro.es)"
 
 
@@ -61,9 +72,18 @@ def fecha(s):
     return d.astimezone(timezone.utc)
 
 
+def medio_de(enlace, por_defecto):
+    host = urllib.parse.urlsplit(enlace).hostname or ""
+    for dominio, nombre in MEDIOS.items():
+        if host == dominio or host.endswith("." + dominio):
+            return nombre
+    return por_defecto
+
+
 def limpio(t):
     t = re.sub(r"<[^>]+>", " ", html.unescape(t))
     t = re.sub(r"\s+", " ", t).strip()
+    t = t.split(" | ")[0].strip()
     return t if len(t) <= 160 else t[:157].rsplit(" ", 1)[0] + "…"
 
 
@@ -89,14 +109,14 @@ def leer(medio, url):
             continue
         if FUERA.search(t) or "/opinion/" in enlace:
             continue
-        out.append({"t": t, "m": medio, "u": enlace, "f": d.strftime("%Y-%m-%dT%H:%M:%SZ")})
+        out.append({"t": t, "m": medio_de(enlace, medio), "u": enlace, "f": d.strftime("%Y-%m-%dT%H:%M:%SZ")})
     return out
 
 
 def main(destino):
     ahora = datetime.now(timezone.utc)
     limite = ahora - timedelta(hours=HORAS)
-    todos, vistos, fallos = [], set(), 0
+    todos, vistos, cuenta, fallos = [], set(), {}, 0
     for medio, url in FUENTES:
         try:
             items = leer(medio, url)
@@ -107,14 +127,13 @@ def main(destino):
         recientes = [i for i in items if limite <= fecha(i["f"]) <= ahora + timedelta(minutes=10)]
         recientes.sort(key=lambda i: i["f"], reverse=True)
         print(f"OK {medio}: {len(items)} titulares, {len(recientes)} de las últimas {HORAS} h")
-        n = 0
         for i in recientes:
             clave = re.sub(r"\W+", "", i["t"].lower())[:60]
-            if clave in vistos or n >= POR_MEDIO:
+            if clave in vistos or cuenta.get(i["m"], 0) >= POR_MEDIO:
                 continue
             vistos.add(clave)
             todos.append(i)
-            n += 1
+            cuenta[i["m"]] = cuenta.get(i["m"], 0) + 1
     if not todos:
         print("ERROR: ningún titular; se deja prensa.json como estaba")
         return 1
