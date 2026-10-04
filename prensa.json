@@ -1,61 +1,61 @@
 {
- "actualizado": "2026-10-04T09:08:13Z",
+ "actualizado": "2026-10-04T11:06:01Z",
  "items": [
+  {
+   "t": "Sordo (CCOO) pide ampliar la movilización ciudadana por la vivienda a los salarios",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/sordo-ccoo-pide-ampliar-movilizacion-ciudadana-por-vivienda-los-salarios_7044575_0.html",
+   "f": "2026-10-04T10:24:35Z",
+   "c": "vivienda"
+  },
+  {
+   "t": "Irán reitera que no reabrirá el estrecho de Ormuz hasta que EEUU cumpla sus condiciones",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/2026/10/04/6ac22069468aeb02568b4595.html",
+   "f": "2026-10-04T10:23:04Z",
+   "c": "comercio"
+  },
+  {
+   "t": "Los visados de obra de vivienda nueva rozan las 50.000 unidades hasta abril, un 10% más",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/construccion-y-vivienda-00342/noticia-visados-obra-vivienda-nueva-rozan-50000-unidades-abril-10-mas-20261004120850.html",
+   "f": "2026-10-04T10:08:50Z",
+   "c": "vivienda"
+  },
+  {
+   "t": "Casi 100.000 jubilados anticipadamente y con más de 40 años cotizados reciben un plus en su pensión",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/laboral-00346/noticia-casi-100000-jubilados-anticipadamente-mas-40-anos-cotizados-reciben-plus-pension-20261004114851.html",
+   "f": "2026-10-04T09:48:51Z",
+   "c": "pensiones"
+  },
+  {
+   "t": "La Agencia Tributaria empieza a pagar el martes las ayudas directas a empresas y autónomos de Ceuta",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/2026/10/04/6ac21473e5fdeafd3f8b4574.html",
+   "f": "2026-10-04T09:44:35Z",
+   "c": "empleo"
+  },
+  {
+   "t": "Las empresas deberán detallar las condiciones laborales a su plantilla desde mañana",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/2026/10/04/6ac21a08e5fdeaff178b45a3.html",
+   "f": "2026-10-04T09:25:06Z",
+   "c": "empresas"
+  },
+  {
+   "t": "Calendario laboral 2027 en España: festivos y puentes en cada comunidad autónoma, a la espera del BOE",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/laboral-00346/noticia-calendario-laboral-2027-espana-festivos-puentes-cada-comunidad-autonoma-espera-boe-20261004095957.html",
+   "f": "2026-10-04T07:59:57Z",
+   "c": "general"
+  },
   {
    "t": "La red eléctrica complica el caos de la vivienda: no permite construir 300.000 casas y desperdicia cada día luz para 7 millones",
    "m": "El Mundo",
    "u": "https://www.elmundo.es/economia/macroeconomia/2026/10/04/6abe8522e85ecea11a8b457a.html",
    "f": "2026-10-04T07:54:25Z",
    "c": "vivienda"
-  },
-  {
-   "t": "La crisis del alquiler empuja a los jóvenes a vivir en hogares sin zonas comunes: \"Ninguno de los pisos que encontraba tenía salón\"",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/vivienda/2026/10/03/6abcef35e85ece900e8b457f.html",
-   "f": "2026-10-04T06:25:45Z",
-   "c": "vivienda"
-  },
-  {
-   "t": "Cómo hemos llegado hasta aquí: vivienda a precios récord, construcción estancada y a la cola de Europa en alquiler social",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/nacional/como-hemos-llegado-hasta-aqui-vivienda-precios-record-construccion-estancada-cola-europa-alquiler-social_7044234_0.html",
-   "f": "2026-10-04T06:13:35Z",
-   "c": "vivienda"
-  },
-  {
-   "t": "La regla del 30% de segunda mano para ahorrar hasta 300 euros en la vuelta al cole",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/regla-30-segunda-mano-ahorrar-300-euros-vuelta-cole_7040793_0.html",
-   "f": "2026-10-04T05:00:00Z",
-   "c": "general"
-  },
-  {
-   "t": "Los inversores se retiran del alquiler ante la incertidumbre jurídica",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261004/11650287/inversores-retiran-alquiler-incertidumbre-juridica.html",
-   "f": "2026-10-04T04:00:00Z",
-   "c": "vivienda"
-  },
-  {
-   "t": "Patrick Collison: El aliado tecnológico de Draghi",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261004/11650286/patrick-collison-aliado-tecnologico-draghi.html",
-   "f": "2026-10-04T04:00:00Z",
-   "c": "tecnologia"
-  },
-  {
-   "t": "La política migratoria de Trump ya está frenando la economía de EE.UU.",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261004/11650226/politica-migratoria-trump-esta-frenando-economia-ee-uu.html",
-   "f": "2026-10-04T04:00:00Z",
-   "c": "comercio"
-  },
-  {
-   "t": "El apocalipsis laboral de la IA se pospone (por ahora)",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-04/el-apocalipsis-laboral-de-la-ia-se-pospone-por-ahora.html",
-   "f": "2026-10-04T03:30:00Z",
-   "c": "tecnologia"
   }
  ]
 }
