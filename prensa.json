@@ -1,6 +1,34 @@
 {
- "actualizado": "2026-10-04T21:08:07Z",
+ "actualizado": "2026-10-04T22:36:55Z",
  "items": [
+  {
+   "t": "¿Otra crisis de deuda para la zona del euro?",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/2026/10/05/6ac29f6f468aeb056a8b4590.html",
+   "f": "2026-10-04T22:05:31Z",
+   "c": "general"
+  },
+  {
+   "t": "España tiene todavía mucho trabajo por hacer en términos de educación financiera",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/10/05/6aba703bfdddffa0018b459e.html",
+   "f": "2026-10-04T22:02:57Z",
+   "c": "general"
+  },
+  {
+   "t": "Alemania protege al inquilino, pero se queda sin pisos",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/vivienda/2026/10/04/6ac108a6fc6c83ec2d8b457c.html",
+   "f": "2026-10-04T20:43:44Z",
+   "c": "vivienda"
+  },
+  {
+   "t": "La banca augura un freno en hipotecas y precios más altos ante la escalada del Euríbor y nuevas subidas de tipos del BCE",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/vivienda/2026/10/04/6abf5d7ce85ece7d488b459f.html",
+   "f": "2026-10-04T20:43:25Z",
+   "c": "tipos"
+  },
   {
    "t": "La empresa familiar analiza la manera de enfrentarse a los retos globales",
    "m": "La Vanguardia",
@@ -23,39 +51,11 @@
    "c": "vivienda"
   },
   {
-   "t": "Nueva dimisión de un directivo que desconfía de la IA: \"El camino actual es inaceptable\"",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/empresas/2026/10/04/6ac26b25fc6c8324698b4582.html",
-   "f": "2026-10-04T15:12:38Z",
-   "c": "tecnologia"
-  },
-  {
    "t": "La OPEP+ mantendrá congelada su oferta de petróleo en noviembre en plena crisis energética por la guerra en Irán",
    "m": "20minutos",
    "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/opep-mantendra-congelada-su-oferta-petroleo-noviembre_7044599_0.html",
    "f": "2026-10-04T12:13:08Z",
    "c": "energia"
-  },
-  {
-   "t": "La OPEP+ mantiene sin cambios la producción de petróleo para noviembre",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-04/la-opep-mantiene-sin-cambios-la-produccion-de-petroleo-para-noviembre.html",
-   "f": "2026-10-04T12:11:47Z",
-   "c": "energia"
-  },
-  {
-   "t": "La OPEP+ decide mantener congelada su oferta de petróleo en noviembre",
-   "m": "Expansión",
-   "u": "https://www.expansion.com/economia/2026/10/04/6ac23be9468aebf21e8b458b.html",
-   "f": "2026-10-04T11:52:12Z",
-   "c": "energia"
-  },
-  {
-   "t": "Jubilación anticipada: cerca de 100.000 beneficiarios con más de 40 años cotizados reciben un plus en su pensión",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/jubilacion-anticipada-cerca-100-000-beneficiarios-con-mas-40-anos-cotizados-reciben-un-plus-su-pension_7044594_0.html",
-   "f": "2026-10-04T11:19:24Z",
-   "c": "pensiones"
   }
  ]
 }
