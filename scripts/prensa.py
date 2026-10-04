@@ -200,7 +200,10 @@ def analizar(datos, charset):
         return ET.fromstring(txt)
 
 
-def leer(url):
+def leer(url, stats=None):
+    """Titulares válidos de un RSS. En stats (si se pasa) cuenta por qué se descarta cada entrada, para el resumen de la tarea."""
+    stats = {} if stats is None else stats
+    cuenta = lambda k: stats.__setitem__(k, stats.get(k, 0) + 1)  # noqa: E731
     req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "application/rss+xml, application/xml, text/xml, */*"})
     with urllib.request.urlopen(req, timeout=20) as r:
         raiz = analizar(r.read(5_000_000), r.headers.get_content_charset())
@@ -208,20 +211,28 @@ def leer(url):
     for e in raiz.iter():
         if e.tag.split("}")[-1] not in ("item", "entry"):
             continue
+        cuenta("entradas")
+        d = fecha(texto(e, "pubDate", "published", "updated", "date"))
+        if d is not None and (stats.get("mas_reciente") is None or d > stats["mas_reciente"]):
+            stats["mas_reciente"] = d
         enlace = enlace_de(e).strip()
         if enlace.startswith("http://"):
             enlace = "https://" + enlace[len("http://"):]
         if not enlace.startswith("https://") or RUTA_OPINION.search(enlace):
+            cuenta("enlace/opinión")
             continue
         medio = medio_de(enlace)
         if medio in SECCIONES and not SECCIONES[medio].search(urllib.parse.urlsplit(enlace).path):
+            cuenta("sección")
+            stats.setdefault("ruta_ejemplo", urllib.parse.urlsplit(enlace).path[:40])
             continue
         categorias = " ".join(normal(h.text or h.get("term") or "") for n in ("category", "subject") for h in hijos(e, n))
         if medio is None or OPINION.search(categorias):
+            cuenta("medio/categoría")
             continue
         t = titular(texto(e, "title"))
-        d = fecha(texto(e, "pubDate", "published", "updated", "date"))
         if not t or d is None:
+            cuenta("titular/fecha")
             continue
         out.append({"t": t, "m": medio, "u": enlace, "f": d.strftime("%Y-%m-%dT%H:%M:%SZ"), "c": tema(t, enlace)})
     return out
@@ -232,14 +243,20 @@ def main(destino):
     limite = ahora - timedelta(hours=HORAS)
     recientes, fallos = [], 0
     for nombre, url in FUENTES:
+        stats = {}
         try:
-            items = leer(url)
+            items = leer(url, stats)
         except Exception as e:  # noqa: BLE001 — un medio caído no debe parar a los demás
             fallos += 1
             print(f"::warning::AVISO {nombre}: {type(e).__name__}: {e}")
             continue
         validos = [i for i in items if limite <= fecha(i["f"]) <= ahora + timedelta(minutes=10)]
-        print(f"OK {nombre}: {len(items)} titulares, {len(validos)} de las últimas {HORAS} h")
+        reciente = stats.pop("mas_reciente", None)
+        detalle = ", ".join(f"{k} {v}" for k, v in stats.items())
+        # ::notice:: para que el resumen se vea en la página de la tarea sin abrir el registro
+        print(f"::notice::{nombre}: {len(items)} titulares, {len(validos)} de las últimas {HORAS} h; "
+              f"más reciente del RSS {reciente:%d-%m %H:%M} UTC; {detalle}" if reciente else
+              f"::notice::{nombre}: {len(items)} titulares, {len(validos)} de las últimas {HORAS} h; {detalle}")
         recientes += validos
     # Una sola pasada, de más reciente a más antiguo: sin repetidos y como mucho POR_MEDIO por medio.
     recientes.sort(key=lambda i: i["f"], reverse=True)
