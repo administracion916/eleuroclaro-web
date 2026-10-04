@@ -1,6 +1,13 @@
 {
- "actualizado": "2026-10-04T06:51:03Z",
+ "actualizado": "2026-10-04T09:08:13Z",
  "items": [
+  {
+   "t": "La red eléctrica complica el caos de la vivienda: no permite construir 300.000 casas y desperdicia cada día luz para 7 millones",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/macroeconomia/2026/10/04/6abe8522e85ecea11a8b457a.html",
+   "f": "2026-10-04T07:54:25Z",
+   "c": "vivienda"
+  },
   {
    "t": "La crisis del alquiler empuja a los jóvenes a vivir en hogares sin zonas comunes: \"Ninguno de los pisos que encontraba tenía salón\"",
    "m": "El Mundo",
@@ -23,20 +30,6 @@
    "c": "general"
   },
   {
-   "t": "Sánchez: elecciones, clases medias, Trump",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261004/11650388/sanchez-elecciones-clases-medias-trump.html",
-   "f": "2026-10-04T04:00:00Z",
-   "c": "comercio"
-  },
-  {
-   "t": "“El problema de la vivienda no se resuelve con un decreto”",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261004/11650296/problema-vivienda-resuelve-decreto.html",
-   "f": "2026-10-04T04:00:00Z",
-   "c": "vivienda"
-  },
-  {
    "t": "Los inversores se retiran del alquiler ante la incertidumbre jurídica",
    "m": "La Vanguardia",
    "u": "https://www.lavanguardia.com/economia/20261004/11650287/inversores-retiran-alquiler-incertidumbre-juridica.html",
@@ -44,18 +37,25 @@
    "c": "vivienda"
   },
   {
+   "t": "Patrick Collison: El aliado tecnológico de Draghi",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261004/11650286/patrick-collison-aliado-tecnologico-draghi.html",
+   "f": "2026-10-04T04:00:00Z",
+   "c": "tecnologia"
+  },
+  {
+   "t": "La política migratoria de Trump ya está frenando la economía de EE.UU.",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261004/11650226/politica-migratoria-trump-esta-frenando-economia-ee-uu.html",
+   "f": "2026-10-04T04:00:00Z",
+   "c": "comercio"
+  },
+  {
    "t": "El apocalipsis laboral de la IA se pospone (por ahora)",
    "m": "El País",
    "u": "https://elpais.com/economia/2026-10-04/el-apocalipsis-laboral-de-la-ia-se-pospone-por-ahora.html",
    "f": "2026-10-04T03:30:00Z",
    "c": "tecnologia"
-  },
-  {
-   "t": "Thomas Piketty: “El futuro que nos están preparando los multimillonarios es distópico”",
-   "m": "El País",
-   "u": "https://elpais.com/economia/negocios/2026-10-04/thomas-piketty-el-futuro-que-nos-estan-preparando-los-multimillonarios-es-distopico.html",
-   "f": "2026-10-04T03:30:00Z",
-   "c": "general"
   }
  ]
 }
