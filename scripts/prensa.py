@@ -23,31 +23,35 @@ from zoneinfo import ZoneInfo
 FUENTES = [
     ("Expansión", "https://e00-expansion.uecdn.es/rss/economia.xml"),
     ("Cinco Días", "https://feeds.elpais.com/mrss-s/pages/ep/site/cincodias.elpais.com/portada"),
-    ("elEconomista", "https://www.eleconomista.es/rss/rss-economia.php"),
     ("Europa Press", "https://www.europapress.es/rss/rss.aspx?ch=00136"),
     ("El País", "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/economia/portada"),
-    ("RTVE", "https://api2.rtve.es/rss/temas_economia.xml"),
+    ("El Mundo", "https://e00-elmundo.uecdn.es/elmundo/rss/economia.xml"),
+    ("La Vanguardia", "https://www.lavanguardia.com/rss/economia.xml"),
+    ("20minutos", "https://www.20minutos.es/rss/economia/"),
 ]
+# Fuera (4-10-2026): elEconomista responde 403 a la tarea y el RSS de economía de RTVE lleva sin noticias nuevas desde junio.
 # El medio se saca del enlace (algunos RSS mezclan noticias de otras cabeceras del grupo).
 # Es también la lista de dominios permitidos: un enlace a cualquier otro sitio se descarta.
 MEDIOS = {
     "cincodias.elpais.com": "Cinco Días",
     "elpais.com": "El País",
     "expansion.com": "Expansión",
-    "eleconomista.es": "elEconomista",
     "europapress.es": "Europa Press",
-    "rtve.es": "RTVE",
+    "elmundo.es": "El Mundo",
+    "lavanguardia.com": "La Vanguardia",
+    "20minutos.es": "20minutos",
 }
 # Secciones de cada web que entran (ruta del enlace). Así no se cuelan gadgets, famosos o política internacional
 # que algunos RSS de «economía» mezclan. Un medio que no está aquí entra entero.
 SECCIONES = {
-    "Cinco Días": re.compile(r"^/(economia|companias)/"),
+    "Cinco Días": re.compile(r"^/(economia|companias|mercados-financieros)/"),
     "El País": re.compile(r"^/economia/"),
     "Expansión": re.compile(r"^/(economia|empresas)/(?!politica/)"),
-    "elEconomista": re.compile(r"^/(economia|empresas-finanzas)/"),
     "Europa Press": re.compile(r"^/economia/"),
+    "El Mundo": re.compile(r"^/economia/"),
+    "La Vanguardia": re.compile(r"^/economia/"),
 }
-POR_MEDIO = 2
+POR_MEDIO = 3
 TOTAL = 8
 HORAS = 36
 MADRID = ZoneInfo("Europe/Madrid")
