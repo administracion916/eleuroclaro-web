@@ -72,6 +72,10 @@ FUERA = re.compile(
 DIRECTO = re.compile(r"\b(en )?directo\b|en vivo|[uú]ltima hora|minuto a minuto", re.I)
 OPINION = re.compile(r"opini[oó]n|editorial|tribuna|an[aá]lisis|columna|\bblogs?\b|cartas? al director", re.I)
 RUTA_OPINION = re.compile(r"/(opinion|tribuna|blogs?|analisis|editorial|columnas?)/", re.I)
+# Titulares que son una cita entera («“…”» o «Nombre: “…”») o una columna tipo «Sánchez: elecciones, clases medias, Trump»:
+# suelen ser entrevistas u opinión, y la portada solo enseña noticias (decisión 3-10-2026).
+CITA = re.compile(r"^[“«\"']|^[^:“«\"]{2,40}:\s*[“«\"]")
+COLUMNA = re.compile(r"^[^:]{2,30}:\s*[^,]{2,30}(,\s*[^,]{2,30})+$")
 ETIQUETA = re.compile(r"^(mapa|v[ií]deo|video|gr[aá]fico|fotos?|podcast|infograf[ií]a|exclusiva|entrevista)$", re.I)
 # Tema de cada titular, para la ilustración que lo acompaña en la portada (img/prensa/<tema>.svg; son dibujos
 # propios, nunca fotos de los medios). Gana el primero que encaja; el orden importa (p. ej. «huelga por la vivienda»
@@ -173,7 +177,7 @@ def titular(crudo):
     if len(partes) > 1 and (ETIQUETA.match(partes[0]) or len(partes[0].split()) <= 3):
         partes = partes[1:]
     t = partes[0]
-    if len(t) < 25:
+    if len(t) < 25 or CITA.search(t) or (COLUMNA.match(t) and len(t.split()) <= 9):
         return ""
     return t if len(t) <= 160 else t[:157].rsplit(" ", 1)[0] + "…"
 

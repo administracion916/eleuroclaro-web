@@ -57,6 +57,9 @@ var NEWSLETTER_URL = "https://eleuroclaro.substack.com/subscribe";
   var MAX = 36 * 3600e3;
   // Foto de uso libre por tema (img/prensa/<tema>.jpg; si falta, el dibujo <tema>.svg), nunca fotos de los medios. El tema lo pone scripts/prensa.py.
   var TEMAS = ["pensiones", "tipos", "vivienda", "transporte", "energia", "precios", "empleo", "impuestos", "economia", "bancos", "tecnologia", "comercio", "empresas", "general"];
+  // Temas con más de una foto (<tema>-2.jpg, <tema>-3.jpg): si se repite el tema, la siguiente noticia lleva otra foto.
+  var VARIANTES = { vivienda: 3, general: 2, tecnologia: 2 };
+  var usadas = {};
   function dia(ms) { return new Date(ms).toLocaleDateString("es-ES", { timeZone: "Europe/Madrid" }); }
   function hace(ms) {
     var min = Math.max(1, Math.round((Date.now() - ms) / 60000));
@@ -92,7 +95,9 @@ var NEWSLETTER_URL = "https://eleuroclaro.substack.com/subscribe";
         img.decoding = "async";
         if (lista.children.length) img.loading = "lazy";
         img.onerror = function () { this.onerror = null; this.src = "img/prensa/" + tema + ".svg"; };
-        img.src = "img/prensa/" + tema + ".jpg";
+        var n = (usadas[tema] || 0) % (VARIANTES[tema] || 1);
+        usadas[tema] = (usadas[tema] || 0) + 1;
+        img.src = "img/prensa/" + tema + (n ? "-" + (n + 1) : "") + ".jpg";
         var txt = document.createElement("div");
         txt.className = "p-txt";
         txt.append(meta, a);
