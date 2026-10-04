@@ -1,6 +1,48 @@
 {
- "actualizado": "2026-10-04T06:49:37Z",
+ "actualizado": "2026-10-04T06:51:03Z",
  "items": [
+  {
+   "t": "La crisis del alquiler empuja a los jóvenes a vivir en hogares sin zonas comunes: \"Ninguno de los pisos que encontraba tenía salón\"",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/vivienda/2026/10/03/6abcef35e85ece900e8b457f.html",
+   "f": "2026-10-04T06:25:45Z",
+   "c": "vivienda"
+  },
+  {
+   "t": "Cómo hemos llegado hasta aquí: vivienda a precios récord, construcción estancada y a la cola de Europa en alquiler social",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/nacional/como-hemos-llegado-hasta-aqui-vivienda-precios-record-construccion-estancada-cola-europa-alquiler-social_7044234_0.html",
+   "f": "2026-10-04T06:13:35Z",
+   "c": "vivienda"
+  },
+  {
+   "t": "La regla del 30% de segunda mano para ahorrar hasta 300 euros en la vuelta al cole",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/regla-30-segunda-mano-ahorrar-300-euros-vuelta-cole_7040793_0.html",
+   "f": "2026-10-04T05:00:00Z",
+   "c": "general"
+  },
+  {
+   "t": "Sánchez: elecciones, clases medias, Trump",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261004/11650388/sanchez-elecciones-clases-medias-trump.html",
+   "f": "2026-10-04T04:00:00Z",
+   "c": "comercio"
+  },
+  {
+   "t": "“El problema de la vivienda no se resuelve con un decreto”",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261004/11650296/problema-vivienda-resuelve-decreto.html",
+   "f": "2026-10-04T04:00:00Z",
+   "c": "vivienda"
+  },
+  {
+   "t": "Los inversores se retiran del alquiler ante la incertidumbre jurídica",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261004/11650287/inversores-retiran-alquiler-incertidumbre-juridica.html",
+   "f": "2026-10-04T04:00:00Z",
+   "c": "vivienda"
+  },
   {
    "t": "El apocalipsis laboral de la IA se pospone (por ahora)",
    "m": "El País",
@@ -14,41 +56,6 @@
    "u": "https://elpais.com/economia/negocios/2026-10-04/thomas-piketty-el-futuro-que-nos-estan-preparando-los-multimillonarios-es-distopico.html",
    "f": "2026-10-04T03:30:00Z",
    "c": "general"
-  },
-  {
-   "t": "El rápido crecimiento de Revolut y el ciberataque sufrido ponen en guardia a los reguladores bancarios",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-04/el-rapido-crecimiento-de-revolut-y-el-ciberataque-sufrido-ponen-en-guardia-a-los-reguladores-bancarios.html",
-   "f": "2026-10-04T03:15:00Z",
-   "c": "economia"
-  },
-  {
-   "t": "Las manifestaciones por la vivienda recorren todo el país con llamadas a la huelga general",
-   "m": "Expansión",
-   "u": "https://www.expansion.com/economia/2026/10/03/6ac0e1dbe5fdeaff178b4594.html",
-   "f": "2026-10-03T11:11:57Z",
-   "c": "vivienda"
-  },
-  {
-   "t": "El Secretario General Iberoamericano pide una alianza en IA y destaca la oportunidad que ofrece Latinoamérica",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/noticia-secretario-general-iberoamericano-pide-alianza-ia-destaca-oportunidad-ofrece-latinoamerica-20261003105553.html",
-   "f": "2026-10-03T08:55:53Z",
-   "c": "tecnologia"
-  },
-  {
-   "t": "Inditex, Uniqlo y Shein sufren el conflicto en Oriente Próximo y disparan sus costes de explotación",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-03/inditex-uniqlo-y-shein-sufren-el-conflicto-en-oriente-proximo-y-disparan-sus-costes-de-explotacion.html",
-   "f": "2026-10-03T03:15:00Z",
-   "c": "comercio"
-  },
-  {
-   "t": "Alivio en el sector inmobiliario, con cautela ante el riesgo de más caída en la oferta de alquileres",
-   "m": "Expansión",
-   "u": "https://www.expansion.com/economia/2026/10/03/6abfef4fe5fdeaca498b4575.html",
-   "f": "2026-10-02T22:26:16Z",
-   "c": "vivienda"
   }
  ]
 }
