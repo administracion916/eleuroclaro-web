@@ -1,6 +1,27 @@
 {
- "actualizado": "2026-10-03T18:54:39Z",
+ "actualizado": "2026-10-04T06:49:37Z",
  "items": [
+  {
+   "t": "El apocalipsis laboral de la IA se pospone (por ahora)",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-04/el-apocalipsis-laboral-de-la-ia-se-pospone-por-ahora.html",
+   "f": "2026-10-04T03:30:00Z",
+   "c": "tecnologia"
+  },
+  {
+   "t": "Thomas Piketty: “El futuro que nos están preparando los multimillonarios es distópico”",
+   "m": "El País",
+   "u": "https://elpais.com/economia/negocios/2026-10-04/thomas-piketty-el-futuro-que-nos-estan-preparando-los-multimillonarios-es-distopico.html",
+   "f": "2026-10-04T03:30:00Z",
+   "c": "general"
+  },
+  {
+   "t": "El rápido crecimiento de Revolut y el ciberataque sufrido ponen en guardia a los reguladores bancarios",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-04/el-rapido-crecimiento-de-revolut-y-el-ciberataque-sufrido-ponen-en-guardia-a-los-reguladores-bancarios.html",
+   "f": "2026-10-04T03:15:00Z",
+   "c": "economia"
+  },
   {
    "t": "Las manifestaciones por la vivienda recorren todo el país con llamadas a la huelga general",
    "m": "Expansión",
@@ -16,20 +37,6 @@
    "c": "tecnologia"
   },
   {
-   "t": "Más del 70% de los afiliados extranjeros regularizados provienen de Latinoamérica",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-03/mas-del-70-de-los-afiliados-extranjeros-regularizados-provienen-de-latinoamerica.html",
-   "f": "2026-10-03T03:30:01Z",
-   "c": "empleo"
-  },
-  {
-   "t": "El buen legado del decreto de vivienda",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-03/el-buen-legado-del-decreto-de-vivienda.html",
-   "f": "2026-10-03T03:30:01Z",
-   "c": "vivienda"
-  },
-  {
    "t": "Inditex, Uniqlo y Shein sufren el conflicto en Oriente Próximo y disparan sus costes de explotación",
    "m": "Cinco Días",
    "u": "https://cincodias.elpais.com/companias/2026-10-03/inditex-uniqlo-y-shein-sufren-el-conflicto-en-oriente-proximo-y-disparan-sus-costes-de-explotacion.html",
@@ -37,24 +44,10 @@
    "c": "comercio"
   },
   {
-   "t": "La CNMC avisa de impactos en los precios del aceite si Agricultura interviene la producción",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-03/la-cnmc-avisa-de-impactos-en-los-precios-del-aceite-si-agricultura-interviene-la-produccion.html",
-   "f": "2026-10-03T03:15:00Z",
-   "c": "precios"
-  },
-  {
    "t": "Alivio en el sector inmobiliario, con cautela ante el riesgo de más caída en la oferta de alquileres",
    "m": "Expansión",
    "u": "https://www.expansion.com/economia/2026/10/03/6abfef4fe5fdeaca498b4575.html",
    "f": "2026-10-02T22:26:16Z",
-   "c": "vivienda"
-  },
-  {
-   "t": "Comisiones Obreras y UGT llaman a la protesta después del rechazo del Congreso a los decretos de vivienda",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/construccion-y-vivienda-00342/noticia-comisiones-obreras-ugt-llaman-protesta-despues-rechazo-congreso-decretos-vivienda-20261002200326.html",
-   "f": "2026-10-02T18:03:26Z",
    "c": "vivienda"
   }
  ]
