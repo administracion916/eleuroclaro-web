@@ -16,3 +16,4 @@ Web estática del canal El Euro Claro. Se publica con GitHub Pages desde la rama
 - Al cambiar `style.css` o `site.js`, sube el `?v=` de sus enlaces en todas las páginas `.html` (el mismo valor en todas), para que los móviles no sigan con la versión guardada
 - Si añades una página, añádela también a `sitemap.xml`
 - La web no usa cookies, analítica ni scripts de terceros; si eso cambia, hay que actualizar `cookies.html` y `privacidad.html`
+- `media/`: imágenes para programar en redes con Metricool (carruseles de Instagram y LinkedIn, `media/carruseles/<fecha-tema>/1.png…6.png`, copiados de canal-economia/carruseles/). No se enlazan desde la web y robots.txt las excluye; Metricool las coge por su URL de raw.githubusercontent.com.
