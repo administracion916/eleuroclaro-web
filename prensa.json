@@ -1,6 +1,27 @@
 {
- "actualizado": "2026-10-04T13:08:33Z",
+ "actualizado": "2026-10-04T17:07:48Z",
  "items": [
+  {
+   "t": "Por qué el crudo se mantiene estancado en los 100 dólares",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/por-que-petroleo-se-mantiene-estancado-los-100-dolares_7044647_0.html",
+   "f": "2026-10-04T16:41:19Z",
+   "c": "general"
+  },
+  {
+   "t": "CGT se lanza a por la huelga general por la vivienda tras el congreso del sindicato",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-04/cgt-se-lanza-a-por-la-huelga-general-por-la-vivienda-tras-el-congreso-del-sindicato.html",
+   "f": "2026-10-04T15:14:51Z",
+   "c": "vivienda"
+  },
+  {
+   "t": "Nueva dimisión de un directivo que desconfía de la IA: \"El camino actual es inaceptable\"",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/empresas/2026/10/04/6ac26b25fc6c8324698b4582.html",
+   "f": "2026-10-04T15:12:38Z",
+   "c": "tecnologia"
+  },
   {
    "t": "La OPEP+ mantendrá congelada su oferta de petróleo en noviembre en plena crisis energética por la guerra en Irán",
    "m": "20minutos",
@@ -30,32 +51,11 @@
    "c": "pensiones"
   },
   {
-   "t": "Sordo (CCOO) pide ampliar la movilización ciudadana por la vivienda a los salarios",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/sordo-ccoo-pide-ampliar-movilizacion-ciudadana-por-vivienda-los-salarios_7044575_0.html",
-   "f": "2026-10-04T10:24:35Z",
-   "c": "vivienda"
-  },
-  {
    "t": "Irán reitera que no reabrirá el estrecho de Ormuz hasta que EEUU cumpla sus condiciones",
    "m": "Expansión",
    "u": "https://www.expansion.com/economia/2026/10/04/6ac22069468aeb02568b4595.html",
    "f": "2026-10-04T10:23:04Z",
    "c": "comercio"
-  },
-  {
-   "t": "Los visados de obra de vivienda nueva rozan las 50.000 unidades hasta abril, un 10% más",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/construccion-y-vivienda-00342/noticia-visados-obra-vivienda-nueva-rozan-50000-unidades-abril-10-mas-20261004120850.html",
-   "f": "2026-10-04T10:08:50Z",
-   "c": "vivienda"
-  },
-  {
-   "t": "Casi 100.000 jubilados anticipadamente y con más de 40 años cotizados reciben un plus en su pensión",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/laboral-00346/noticia-casi-100000-jubilados-anticipadamente-mas-40-anos-cotizados-reciben-plus-pension-20261004114851.html",
-   "f": "2026-10-04T09:48:51Z",
-   "c": "pensiones"
   }
  ]
 }
