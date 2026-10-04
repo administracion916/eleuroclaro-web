@@ -1,128 +1,38 @@
 {
- "vivienda": {
-  "id": "4a789ec5-9217-4a65-bb40-d4a0cc145d57",
+ "vivienda-2": {
+  "id": "a545f94e-aeca-4862-a1ff-581750da29f0",
   "title": "Modern Building",
+  "creator": "Mike Moloney",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/modern-building-KJMCMT9L2C"
+ },
+ "vivienda-3": {
+  "id": "f6f8db8a-c324-4c37-81e3-c7707fe0b789",
+  "title": "Building Balconies",
   "creator": "The Building Envelope",
   "license": "cc0",
   "license_version": "1.0",
   "source": "stocksnap",
-  "foreign_landing_url": "https://stocksnap.io/photo/modern-building-M0BNGUQT6N"
+  "foreign_landing_url": "https://stocksnap.io/photo/building-balconies-H8SXFODO3W"
  },
- "tipos": {
-  "id": "47c4bd8a-6aab-4316-8462-7fa84b34589e",
-  "title": "Euro coins, money & banking",
+ "general-2": {
+  "id": "7bc70b41-fb04-40a1-a3c4-15238b2aa1aa",
+  "title": "Free Euro banknote image",
   "creator": null,
   "license": "cc0",
   "license_version": "1.0",
   "source": "rawpixel",
-  "foreign_landing_url": "https://www.rawpixel.com/image/6034642/photo-image-background-public-domain-golden"
+  "foreign_landing_url": "https://www.rawpixel.com/image/5927206/photo-image-public-domain-money-free"
  },
- "precios": {
-  "id": "1f1e43ae-7c35-4f61-893b-f0e525cbc439",
-  "title": "Free shopping carts image",
-  "creator": null,
-  "license": "cc0",
-  "license_version": "1.0",
-  "source": "rawpixel",
-  "foreign_landing_url": "https://www.rawpixel.com/image/5913825/image-public-domain-free-shopping"
- },
- "energia": {
-  "id": "4145a5ab-531d-4ae0-b329-40e7b8abee2d",
-  "title": "Electricity pylons sunrise sunset, unidentified",
-  "creator": null,
-  "license": "cc0",
-  "license_version": "1.0",
-  "source": "rawpixel",
-  "foreign_landing_url": "https://www.rawpixel.com/image/3286547/free-photo-image-electric-energy-electricity-power-grid"
- },
- "empleo": {
-  "id": "a317b409-cacb-47f9-874f-6d56e0104d18",
-  "title": "Construction Worker",
-  "creator": "Leeroy",
-  "license": "cc0",
-  "license_version": "1.0",
-  "source": "stocksnap",
-  "foreign_landing_url": "https://stocksnap.io/photo/construction-worker-6B70C91911"
- },
- "bancos": {
-  "id": "c34ab1d1-eed7-4992-8632-deaaceb5db21",
-  "title": "Credit card payment, shopping",
-  "creator": null,
-  "license": "cc0",
-  "license_version": "1.0",
-  "source": "rawpixel",
-  "foreign_landing_url": "https://www.rawpixel.com/image/8809237/credit-card-payment-shopping"
- },
- "empresas": {
-  "id": "7946e1bc-a302-4938-9047-0c4d6717f7cb",
-  "title": "City office building, skyscraper tower",
-  "creator": null,
-  "license": "cc0",
-  "license_version": "1.0",
-  "source": "rawpixel",
-  "foreign_landing_url": "https://www.rawpixel.com/image/11189328/city-office-building-skyscraper-tower"
- },
- "comercio": {
-  "id": "0532a2c0-abad-45cc-a187-09253722019a",
-  "title": "Free container ship port image",
-  "creator": null,
-  "license": "cc0",
-  "license_version": "1.0",
-  "source": "rawpixel",
-  "foreign_landing_url": "https://www.rawpixel.com/image/5925310/photo-image-background-public-domain-free"
- },
- "tecnologia": {
-  "id": "4ea54225-cbd9-4759-9bb0-480b1e2fa8e3",
+ "tecnologia-2": {
+  "id": "01ef3472-57af-4fd4-b9b8-c09518b4a0bf",
   "title": "Computer Board",
   "creator": "Lenharth Systems",
   "license": "cc0",
   "license_version": "1.0",
   "source": "stocksnap",
-  "foreign_landing_url": "https://stocksnap.io/photo/computer-board-DWVHX92TAL"
- },
- "pensiones": {
-  "id": "3ae0fbd0-8a46-4c76-a6a3-8970d04e4919",
-  "title": "Free old couple walking together",
-  "creator": null,
-  "license": "cc0",
-  "license_version": "1.0",
-  "source": "rawpixel",
-  "foreign_landing_url": "https://www.rawpixel.com/image/5903561/photo-image-public-domain-free-couple"
- },
- "impuestos": {
-  "id": "cb251e7e-6a2c-4217-bc06-8afbaa5a1f7a",
-  "title": "Calculator Calendar",
-  "creator": "Tevarak",
-  "license": "cc0",
-  "license_version": "1.0",
-  "source": "stocksnap",
-  "foreign_landing_url": "https://stocksnap.io/photo/calculator-calendar-RFVHCUGML3"
- },
- "general": {
-  "id": "524f8738-f365-408c-b456-05f8a9de022f",
-  "title": "Euro banknotes, money & banking",
-  "creator": null,
-  "license": "cc0",
-  "license_version": "1.0",
-  "source": "rawpixel",
-  "foreign_landing_url": "https://www.rawpixel.com/image/6034810/photo-image-paper-public-domain-money"
- },
- "economia": {
-  "id": "1138363e-45b7-4cab-ac5f-5980c832f022",
-  "title": null,
-  "creator": null,
-  "license": "cc0",
-  "license_version": "1.0",
-  "source": "rawpixel",
-  "foreign_landing_url": "https://www.rawpixel.com/image/6061697/free-public-domain-cc0-photo"
- },
- "transporte": {
-  "id": "110f74f3-94d9-4ab5-bf17-32d0bef5acbb",
-  "title": "Sunset Sky",
-  "creator": "Josh Sorenson",
-  "license": "cc0",
-  "license_version": "1.0",
-  "source": "stocksnap",
-  "foreign_landing_url": "https://stocksnap.io/photo/sunset-sky-EV0WQ57LE6"
+  "foreign_landing_url": "https://stocksnap.io/photo/computer-board-CGZ3XDOZHV"
  }
 }
