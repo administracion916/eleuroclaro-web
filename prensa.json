@@ -1,6 +1,20 @@
 {
- "actualizado": "2026-10-05T14:42:31Z",
+ "actualizado": "2026-10-05T15:41:44Z",
  "items": [
+  {
+   "t": "Un gobierno PP-Vox estaría más abierto a fusiones bancarias y contra el impuesto especial, según Citi",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/finanzas-00340/noticia-gobierno-pp-vox-estaria-mas-abierto-fusiones-bancarias-contra-impuesto-especial-citi-20261005170120.html",
+   "f": "2026-10-05T15:01:20Z",
+   "c": "impuestos"
+  },
+  {
+   "t": "Ibai Llanos y Gerard Piqué entran en la start-up Plesh tras liderar una ronda de financiación de 3,75 millones",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-05/ibai-llanos-y-gerard-pique-entran-en-la-start-up-plesh-tras-liderar-una-ronda-de-financiacion-de-375-millones.html",
+   "f": "2026-10-05T14:48:12Z",
+   "c": "empresas"
+  },
   {
    "t": "Feijóo promete a la empresa familiar bajar los impuestos y deflactar el IRPF si gobierna",
    "m": "Expansión",
@@ -9,7 +23,7 @@
    "c": "impuestos"
   },
   {
-   "t": "El comité de huelga desconvoca el paro de la plantilla de Airbus tras la validación del preacuerdo laboral",
+   "t": "El comité de huelga desconvoca el paro de la plantilla de Airbus España tras la validación del preacuerdo laboral",
    "m": "Cinco Días",
    "u": "https://cincodias.elpais.com/companias/2026-10-05/el-comite-de-huelga-desconvoca-el-paro-de-la-plantilla-de-airbus-tras-la-validacion-del-preacuerdo-laboral.html",
    "f": "2026-10-05T13:53:50Z",
@@ -42,20 +56,6 @@
    "u": "https://www.elmundo.es/economia/empresas/2026/10/05/6ac39349fc6c83e7778b459f.html",
    "f": "2026-10-05T12:38:36Z",
    "c": "impuestos"
-  },
-  {
-   "t": "Feijóo clama de nuevo contra las bajas laborales: “¿Cómo es posible que la mayoría se den los lunes y los viernes?”",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-05/feijoo-clama-de-nuevo-contra-las-bajas-laborales-como-es-posible-que-la-mayoria-se-den-los-lunes-y-los-viernes.html",
-   "f": "2026-10-05T12:18:49Z",
-   "c": "general"
-  },
-  {
-   "t": "El Sindicato de Inquilinas irá a la huelga general de la mano de CGT y presiona a CC OO y UGT para que se sumen",
-   "m": "El País",
-   "u": "https://elpais.com/economia/vivienda/2026-10-05/el-sindicato-de-inquilinas-ira-a-la-huelga-general-de-la-mano-de-cgt-y-presiona-a-cc-oo-y-ugt-para-que-se-sumen.html",
-   "f": "2026-10-05T12:17:04Z",
-   "c": "vivienda"
   }
  ]
 }
