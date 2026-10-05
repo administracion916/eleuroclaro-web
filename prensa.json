@@ -1,6 +1,20 @@
 {
- "actualizado": "2026-10-05T13:43:04Z",
+ "actualizado": "2026-10-05T14:42:31Z",
  "items": [
+  {
+   "t": "Feijóo promete a la empresa familiar bajar los impuestos y deflactar el IRPF si gobierna",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/2026/10/05/6ac39462e5fdea02508b459e.html",
+   "f": "2026-10-05T14:03:35Z",
+   "c": "impuestos"
+  },
+  {
+   "t": "El comité de huelga desconvoca el paro de la plantilla de Airbus tras la validación del preacuerdo laboral",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-05/el-comite-de-huelga-desconvoca-el-paro-de-la-plantilla-de-airbus-tras-la-validacion-del-preacuerdo-laboral.html",
+   "f": "2026-10-05T13:53:50Z",
+   "c": "empleo"
+  },
   {
    "t": "Los juristas advierten de un posible \"fraude constitucional\" por el nuevo decreto de vivienda",
    "m": "Expansión",
@@ -42,20 +56,6 @@
    "u": "https://elpais.com/economia/vivienda/2026-10-05/el-sindicato-de-inquilinas-ira-a-la-huelga-general-de-la-mano-de-cgt-y-presiona-a-cc-oo-y-ugt-para-que-se-sumen.html",
    "f": "2026-10-05T12:17:04Z",
    "c": "vivienda"
-  },
-  {
-   "t": "Feijóo promete a la empresa familiar bajar los impuestos y deflactar el IRPF si gobierna",
-   "m": "Expansión",
-   "u": "https://www.expansion.com/economia/2026/10/05/6ac39462e5fdea02508b459e.html",
-   "f": "2026-10-05T12:16:58Z",
-   "c": "impuestos"
-  },
-  {
-   "t": "El Supremo avala el modelo de subcontratas de las plataformas de reparto a domicilio",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261005/11651493/supremo-avala-modelo-subcontratas-plataformas-reparto-domicilio.html",
-   "f": "2026-10-05T12:16:01Z",
-   "c": "general"
   }
  ]
 }
