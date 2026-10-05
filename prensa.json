@@ -1,60 +1,60 @@
 {
- "actualizado": "2026-10-05T10:40:24Z",
+ "actualizado": "2026-10-05T11:41:16Z",
  "items": [
+  {
+   "t": "Euríbor hoy, lunes 5 de octubre de 2026: la tasa diaria inicia la semana con una caída notable",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/vivienda/2026/10/05/6ac38992e9cf4a95248b45a2.html",
+   "f": "2026-10-05T11:38:49Z",
+   "c": "tipos"
+  },
+  {
+   "t": "Precio de la lecha desde hoy, lus 5 de octubre de 2006: cuánto cuesta el litro en Mercadona, Carrefour o Alcampo",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/10/05/6ac381c5fdddff93768b457b.html",
+   "f": "2026-10-05T11:08:23Z",
+   "c": "precios"
+  },
+  {
+   "t": "La reforma del registro horario todavía podría ver la luz antes de las elecciones del 29N",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/laboral-00346/noticia-reforma-registro-horario-todavia-podria-ver-luz-antes-elecciones-29n-20261005130304.html",
+   "f": "2026-10-05T11:03:04Z",
+   "c": "energia"
+  },
+  {
+   "t": "Telefónica vincula los \"vientos de cambio\" en el sector a las decisiones de Bruselas sobre consolidación",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/noticia-telefonica-vincula-vientos-cambio-sector-decisiones-bruselas-consolidacion-20261005124344.html",
+   "f": "2026-10-05T10:43:44Z",
+   "c": "comercio"
+  },
+  {
+   "t": "Telefónica ve en las próximas fusiones europeas el gran test para medir el giro regulador de Bruselas",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/empresas/telefonica-ve-las-proximas-fusiones-europeas-gran-test-para-medir-giro-regulador-bruselas_7044922_0.html",
+   "f": "2026-10-05T10:38:44Z",
+   "c": "comercio"
+  },
+  {
+   "t": "El Ibex 35 mantiene el avance del 0,5% en la media sesión, tras la convocatoria electoral",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/bolsa-00348/noticia-ibex-35-mantiene-avance-05-media-sesion-convocatoria-electoral-20261005123512.html",
+   "f": "2026-10-05T10:35:12Z",
+   "c": "empresas"
+  },
+  {
+   "t": "El Santander y Telefónica retan a las empresas familiares a ganar tamaño",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261005/11651261/santander-telefonica-retan-empresas-familiares-ganar-tamano.html",
+   "f": "2026-10-05T10:34:45Z",
+   "c": "bancos"
+  },
   {
    "t": "Confirmado: tener un grado II o III de dependencia dará derecho al 65% de discapacidad",
    "m": "El Mundo",
    "u": "https://www.elmundo.es/economia/2026/10/05/6ac37166e9cf4a24128b4584.html",
    "f": "2026-10-05T10:33:17Z",
-   "c": "general"
-  },
-  {
-   "t": "La industria militar y aeronáutica nacional marca récord de facturación en 2025 con más de 18.000 millones",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-05/la-industria-militar-y-aeronautica-nacional-marca-record-de-facturacion-en-2025-con-mas-de-18000-millones.html",
-   "f": "2026-10-05T10:14:41Z",
-   "c": "empresas"
-  },
-  {
-   "t": "España dispara sus importaciones de petróleo un 11% en agosto con Nigeria como principal proveedor",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/importaciones-crudo-espana-disparan-agosto_7044895_0.html",
-   "f": "2026-10-05T10:14:36Z",
-   "c": "energia"
-  },
-  {
-   "t": "Jefferies confía en la colección de Zara con Galliano para lograr un “impresionante crecimiento” en el tercer trimestre",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-05/jefferies-confia-en-la-coleccion-de-zara-con-galliano-para-lograr-un-impresionante-crecimiento-en-el-tercer-trimestre.html",
-   "f": "2026-10-05T10:06:50Z",
-   "c": "economia"
-  },
-  {
-   "t": "Grifols ‘invita’ a la donación de plasma y advierte de que España sigue lejos de la autosuficiencia",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-05/grifols-invita-a-la-donacion-de-plasma-y-advierte-de-que-espana-sigue-lejos-de-la-autosuficiencia.html",
-   "f": "2026-10-05T09:53:07Z",
-   "c": "empresas"
-  },
-  {
-   "t": "Grisi (Santander) reclama una regulación que estimule el crédito para afrontar la crisis de vivienda",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/empresas/grisi-banco-santander-reclama-una-regulacion-que-estimule-credito-para-afrontar-crisis-vivienda_7044876_0.html",
-   "f": "2026-10-05T09:52:14Z",
-   "c": "vivienda"
-  },
-  {
-   "t": "La convocatoria de elecciones cierra la primera legislatura sin Presupuestos de la historia democrática",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/adelanto-electoral-pedro-sanchez-cierra-primera-legislatura-sin-presupuestos-historia-democratica-espana_7044796_0.html",
-   "f": "2026-10-05T09:43:02Z",
-   "c": "impuestos"
-  },
-  {
-   "t": "Cuentas que te ofrecen hasta un 3,1% TIN en octubre de 2026",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/ahorro-y-consumo/2026/10/05/6ac36aa7e4d4d8915d8b45a2.html",
-   "f": "2026-10-05T09:24:46Z",
    "c": "general"
   }
  ]
