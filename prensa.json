@@ -1,6 +1,27 @@
 {
- "actualizado": "2026-10-05T12:47:00Z",
+ "actualizado": "2026-10-05T13:43:04Z",
  "items": [
+  {
+   "t": "Los juristas advierten de un posible \"fraude constitucional\" por el nuevo decreto de vivienda",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/2026/10/05/6ac3a678e5fdea693f8b45a4.html",
+   "f": "2026-10-05T13:30:35Z",
+   "c": "vivienda"
+  },
+  {
+   "t": "JP Morgan alerta del riesgo para la economía española si continúa \"la fragmentación política\" tras las elecciones del 29N",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/dinero-inversion/2026/10/05/6ac39ed7e85ece27238b457a.html",
+   "f": "2026-10-05T13:30:28Z",
+   "c": "economia"
+  },
+  {
+   "t": "Hacienda retrasa por tercera vez el lanzamiento de Verifactu y pospone un año su puesta en marcha",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/hacienda-retrasa-por-tercera-vez-lanzamiento-verifactu-pospone-un-ano-su-puesta-marcha_7045017_0.html",
+   "f": "2026-10-05T13:09:17Z",
+   "c": "impuestos"
+  },
   {
    "t": "Hacienda aplaza por tercera vez la entrada en vigor del sistema Verifactu: no será obligatorio hasta 2028",
    "m": "El Mundo",
@@ -35,27 +56,6 @@
    "u": "https://www.lavanguardia.com/economia/20261005/11651493/supremo-avala-modelo-subcontratas-plataformas-reparto-domicilio.html",
    "f": "2026-10-05T12:16:01Z",
    "c": "general"
-  },
-  {
-   "t": "Escrivá (BdE) pide impulsar la educación financiera desde los colegios: \"Hay que introducirla lo antes posible\"",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/escriva-pide-fomentar-educacion-financiera_7044960_0.html",
-   "f": "2026-10-05T11:57:28Z",
-   "c": "general"
-  },
-  {
-   "t": "Hacienda vuelve a retrasar la entrada en vigor de Verifactu hasta el 2028",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261005/11651365/hacienda-vuelve-retrasar-entrada-vigor-verifactu-2028.html",
-   "f": "2026-10-05T11:53:09Z",
-   "c": "impuestos"
-  },
-  {
-   "t": "Euríbor hoy, lunes 5 de octubre de 2026: la tasa diaria inicia la semana con una caída notable",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/vivienda/2026/10/05/6ac38992e9cf4a95248b45a2.html",
-   "f": "2026-10-05T11:38:49Z",
-   "c": "tipos"
   }
  ]
 }
