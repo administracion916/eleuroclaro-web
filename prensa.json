@@ -1,6 +1,34 @@
 {
- "actualizado": "2026-10-05T16:41:40Z",
+ "actualizado": "2026-10-05T17:38:56Z",
  "items": [
+  {
+   "t": "No solo los Presupuestos: la agenda económica que se cae con el adelanto electoral",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-06/no-solo-los-presupuestos-la-agenda-economica-que-se-cae-con-el-adelanto-electoral.html",
+   "f": "2026-10-05T17:27:35Z",
+   "c": "impuestos"
+  },
+  {
+   "t": "Los sindicatos UGT y CC OO irán a la huelga general por la crisis de la vivienda",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-05/los-sindicatos-ugt-y-cc-oo-iran-a-la-huelga-general-por-la-crisis-de-la-vivienda.html",
+   "f": "2026-10-05T17:19:42Z",
+   "c": "vivienda"
+  },
+  {
+   "t": "CCOO y UGT ceden a la presión y pactan convocar una huelga general por la crisis de vivienda",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/10/05/6ac3cc00fdddffb6698b4589.html",
+   "f": "2026-10-05T17:19:08Z",
+   "c": "vivienda"
+  },
+  {
+   "t": "Los sindicatos ultiman una gran jornada de protesta con huelga antes de la campaña electoral",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261005/11651683/sindicatos-ultiman-gran-jornada-protesta-huelga-campana-electoral.html",
+   "f": "2026-10-05T16:57:24Z",
+   "c": "empleo"
+  },
   {
    "t": "Francia y Alemania reclaman un nuevo instrumento comercial que permita a la UE excluir a China “inmediatamente” del mercado único",
    "m": "El País",
@@ -16,46 +44,18 @@
    "c": "empresas"
   },
   {
+   "t": "La luz marcará mañana máximo anual con una media de 201,99 euros MWh en el mercado mayorista",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261005/11651693/luz-marcara-manana-maximo-anual-media-201-99-euros-mwh-mercado-mayorista.html",
+   "f": "2026-10-05T16:21:38Z",
+   "c": "energia"
+  },
+  {
    "t": "El Ibex 35 acelera y roza los 19.300 puntos (+1,12%), tras la convocatoria electoral",
    "m": "Europa Press",
    "u": "https://www.europapress.es/economia/bolsa-00348/noticia-ibex-35-acelera-roza-19300-puntos-112-convocatoria-electoral-20261005180607.html",
    "f": "2026-10-05T16:06:07Z",
    "c": "empresas"
-  },
-  {
-   "t": "Expertos defienden que la IA ampliará labores por encima de reducir empleos",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261005/11651583/expertos-defienden-ia-ampliara-labores-encima-reducir-empleos.html",
-   "f": "2026-10-05T16:05:34Z",
-   "c": "empleo"
-  },
-  {
-   "t": "Neinor crea un vehículo con su accionista Orion para desarrollar 1.000 viviendas procedentes de Aedas",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-05/neinor-crea-un-vehiculo-con-su-accionista-orion-para-desarrollar-1000-viviendas-procedentes-de-aedas.html",
-   "f": "2026-10-05T16:04:02Z",
-   "c": "vivienda"
-  },
-  {
-   "t": "Enagás da por concluido el sellado del polémico almacén de gas Castor",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-05/enagas-da-por-concluido-el-sellado-del-polemico-almacen-de-gas-castor.html",
-   "f": "2026-10-05T15:47:41Z",
-   "c": "energia"
-  },
-  {
-   "t": "El precio de la luz se dispara por encima de los 200 euros/MWh por primera vez desde 2022",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/precio-luz-se-dispara-por-encima-los-200-euros-mwh-por-primera-vez-desde-2022_7045109_0.html",
-   "f": "2026-10-05T15:43:25Z",
-   "c": "energia"
-  },
-  {
-   "t": "Un gobierno PP-Vox estaría más abierto a fusiones bancarias y contra el impuesto especial, según Citi",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/finanzas-00340/noticia-gobierno-pp-vox-estaria-mas-abierto-fusiones-bancarias-contra-impuesto-especial-citi-20261005170120.html",
-   "f": "2026-10-05T15:01:20Z",
-   "c": "impuestos"
   }
  ]
 }
