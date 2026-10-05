@@ -1,61 +1,61 @@
 {
- "actualizado": "2026-10-05T11:41:16Z",
+ "actualizado": "2026-10-05T12:47:00Z",
  "items": [
+  {
+   "t": "Hacienda aplaza por tercera vez la entrada en vigor del sistema Verifactu: no será obligatorio hasta 2028",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/empresas/2026/10/05/6ac39349fc6c83e7778b459f.html",
+   "f": "2026-10-05T12:38:36Z",
+   "c": "impuestos"
+  },
+  {
+   "t": "Feijóo clama de nuevo contra las bajas laborales: “¿Cómo es posible que la mayoría se den los lunes y los viernes?”",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-05/feijoo-clama-de-nuevo-contra-las-bajas-laborales-como-es-posible-que-la-mayoria-se-den-los-lunes-y-los-viernes.html",
+   "f": "2026-10-05T12:18:49Z",
+   "c": "general"
+  },
+  {
+   "t": "El Sindicato de Inquilinas irá a la huelga general de la mano de CGT y presiona a CC OO y UGT para que se sumen",
+   "m": "El País",
+   "u": "https://elpais.com/economia/vivienda/2026-10-05/el-sindicato-de-inquilinas-ira-a-la-huelga-general-de-la-mano-de-cgt-y-presiona-a-cc-oo-y-ugt-para-que-se-sumen.html",
+   "f": "2026-10-05T12:17:04Z",
+   "c": "vivienda"
+  },
+  {
+   "t": "Feijóo promete a la empresa familiar bajar los impuestos y deflactar el IRPF si gobierna",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/2026/10/05/6ac39462e5fdea02508b459e.html",
+   "f": "2026-10-05T12:16:58Z",
+   "c": "impuestos"
+  },
+  {
+   "t": "El Supremo avala el modelo de subcontratas de las plataformas de reparto a domicilio",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261005/11651493/supremo-avala-modelo-subcontratas-plataformas-reparto-domicilio.html",
+   "f": "2026-10-05T12:16:01Z",
+   "c": "general"
+  },
+  {
+   "t": "Escrivá (BdE) pide impulsar la educación financiera desde los colegios: \"Hay que introducirla lo antes posible\"",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/escriva-pide-fomentar-educacion-financiera_7044960_0.html",
+   "f": "2026-10-05T11:57:28Z",
+   "c": "general"
+  },
+  {
+   "t": "Hacienda vuelve a retrasar la entrada en vigor de Verifactu hasta el 2028",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261005/11651365/hacienda-vuelve-retrasar-entrada-vigor-verifactu-2028.html",
+   "f": "2026-10-05T11:53:09Z",
+   "c": "impuestos"
+  },
   {
    "t": "Euríbor hoy, lunes 5 de octubre de 2026: la tasa diaria inicia la semana con una caída notable",
    "m": "El Mundo",
    "u": "https://www.elmundo.es/economia/vivienda/2026/10/05/6ac38992e9cf4a95248b45a2.html",
    "f": "2026-10-05T11:38:49Z",
    "c": "tipos"
-  },
-  {
-   "t": "Precio de la lecha desde hoy, lus 5 de octubre de 2006: cuánto cuesta el litro en Mercadona, Carrefour o Alcampo",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/10/05/6ac381c5fdddff93768b457b.html",
-   "f": "2026-10-05T11:08:23Z",
-   "c": "precios"
-  },
-  {
-   "t": "La reforma del registro horario todavía podría ver la luz antes de las elecciones del 29N",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/laboral-00346/noticia-reforma-registro-horario-todavia-podria-ver-luz-antes-elecciones-29n-20261005130304.html",
-   "f": "2026-10-05T11:03:04Z",
-   "c": "energia"
-  },
-  {
-   "t": "Telefónica vincula los \"vientos de cambio\" en el sector a las decisiones de Bruselas sobre consolidación",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/noticia-telefonica-vincula-vientos-cambio-sector-decisiones-bruselas-consolidacion-20261005124344.html",
-   "f": "2026-10-05T10:43:44Z",
-   "c": "comercio"
-  },
-  {
-   "t": "Telefónica ve en las próximas fusiones europeas el gran test para medir el giro regulador de Bruselas",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/empresas/telefonica-ve-las-proximas-fusiones-europeas-gran-test-para-medir-giro-regulador-bruselas_7044922_0.html",
-   "f": "2026-10-05T10:38:44Z",
-   "c": "comercio"
-  },
-  {
-   "t": "El Ibex 35 mantiene el avance del 0,5% en la media sesión, tras la convocatoria electoral",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/bolsa-00348/noticia-ibex-35-mantiene-avance-05-media-sesion-convocatoria-electoral-20261005123512.html",
-   "f": "2026-10-05T10:35:12Z",
-   "c": "empresas"
-  },
-  {
-   "t": "El Santander y Telefónica retan a las empresas familiares a ganar tamaño",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261005/11651261/santander-telefonica-retan-empresas-familiares-ganar-tamano.html",
-   "f": "2026-10-05T10:34:45Z",
-   "c": "bancos"
-  },
-  {
-   "t": "Confirmado: tener un grado II o III de dependencia dará derecho al 65% de discapacidad",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/10/05/6ac37166e9cf4a24128b4584.html",
-   "f": "2026-10-05T10:33:17Z",
-   "c": "general"
   }
  ]
 }
