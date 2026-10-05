@@ -49,8 +49,17 @@
     <div class="wrap">
       <p class="eyebrow">Pack mensual</p>
       <h1>Vídeos con tu logo para las redes sociales de tu empresa</h1>
+      <!-- Oferta «Primer mes gratis»: se ve solo hasta el 25-10-2026 a las 23:59 (data-hasta, hora de Madrid). -->
+      <div class="books-note" id="mes-gratis" data-hasta="2026-10-25T23:59:59+01:00" hidden style="margin-block:0 1.6rem;border-left:6px solid var(--gold)">
+        <p style="font-family:var(--font-display);font-size:1.5rem;font-weight:600;color:var(--ink)">Primer mes gratis</p>
+        <p>Si lo pides antes del 25 de octubre, el primer mes de contenido para tu empresa no te cuesta nada: 8 vídeos, 4 carruseles y 1 texto con tu logo. Sin tarjeta y sin permanencia. Después, 149&nbsp;€ + IVA al mes si quieres seguir. Solo 10 plazas y una inmobiliaria por zona.</p>
+        <div class="actions" style="margin-top:.4rem">
+          <a class="btn btn-primary" href="mailto:hola@eleuroclaro.es?subject=Mes%20gratis&amp;body=Hola%2C%20soy%20%5Bnombre%5D%20de%20%5Bempresa%5D%20(%5Bsector%5D%2C%20%5Bmunicipio%5D).%20Quiero%20el%20primer%20mes%20gratis.%20Os%20adjunto%20nuestro%20logo.">Quiero mi mes gratis</a>
+          <a class="btn btn-ghost" href="#condiciones-mes-gratis">Condiciones</a>
+        </div>
+      </div>
       <p class="intro">Cada mes te mandamos 8 vídeos cortos, 4 carruseles y 1 texto para tu newsletter o tu blog. Explican a tus clientes lo que les preocupa: el Euríbor, el precio de la vivienda, la nómina o los impuestos. Llevan tu logo y llegan listos para publicar en tus redes, sin que tengas que grabar nada.</p>
-      <p class="kit-precio"><strong>149&nbsp;€</strong> + IVA al mes, precio de lanzamiento si empiezas antes del 30 de noviembre de 2026 (mínimo 3 meses). Después, 249&nbsp;€ + IVA al mes.</p>
+      <p class="kit-precio"><strong>149&nbsp;€</strong> + IVA al mes, sin permanencia. Es el precio de lanzamiento si empiezas antes del 30 de noviembre de 2026; después, 249&nbsp;€ + IVA al mes.</p>
       <div class="actions">
         <a class="btn btn-primary" href="mailto:publicidad@eleuroclaro.es?subject=Muestra%20con%20nuestro%20logo&amp;body=Hola%2C%20soy%20%5Bnombre%5D%20de%20%5Bempresa%5D%20(%5Bsector%5D%2C%20%5Bmunicipio%5D).%20Nos%20gustar%C3%ADa%20ver%20un%20v%C3%ADdeo%20de%20muestra%20con%20nuestro%20logo%20(lo%20adjunto).">Pide una muestra con tu logo</a>
         <a class="btn btn-ghost" href="#precio">Precio y condiciones</a>
@@ -121,7 +130,19 @@
     <div class="wrap">
       <h2 id="precio-t">Precio</h2>
       <p class="kit-precio"><strong>149 €</strong> + IVA al mes</p>
-      <p class="intro">Precio de lanzamiento para quien empiece antes del 30 de noviembre de 2026, con un mínimo de 3 meses. Después, 249 € + IVA al mes.</p>
+      <p class="intro">Precio de lanzamiento para quien empiece antes del 30 de noviembre de 2026, sin permanencia: lo dejas cuando quieras. Después, 249 € + IVA al mes.</p>
+      <div class="books-note" id="condiciones-mes-gratis" data-hasta="2026-10-25T23:59:59+01:00" hidden style="background:var(--surface);border:1px solid var(--line)">
+        <p><strong>Primer mes gratis: condiciones</strong></p>
+        <ul class="checks">
+          <li>Para las empresas que lo pidan hasta el domingo 25 de octubre de 2026 a las 23:59 (hora peninsular).</li>
+          <li>Es el servicio completo: 8 vídeos cortos, 4 carruseles y 1 texto, con tu logo y tu contacto.</li>
+          <li>Sin tarjeta ni datos bancarios para empezar: solo tu logo, el contacto que quieres al final de los vídeos y los temas que prefieres.</li>
+          <li>El mes cuenta desde que recibimos tu logo. Lo que te entregamos ese mes es tuyo y puedes seguir usándolo.</li>
+          <li>Después, 149&nbsp;€ + IVA al mes, sin permanencia. Hacia el día 25 del mes gratis te preguntamos si sigues; si no nos dices que sí, se acaba ahí y no se cobra nada.</li>
+          <li>Solo 10 empresas y una inmobiliaria por zona (municipio o barrio de Palma). Cuando se llenen, lo diremos aquí.</li>
+        </ul>
+        <div class="actions" style="margin-top:.4rem"><a class="btn btn-primary" href="mailto:hola@eleuroclaro.es?subject=Mes%20gratis&amp;body=Hola%2C%20soy%20%5Bnombre%5D%20de%20%5Bempresa%5D%20(%5Bsector%5D%2C%20%5Bmunicipio%5D).%20Quiero%20el%20primer%20mes%20gratis.%20Os%20adjunto%20nuestro%20logo.">Quiero mi mes gratis</a></div>
+      </div>
       <div class="ads">
         <div>
           <h3>Solo vídeos</h3>
@@ -179,6 +200,13 @@
     <p>© 2026 El Euro Claro · Odana Ingeniería SL</p>
   </div>
 </footer>
+<script>
+// Ofertas con fecha de fin: se muestran solo hasta la fecha de data-hasta (igual que en la portada).
+document.querySelectorAll("[data-hasta]").forEach(function (el) {
+  var fin = Date.parse(el.getAttribute("data-hasta"));
+  if (!isNaN(fin) && Date.now() <= fin) el.hidden = false;
+});
+</script>
 <!-- Cloudflare Web Analytics --><script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "e81aecc33a6b40ccab86c1fbc9fa801c"}'></script><!-- End Cloudflare Web Analytics -->
 </body>
 </html>
