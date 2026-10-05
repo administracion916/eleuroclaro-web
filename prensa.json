@@ -1,60 +1,60 @@
 {
- "actualizado": "2026-10-05T15:41:44Z",
+ "actualizado": "2026-10-05T16:41:40Z",
  "items": [
+  {
+   "t": "Francia y Alemania reclaman un nuevo instrumento comercial que permita a la UE excluir a China “inmediatamente” del mercado único",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-05/francia-y-alemania-reclaman-un-nuevo-instrumento-comercial-que-permita-a-la-ue-excluir-a-china-inmediatamente-del-mercado-unico.html",
+   "f": "2026-10-05T16:29:19Z",
+   "c": "comercio"
+  },
+  {
+   "t": "La Bolsa brasileña se dispara más del 8% tras la victoria de Bolsonaro en primera vuelta frente a Lula",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-05/la-bolsa-brasilena-se-dispara-mas-del-8-tras-la-victoria-de-bolsonaro-en-primera-vuelta-frente-a-lula.html",
+   "f": "2026-10-05T16:25:08Z",
+   "c": "empresas"
+  },
+  {
+   "t": "El Ibex 35 acelera y roza los 19.300 puntos (+1,12%), tras la convocatoria electoral",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/bolsa-00348/noticia-ibex-35-acelera-roza-19300-puntos-112-convocatoria-electoral-20261005180607.html",
+   "f": "2026-10-05T16:06:07Z",
+   "c": "empresas"
+  },
+  {
+   "t": "Expertos defienden que la IA ampliará labores por encima de reducir empleos",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261005/11651583/expertos-defienden-ia-ampliara-labores-encima-reducir-empleos.html",
+   "f": "2026-10-05T16:05:34Z",
+   "c": "empleo"
+  },
+  {
+   "t": "Neinor crea un vehículo con su accionista Orion para desarrollar 1.000 viviendas procedentes de Aedas",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-05/neinor-crea-un-vehiculo-con-su-accionista-orion-para-desarrollar-1000-viviendas-procedentes-de-aedas.html",
+   "f": "2026-10-05T16:04:02Z",
+   "c": "vivienda"
+  },
+  {
+   "t": "Enagás da por concluido el sellado del polémico almacén de gas Castor",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-05/enagas-da-por-concluido-el-sellado-del-polemico-almacen-de-gas-castor.html",
+   "f": "2026-10-05T15:47:41Z",
+   "c": "energia"
+  },
+  {
+   "t": "El precio de la luz se dispara por encima de los 200 euros/MWh por primera vez desde 2022",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/precio-luz-se-dispara-por-encima-los-200-euros-mwh-por-primera-vez-desde-2022_7045109_0.html",
+   "f": "2026-10-05T15:43:25Z",
+   "c": "energia"
+  },
   {
    "t": "Un gobierno PP-Vox estaría más abierto a fusiones bancarias y contra el impuesto especial, según Citi",
    "m": "Europa Press",
    "u": "https://www.europapress.es/economia/finanzas-00340/noticia-gobierno-pp-vox-estaria-mas-abierto-fusiones-bancarias-contra-impuesto-especial-citi-20261005170120.html",
    "f": "2026-10-05T15:01:20Z",
-   "c": "impuestos"
-  },
-  {
-   "t": "Ibai Llanos y Gerard Piqué entran en la start-up Plesh tras liderar una ronda de financiación de 3,75 millones",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-05/ibai-llanos-y-gerard-pique-entran-en-la-start-up-plesh-tras-liderar-una-ronda-de-financiacion-de-375-millones.html",
-   "f": "2026-10-05T14:48:12Z",
-   "c": "empresas"
-  },
-  {
-   "t": "Feijóo promete a la empresa familiar bajar los impuestos y deflactar el IRPF si gobierna",
-   "m": "Expansión",
-   "u": "https://www.expansion.com/economia/2026/10/05/6ac39462e5fdea02508b459e.html",
-   "f": "2026-10-05T14:03:35Z",
-   "c": "impuestos"
-  },
-  {
-   "t": "El comité de huelga desconvoca el paro de la plantilla de Airbus España tras la validación del preacuerdo laboral",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-05/el-comite-de-huelga-desconvoca-el-paro-de-la-plantilla-de-airbus-tras-la-validacion-del-preacuerdo-laboral.html",
-   "f": "2026-10-05T13:53:50Z",
-   "c": "empleo"
-  },
-  {
-   "t": "Los juristas advierten de un posible \"fraude constitucional\" por el nuevo decreto de vivienda",
-   "m": "Expansión",
-   "u": "https://www.expansion.com/economia/2026/10/05/6ac3a678e5fdea693f8b45a4.html",
-   "f": "2026-10-05T13:30:35Z",
-   "c": "vivienda"
-  },
-  {
-   "t": "JP Morgan alerta del riesgo para la economía española si continúa \"la fragmentación política\" tras las elecciones del 29N",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/dinero-inversion/2026/10/05/6ac39ed7e85ece27238b457a.html",
-   "f": "2026-10-05T13:30:28Z",
-   "c": "economia"
-  },
-  {
-   "t": "Hacienda retrasa por tercera vez el lanzamiento de Verifactu y pospone un año su puesta en marcha",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/hacienda-retrasa-por-tercera-vez-lanzamiento-verifactu-pospone-un-ano-su-puesta-marcha_7045017_0.html",
-   "f": "2026-10-05T13:09:17Z",
-   "c": "impuestos"
-  },
-  {
-   "t": "Hacienda aplaza por tercera vez la entrada en vigor del sistema Verifactu: no será obligatorio hasta 2028",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/empresas/2026/10/05/6ac39349fc6c83e7778b459f.html",
-   "f": "2026-10-05T12:38:36Z",
    "c": "impuestos"
   }
  ]
