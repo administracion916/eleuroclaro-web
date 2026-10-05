@@ -1,6 +1,27 @@
 {
- "actualizado": "2026-10-05T21:39:29Z",
+ "actualizado": "2026-10-05T22:36:27Z",
  "items": [
+  {
+   "t": "Londres: pagar 1.400 euros por una habitación mientras desmantelan el modelo de alquiler de Thatcher",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/vivienda/2026/10/06/6ac111e2e4d4d86f6b8b45bf.html",
+   "f": "2026-10-05T22:02:20Z",
+   "c": "vivienda"
+  },
+  {
+   "t": "Grandes empresarios no dan por acabado a Sánchez y temen más crispación: \"Si gobierna Feijóo, van a quemar las calles\"",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/10/06/6ac3c6a1e4d4d8ff5e8b45a6.html",
+   "f": "2026-10-05T22:02:11Z",
+   "c": "empresas"
+  },
+  {
+   "t": "El hype de las pulseras de salud: ¿de verdad necesitas una?",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/10/06/6ac3d79421efa0dc1f8b4588.html",
+   "f": "2026-10-05T22:02:10Z",
+   "c": "general"
+  },
   {
    "t": "Vodafone Group plantea una oferta final sobre el ERE de VOIS para hasta 166 empleados",
    "m": "Cinco Días",
@@ -14,13 +35,6 @@
    "u": "https://www.lavanguardia.com/economia/20261005/11651767/albert-soler-elegido-nuevo-presidente-patronal-gimnasios-adecaff.html",
    "f": "2026-10-05T18:08:31Z",
    "c": "general"
-  },
-  {
-   "t": "Francia y Alemania piden a Bruselas más armas para la guerra comercial",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/10/05/6ac3e114e4d4d82a218b4579.html",
-   "f": "2026-10-05T17:50:49Z",
-   "c": "comercio"
   },
   {
    "t": "CCOO y UGT acuerdan convocar una huelga general de 24 horas este otoño por la vivienda y salarios dignos",
@@ -42,20 +56,6 @@
    "u": "https://elpais.com/economia/2026-10-06/no-solo-los-presupuestos-la-agenda-economica-que-se-cae-con-el-adelanto-electoral.html",
    "f": "2026-10-05T17:27:35Z",
    "c": "impuestos"
-  },
-  {
-   "t": "El Tribunal Supremo avala que Just Eat subcontrate el reparto de comida a domicilio",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/empresas/tribunal-supremo-avala-just-eat-subcontrate-reparto-comida-domicilio_7045158_0.html",
-   "f": "2026-10-05T17:24:05Z",
-   "c": "general"
-  },
-  {
-   "t": "Los sindicatos UGT y CC OO irán a la huelga general por la crisis de la vivienda",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-05/los-sindicatos-ugt-y-cc-oo-iran-a-la-huelga-general-por-la-crisis-de-la-vivienda.html",
-   "f": "2026-10-05T17:19:42Z",
-   "c": "vivienda"
   }
  ]
 }
