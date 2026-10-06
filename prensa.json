@@ -1,6 +1,48 @@
 {
- "actualizado": "2026-10-06T16:40:47Z",
+ "actualizado": "2026-10-06T17:37:47Z",
  "items": [
+  {
+   "t": "Paramount Skydance cierra la compra de Warner Bros Discovery por casi 100.000 millones",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-06/paramount-skydance-cierra-la-compra-de-warner-bros-discovery-por-casi-100000-millones.html",
+   "f": "2026-10-06T17:27:34Z",
+   "c": "general"
+  },
+  {
+   "t": "Luis Comas dimite tras seis años al frente de la empresa propietaria de La Tagliatella",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-06/luis-comas-ceo-de-amrest-dimite-tras-seis-anos-al-frente-de-la-empresa-propietaria-de-la-tagliatella.html",
+   "f": "2026-10-06T17:23:40Z",
+   "c": "empresas"
+  },
+  {
+   "t": "Díaz estrecha el cerco a las empresas que despidan a mayores de 50 años: más controles y sanciones graves",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/2026/10/06/6ac52c7d468aebc94e8b4572.html",
+   "f": "2026-10-06T17:20:02Z",
+   "c": "empleo"
+  },
+  {
+   "t": "Trump rebaja por decreto la fiscalidad del diésel ante un precio récord",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/2026/10/06/6ac52c6d468aeb79778b4594.html",
+   "f": "2026-10-06T17:14:52Z",
+   "c": "energia"
+  },
+  {
+   "t": "Dos decretos de vivienda casi idénticos: así quedan las medidas del Gobierno para intervenir el mercado del alquiler",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/2026/10/06/6ac4fa51e5fdea96648b45ab.html",
+   "f": "2026-10-06T17:04:55Z",
+   "c": "vivienda"
+  },
+  {
+   "t": "El decreto de vivienda extiende a 2030 la prohibición de compra especulativa para los fondos buitre",
+   "m": "El País",
+   "u": "https://elpais.com/economia/vivienda/2026-10-06/los-fondos-buitre-deberan-aportar-un-informe-de-tasacion-para-demostrar-que-no-compran-vivienda-para-especular.html",
+   "f": "2026-10-06T16:44:23Z",
+   "c": "vivienda"
+  },
   {
    "t": "SAP se refuerza en la IA y compra la empresa de software de gestión de personal TechWolf",
    "m": "Cinco Días",
@@ -14,48 +56,6 @@
    "u": "https://elpais.com/economia/2026-10-06/el-sabadell-arma-un-escudo-contra-opas-con-la-venta-de-un-7-al-banco-frances-bpce.html",
    "f": "2026-10-06T16:12:46Z",
    "c": "bancos"
-  },
-  {
-   "t": "El Ibex 35 se estanca en los 19.400 puntos (+0,75%) ante el alivio de los bonos y del crudo",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/bolsa-00348/noticia-ibex-35-estanca-19400-puntos-075-alivio-bonos-crudo-20261006181236.html",
-   "f": "2026-10-06T16:12:36Z",
-   "c": "empresas"
-  },
-  {
-   "t": "Los inversores aparcan las dudas sobre la deuda y vuelven a mirar a los máximos de Wall Street",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-06/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-10-06T16:10:52Z",
-   "c": "general"
-  },
-  {
-   "t": "El PIB turístico crece un 3,5% en el tercer trimestre, frente a un 2,6% de la economía",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/economia/2026-10-06/el-pib-turistico-crece-un-35-en-el-tercer-trimestre-frente-a-un-26-de-la-economia.html",
-   "f": "2026-10-06T16:05:53Z",
-   "c": "transporte"
-  },
-  {
-   "t": "Paramount Skydance cierra la compra de Warner Bros Discovery por casi 100.000 millones",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-06/paramount-skydance-cierra-la-compra-de-warner-bros-discovery-por-casi-100000-millones.html",
-   "f": "2026-10-06T16:01:35Z",
-   "c": "general"
-  },
-  {
-   "t": "La patronal se rebela contra la huelga general: \"Es inadmisible\"",
-   "m": "Expansión",
-   "u": "https://www.expansion.com/economia/2026/10/06/6ac510c9e5fdea323d8b458b.html",
-   "f": "2026-10-06T15:57:49Z",
-   "c": "empleo"
-  },
-  {
-   "t": "El sí del PNV allana la convalidación del decreto de vivienda en la Diputación Permanente del Congreso",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/macroeconomia-00338/noticia-si-pnv-allana-convalidacion-decreto-vivienda-diputacion-permanente-congreso-20261006174427.html",
-   "f": "2026-10-06T15:44:27Z",
-   "c": "vivienda"
   }
  ]
 }
