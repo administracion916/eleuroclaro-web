@@ -1,6 +1,27 @@
 {
- "actualizado": "2026-10-06T17:37:47Z",
+ "actualizado": "2026-10-06T18:43:06Z",
  "items": [
+  {
+   "t": "Francia: entre el mercado de bonos y las barricadas",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/financial-times/2026/10/06/6ac5296ae5fdeada498b4577.html",
+   "f": "2026-10-06T18:31:37Z",
+   "c": "general"
+  },
+  {
+   "t": "Nuevo golpe de Ferrovial en el mercado de las autopistas: gana la checa D35 por 2.900 millones ante FCC y Vinci",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-06/nuevo-golpe-de-ferrovial-en-el-mercado-de-las-autopistas-gana-la-checa-d35-por-2900-millones.html",
+   "f": "2026-10-06T17:55:53Z",
+   "c": "empresas"
+  },
+  {
+   "t": "Luis Comas dejará el próximo 1 de febrero la dirección de AmRest (La Tagliatella) y será sustituido por María Elena Pato - Castel",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/empresas/luis-comas-dejara-1-febrero-direccion-amrest-tagliatella-sustituido-maria-elena-pato-castel_7045698_0.html",
+   "f": "2026-10-06T17:44:12Z",
+   "c": "general"
+  },
   {
    "t": "Paramount Skydance cierra la compra de Warner Bros Discovery por casi 100.000 millones",
    "m": "El País",
@@ -30,32 +51,11 @@
    "c": "energia"
   },
   {
-   "t": "Dos decretos de vivienda casi idénticos: así quedan las medidas del Gobierno para intervenir el mercado del alquiler",
-   "m": "Expansión",
-   "u": "https://www.expansion.com/economia/2026/10/06/6ac4fa51e5fdea96648b45ab.html",
-   "f": "2026-10-06T17:04:55Z",
-   "c": "vivienda"
-  },
-  {
    "t": "El decreto de vivienda extiende a 2030 la prohibición de compra especulativa para los fondos buitre",
    "m": "El País",
    "u": "https://elpais.com/economia/vivienda/2026-10-06/los-fondos-buitre-deberan-aportar-un-informe-de-tasacion-para-demostrar-que-no-compran-vivienda-para-especular.html",
    "f": "2026-10-06T16:44:23Z",
    "c": "vivienda"
-  },
-  {
-   "t": "SAP se refuerza en la IA y compra la empresa de software de gestión de personal TechWolf",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-06/sap-se-refuerza-en-la-ia-y-compra-la-empresa-de-software-de-gestion-de-personal-techwolf.html",
-   "f": "2026-10-06T16:39:54Z",
-   "c": "tecnologia"
-  },
-  {
-   "t": "El Sabadell arma un escudo contra opas con la venta de un 7% al banco francés BPCE",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-06/el-sabadell-arma-un-escudo-contra-opas-con-la-venta-de-un-7-al-banco-frances-bpce.html",
-   "f": "2026-10-06T16:12:46Z",
-   "c": "bancos"
   }
  ]
 }
