@@ -1,61 +1,61 @@
 {
- "actualizado": "2026-10-06T06:45:53Z",
+ "actualizado": "2026-10-06T07:39:13Z",
  "items": [
+  {
+   "t": "Von der Leyen critica la rebaja de 20 céntimos al diésel y la gasolina del Gobierno: \"Aumenta la demanda, favorece a las rentas altas y supone un coste enorme\"",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/10/06/6ac49dd1fc6c835f0b8b4597.html",
+   "f": "2026-10-06T07:24:08Z",
+   "c": "energia"
+  },
+  {
+   "t": "El Banco de Francia advierte de que el país corre el riesgo de ser \"estrangulado\" por los tipos de interés",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/finanzas-00340/noticia-banco-francia-advierte-pais-corre-riesgo-ser-estrangulado-tipos-interes-20261006091928.html",
+   "f": "2026-10-06T07:19:28Z",
+   "c": "tipos"
+  },
+  {
+   "t": "El Ibex 35 abre con un alza del 0,7% y supera los 19.400 puntos, con el petróleo a menos de 100 dólares",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/bolsa-00348/noticia-ibex-35-abre-alza-07-supera-19400-puntos-petroleo-menos-100-dolares-20261006091622.html",
+   "f": "2026-10-06T07:16:22Z",
+   "c": "energia"
+  },
+  {
+   "t": "Tono positivo en las Bolsas con el petróleo estable y los tipos de la deuda cerca de máximos",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-06/la-bolsa-y-el-ibex-35.html",
+   "f": "2026-10-06T07:11:12Z",
+   "c": "energia"
+  },
+  {
+   "t": "El Sabadell arma un escudo contra opas con la venta de un 7% al banco francés BPCE",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-06/el-sabadell-arma-un-escudo-contra-opas-con-la-venta-de-un-7-al-banco-frances-bpce.html",
+   "f": "2026-10-06T07:07:14Z",
+   "c": "bancos"
+  },
+  {
+   "t": "El Gobierno aprobará a Transportes a licitar nueva versión para la gestión de tráfico aéreo por 28 millones",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/transportes-00343/noticia-gobierno-aprobara-transportes-licitar-nueva-version-gestion-trafico-aereo-28-millones-20261006090050.html",
+   "f": "2026-10-06T07:00:50Z",
+   "c": "general"
+  },
+  {
+   "t": "La CEOE considera “inadmisible” la huelga general y duda de su encaje legal",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261006/11652066/ceoe-considera-inadmisible-huelga-general-duda-encaje-legal.html",
+   "f": "2026-10-06T06:53:45Z",
+   "c": "empleo"
+  },
   {
    "t": "La CEOE advierte de que la huelga por la vivienda es \"inadmisible\" al no ser \"de naturaleza laboral\" y estudia ya acciones legales",
    "m": "El Mundo",
    "u": "https://www.elmundo.es/economia/2026/10/06/6ac4950de4d4d8121d8b459d.html",
    "f": "2026-10-06T06:42:33Z",
    "c": "vivienda"
-  },
-  {
-   "t": "El precio de la luz supera los 200 euros por megavatio/hora por primera vez desde 2022",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/10/06/6ac492e5fdddff9b798b457d.html",
-   "f": "2026-10-06T06:29:02Z",
-   "c": "energia"
-  },
-  {
-   "t": "CEOE ve \"inadmisible\" la huelga general anunciada por los sindicatos y duda de su \"encaje jurídico\"",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/laboral-00346/noticia-ceoe-ve-inadmisible-huelga-general-anunciada-sindicatos-duda-encaje-juridico-20261006082216.html",
-   "f": "2026-10-06T06:22:16Z",
-   "c": "empleo"
-  },
-  {
-   "t": "Corea del Sur, en alerta por una oleada de ciberataques contra su sector financiero",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-06/corea-del-sur-en-alerta-por-una-oleada-de-ciberataques-contra-su-sector-financiero.html",
-   "f": "2026-10-06T06:05:40Z",
-   "c": "tecnologia"
-  },
-  {
-   "t": "El banco francés BPCE compra un 7% de Banco Sabadell de forma \"amistosa\" y lo blinda ante futuras adquisiciones",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/empresas/2026/10/06/6ac48a7ae9cf4a2b0a8b45bd.html",
-   "f": "2026-10-06T05:58:50Z",
-   "c": "bancos"
-  },
-  {
-   "t": "El Sabadell arma un escudo contra opas con la venta de un 7% al banco francés BPCE",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-06/el-sabadell-arma-un-escudo-contra-opas-con-la-venta-de-un-7-al-banco-frances-bpce.html",
-   "f": "2026-10-06T05:51:04Z",
-   "c": "bancos"
-  },
-  {
-   "t": "El francés BPCE cierra un acuerdo amistoso con Banco Sabadell para adquirir el 7% de su capital",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/empresas/bpce-acuerdo-amistoso-banco-sabadell-entrada-accionariado_7045258_0.html",
-   "f": "2026-10-06T05:43:59Z",
-   "c": "bancos"
-  },
-  {
-   "t": "BPCE compra un 7% de Sabadell, valorado en 1.200 millones, con el compromiso de no superar el 10%",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/finanzas-00340/noticia-bpce-compra-sabadell-valorado-1200-millones-compromiso-no-superar-10-20261006073437.html",
-   "f": "2026-10-06T05:34:37Z",
-   "c": "bancos"
   }
  ]
 }
