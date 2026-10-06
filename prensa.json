@@ -1,61 +1,61 @@
 {
- "actualizado": "2026-10-06T15:38:48Z",
+ "actualizado": "2026-10-06T16:40:47Z",
  "items": [
+  {
+   "t": "SAP se refuerza en la IA y compra la empresa de software de gestión de personal TechWolf",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-06/sap-se-refuerza-en-la-ia-y-compra-la-empresa-de-software-de-gestion-de-personal-techwolf.html",
+   "f": "2026-10-06T16:39:54Z",
+   "c": "tecnologia"
+  },
+  {
+   "t": "El Sabadell arma un escudo contra opas con la venta de un 7% al banco francés BPCE",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-06/el-sabadell-arma-un-escudo-contra-opas-con-la-venta-de-un-7-al-banco-frances-bpce.html",
+   "f": "2026-10-06T16:12:46Z",
+   "c": "bancos"
+  },
+  {
+   "t": "El Ibex 35 se estanca en los 19.400 puntos (+0,75%) ante el alivio de los bonos y del crudo",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/bolsa-00348/noticia-ibex-35-estanca-19400-puntos-075-alivio-bonos-crudo-20261006181236.html",
+   "f": "2026-10-06T16:12:36Z",
+   "c": "empresas"
+  },
+  {
+   "t": "Los inversores aparcan las dudas sobre la deuda y vuelven a mirar a los máximos de Wall Street",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-06/la-bolsa-y-el-ibex-35.html",
+   "f": "2026-10-06T16:10:52Z",
+   "c": "general"
+  },
+  {
+   "t": "El PIB turístico crece un 3,5% en el tercer trimestre, frente a un 2,6% de la economía",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/economia/2026-10-06/el-pib-turistico-crece-un-35-en-el-tercer-trimestre-frente-a-un-26-de-la-economia.html",
+   "f": "2026-10-06T16:05:53Z",
+   "c": "transporte"
+  },
+  {
+   "t": "Paramount Skydance cierra la compra de Warner Bros Discovery por casi 100.000 millones",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-06/paramount-skydance-cierra-la-compra-de-warner-bros-discovery-por-casi-100000-millones.html",
+   "f": "2026-10-06T16:01:35Z",
+   "c": "general"
+  },
   {
    "t": "La patronal se rebela contra la huelga general: \"Es inadmisible\"",
    "m": "Expansión",
    "u": "https://www.expansion.com/economia/2026/10/06/6ac510c9e5fdea323d8b458b.html",
-   "f": "2026-10-06T15:35:11Z",
+   "f": "2026-10-06T15:57:49Z",
    "c": "empleo"
   },
   {
-   "t": "El S&P 500 prueba con nuevos máximos impulsado por la caída del petróleo y el auge de la IA",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-06/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-10-06T15:31:04Z",
-   "c": "energia"
-  },
-  {
-   "t": "Los accionistas de Celsa exploran la venta, una fusión o la salida a Bolsa tras completar la reestructuración",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-06/los-accionistas-de-celsa-exploran-la-venta-una-fusion-o-la-salida-a-bolsa-tras-completar-la-reestructuracion.html",
-   "f": "2026-10-06T15:24:47Z",
-   "c": "empresas"
-  },
-  {
-   "t": "El nuevo decreto de vivienda recupera la cuenta para invertir los ahorros en empresas europeas",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261006/11652605/nuevo-decreto-vivienda-recupera-cuenta-invertir-ahorros-empresas-europeas.html",
-   "f": "2026-10-06T15:09:54Z",
+   "t": "El sí del PNV allana la convalidación del decreto de vivienda en la Diputación Permanente del Congreso",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/macroeconomia-00338/noticia-si-pnv-allana-convalidacion-decreto-vivienda-diputacion-permanente-congreso-20261006174427.html",
+   "f": "2026-10-06T15:44:27Z",
    "c": "vivienda"
-  },
-  {
-   "t": "El PNV apoyará el primer decreto de vivienda en la Diputación Permanente",
-   "m": "Expansión",
-   "u": "https://www.expansion.com/economia/2026/10/06/6ac50e44468aeb466a8b4593.html",
-   "f": "2026-10-06T15:06:27Z",
-   "c": "vivienda"
-  },
-  {
-   "t": "Ayuso anuncia una ley contra la burocracia: cada nueva norma exigirá derogar otra",
-   "m": "Expansión",
-   "u": "https://www.expansion.com/economia/2026/10/06/6ac4e9a5468aeb6a4f8b458d.html",
-   "f": "2026-10-06T14:26:48Z",
-   "c": "general"
-  },
-  {
-   "t": "Bruselas plantea acortar de seis a cuatro años los tiempos para crear estándares industriales en sectores críticos",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/bruselas-plantea-acortar-seis-cuatro-anos-los-tiempos-para-crear-estandares-industriales-sectores-criticos_7045267_0.html",
-   "f": "2026-10-06T14:15:43Z",
-   "c": "comercio"
-  },
-  {
-   "t": "Los ‘hedge funds’, el monstruo de más de 11 billones que amplifica riesgos para Bolsas, divisas y deuda",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-06/los-hedge-funds-el-monstruo-de-13-billones-que-amplifica-riesgos-para-bolsas-divisas-y-mercados-de-deuda.html",
-   "f": "2026-10-06T14:15:00Z",
-   "c": "general"
   }
  ]
 }
