@@ -1,6 +1,48 @@
 {
- "actualizado": "2026-10-06T09:39:45Z",
+ "actualizado": "2026-10-06T10:39:27Z",
  "items": [
+  {
+   "t": "Las diez mejores hipotecas fijas de octubre de 2026",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/10/06/6ac4c8bae4d4d8971a8b4581.html",
+   "f": "2026-10-06T10:34:14Z",
+   "c": "tipos"
+  },
+  {
+   "t": "El Ibex 35 sube un 1% en la media sesión, por encima de los 19.450 puntos, con el crudo en 98 dólares",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/bolsa-00348/noticia-ibex-35-sube-media-sesion-encima-19450-puntos-crudo-98-dolares-20261006122910.html",
+   "f": "2026-10-06T10:29:10Z",
+   "c": "empresas"
+  },
+  {
+   "t": "Telefónica actualiza su plan climático para alcanzar las cero emisiones netas en 2040",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-06/telefonica-actualiza-su-plan-climatico-para-alcanzar-las-cero-emisiones-netas-en-2040.html",
+   "f": "2026-10-06T10:05:13Z",
+   "c": "empresas"
+  },
+  {
+   "t": "El Estado emite letras a 12 meses al mayor coste de financiación en dos años: su rentabilidad se dispara por encima del 3%",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/dinero-inversion/2026/10/06/6ac4c2d4e9cf4a214c8b4582.html",
+   "f": "2026-10-06T10:01:52Z",
+   "c": "general"
+  },
+  {
+   "t": "Von der Leyen advierte contra los grandes recortes en el presupuesto europeo como exige Alemania",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-06/von-der-leyen-advierte-contra-los-grandes-recortes-en-el-presupuesto-europeo-como-exige-alemania.html",
+   "f": "2026-10-06T10:00:37Z",
+   "c": "general"
+  },
+  {
+   "t": "Huelga general: qué derechos e implicaciones tiene para el trabajador que decide secundarla",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/huelga-general-que-derechos-implicaciones-tiene-para-trabajador-que-decide-secundarla_7045382_0.html",
+   "f": "2026-10-06T09:40:46Z",
+   "c": "empleo"
+  },
   {
    "t": "El Ibex sube más del 1% con el petróleo a la baja y los tipos de la deuda cerca de máximos",
    "m": "Cinco Días",
@@ -9,52 +51,10 @@
    "c": "energia"
   },
   {
-   "t": "Estas son las nuevas exigencias a las empresas para incluir en un contrato laboral en vigor desde el 5 de octubre",
-   "m": "Expansión",
-   "u": "https://www.expansion.com/economia/2026/10/05/6ac33802468aeb661e8b4570.html",
-   "f": "2026-10-06T09:25:37Z",
-   "c": "empresas"
-  },
-  {
-   "t": "Idealista señala que la vivienda llega a las elecciones con precios un 74% por encima que en 2018",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/construccion-y-vivienda-00342/noticia-idealista-senala-vivienda-llega-elecciones-precios-74-encima-2018-20261006111420.html",
-   "f": "2026-10-06T09:14:20Z",
-   "c": "vivienda"
-  },
-  {
-   "t": "Angels, la sociedad de inversión de Juan Roig, lidera una ronda de Niubiq, especializada en inteligencia comercial",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-06/angels-la-sociedad-de-inversion-de-juan-roig-lidera-una-ronda-de-niubiq-especializada-en-inteligencia-comercial.html",
-   "f": "2026-10-06T09:07:37Z",
-   "c": "empresas"
-  },
-  {
-   "t": "SafeLoc cierra una ronda con Kutxa, BeAble Capital y Basque Tek Ventures para su tecnología frente a accidentes laborales",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-06/safeloc-cierra-una-ronda-con-kutxa-beable-capital-y-basque-tek-ventures-para-su-tecnologia-frente-a-accidentes-laborales.html",
-   "f": "2026-10-06T09:06:38Z",
-   "c": "tecnologia"
-  },
-  {
-   "t": "Foment rechaza la huelga general por considerarla ajena al ámbito laboral",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261006/11652179/foment-rechaza-huelga-general-considerarla-ajena-ambito-laboral.html",
-   "f": "2026-10-06T09:03:07Z",
-   "c": "empleo"
-  },
-  {
-   "t": "Claves sobre la huelga general por la vivienda: ¿qué argumentan los sindicatos? ¿qué opina CEOE? ¿cuándo fue la última?",
-   "m": "El País",
-   "u": "https://elpais.com/economia/vivienda/2026-10-06/claves-sobre-la-huelga-general-por-la-vivienda-que-argumentan-los-sindicatos-que-opina-ceoe-cuando-fue-la-ultima.html",
-   "f": "2026-10-06T08:42:45Z",
-   "c": "vivienda"
-  },
-  {
-   "t": "Estrella Galicia, Mercadona, Zara, Ikea y Burger King, entre las marcas preferidas por los españoles",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/noticia-estrella-galicia-mercadona-zara-ikea-burger-king-marcas-preferidas-espanoles-20261006103921.html",
-   "f": "2026-10-06T08:39:21Z",
+   "t": "Randstad busca 300 teleoperadores para una importante plataforma del sector retail en Madrid",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/empresas/randstad-busca-300-teleoperadores-para-una-importante-plataforma-sector-retail-madrid_7045378_0.html",
+   "f": "2026-10-06T09:31:11Z",
    "c": "general"
   }
  ]
