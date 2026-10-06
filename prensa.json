@@ -1,6 +1,34 @@
 {
- "actualizado": "2026-10-06T21:37:30Z",
+ "actualizado": "2026-10-06T22:38:09Z",
  "items": [
+  {
+   "t": "Von der Leyen pide nuevos impuestos para evitar recortes en la UE",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/2026/10/07/6ac57173468aeb3e248b457d.html",
+   "f": "2026-10-06T22:29:07Z",
+   "c": "impuestos"
+  },
+  {
+   "t": "De la financiación autonómica a la Defensa del Cliente Financiero: todo lo que la parálisis legislativa deja en el cajón para el próximo inquilino de la Moncloa",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/10/07/6ac53a9fe4d4d8af048b45a8.html",
+   "f": "2026-10-06T22:01:14Z",
+   "c": "vivienda"
+  },
+  {
+   "t": "El adelanto electoral golpea dos veces a Red Eléctrica: complica el mayor plan inversor de su historia y deja a Corredor en el alero",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/empresas/2026/10/07/6ac4df63fc6c8321308b459e.html",
+   "f": "2026-10-06T22:01:12Z",
+   "c": "energia"
+  },
+  {
+   "t": "El apetito de Francia por el \"dinero mágico\" se ha convertido en una bomba de deuda",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/10/07/6ac5022921efa0cc2e8b458a.html",
+   "f": "2026-10-06T22:01:11Z",
+   "c": "general"
+  },
   {
    "t": "Las tormentas provocan retrasos, desvíos y cancelaciones en los aeropuertos de Madrid-Barajas y El Prat",
    "m": "El País",
@@ -28,34 +56,6 @@
    "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/por-que-sube-precio-seguro-si-no-he-dado-parte_7045707_0.html",
    "f": "2026-10-06T19:10:21Z",
    "c": "transporte"
-  },
-  {
-   "t": "El Brent retoma los 100 dólares pese a la liberación de reservas y el aumento del flujo de petróleo",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/noticia-brent-retoma-100-dolares-pese-liberacion-reservas-aumento-flujo-petroleo-20261006205440.html",
-   "f": "2026-10-06T18:54:40Z",
-   "c": "energia"
-  },
-  {
-   "t": "Francia: entre el mercado de bonos y las barricadas",
-   "m": "Expansión",
-   "u": "https://www.expansion.com/economia/financial-times/2026/10/06/6ac5296ae5fdeada498b4577.html",
-   "f": "2026-10-06T18:31:37Z",
-   "c": "general"
-  },
-  {
-   "t": "Nuevo golpe de Ferrovial en el mercado de las autopistas: gana la checa D35 por 2.900 millones ante FCC y Vinci",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-06/nuevo-golpe-de-ferrovial-en-el-mercado-de-las-autopistas-gana-la-checa-d35-por-2900-millones.html",
-   "f": "2026-10-06T17:55:53Z",
-   "c": "empresas"
-  },
-  {
-   "t": "Luis Comas dejará el próximo 1 de febrero la dirección de AmRest (La Tagliatella) y será sustituido por María Elena Pato - Castel",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/empresas/luis-comas-dejara-1-febrero-direccion-amrest-tagliatella-sustituido-maria-elena-pato-castel_7045698_0.html",
-   "f": "2026-10-06T17:44:12Z",
-   "c": "general"
   }
  ]
 }
