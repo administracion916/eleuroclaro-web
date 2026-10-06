@@ -1,61 +1,61 @@
 {
- "actualizado": "2026-10-06T05:38:35Z",
+ "actualizado": "2026-10-06T06:45:53Z",
  "items": [
   {
-   "t": "El fuerte aumento de los precios de los combustibles en EEUU lleva a Trump a abrir el acceso al diésel rojo libre de impuestos",
+   "t": "La CEOE advierte de que la huelga por la vivienda es \"inadmisible\" al no ser \"de naturaleza laboral\" y estudia ya acciones legales",
    "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/10/06/6ac484c8fc6c83a81a8b4583.html",
-   "f": "2026-10-06T05:19:30Z",
+   "u": "https://www.elmundo.es/economia/2026/10/06/6ac4950de4d4d8121d8b459d.html",
+   "f": "2026-10-06T06:42:33Z",
+   "c": "vivienda"
+  },
+  {
+   "t": "El precio de la luz supera los 200 euros por megavatio/hora por primera vez desde 2022",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/10/06/6ac492e5fdddff9b798b457d.html",
+   "f": "2026-10-06T06:29:02Z",
    "c": "energia"
   },
   {
-   "t": "Tono positivo en las Bolsas con el petróleo estable y los tipos de la deuda cerca de máximos",
+   "t": "CEOE ve \"inadmisible\" la huelga general anunciada por los sindicatos y duda de su \"encaje jurídico\"",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/laboral-00346/noticia-ceoe-ve-inadmisible-huelga-general-anunciada-sindicatos-duda-encaje-juridico-20261006082216.html",
+   "f": "2026-10-06T06:22:16Z",
+   "c": "empleo"
+  },
+  {
+   "t": "Corea del Sur, en alerta por una oleada de ciberataques contra su sector financiero",
    "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-06/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-10-06T04:34:01Z",
-   "c": "energia"
+   "u": "https://cincodias.elpais.com/companias/2026-10-06/corea-del-sur-en-alerta-por-una-oleada-de-ciberataques-contra-su-sector-financiero.html",
+   "f": "2026-10-06T06:05:40Z",
+   "c": "tecnologia"
   },
   {
-   "t": "El adelanto electoral deja una decena de leyes económicas en el aire",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261006/11651751/adelanto-electoral-deja-decena-leyes-economicas-aire.html",
-   "f": "2026-10-06T04:05:00Z",
-   "c": "general"
+   "t": "El banco francés BPCE compra un 7% de Banco Sabadell de forma \"amistosa\" y lo blinda ante futuras adquisiciones",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/empresas/2026/10/06/6ac48a7ae9cf4a2b0a8b45bd.html",
+   "f": "2026-10-06T05:58:50Z",
+   "c": "bancos"
   },
   {
-   "t": "Los empresarios piden al nuevo gobierno mirada larga para los retos pendientes",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261006/11651786/empresarios-piden-nuevo-gobierno-mirada-larga-retos-pendientes.html",
-   "f": "2026-10-06T04:00:00Z",
-   "c": "empresas"
-  },
-  {
-   "t": "El espejismo de las marcas: creerse lo más",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261006/11651695/percepcion-marcas-clientes-pablo-foncillas-pf-video-seo-lv.html",
-   "f": "2026-10-06T04:00:00Z",
-   "c": "general"
-  },
-  {
-   "t": "México autoriza la venta de Movistar a Melisa por 400 millones de euros",
+   "t": "El Sabadell arma un escudo contra opas con la venta de un 7% al banco francés BPCE",
    "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-06/mexico-autoriza-la-venta-de-movistar-a-melisa-por-400-millones-de-euros.html",
-   "f": "2026-10-06T03:45:00Z",
-   "c": "general"
+   "u": "https://elpais.com/economia/2026-10-06/el-sabadell-arma-un-escudo-contra-opas-con-la-venta-de-un-7-al-banco-frances-bpce.html",
+   "f": "2026-10-06T05:51:04Z",
+   "c": "bancos"
   },
   {
-   "t": "Los valores del Ibex más sensibles a un cambio de Gobierno que ya descuentan los inversores",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-06/los-valores-del-ibex-mas-sensibles-a-un-cambio-de-gobierno-que-ya-descuentan-los-inversores.html",
-   "f": "2026-10-06T03:30:01Z",
-   "c": "empresas"
+   "t": "El francés BPCE cierra un acuerdo amistoso con Banco Sabadell para adquirir el 7% de su capital",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/empresas/bpce-acuerdo-amistoso-banco-sabadell-entrada-accionariado_7045258_0.html",
+   "f": "2026-10-06T05:43:59Z",
+   "c": "bancos"
   },
   {
-   "t": "Los inversores extranjeros, más pendientes de Francia que del adelanto electoral de España",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-06/los-inversores-extranjeros-mas-pendientes-de-francia-que-del-adelanto-electoral-de-espana.html",
-   "f": "2026-10-06T03:30:01Z",
-   "c": "general"
+   "t": "BPCE compra un 7% de Sabadell, valorado en 1.200 millones, con el compromiso de no superar el 10%",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/finanzas-00340/noticia-bpce-compra-sabadell-valorado-1200-millones-compromiso-no-superar-10-20261006073437.html",
+   "f": "2026-10-06T05:34:37Z",
+   "c": "bancos"
   }
  ]
 }
