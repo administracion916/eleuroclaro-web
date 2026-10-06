@@ -1,6 +1,41 @@
 {
- "actualizado": "2026-10-06T14:39:13Z",
+ "actualizado": "2026-10-06T15:38:48Z",
  "items": [
+  {
+   "t": "La patronal se rebela contra la huelga general: \"Es inadmisible\"",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/2026/10/06/6ac510c9e5fdea323d8b458b.html",
+   "f": "2026-10-06T15:35:11Z",
+   "c": "empleo"
+  },
+  {
+   "t": "El S&P 500 prueba con nuevos máximos impulsado por la caída del petróleo y el auge de la IA",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-06/la-bolsa-y-el-ibex-35.html",
+   "f": "2026-10-06T15:31:04Z",
+   "c": "energia"
+  },
+  {
+   "t": "Los accionistas de Celsa exploran la venta, una fusión o la salida a Bolsa tras completar la reestructuración",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-06/los-accionistas-de-celsa-exploran-la-venta-una-fusion-o-la-salida-a-bolsa-tras-completar-la-reestructuracion.html",
+   "f": "2026-10-06T15:24:47Z",
+   "c": "empresas"
+  },
+  {
+   "t": "El nuevo decreto de vivienda recupera la cuenta para invertir los ahorros en empresas europeas",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261006/11652605/nuevo-decreto-vivienda-recupera-cuenta-invertir-ahorros-empresas-europeas.html",
+   "f": "2026-10-06T15:09:54Z",
+   "c": "vivienda"
+  },
+  {
+   "t": "El PNV apoyará el primer decreto de vivienda en la Diputación Permanente",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/2026/10/06/6ac50e44468aeb466a8b4593.html",
+   "f": "2026-10-06T15:06:27Z",
+   "c": "vivienda"
+  },
   {
    "t": "Ayuso anuncia una ley contra la burocracia: cada nueva norma exigirá derogar otra",
    "m": "Expansión",
@@ -9,53 +44,18 @@
    "c": "general"
   },
   {
+   "t": "Bruselas plantea acortar de seis a cuatro años los tiempos para crear estándares industriales en sectores críticos",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/bruselas-plantea-acortar-seis-cuatro-anos-los-tiempos-para-crear-estandares-industriales-sectores-criticos_7045267_0.html",
+   "f": "2026-10-06T14:15:43Z",
+   "c": "comercio"
+  },
+  {
    "t": "Los ‘hedge funds’, el monstruo de más de 11 billones que amplifica riesgos para Bolsas, divisas y deuda",
    "m": "Cinco Días",
    "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-06/los-hedge-funds-el-monstruo-de-13-billones-que-amplifica-riesgos-para-bolsas-divisas-y-mercados-de-deuda.html",
    "f": "2026-10-06T14:15:00Z",
    "c": "general"
-  },
-  {
-   "t": "El PNV, la llave para validar en la Diputación Permanente los decretos de vivienda",
-   "m": "Expansión",
-   "u": "https://www.expansion.com/economia/2026/10/06/6ac500ede5fdea985e8b456d.html",
-   "f": "2026-10-06T14:09:30Z",
-   "c": "vivienda"
-  },
-  {
-   "t": "El S&P 500 prueba con nuevos máximos en la apertura impulsado por la caída del petróleo y el impulso de la IA",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-06/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-10-06T13:58:01Z",
-   "c": "energia"
-  },
-  {
-   "t": "De Guindos achaca al alza de la inmigración la presión sobre el mercado de alquiler de vivienda",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-06/de-guindos-achaca-al-alza-de-la-inmigracion-la-presion-sobre-el-mercado-de-alquiler-de-vivienda.html",
-   "f": "2026-10-06T13:56:05Z",
-   "c": "vivienda"
-  },
-  {
-   "t": "Dos decretos de vivienda casi idénticos: así quedan las medidas del Gobierno para intervenir el mercado del alquiler",
-   "m": "Expansión",
-   "u": "https://www.expansion.com/economia/2026/10/06/6ac4fa51e5fdea96648b45ab.html",
-   "f": "2026-10-06T13:42:19Z",
-   "c": "vivienda"
-  },
-  {
-   "t": "BNEW premia a ocho empresas emergentes entre más de cien candidaturas",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261006/11652445/bnew-premia-ocho-empresas-emergentes-mas-cien-candidaturas.html",
-   "f": "2026-10-06T13:26:41Z",
-   "c": "empresas"
-  },
-  {
-   "t": "La empresa familiar pide tras las elecciones “consensos que vayan más allá de una legislatura”",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261006/11652477/empresa-familiar-pide-elecciones-consensos-vayan-mas-legislatura.html",
-   "f": "2026-10-06T13:22:38Z",
-   "c": "empresas"
   }
  ]
 }
