@@ -1,12 +1,47 @@
 {
- "actualizado": "2026-10-07T07:40:14Z",
+ "actualizado": "2026-10-07T08:41:34Z",
  "items": [
   {
-   "t": "Las Bolsas europeas abren a la baja y el petróleo sube",
+   "t": "SpaceX sacude el mercado en búsqueda de 40.000 millones de dólares para comprar chips de Nvidia",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-07/spacex-sacude-el-mercado-en-busqueda-de-40000-millones-de-dolares-para-comprar-chips-de-nvidia.html",
+   "f": "2026-10-07T08:04:36Z",
+   "c": "tecnologia"
+  },
+  {
+   "t": "Kutxabank eleva la rentabilidad de su cuenta remunerada hasta el 3,10%",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/kutxabank-eleva-rentabilidad-su-cuenta-remunerada-hasta-3-10_7045836_0.html",
+   "f": "2026-10-07T08:03:29Z",
+   "c": "bancos"
+  },
+  {
+   "t": "Mario Conde, ante la crisis de la vivienda y la convocatoria de elecciones: \"Todo estaba pensado\"",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/vivienda/2026/10/07/6ac5f442e4d4d80b218b459c.html",
+   "f": "2026-10-07T08:01:22Z",
+   "c": "vivienda"
+  },
+  {
+   "t": "El Ibex recorta con el petróleo al alza",
    "m": "Cinco Días",
    "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-07/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-10-07T07:23:30Z",
+   "f": "2026-10-07T07:37:28Z",
    "c": "energia"
+  },
+  {
+   "t": "Georgieva (FMI) insta a abordar los retos del 'shock' energético, la deuda y la IA: \"Se acerca el invierno\"",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/macroeconomia-00338/noticia-georgieva-fmi-insta-abordar-retos-shock-energetico-deuda-ia-acerca-invierno-20261007093509.html",
+   "f": "2026-10-07T07:35:09Z",
+   "c": "energia"
+  },
+  {
+   "t": "Consumo expedienta a un portal inmobiliario y avisa de que vigilará el cumplimiento del nuevo decreto de vivienda",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261007/11653039/consumo-expedienta-portal-inmobiliario.html",
+   "f": "2026-10-07T07:28:39Z",
+   "c": "vivienda"
   },
   {
    "t": "El Ibex 35 cae un 0,7% en la apertura y pierde los 19.400 puntos, con el petróleo a más de 101 dólares",
@@ -20,41 +55,6 @@
    "m": "Europa Press",
    "u": "https://www.europapress.es/economia/construccion-y-vivienda-00342/noticia-oferta-viviendas-alquiler-cae-44-2018-2025-393000-viviendas-menos-idealista-20261007091723.html",
    "f": "2026-10-07T07:17:23Z",
-   "c": "vivienda"
-  },
-  {
-   "t": "Consumo abre expediente a un gran portal inmobiliario por prácticas desleales contra los usuarios",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-07/consumo-abre-un-expediente-a-un-gran-portal-inmobiliario-por-practicas-desleales-contra-los-usuarios.html",
-   "f": "2026-10-07T07:08:17Z",
-   "c": "vivienda"
-  },
-  {
-   "t": "Los economistas elevan la previsión de crecimiento al 2,5% para este año y la del IPC, hasta el 3,7%",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/macroeconomia-00338/noticia-economistas-elevan-prevision-crecimiento-25-ano-ipc-37-20261007090606.html",
-   "f": "2026-10-07T07:06:06Z",
-   "c": "precios"
-  },
-  {
-   "t": "Consumo abre expediente a un portal inmobiliario por posibles prácticas desleales",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/vivienda/2026/10/07/6ac5ef16fc6c83942b8b45a7.html",
-   "f": "2026-10-07T07:04:58Z",
-   "c": "vivienda"
-  },
-  {
-   "t": "La Inspección de Trabajo regularizó a 47.000 falsos autónomos en 2025, la mayor cifra de la serie",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-07/la-inspeccion-de-trabajo-regularizo-a-47000-falsos-autonomos-en-2025-la-mayor-cifra-de-la-serie.html",
-   "f": "2026-10-07T07:00:17Z",
-   "c": "empleo"
-  },
-  {
-   "t": "El Gobierno refuerza el cálculo de la indemnización que pagará el casero al inquilino si rompe con el contrato",
-   "m": "El País",
-   "u": "https://elpais.com/economia/vivienda/2026-10-07/el-gobierno-refuerza-el-calculo-de-la-indemnizacion-que-pagara-el-casero-al-inquilino-si-rompe-con-el-contrato.html",
-   "f": "2026-10-07T06:50:31Z",
    "c": "vivienda"
   }
  ]
