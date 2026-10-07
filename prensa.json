@@ -1,60 +1,60 @@
 {
- "actualizado": "2026-10-07T13:40:57Z",
+ "actualizado": "2026-10-07T14:40:20Z",
  "items": [
+  {
+   "t": "Santa Bárbara entrega el primer blindado Hunter hecho en España a Letonia",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-07/santa-barbara-entrega-el-primer-blindado-hunter-hecho-en-espana-a-letonia.html",
+   "f": "2026-10-07T14:36:44Z",
+   "c": "empresas"
+  },
+  {
+   "t": "Las Bolsas europeas se tiñen de rojo y el Ibex cae cerca del 2% con el petróleo y la deuda al alza",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-07/la-bolsa-y-el-ibex-35.html",
+   "f": "2026-10-07T14:26:40Z",
+   "c": "energia"
+  },
+  {
+   "t": "Mario Conde, ante la crisis de la vivienda y la convocatoria de elecciones: \"Todo estaba pensado\"",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/vivienda/2026/10/07/6ac5f442e4d4d80b218b459c.html",
+   "f": "2026-10-07T14:21:40Z",
+   "c": "vivienda"
+  },
+  {
+   "t": "Trabajo da el primer paso para subir el salario mínimo antes de las elecciones generales",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-07/trabajo-da-el-primer-paso-para-subir-el-salario-minimo-antes-de-las-elecciones-generales.html",
+   "f": "2026-10-07T14:00:29Z",
+   "c": "empleo"
+  },
+  {
+   "t": "¿Durante cuánto tiempo más podrá el mundo absorber el shock de Irán?",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/financial-times/2026/10/07/6ac64d92468aeb3a4b8b456d.html",
+   "f": "2026-10-07T13:53:58Z",
+   "c": "comercio"
+  },
+  {
+   "t": "A&G apunta a que el BCE revertirá las subidas de tipos para impedir un frenazo de la economía",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-07/ag-apunta-a-que-el-bce-revertira-las-subidas-de-tipos-para-impedir-un-frenazo-de-la-economia.html",
+   "f": "2026-10-07T13:39:25Z",
+   "c": "tipos"
+  },
+  {
+   "t": "El plan estratégico por España de una empresa líder murciana",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-07/el-plan-estrategico-de-expansion-por-espana-de-una-empresa-lider-murciana.html",
+   "f": "2026-10-07T13:20:09Z",
+   "c": "empresas"
+  },
   {
    "t": "La OCU avisa: puedes pedir el reembolso de actividades canceladas por las elecciones del 29 de noviembre",
    "m": "20minutos",
    "u": "https://www.20minutos.es/lainformacion/consumo/ocu-avisa-puedes-pedir-reembolso-actividades-canceladas-por-las-elecciones-29-noviembre_7046030_0.html",
    "f": "2026-10-07T12:53:20Z",
-   "c": "general"
-  },
-  {
-   "t": "¿En qué consisten los préstamos de 50.000 euros sin intereses para la entrada de una vivienda y quién los podrá pedir?",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261007/11653407/que-consisten-prestamos-50-000-euros-intereses-comprar-vivienda-podra-pedir.html",
-   "f": "2026-10-07T12:37:23Z",
-   "c": "vivienda"
-  },
-  {
-   "t": "El decreto de vivienda incluye una cuenta de inversión: cómo funciona, ventajas fiscales y en qué se puede invertir",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/finanzas-00340/noticia-decreto-vivienda-incluye-cuenta-inversion-funciona-ventajas-fiscales-puede-invertir-20261007143506.html",
-   "f": "2026-10-07T12:35:06Z",
-   "c": "vivienda"
-  },
-  {
-   "t": "España echa el resto con la promoción del mango y el aguacate nacionales para reforzar su liderazgo europeo",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/espana-echa-resto-promocion-mango-aguacate-nacionales-reforzar-liderazgo-europeo_7045960_0.html",
-   "f": "2026-10-07T12:32:14Z",
-   "c": "general"
-  },
-  {
-   "t": "El CIS ultima una encuesta sobre el impacto de las medidas en materia de vivienda",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/construccion-y-vivienda-00342/noticia-cis-publica-jueves-resultados-barometro-vivienda-evalua-medidas-adoptadas-20261007142106.html",
-   "f": "2026-10-07T12:21:06Z",
-   "c": "vivienda"
-  },
-  {
-   "t": "Las Bolsas europeas se tiñen de rojo y el Ibex cae un 2% con el petróleo y la deuda al alza",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-07/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-10-07T11:57:27Z",
-   "c": "energia"
-  },
-  {
-   "t": "Euríbor hoy, miércoles 7 de octubre de 2026: la tasa diaria retoma la senda de la subida",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/vivienda/2026/10/07/6ac62feefc6c839c3c8b45b5.html",
-   "f": "2026-10-07T11:54:14Z",
-   "c": "tipos"
-  },
-  {
-   "t": "Los ciudadanos con cancelaciones o aplazamientos en cualquier actividad por las elecciones del 29-N tienen derecho al reembolso íntegro",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/los-ciudadanos-con-cancelaciones-aplazamientos-cualquier-actividad-por-las-elecciones-29-n-tienen-derecho-reembolso-integro_7045991_0.html",
-   "f": "2026-10-07T11:45:14Z",
    "c": "general"
   }
  ]
