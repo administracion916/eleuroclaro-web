@@ -1,61 +1,61 @@
 {
- "actualizado": "2026-10-07T09:40:38Z",
+ "actualizado": "2026-10-07T10:39:27Z",
  "items": [
   {
-   "t": "Oficial: el Congreso tramita la jubilación anticipada sin recortes para quienes tengan 40 años cotizados",
+   "t": "Mutua Madrileña compra un 10% de la plataforma de IA aplicada a los mercados Alter5",
    "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/10/07/6ac60bc4e85ecee56a8b459d.html",
-   "f": "2026-10-07T09:31:30Z",
-   "c": "pensiones"
-  },
-  {
-   "t": "David Jiménez, nuevo consejero delegado global de Softtek",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/noticia-david-jimenez-nuevo-consejero-delegado-global-softtek-20261007103238.html",
-   "f": "2026-10-07T08:32:38Z",
-   "c": "empresas"
-  },
-  {
-   "t": "Trabajo regularizó 47.200 falsos autónomos en 2025 al centrarse en las plataformas digitales",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261007/11653082/trabajo-regularizo-47-200-falsos-autonomos-2025-centrarse-plataformas-digitales.html",
-   "f": "2026-10-07T08:16:44Z",
-   "c": "empleo"
-  },
-  {
-   "t": "SpaceX sacude el mercado en búsqueda de 40.000 millones de dólares para comprar chips de Nvidia",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-07/spacex-sacude-el-mercado-en-busqueda-de-40000-millones-de-dolares-para-comprar-chips-de-nvidia.html",
-   "f": "2026-10-07T08:04:36Z",
+   "u": "https://www.elmundo.es/economia/2026/10/07/6ac61cd2fc6c83a02d8b45a0.html",
+   "f": "2026-10-07T10:34:39Z",
    "c": "tecnologia"
   },
   {
-   "t": "Kutxabank eleva la rentabilidad de su cuenta remunerada hasta el 3,10%",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/kutxabank-eleva-rentabilidad-su-cuenta-remunerada-hasta-3-10_7045836_0.html",
-   "f": "2026-10-07T08:03:29Z",
-   "c": "bancos"
+   "t": "Los sindicatos convocan la huelga general para el 11 de noviembre",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/2026/10/07/6ac61b9e468aebc3418b456d.html",
+   "f": "2026-10-07T10:31:55Z",
+   "c": "empleo"
   },
   {
-   "t": "Mario Conde, ante la crisis de la vivienda y la convocatoria de elecciones: \"Todo estaba pensado\"",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/vivienda/2026/10/07/6ac5f442e4d4d80b218b459c.html",
-   "f": "2026-10-07T08:01:22Z",
+   "t": "Las Bolsas europeas se tiñen de rojo con el petróleo al alza",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-07/la-bolsa-y-el-ibex-35.html",
+   "f": "2026-10-07T10:29:40Z",
+   "c": "energia"
+  },
+  {
+   "t": "BBVA Research alerta de que la crisis energética por la guerra en Oriente Próximo enquistará la inflación hasta 2027",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-07/bbva-research-alerta-de-que-el-shock-energetico-por-la-guerra-en-oriente-proximo-enquistara-la-inflacion-hasta-2027.html",
+   "f": "2026-10-07T10:17:53Z",
+   "c": "energia"
+  },
+  {
+   "t": "Auren crea un gigante internacional de más de 1.000 millones con la unión de varias firmas europeas",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-07/auren-crea-un-gigante-internacional-de-mas-de-1000-millones-con-la-union-de-varias-firmas-europeas.html",
+   "f": "2026-10-07T10:16:48Z",
+   "c": "empresas"
+  },
+  {
+   "t": "Los sindicatos de inquilinas proponen celebrar la huelga el 11 de noviembre, dos días antes de la campaña electoral",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/nacional/los-sindicatos-inquilinas-proponen-11-noviembre-para-celebrar-huelga-general-por-vivienda_7045934_0.html",
+   "f": "2026-10-07T10:16:04Z",
    "c": "vivienda"
   },
   {
-   "t": "El Ibex recorta con el petróleo al alza",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-07/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-10-07T07:37:28Z",
-   "c": "energia"
+   "t": "¿Cambiará tu nómina en enero de 2027? Así es el aumento progresivo del MEI hasta 2030",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/cambiara-tu-nomina-enero-2027-asi-es-aumento-progresivo-mei-hasta-2030_7045900_0.html",
+   "f": "2026-10-07T10:14:48Z",
+   "c": "empleo"
   },
   {
-   "t": "Georgieva (FMI) insta a abordar los retos del 'shock' energético, la deuda y la IA: \"Se acerca el invierno\"",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/macroeconomia-00338/noticia-georgieva-fmi-insta-abordar-retos-shock-energetico-deuda-ia-acerca-invierno-20261007093509.html",
-   "f": "2026-10-07T07:35:09Z",
-   "c": "energia"
+   "t": "Movistar Prosegur Alarmas se alía con Allianz para acelerar su crecimiento",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-07/movistar-prosegur-alarmas-se-alia-con-allianz-para-acelerar-su-crecimiento.html",
+   "f": "2026-10-07T10:10:03Z",
+   "c": "economia"
   }
  ]
 }
