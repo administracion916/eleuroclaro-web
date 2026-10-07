@@ -1,6 +1,27 @@
 {
- "actualizado": "2026-10-07T08:41:34Z",
+ "actualizado": "2026-10-07T09:40:38Z",
  "items": [
+  {
+   "t": "Oficial: el Congreso tramita la jubilación anticipada sin recortes para quienes tengan 40 años cotizados",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/10/07/6ac60bc4e85ecee56a8b459d.html",
+   "f": "2026-10-07T09:31:30Z",
+   "c": "pensiones"
+  },
+  {
+   "t": "David Jiménez, nuevo consejero delegado global de Softtek",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/noticia-david-jimenez-nuevo-consejero-delegado-global-softtek-20261007103238.html",
+   "f": "2026-10-07T08:32:38Z",
+   "c": "empresas"
+  },
+  {
+   "t": "Trabajo regularizó 47.200 falsos autónomos en 2025 al centrarse en las plataformas digitales",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261007/11653082/trabajo-regularizo-47-200-falsos-autonomos-2025-centrarse-plataformas-digitales.html",
+   "f": "2026-10-07T08:16:44Z",
+   "c": "empleo"
+  },
   {
    "t": "SpaceX sacude el mercado en búsqueda de 40.000 millones de dólares para comprar chips de Nvidia",
    "m": "Cinco Días",
@@ -35,27 +56,6 @@
    "u": "https://www.europapress.es/economia/macroeconomia-00338/noticia-georgieva-fmi-insta-abordar-retos-shock-energetico-deuda-ia-acerca-invierno-20261007093509.html",
    "f": "2026-10-07T07:35:09Z",
    "c": "energia"
-  },
-  {
-   "t": "Consumo expedienta a un portal inmobiliario y avisa de que vigilará el cumplimiento del nuevo decreto de vivienda",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261007/11653039/consumo-expedienta-portal-inmobiliario.html",
-   "f": "2026-10-07T07:28:39Z",
-   "c": "vivienda"
-  },
-  {
-   "t": "El Ibex 35 cae un 0,7% en la apertura y pierde los 19.400 puntos, con el petróleo a más de 101 dólares",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/bolsa-00348/noticia-ibex-35-cae-07-apertura-pierde-19400-puntos-petroleo-mas-101-dolares-20261007092237.html",
-   "f": "2026-10-07T07:22:37Z",
-   "c": "energia"
-  },
-  {
-   "t": "La oferta de viviendas en alquiler cae un 44% entre 2018 y 2025, con 393.000 viviendas menos, según idealista",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/construccion-y-vivienda-00342/noticia-oferta-viviendas-alquiler-cae-44-2018-2025-393000-viviendas-menos-idealista-20261007091723.html",
-   "f": "2026-10-07T07:17:23Z",
-   "c": "vivienda"
   }
  ]
 }
