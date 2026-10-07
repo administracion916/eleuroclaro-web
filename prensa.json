@@ -1,6 +1,34 @@
 {
- "actualizado": "2026-10-07T20:38:59Z",
+ "actualizado": "2026-10-07T22:38:44Z",
  "items": [
+  {
+   "t": "El Sindicato de Inquilinas destaca la lucha de Maricarmen y dice que “su legado nos hará más fuertes para salir a la calle”",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261008/11653720/sindicato-inquilinas-destaca-lucha-maricarmen-carga-rentismo-mata.html",
+   "f": "2026-10-07T22:05:00Z",
+   "c": "vivienda"
+  },
+  {
+   "t": "Un hotel (de diseño) muy Milán",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/empresas/2026/10/08/6abf850021efa091428b45ac.html",
+   "f": "2026-10-07T22:02:06Z",
+   "c": "transporte"
+  },
+  {
+   "t": "Déficit de 100.000 plazas en residencias y 40.000 camas hospitalarias: por qué España se ha convertido en uno de los focos de la inversión en 'ladrillo'…",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/empresas/2026/10/08/6ac5ff7721efa0ca2a8b4576.html",
+   "f": "2026-10-07T22:02:01Z",
+   "c": "impuestos"
+  },
+  {
+   "t": "¿Miedo a la okupación? Los hogares españoles tienen el triple de alarmas que Alemania, Francia o Italia",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/vivienda/2026/10/08/6ac62aa7fdddff6c3a8b457e.html",
+   "f": "2026-10-07T22:02:00Z",
+   "c": "vivienda"
+  },
   {
    "t": "El Sindicato de Inquilinas llama a la huelga general por la vivienda “para que no haya una Maricarmen más”",
    "m": "El País",
@@ -23,39 +51,11 @@
    "c": "empleo"
   },
   {
-   "t": "España resiste el giro de la UE contra China antes de una negociación decisiva para evitar la guerra comercial",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/10/07/6ac66a6be9cf4ab06e8b4575.html",
-   "f": "2026-10-07T16:58:53Z",
-   "c": "comercio"
-  },
-  {
    "t": "BNEW finaliza con más de 12.000 asistentes procedentes de 96 países",
    "m": "La Vanguardia",
    "u": "https://www.lavanguardia.com/economia/20261007/11653508/bnew-finaliza-mas-12-000-asistentes-procedentes-96-paises.html",
    "f": "2026-10-07T16:31:34Z",
    "c": "general"
-  },
-  {
-   "t": "Los propietarios alertan que la confusión por los decretos ya afecta al mercado",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261007/11653609/propietarios-alertan-confusion-decretos-afecta-mercado.html",
-   "f": "2026-10-07T16:30:08Z",
-   "c": "empresas"
-  },
-  {
-   "t": "Virgin Media O2 renueva el patrocinio de The O2 en Londres por 236 millones de euros",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-07/virgin-media-o2-renueva-el-patrocinio-de-the-o2-en-londres-por-236-millones-de-euros.html",
-   "f": "2026-10-07T16:25:43Z",
-   "c": "empresas"
-  },
-  {
-   "t": "La tensión de la deuda pública arrastra a Wall Street y vuelve a lastrar a la banca del Ibex, que cede 1,7%",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/dinero-inversion/2026/10/07/6aaa5018e4d4d86a2c8b4583.html",
-   "f": "2026-10-07T16:23:25Z",
-   "c": "impuestos"
   }
  ]
 }
