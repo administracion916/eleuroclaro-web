@@ -1,61 +1,61 @@
 {
- "actualizado": "2026-10-06T22:38:09Z",
+ "actualizado": "2026-10-07T05:09:03Z",
  "items": [
   {
-   "t": "Von der Leyen pide nuevos impuestos para evitar recortes en la UE",
-   "m": "Expansión",
-   "u": "https://www.expansion.com/economia/2026/10/07/6ac57173468aeb3e248b457d.html",
-   "f": "2026-10-06T22:29:07Z",
-   "c": "impuestos"
-  },
-  {
-   "t": "De la financiación autonómica a la Defensa del Cliente Financiero: todo lo que la parálisis legislativa deja en el cajón para el próximo inquilino de la Moncloa",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/10/07/6ac53a9fe4d4d8af048b45a8.html",
-   "f": "2026-10-06T22:01:14Z",
-   "c": "vivienda"
-  },
-  {
-   "t": "El adelanto electoral golpea dos veces a Red Eléctrica: complica el mayor plan inversor de su historia y deja a Corredor en el alero",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/empresas/2026/10/07/6ac4df63fc6c8321308b459e.html",
-   "f": "2026-10-06T22:01:12Z",
+   "t": "Las Bolsas europeas apuntan a la baja y el petróleo sube",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-07/la-bolsa-y-el-ibex-35.html",
+   "f": "2026-10-07T04:39:44Z",
    "c": "energia"
   },
   {
-   "t": "El apetito de Francia por el \"dinero mágico\" se ha convertido en una bomba de deuda",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/10/07/6ac5022921efa0cc2e8b458a.html",
-   "f": "2026-10-06T22:01:11Z",
+   "t": "Telefónica y Digi, las únicas que ganan clientes de móvil en lo que va de año",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261007/11652733/telefonica-digi-unicas-ganan-clientes-movil-ano.html",
+   "f": "2026-10-07T04:00:00Z",
    "c": "general"
   },
   {
-   "t": "Las tormentas provocan retrasos, desvíos y cancelaciones en los aeropuertos de Madrid-Barajas y El Prat",
+   "t": "El adelanto electoral pone en riesgo contratos por 6.000 millones a las empresas de defensa",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261007/11652717/adelanto-electoral-pone-riesgo-contratos-6-000-millones-empresas-defensa.html",
+   "f": "2026-10-07T04:00:00Z",
+   "c": "empresas"
+  },
+  {
+   "t": "Personas, empresas o grandes tenedores: ¿de quiénes son las viviendas en España?",
    "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-06/las-tormentas-provocan-retrasos-desvios-y-cancelaciones-en-los-aeropuertos-de-madrid-barajas-y-en-el-prat.html",
-   "f": "2026-10-06T20:35:55Z",
-   "c": "transporte"
+   "u": "https://elpais.com/economia/vivienda/2026-10-07/personas-empresas-o-grandes-tenedores-de-quienes-son-las-viviendas-en-espana.html",
+   "f": "2026-10-07T03:30:01Z",
+   "c": "vivienda"
   },
   {
-   "t": "Wall Street alcanza máximos históricos a pesar de las dudas sobre la deuda soberana",
+   "t": "La inmobiliaria no me avisó de que el piso que he comprado tenía una derrama importante. ¿Cómo puedo reclamar?",
+   "m": "El País",
+   "u": "https://elpais.com/economia/vivienda/consultorio/2026-10-07/la-inmobiliaria-no-me-aviso-de-que-el-piso-que-he-comprado-tenia-una-derrama-importante-como-puedo-reclamar.html",
+   "f": "2026-10-07T03:30:00Z",
+   "c": "vivienda"
+  },
+  {
+   "t": "El castigo a Francia añade presión al BCE en pleno repunte inflacionista",
    "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-06/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-10-06T20:13:55Z",
-   "c": "general"
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-07/el-castigo-a-francia-anade-presion-al-bce-en-pleno-repunte-inflacionista.html",
+   "f": "2026-10-07T03:25:00Z",
+   "c": "tipos"
   },
   {
-   "t": "El decreto que será convalidado incluye la cuenta europea de inversión",
-   "m": "Expansión",
-   "u": "https://www.expansion.com/economia/2026/10/06/6ac54a24e5fdea323d8b459a.html",
-   "f": "2026-10-06T19:21:16Z",
-   "c": "general"
+   "t": "La irrupción del francés BPCE en el Sabadell complica nuevas fusiones bancarias en España",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-07/la-irrupcion-del-frances-bcpe-en-el-sabadell-complica-nuevas-fusiones-bancarias-en-espana.html",
+   "f": "2026-10-07T03:15:00Z",
+   "c": "bancos"
   },
   {
-   "t": "¿Por qué sube el precio del seguro de coche si no he dado ningún parte? Te lo explicamos en un minuto",
+   "t": "El gasto vampiro doméstico que te puede costar un dineral: \"Puede incluso afectar a viviendas vecinas\"",
    "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/por-que-sube-precio-seguro-si-no-he-dado-parte_7045707_0.html",
-   "f": "2026-10-06T19:10:21Z",
-   "c": "transporte"
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/gasto-vampiro-domestico-que-te-puede-costar-un-dineral-puede-incluso-afectar-viviendas-vecinas_7043098_0.html",
+   "f": "2026-10-07T03:00:34Z",
+   "c": "vivienda"
   }
  ]
 }
