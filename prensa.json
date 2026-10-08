@@ -1,61 +1,61 @@
 {
- "actualizado": "2026-10-08T08:41:40Z",
+ "actualizado": "2026-10-08T09:40:56Z",
  "items": [
+  {
+   "t": "Huelga general el 11-N: ¿cuáles son mis derechos como trabajador o como empresa? ¿Qué ocurre con las nóminas? ¿Y las bajas?",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/empresas/2026/10/08/6ac7449021efa0db268b45b1.html",
+   "f": "2026-10-08T09:31:56Z",
+   "c": "empleo"
+  },
+  {
+   "t": "Las gasolinas ponen fin a sus subidas y se alejan de los dos euros por litro tras el alivio fiscal del Gobierno",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/las-gasolinas-ponen-fin-sus-subidas-se-alejan-los-dos-euros-por-litro-tras-alivio-fiscal-gobierno_7046431_0.html",
+   "f": "2026-10-08T09:23:14Z",
+   "c": "energia"
+  },
+  {
+   "t": "Samsung confirma su poder en la IA: el beneficio operativo se multiplica por nueve y los ingresos suben un 125%",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-08/samsung-confirma-su-poder-en-la-ia-el-beneficio-operativo-se-multiplica-por-nueve-y-los-ingresos-suben-un-125.html",
+   "f": "2026-10-08T09:08:56Z",
+   "c": "tecnologia"
+  },
+  {
+   "t": "Rodríguez afirma que Urbagestión no podrá especular con el piso de Maricarmen gracias al decreto de vivienda",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/construccion-y-vivienda-00342/noticia-rodriguez-afirma-urbagestion-no-podra-especular-piso-maricarmen-gracias-decreto-vivienda-20261008110333.html",
+   "f": "2026-10-08T09:03:33Z",
+   "c": "vivienda"
+  },
+  {
+   "t": "El presidente Illa pide reforzar puentes comerciales entre Catalunya y México",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261008/11654042/presidente-illa-pide-reforzar-puentes-comerciales-catalunya-mexico.html",
+   "f": "2026-10-08T08:44:51Z",
+   "c": "general"
+  },
+  {
+   "t": "El Ibex pierde los 19.000 puntos ante el alza del petróleo, que sube un 4%",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-08/la-bolsa-y-el-ibex-35.html",
+   "f": "2026-10-08T08:41:35Z",
+   "c": "energia"
+  },
+  {
+   "t": "Un vuelo de EasyJet con destino a Fuerteventura aterriza de emergencia en Liverpool por el desmayo del copiloto",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/10/08/6ac75719fdddff787d8b45b6.html",
+   "f": "2026-10-08T08:41:03Z",
+   "c": "transporte"
+  },
   {
    "t": "Amazon recorta plantilla en la división minorista tras prescindir de 30.000 personas en 2025",
    "m": "Cinco Días",
    "u": "https://cincodias.elpais.com/companias/2026-10-08/amazon-recorta-plantilla-en-la-division-minorista-tras-prescindir-de-30000-personas-en-2025.html",
    "f": "2026-10-08T08:28:00Z",
    "c": "empresas"
-  },
-  {
-   "t": "Las lluvias torrenciales han costado 117 millones de euros a las empresas, según Pimec",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261008/11653981/coste-lluvias-torrenciales-empresas.html",
-   "f": "2026-10-08T08:20:04Z",
-   "c": "empresas"
-  },
-  {
-   "t": "El precio del petróleo sube un 4% tras los nuevos ataques hutíes",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-08/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-10-08T08:09:42Z",
-   "c": "energia"
-  },
-  {
-   "t": "Nuevo marco para la vivienda: así queda el mercado residencial tras la entrada en vigor del decreto",
-   "m": "Expansión",
-   "u": "https://www.expansion.com/economia/2026/10/08/6ac684e9e5fdeac01c8b45ac.html",
-   "f": "2026-10-08T08:06:04Z",
-   "c": "vivienda"
-  },
-  {
-   "t": "La ley lo deja claro: los vecinos no tendrán que pagar las cuotas pendientes de la comunidad si han pasado 5 años",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/10/08/6ac746bce9cf4a28408b456d.html",
-   "f": "2026-10-08T08:05:41Z",
-   "c": "general"
-  },
-  {
-   "t": "El TecnoCampus inaugurará el curso 2026-2027 con una lección sobre el futuro de la Inteligencia Artificial",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/innovacion/20261008/11654012/tecnocampus-inaugurara-curso-2026-2027-leccion-sobre-futuro-inteligencia-artificial-brl.html",
-   "f": "2026-10-08T08:05:17Z",
-   "c": "tecnologia"
-  },
-  {
-   "t": "El Tribunal de Cuentas Europeo alerta del peso de la deuda sobre el próximo presupuesto de la UE",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/macroeconomia-00338/noticia-tribunal-cuentas-europeo-alerta-peso-deuda-proximo-presupuesto-ue-20261008095640.html",
-   "f": "2026-10-08T07:56:40Z",
-   "c": "comercio"
-  },
-  {
-   "t": "El dueño de Uniqlo gana un 25% más al cierre de su año fiscal",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/noticia-dueno-uniqlo-gana-25-mas-cierre-ano-fiscal-20261008093259.html",
-   "f": "2026-10-08T07:32:59Z",
-   "c": "impuestos"
   }
  ]
 }
