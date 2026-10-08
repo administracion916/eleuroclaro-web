@@ -1,6 +1,34 @@
 {
- "actualizado": "2026-10-08T06:47:18Z",
+ "actualizado": "2026-10-08T07:41:31Z",
  "items": [
+  {
+   "t": "El Ibex 35 abre con una caída del 1% y pierde los 19.000 puntos, con el petróleo a más de 103 dólares",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/bolsa-00348/noticia-ibex-35-abre-caida-pierde-19000-puntos-petroleo-mas-103-dolares-20261008091909.html",
+   "f": "2026-10-08T07:19:09Z",
+   "c": "energia"
+  },
+  {
+   "t": "Abanca ficha a Mário Centeno, exgobernador del Banco de Portugal, como consejero para su filial de seguros",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/finanzas-00340/noticia-abanca-ficha-mario-centeno-exgobernador-banco-portugal-consejero-filial-seguros-20261008091438.html",
+   "f": "2026-10-08T07:14:38Z",
+   "c": "bancos"
+  },
+  {
+   "t": "El Ibex cae un 1% con el petróleo por encima de los 103 dólares el barril",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-08/la-bolsa-y-el-ibex-35.html",
+   "f": "2026-10-08T07:11:07Z",
+   "c": "energia"
+  },
+  {
+   "t": "Samsung anticipa un beneficio operativo récord de 71.500 millones en el tercer trimestre, un 782% más",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/noticia-samsung-anticipa-beneficio-operativo-record-71500-millones-tercer-trimestre-782-mas-20261008090826.html",
+   "f": "2026-10-08T07:08:26Z",
+   "c": "empresas"
+  },
   {
    "t": "N26 da la batalla por captar ahorro en España con un fondo monetario al 2,57% y libre de comisiones hasta 2027",
    "m": "El Mundo",
@@ -23,38 +51,10 @@
    "c": "comercio"
   },
   {
-   "t": "Las Bolsas europeas apuntan a la baja con el petróleo por encima de los 102 dólares el barril",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-08/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-10-08T04:33:04Z",
-   "c": "energia"
-  },
-  {
    "t": "¿Te fías de un restaurante con la reseña perfecta? Deberías dudar",
    "m": "La Vanguardia",
    "u": "https://www.lavanguardia.com/economia/20261008/11653531/resenas-negocios-pablo-foncillas-pf-video-seo-lv.html",
    "f": "2026-10-08T04:00:00Z",
-   "c": "general"
-  },
-  {
-   "t": "Los auditores alertan de que la deuda de la UE rozará el billón de euros en 2027 y detectan irregularidades en el fondo de recuperación",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/los-auditores-alertan-que-deuda-ue-rozara-billon-euros-2027-detectan-irregularidades-fondo-recuperacion_7045797_0.html",
-   "f": "2026-10-08T04:00:00Z",
-   "c": "comercio"
-  },
-  {
-   "t": "Los costes disparatados del transporte impiden la caída del ‘brent’: añaden hasta 35 dólares a cada barril",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-08/los-costes-disparatados-del-transporte-impiden-la-caida-del-brent-anaden-hasta-35-dolares-a-cada-barril.html",
-   "f": "2026-10-08T03:30:01Z",
-   "c": "energia"
-  },
-  {
-   "t": "¿Dónde es festivo el viernes 9 y el lunes 12 de octubre según el calendario laboral?",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-08/donde-es-festivo-el-viernes-9-y-el-lunes-12-de-octubre-segun-el-calendario-laboral.html",
-   "f": "2026-10-08T03:30:01Z",
    "c": "general"
   }
  ]
