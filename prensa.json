@@ -1,19 +1,33 @@
 {
- "actualizado": "2026-10-08T19:39:40Z",
+ "actualizado": "2026-10-08T22:39:11Z",
  "items": [
+  {
+   "t": "La guerra de precios de la IA se intensifica y OpenAI le está ganando terreno a Anthropic",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/10/09/6ac77c57fc6c836c5f8b4577.html",
+   "f": "2026-10-08T22:03:32Z",
+   "c": "precios"
+  },
+  {
+   "t": "Cuando la búsqueda de trabajo es un infierno emocional",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/empresas/2026/10/09/6abf80c7fc6c8360178b4599.html",
+   "f": "2026-10-08T22:03:31Z",
+   "c": "general"
+  },
+  {
+   "t": "El Gobierno anunciará la subida de las pensiones el último día de la campaña electoral",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/10/08/6ac7778fe85ece903f8b4581.html",
+   "f": "2026-10-08T20:41:54Z",
+   "c": "pensiones"
+  },
   {
    "t": "Bruselas descarta dar más flexibilidad fiscal a los países por la crisis energética",
    "m": "Expansión",
    "u": "https://www.expansion.com/economia/2026/10/08/6ac7e632e5fdea3d398b4599.html",
    "f": "2026-10-08T18:51:37Z",
    "c": "energia"
-  },
-  {
-   "t": "25 años del accidente de Linate: la niebla, el radar averiado, la explosión y los 118 fallecidos que cambiaron la aviación italiana",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/10/08/6ac7e1cefc6c8321398b45aa.html",
-   "f": "2026-10-08T18:33:00Z",
-   "c": "general"
   },
   {
    "t": "Las actas del BCE dejan entrever que el alza de la deuda puede tener “implicaciones” en próximas decisiones",
@@ -41,20 +55,6 @@
    "m": "Cinco Días",
    "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-08/la-bolsa-y-el-ibex-35.html",
    "f": "2026-10-08T17:41:31Z",
-   "c": "empresas"
-  },
-  {
-   "t": "El crudo se dispara un 4% por los ataques en Ormuz",
-   "m": "Expansión",
-   "u": "https://www.expansion.com/economia/2026/10/08/6ac7ca68e5fdea8e2a8b4598.html",
-   "f": "2026-10-08T16:53:54Z",
-   "c": "general"
-  },
-  {
-   "t": "Starbucks ha estudiado comprar la cadena de comida mexicana Chipotle",
-   "m": "Expansión",
-   "u": "https://www.expansion.com/empresas/2026/10/08/6ac7c6de468aeb577d8b4574.html",
-   "f": "2026-10-08T16:38:14Z",
    "c": "empresas"
   }
  ]
