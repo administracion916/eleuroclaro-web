@@ -1,61 +1,61 @@
 {
- "actualizado": "2026-10-08T14:42:52Z",
+ "actualizado": "2026-10-08T15:42:16Z",
  "items": [
   {
-   "t": "El precio del petróleo sube más del 4% y añade más presión a deuda y Bolsas",
+   "t": "El sindicato de maquinistas Semaf llama a seis días de huelga en Ouigo",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-08/el-sindicato-de-maquinistas-semaf-llama-a-seis-dias-de-huelga-en-ouigo.html",
+   "f": "2026-10-08T15:24:26Z",
+   "c": "empleo"
+  },
+  {
+   "t": "Huelga general el 11-N: ¿cuáles son mis derechos como trabajador o como empresa? ¿Qué ocurre con las nóminas? ¿Y las bajas?",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/empresas/2026/10/08/6ac7449021efa0db268b45b1.html",
+   "f": "2026-10-08T15:13:08Z",
+   "c": "empleo"
+  },
+  {
+   "t": "Las pequeñas distribuidoras eléctricas piden anticipación en las inversiones en redes",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-08/las-pequenas-distribuidoras-electricas-piden-anticipacion-en-las-inversiones-en-redes.html",
+   "f": "2026-10-08T14:59:43Z",
+   "c": "energia"
+  },
+  {
+   "t": "Más de 220.000 euros de brecha en la renta separan al barrio más rico del más pobre de España",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/mas-220-000-euros-brecha-renta-separan-barrio-mas-rico-mas-pobre-espana_7046675_0.html",
+   "f": "2026-10-08T14:58:48Z",
+   "c": "general"
+  },
+  {
+   "t": "Siete grupos presentan ofertas de compra por los activos de Tubos Reunidos",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-08/siete-grupos-presentan-ofertas-de-compra-por-los-activos-de-tubos-reunidos.html",
+   "f": "2026-10-08T14:55:49Z",
+   "c": "empresas"
+  },
+  {
+   "t": "¿Cuál es el precio real del petróleo?",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/financial-times/2026/10/08/6ac7abf6e5fdeab1258b45ad.html",
+   "f": "2026-10-08T14:43:46Z",
+   "c": "energia"
+  },
+  {
+   "t": "Díaz da tres semanas a los expertos para que recomienden cuánto subir el salario mínimo sin que pierda poder adquisitivo",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-08/diaz-da-tres-semanas-a-los-expertos-para-que-recomienden-cuanto-subir-el-salario-minimo-sin-que-pierda-poder-adquisitivo.html",
+   "f": "2026-10-08T14:42:55Z",
+   "c": "empleo"
+  },
+  {
+   "t": "El precio del petróleo sube más del 5% y añade más presión a deuda y Bolsas",
    "m": "Cinco Días",
    "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-08/la-bolsa-y-el-ibex-35.html",
    "f": "2026-10-08T14:40:19Z",
    "c": "energia"
-  },
-  {
-   "t": "El 'boom' de turistas estadounidenses anima la expansión de los hoteles de lujo en España",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/empresas/boom-turistas-estadounidenses-anima-expansion-hoteles-lujo-espana_7046607_0.html",
-   "f": "2026-10-08T14:17:47Z",
-   "c": "transporte"
-  },
-  {
-   "t": "El BCE evita anticipar pistas sobre futuros movimientos y justifica su última subida de tipos: \"Es una decisión sólida en un amplío abanico de escenarios\"",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/actas-bce-evitan-adelantar-movimientos_7046614_0.html",
-   "f": "2026-10-08T14:11:49Z",
-   "c": "tipos"
-  },
-  {
-   "t": "El patrimonio de las familias crece un 13% y alcanza un nuevo máximo de 2,81 billones de euros",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-08/el-patrimonio-de-las-familias-crece-un-13-y-alcanza-un-nuevo-maximo-de-281-billones-de-euros.html",
-   "f": "2026-10-08T13:51:26Z",
-   "c": "general"
-  },
-  {
-   "t": "Yolanda Díaz da menos de un mes a los expertos para fijar la subida del salario mínimo de 2027",
-   "m": "Expansión",
-   "u": "https://www.expansion.com/economia/2026/10/08/6ac79902e5fdea56578b45b6.html",
-   "f": "2026-10-08T13:40:42Z",
-   "c": "empleo"
-  },
-  {
-   "t": "Cambios en las cuentas básicas gratuitas: qué son y quiénes pueden pedirlas",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/cambios-cuentas-basicas-gratuitas-que-son-quienes-pueden-pedirlas_7046626_0.html",
-   "f": "2026-10-08T13:38:15Z",
-   "c": "general"
-  },
-  {
-   "t": "La fiebre por la inteligencia artificial frena el golpe de la guerra en Oriente Próximo sobre el comercio mundial",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-08/la-fiebre-por-la-inteligencia-artificial-frena-el-golpe-de-la-guerra-en-oriente-proximo-sobre-el-comercio-mundial.html",
-   "f": "2026-10-08T13:00:00Z",
-   "c": "tecnologia"
-  },
-  {
-   "t": "Díaz acota los plazos y da a los expertos hasta el puente de Todos los Santos para fijar la subida del SMI y aprobarla antes del 29-N",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/10/08/6ac7936921efa00c2a8b4580.html",
-   "f": "2026-10-08T12:58:28Z",
-   "c": "empleo"
   }
  ]
 }
