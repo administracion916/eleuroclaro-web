@@ -1,19 +1,47 @@
 {
- "actualizado": "2026-10-08T13:42:08Z",
+ "actualizado": "2026-10-08T14:42:52Z",
  "items": [
+  {
+   "t": "El precio del petróleo sube más del 4% y añade más presión a deuda y Bolsas",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-08/la-bolsa-y-el-ibex-35.html",
+   "f": "2026-10-08T14:40:19Z",
+   "c": "energia"
+  },
+  {
+   "t": "El 'boom' de turistas estadounidenses anima la expansión de los hoteles de lujo en España",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/empresas/boom-turistas-estadounidenses-anima-expansion-hoteles-lujo-espana_7046607_0.html",
+   "f": "2026-10-08T14:17:47Z",
+   "c": "transporte"
+  },
+  {
+   "t": "El BCE evita anticipar pistas sobre futuros movimientos y justifica su última subida de tipos: \"Es una decisión sólida en un amplío abanico de escenarios\"",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/actas-bce-evitan-adelantar-movimientos_7046614_0.html",
+   "f": "2026-10-08T14:11:49Z",
+   "c": "tipos"
+  },
+  {
+   "t": "El patrimonio de las familias crece un 13% y alcanza un nuevo máximo de 2,81 billones de euros",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-08/el-patrimonio-de-las-familias-crece-un-13-y-alcanza-un-nuevo-maximo-de-281-billones-de-euros.html",
+   "f": "2026-10-08T13:51:26Z",
+   "c": "general"
+  },
   {
    "t": "Yolanda Díaz da menos de un mes a los expertos para fijar la subida del salario mínimo de 2027",
    "m": "Expansión",
    "u": "https://www.expansion.com/economia/2026/10/08/6ac79902e5fdea56578b45b6.html",
-   "f": "2026-10-08T13:22:48Z",
+   "f": "2026-10-08T13:40:42Z",
    "c": "empleo"
   },
   {
-   "t": "Yolanda Díaz mete prisa a sus expertos para subir el salario mínimo al menos lo mismo que la inflación",
+   "t": "Cambios en las cuentas básicas gratuitas: qué son y quiénes pueden pedirlas",
    "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/yolanda-diaz-mete-prisa-sus-expertos-para-subir-salario-minimo-menos-mismo-que-inflacion_7046609_0.html",
-   "f": "2026-10-08T13:18:26Z",
-   "c": "precios"
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/cambios-cuentas-basicas-gratuitas-que-son-quienes-pueden-pedirlas_7046626_0.html",
+   "f": "2026-10-08T13:38:15Z",
+   "c": "general"
   },
   {
    "t": "La fiebre por la inteligencia artificial frena el golpe de la guerra en Oriente Próximo sobre el comercio mundial",
@@ -23,39 +51,11 @@
    "c": "tecnologia"
   },
   {
-   "t": "Hogares y empresas rebajan su deuda a mínimos de veinticinco años por el tirón de la economía",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/hogares-empresas-rebajan-su-deuda-minimos-veinticinco-anos-por-tiron-economia_7046486_0.html",
-   "f": "2026-10-08T12:59:20Z",
-   "c": "empresas"
-  },
-  {
    "t": "Díaz acota los plazos y da a los expertos hasta el puente de Todos los Santos para fijar la subida del SMI y aprobarla antes del 29-N",
    "m": "El Mundo",
    "u": "https://www.elmundo.es/economia/2026/10/08/6ac7936921efa00c2a8b4580.html",
    "f": "2026-10-08T12:58:28Z",
    "c": "empleo"
-  },
-  {
-   "t": "Barrio rico, barrio pobre: la brecha de renta per cápita entre La Moraleja y Torreblanca supera los 220.000 euros",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-08/barrio-rico-barrio-pobre-la-brecha-de-renta-per-capita-entre-la-moraleja-y-torreblanca-supera-los-220000-euros.html",
-   "f": "2026-10-08T12:47:44Z",
-   "c": "general"
-  },
-  {
-   "t": "Díaz da de plazo a los expertos hasta primeros de noviembre para que planteen cuánto debe subir el SMI",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/laboral-00346/noticia-diaz-da-plazo-expertos-primeros-noviembre-presenten-propuesta-subida-smi-20261008144719.html",
-   "f": "2026-10-08T12:47:19Z",
-   "c": "empleo"
-  },
-  {
-   "t": "El Gobierno espera aprobar \"en breve\" y antes del 29N el real decreto de los centros de datos",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/noticia-gobierno-espera-aprobar-breve-antes-29n-real-decreto-centros-datos-20261008144602.html",
-   "f": "2026-10-08T12:46:02Z",
-   "c": "general"
   }
  ]
 }
