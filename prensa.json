@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-09T14:43:29Z",
+ "actualizado": "2026-10-09T15:41:07Z",
  "items": [
   {
    "t": "La UE alcanza un entendimiento con China para reducir la importación de coches híbridos a la mitad",
@@ -16,11 +16,25 @@
    "c": "transporte"
   },
   {
+   "t": "China confirma un acuerdo con Bruselas sobre vehículos híbridos, tierras raras y otras cuestiones comerciales",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/macroeconomia-00338/noticia-china-confirma-acuerdo-bruselas-vehiculos-hibridos-tierras-raras-otras-cuestiones-comerciales-20261009150804.html",
+   "f": "2026-10-09T13:08:04Z",
+   "c": "transporte"
+  },
+  {
    "t": "Los sindicatos registran la petición a la Seguridad Social para que adelante la jubilación a las trabajadoras de ayuda a domicilio",
    "m": "El País",
    "u": "https://elpais.com/economia/2026-10-09/los-sindicatos-registran-la-peticion-a-la-seguridad-social-para-que-adelante-la-jubilacion-a-las-trabajadoras-de-ayuda-a-domicilio.html",
    "f": "2026-10-09T12:55:49Z",
    "c": "pensiones"
+  },
+  {
+   "t": "La UE y China alejan la opción de una guerra comercial tras lograr \"consensos\" sobre coches híbridos y tierras raras",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/internacional/ue-china-alejan-opcion-una-guerra-comercial-tras-lograr-consensos-sobre-coches-hibridos-tierras-raras_7047163_0.html",
+   "f": "2026-10-09T12:52:48Z",
+   "c": "transporte"
   },
   {
    "t": "China y la UE pactan una tregua comercial sobre los coches híbridos mientras Europa exige frenar la avalancha de productos chinos",
@@ -42,20 +56,6 @@
    "u": "https://www.elmundo.es/economia/2026/10/09/6ac8981cfc6c836c5f8b45be.html",
    "f": "2026-10-09T12:25:46Z",
    "c": "general"
-  },
-  {
-   "t": "La UE avanza en la reforma de los mercados europeos entre críticas de la Comisión por falta de ambición",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-09/la-ue-avanza-en-la-reforma-de-los-mercados-europeos-entre-criticas-de-la-comision-por-falta-de-ambicion.html",
-   "f": "2026-10-09T12:24:25Z",
-   "c": "comercio"
-  },
-  {
-   "t": "La caída del precio del petróleo anima a las Bolsas europeas",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-09/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-10-09T12:16:48Z",
-   "c": "energia"
   }
  ]
 }
