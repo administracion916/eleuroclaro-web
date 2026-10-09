@@ -1,61 +1,61 @@
 {
- "actualizado": "2026-10-09T10:40:55Z",
+ "actualizado": "2026-10-09T11:37:48Z",
  "items": [
   {
-   "t": "Amparo Moraleda reivindica a Airbus como modelo europeo y urge a España a liderar en defensa",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/noticia-amparo-moraleda-reivindica-airbus-modelo-europeo-urge-espana-liderar-defensa-20261009122459.html",
-   "f": "2026-10-09T10:24:59Z",
+   "t": "El presidente de la CNMV, Carlos San Basilio, se incorpora a la máxima dirección del regulador europeo en un momento clave para los mercados",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/dinero-inversion/2026/10/09/6ac8ca80fdddffbf348b45b5.html",
+   "f": "2026-10-09T11:10:45Z",
    "c": "general"
   },
   {
-   "t": "La caída del precio del petróleo anima a las Bolsas europeas",
+   "t": "El Banco de España eleva al 2,6% su previsión de PIB este año, pero advierte de una inflación cercana al 4% hasta 2028",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/banco-espana-eleva-2-6-su-prevision-pib-este-ano-pero-advierte-una-inflacion-cercana-4-hasta-2028_7046850_0.html",
+   "f": "2026-10-09T11:07:16Z",
+   "c": "precios"
+  },
+  {
+   "t": "El Banco de España eleva al 2,6% su previsión de crecimiento para la economía este año, con una inflación del 3,9% al alza",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/2026/10/09/6ac7d696e5fdea8e2a8b45a7.html",
+   "f": "2026-10-09T11:06:26Z",
+   "c": "precios"
+  },
+  {
+   "t": "El Banco de España advierte de la caída de la inversión en vivienda e insta a acelerar la construcción de promociones protegidas",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/2026/10/09/6ac7e651468aebd97d8b4580.html",
+   "f": "2026-10-09T11:03:46Z",
+   "c": "vivienda"
+  },
+  {
+   "t": "Banco de España mantiene en un millón el déficit de vivienda en 2028 y evaluará los decretos del Gobierno",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/construccion-y-vivienda-00342/noticia-banco-espana-mantiene-millon-deficit-vivienda-2028-evaluara-decretos-gobierno-20261009130200.html",
+   "f": "2026-10-09T11:02:00Z",
+   "c": "vivienda"
+  },
+  {
+   "t": "Ryanair se queda a la estela de Vueling en Barcelona con una programación de invierno sin crecimiento",
    "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-09/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-10-09T10:24:20Z",
-   "c": "energia"
+   "u": "https://cincodias.elpais.com/companias/2026-10-09/ryanair-se-queda-a-la-estela-de-vueling-en-barcelona-con-una-programacion-de-invierno-sin-crecimiento.html",
+   "f": "2026-10-09T11:01:48Z",
+   "c": "economia"
   },
   {
-   "t": "El campo confirma sus movilizaciones contra la falta de respuesta del Gobierno a la subida del gasoil y habrá tractorada en Madrid el 28 de octubre",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/macroeconomia/2026/10/09/6ac8beeffc6c83466f8b45a3.html",
-   "f": "2026-10-09T10:21:40Z",
-   "c": "general"
-  },
-  {
-   "t": "Inditex recibe autorización de la Xunta para construir un parque eólico de autoconsumo en el puerto exterior de A Coruña",
+   "t": "Banco de España eleva el crecimiento del PIB al 2,6% este año y al 2,2% en 2027, pero empeora la inflación",
    "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/noticia-inditex-recibe-autorizacion-xunta-construir-parque-eolico-autoconsumo-puerto-exterior-coruna-20261009120935.html",
-   "f": "2026-10-09T10:09:35Z",
-   "c": "energia"
+   "u": "https://www.europapress.es/economia/macroeconomia-00338/noticia-banco-espana-eleva-crecimiento-pib-26-ano-22-2027-empeora-inflacion-20261009130051.html",
+   "f": "2026-10-09T11:00:51Z",
+   "c": "precios"
   },
   {
-   "t": "El Ibex 35 repunta un 1,15% en la media sesión y recupera los 19.100 punto con el crudo en 103 dólares",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/bolsa-00348/noticia-ibex-35-repunta-115-media-sesion-recupera-19100-punto-crudo-103-dolares-20261009120419.html",
-   "f": "2026-10-09T10:04:19Z",
-   "c": "empresas"
-  },
-  {
-   "t": "El presidente del Consejo Económico y Social pide un “pacto social” para integrar a los inmigrantes",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261009/11655110/presidente-consejo-economico-social-pide-pacto-social-integrar-inmigrantes.html",
-   "f": "2026-10-09T10:02:36Z",
-   "c": "general"
-  },
-  {
-   "t": "¿Todavía quedan depósitos por encima del 3%? Dónde encontrarlos en octubre",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/ahorro-y-consumo/2026/10/09/6ac4a6e2e9cf4a956a8b45b2.html",
-   "f": "2026-10-09T10:00:00Z",
-   "c": "general"
-  },
-  {
-   "t": "SpaceX provoca el hundimiento de los operadores de telecomunicaciones en bolsa al reforzarse para competir en el Internet móvil",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/empresas/2026/10/09/6ac8b0fae4d4d84d778b4581.html",
-   "f": "2026-10-09T09:38:20Z",
-   "c": "tecnologia"
+   "t": "El Banco de España mejora la previsión de crecimiento hasta el 2,6% para 2026 pero alerta de un duro repunte de la inflación",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-09/el-banco-de-espana-mejora-la-prevision-de-crecimiento-hasta-el-26-para-2026-pero-alerta-de-un-duro-repunte-de-la-inflacion.html",
+   "f": "2026-10-09T11:00:19Z",
+   "c": "precios"
   }
  ]
 }
