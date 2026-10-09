@@ -1,61 +1,61 @@
 {
- "actualizado": "2026-10-09T06:47:31Z",
+ "actualizado": "2026-10-09T07:41:05Z",
  "items": [
+  {
+   "t": "La caída del precio del petróleo anima a las Bolsas europeas",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-09/la-bolsa-y-el-ibex-35.html",
+   "f": "2026-10-09T07:39:44Z",
+   "c": "energia"
+  },
+  {
+   "t": "Telefónica y KKR ponen a la venta su filial de fibra en Chile por hasta 1.800 millones",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-09/telefonica-y-kkr-ponen-a-la-venta-su-filial-de-fibra-en-chile-por-hasta-1800-millones.html",
+   "f": "2026-10-09T07:29:09Z",
+   "c": "general"
+  },
+  {
+   "t": "SoftBank busca 100.000 millones de dólares entre inversores del Golfo Pérsico para sus aventuras en la IA",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-09/softbank-busca-100000-millones-de-dolares-entre-inversores-del-golfo-persico-para-sus-aventuras-en-la-ia.html",
+   "f": "2026-10-09T07:17:55Z",
+   "c": "tecnologia"
+  },
+  {
+   "t": "El Ibex 35 abre con un alza del 1,1% y supera los 19.100 puntos, con el petróleo cayendo a 103 dólares",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/bolsa-00348/noticia-ibex-35-abre-alza-11-supera-19100-puntos-petroleo-cayendo-103-dolares-20261009091120.html",
+   "f": "2026-10-09T07:11:20Z",
+   "c": "energia"
+  },
+  {
+   "t": "El Ministerio de Vivienda lanza la 'calculadora del alquiler' para que los inquilinos conozcan la subida máxima que se puede aplicar en su contrato",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/10/09/6ac89317fdddffbf348b4595.html",
+   "f": "2026-10-09T07:10:58Z",
+   "c": "vivienda"
+  },
+  {
+   "t": "La CNMC pide flexibilizar la obligación a los centros de datos de cubrir el 80% de su consumo con renovables",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/noticia-cnmc-pide-flexibilizar-obligacion-centros-datos-cubrir-80-consumo-renovables-20261009090520.html",
+   "f": "2026-10-09T07:05:20Z",
+   "c": "energia"
+  },
+  {
+   "t": "Jainaga y Tubacex se suman a la puja por los activos de Tubos Reunidos",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-09/jainaga-y-tubacex-se-suman-a-la-puja-por-los-activos-de-tubos-reunidos.html",
+   "f": "2026-10-09T07:01:01Z",
+   "c": "empresas"
+  },
   {
    "t": "Consumo multa con 750.000 euros la rifa de un coche de lujo de un 'youtuber' de Andorra",
    "m": "El Mundo",
    "u": "https://www.elmundo.es/economia/empresas/2026/10/09/6ac88a5ffdddff52648b456f.html",
    "f": "2026-10-09T06:32:16Z",
    "c": "transporte"
-  },
-  {
-   "t": "Grenergy cierra una financiación de 457 millones para impulsar nuevos proyectos renovables en Chile",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-09/grenergy-cierra-una-financiacion-de-457-millones-para-impulsar-nuevos-proyectos-renovables-en-chile.html",
-   "f": "2026-10-09T06:23:59Z",
-   "c": "energia"
-  },
-  {
-   "t": "La familia de una ex moderadora de Facebook reclamará una indemnización a Meta por su suicidio",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/empresas/2026/10/09/6ac884ff21efa0440a8b4586.html",
-   "f": "2026-10-09T06:10:34Z",
-   "c": "general"
-  },
-  {
-   "t": "Consumo multa a una empresa con 750.000 euros por sortear ilegalmente el Tesla del youtuber 'The Grefg'",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261009/11654531/consumo-multa-ebr-750-000-euros-sortear-ilegalmente-tesla-the-grefg.html",
-   "f": "2026-10-09T06:00:00Z",
-   "c": "empresas"
-  },
-  {
-   "t": "Las Bolsas europeas buscan el rebote con el petróleo a la baja",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-09/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-10-09T05:12:48Z",
-   "c": "energia"
-  },
-  {
-   "t": "Las ‘telecos’ españolas piden mediación a Bruselas para evitar que Telefónica les suba el alquiler de las canalizaciones",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261009/11654569/telecos-espanolas-piden-mediacion-bruselas-evitar-telefonica-les-suba-alquiler-canalizaciones.html",
-   "f": "2026-10-09T04:00:00Z",
-   "c": "vivienda"
-  },
-  {
-   "t": "El Govern incentiva devolver comercios a pie de calle para recuperar viviendas",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261009/11654548/govern-incentiva-devolver-comercios-pie-calle-recuperar-viviendas.html",
-   "f": "2026-10-09T04:00:00Z",
-   "c": "vivienda"
-  },
-  {
-   "t": "La UE urge a bajar los impuestos a la electricidad para hacerla más atractiva frente a los combustibles fósiles",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-09/la-ue-urge-a-bajar-los-impuestos-a-la-electricidad-para-hacerla-mas-atractiva-frente-a-los-combustibles-fosiles.html",
-   "f": "2026-10-09T03:45:01Z",
-   "c": "energia"
   }
  ]
 }
