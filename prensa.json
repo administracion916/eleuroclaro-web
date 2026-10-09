@@ -1,6 +1,27 @@
 {
- "actualizado": "2026-10-09T20:40:11Z",
+ "actualizado": "2026-10-09T22:39:11Z",
  "items": [
+  {
+   "t": "El sector turístico pierde casi una de cada 10 horas de trabajo por el absentismo en el verano",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/10/10/6ac8eecce85ece40788b45a3.html",
+   "f": "2026-10-09T22:03:44Z",
+   "c": "transporte"
+  },
+  {
+   "t": "La semana negra en España del desconocido mercado de personas trabajando para alimentar la IA que mueve miles de millones en todo el mundo",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/empresas/2026/10/10/6ac8f73fe85ecee9028b45ae.html",
+   "f": "2026-10-09T22:02:10Z",
+   "c": "tecnologia"
+  },
+  {
+   "t": "ONU Mujeres cifra en 5,8% la representación femenina entre los CEO: \"La estructura empresarial ha sido pensada por hombres y para hombres\"",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/empresas/2026/10/10/6ac3ab88e85ece3f128b4580.html",
+   "f": "2026-10-09T22:02:09Z",
+   "c": "empresas"
+  },
   {
    "t": "Trump anuncia un pacto con Putin para que Rusia surta de diésel al mercado mundial",
    "m": "Expansión",
@@ -35,27 +56,6 @@
    "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-09/jp-morgan-am-cree-que-el-mercado-descuenta-demasiadas-subidas-de-tipos.html",
    "f": "2026-10-09T16:30:16Z",
    "c": "tipos"
-  },
-  {
-   "t": "El Ibex 35 logra mantener los 19.000 puntos, pero cede un 0,27% en la semana",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/bolsa-00348/noticia-ibex-35-logra-mantener-19000-puntos-cede-027-semana-20261009180822.html",
-   "f": "2026-10-09T16:08:22Z",
-   "c": "empresas"
-  },
-  {
-   "t": "La Bolsa resiste las tensiones de la deuda en una semana de alta volatilidad",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-09/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-10-09T15:50:04Z",
-   "c": "empresas"
-  },
-  {
-   "t": "Ryanair pone a la venta sus primeras nuevas rutas de verano de 2027 con Alicante, Málaga, Sevilla y Reus",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/transportes-00343/noticia-ryanair-pone-venta-primeras-nuevas-rutas-verano-2027-alicante-malaga-sevilla-reus-20261009172313.html",
-   "f": "2026-10-09T15:23:13Z",
-   "c": "general"
   }
  ]
 }
