@@ -1,6 +1,48 @@
 {
- "actualizado": "2026-10-09T08:41:41Z",
+ "actualizado": "2026-10-09T09:41:13Z",
  "items": [
+  {
+   "t": "SpaceX provoca el hundimiento de los operadores de telecomunicaciones en bolsa al reforzarse para competir en el Internet móvil",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/empresas/2026/10/09/6ac8b0fae4d4d84d778b4581.html",
+   "f": "2026-10-09T09:38:20Z",
+   "c": "tecnologia"
+  },
+  {
+   "t": "La subida salarial media pactada en convenio sube hasta el 3,05% en septiembre",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/2026/10/09/6ac8b2a4468aebc20c8b459e.html",
+   "f": "2026-10-09T09:31:23Z",
+   "c": "empleo"
+  },
+  {
+   "t": "Bruselas añade dos proyectos más en España para impulsar las materias primas estratégicas en la UE",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-09/bruselas-anade-dos-proyectos-mas-en-espana-para-impulsar-las-materias-primas-estrategicas-en-la-ue.html",
+   "f": "2026-10-09T09:04:19Z",
+   "c": "comercio"
+  },
+  {
+   "t": "Sordo (CCOO) pide elevar el SMI y sitúa la subida de los salarios entre las reivindicaciones de la huelga",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/laboral-00346/noticia-sordo-ccoo-pide-elevar-smi-situa-subida-salarios-reivindicaciones-huelga-20261009110238.html",
+   "f": "2026-10-09T09:02:38Z",
+   "c": "empleo"
+  },
+  {
+   "t": "La subida salarial media pactada en convenio escala al 3,05% en septiembre, pero sigue lejos del IPC",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/laboral-00346/noticia-subida-salarial-media-pactada-convenio-escala-305-septiembre-sigue-lejos-ipc-20261009105335.html",
+   "f": "2026-10-09T08:53:35Z",
+   "c": "precios"
+  },
+  {
+   "t": "MyInvestor eleva al 3% TAE la rentabilidad de su depósito a seis meses para clientes que invierten",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-09/myinvestor-eleva-al-3-tae-la-rentabilidad-de-su-deposito-a-seis-meses-para-clientes-que-invierten.html",
+   "f": "2026-10-09T08:44:35Z",
+   "c": "general"
+  },
   {
    "t": "Puente admite que el Gobierno no fue \"suficientemente previsor\" con la vivienda durante su primer mandato",
    "m": "Europa Press",
@@ -14,48 +56,6 @@
    "u": "https://elpais.com/economia/formacion/2026-10-09/del-campo-al-turismo-aprender-para-vivir-de-lo-que-uno-ya-sabe-hacer.html",
    "f": "2026-10-09T08:09:53Z",
    "c": "transporte"
-  },
-  {
-   "t": "Competencia pide modular las exigencias más duras del decreto de centros de datos que tramita el Gobierno",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-09/competencia-pide-modular-las-exigencias-mas-duras-del-decreto-de-centros-de-datos-que-tramita-el-gobierno.html",
-   "f": "2026-10-09T08:03:56Z",
-   "c": "empresas"
-  },
-  {
-   "t": "Ha entrado en vigor: las tiendas tendrán que mostrar una nueva etiqueta sobre la garantía",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/10/09/6ac8981cfc6c836c5f8b45be.html",
-   "f": "2026-10-09T08:02:47Z",
-   "c": "general"
-  },
-  {
-   "t": "El Gobierno lanza la calculadora del alquiler: ¿cuánto subirá tu cuota mensual con el nuevo decreto?",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261009/11654939/ministerio-vivienda-lanza-calculadora-alquiler.html",
-   "f": "2026-10-09T07:49:11Z",
-   "c": "vivienda"
-  },
-  {
-   "t": "La caída del precio del petróleo anima a las Bolsas europeas",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-09/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-10-09T07:39:44Z",
-   "c": "energia"
-  },
-  {
-   "t": "Tractorada en Lleida para reclamar medidas para compensar el aumento de costes agrarios",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261009/11654946/tractorada-lleida-reclamar-medidas-compensar-aumento-costes-agrarios.html",
-   "f": "2026-10-09T07:31:09Z",
-   "c": "general"
-  },
-  {
-   "t": "Telefónica y KKR ponen a la venta su filial de fibra en Chile por hasta 1.800 millones",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-09/telefonica-y-kkr-ponen-a-la-venta-su-filial-de-fibra-en-chile-por-hasta-1800-millones.html",
-   "f": "2026-10-09T07:29:09Z",
-   "c": "general"
   }
  ]
 }
