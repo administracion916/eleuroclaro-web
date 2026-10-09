@@ -1,6 +1,20 @@
 {
- "actualizado": "2026-10-09T17:38:51Z",
+ "actualizado": "2026-10-09T18:43:11Z",
  "items": [
+  {
+   "t": "Alemania aspira a mantener su actual presencia en el BCE",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261009/11655511/alemania-aspira-mantener-actual-presencia-bce.html",
+   "f": "2026-10-09T17:35:19Z",
+   "c": "tipos"
+  },
+  {
+   "t": "Netflix planea despedir a 850 trabajadores, alrededor de un 5% de su plantilla",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/netflix-planea-despedir-850-trabajadores-alrededor-un-5-su-plantilla_7047302_0.html",
+   "f": "2026-10-09T17:19:49Z",
+   "c": "empleo"
+  },
   {
    "t": "CCOO y UGT solicitan a la Seguridad Social adelantar la jubilación de los trabajadores de ayuda a domicilio",
    "m": "20minutos",
@@ -41,20 +55,6 @@
    "m": "El País",
    "u": "https://elpais.com/economia/2026-10-09/la-ue-alcanza-un-entendimiento-con-china-para-reducir-la-importacion-de-coches-hibridos-a-la-mitad.html",
    "f": "2026-10-09T14:19:47Z",
-   "c": "transporte"
-  },
-  {
-   "t": "La UE y China alcanzan un acuerdo sobre los vehículos híbridos y las tierras raras",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261009/11654300/ue-china-alcanzan-acuerdo-sobre-vehiculos-hibridos-tierras-raras.html",
-   "f": "2026-10-09T13:38:30Z",
-   "c": "transporte"
-  },
-  {
-   "t": "China confirma un acuerdo con Bruselas sobre vehículos híbridos, tierras raras y otras cuestiones comerciales",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/macroeconomia-00338/noticia-china-confirma-acuerdo-bruselas-vehiculos-hibridos-tierras-raras-otras-cuestiones-comerciales-20261009150804.html",
-   "f": "2026-10-09T13:08:04Z",
    "c": "transporte"
   }
  ]
