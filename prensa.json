@@ -1,6 +1,13 @@
 {
- "actualizado": "2026-10-09T05:09:03Z",
+ "actualizado": "2026-10-09T05:40:06Z",
  "items": [
+  {
+   "t": "Las Bolsas europeas buscan el rebote con el petróleo a la baja",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-09/la-bolsa-y-el-ibex-35.html",
+   "f": "2026-10-09T05:12:48Z",
+   "c": "energia"
+  },
   {
    "t": "Las ‘telecos’ españolas piden mediación a Bruselas para evitar que Telefónica les suba el alquiler de las canalizaciones",
    "m": "La Vanguardia",
@@ -49,13 +56,6 @@
    "u": "https://cincodias.elpais.com/companias/2026-10-09/uniqlo-dobla-el-ritmo-de-crecimiento-de-inditex-y-reitera-su-objetivo-de-ser-el-numero-uno-global.html",
    "f": "2026-10-09T03:15:00Z",
    "c": "economia"
-  },
-  {
-   "t": "La banca ultima el plan de contingencia que remitirá al BCE para hacer frente a Mythos",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-09/la-banca-ultima-el-plan-de-contingencia-que-remitira-al-bce-para-hacer-frente-a-mythos.html",
-   "f": "2026-10-09T03:15:00Z",
-   "c": "tipos"
   }
  ]
 }
