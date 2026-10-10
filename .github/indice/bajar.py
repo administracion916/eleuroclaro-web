@@ -49,8 +49,8 @@ def main(carpeta):
     guardar(carpeta, "epf_tablas.json", epf or [])
     for t in epf or []:
         n = (t.get("Nombre") or "").lower()
-        if "edad" in n and ("grupo" in n or "subgrupo" in n or "gasto" in n):
-            guardar(carpeta, f"epf_{t['Id']}.json", leer(f"DATOS_TABLA/{t['Id']}?nult=3"))
+        if "edad" in n or "monetario" in n or t["Id"] in (73779, 73782):
+            guardar(carpeta, f"epf_{t['Id']}.json", leer(f"DATOS_TABLA/{t['Id']}?nult=2"))
 
 
 if __name__ == "__main__":
