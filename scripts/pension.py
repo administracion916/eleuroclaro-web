@@ -164,7 +164,7 @@ PLANTILLA = """<!doctype html>
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="/apple-touch-icon.png">
 <link rel="stylesheet" href="/fonts.css">
-<link rel="stylesheet" href="/style.css?v=20261010h">
+<link rel="stylesheet" href="/style.css?v=20261010i">
 <script type="application/ld+json">{faq}</script>
 </head>
 <body>
@@ -304,7 +304,7 @@ PLANTILLA = """<!doctype html>
   }});
 }})();
 </script>
-<script src="/suscribir.js?v=20261010b" defer></script>
+<script src="/suscribir.js?v=20261010c" defer></script>
 <!-- Cloudflare Web Analytics --><script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{{"token": "e81aecc33a6b40ccab86c1fbc9fa801c"}}'></script><!-- End Cloudflare Web Analytics -->
 </body>
 </html>

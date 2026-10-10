@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:20261014-ipceiravdeseptiembre@eleuroclaro.es
-DTSTAMP:20261010T173544Z
+DTSTAMP:20261010T173706Z
 DTSTART;VALUE=DATE:20261014
 SUMMARY:IPC e IRAV de septiembre (INE)
 DESCRIPTION:Lo que suben los precios y el índice de los alquileres. Tu c
@@ -20,7 +20,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:20261026-compraventadeviviendaseh@eleuroclaro.es
-DTSTAMP:20261010T173544Z
+DTSTAMP:20261010T173706Z
 DTSTART;VALUE=DATE:20261026
 SUMMARY:Compraventa de viviendas e hipotecas de agosto (INE)
 DESCRIPTION:Cuántas casas se venden y cuánto se pide de hipoteca de med
@@ -30,7 +30,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:20261027-paroyempleodeltercertrim@eleuroclaro.es
-DTSTAMP:20261010T173544Z
+DTSTAMP:20261010T173706Z
 DTSTART;VALUE=DATE:20261027
 SUMMARY:Paro y empleo del tercer trimestre (EPA) (INE)
 DESCRIPTION:Cuánta gente trabaja y cuánta busca trabajo.\nLo explicamos
@@ -40,7 +40,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:20261029-elbcedecidelostiposdeint@eleuroclaro.es
-DTSTAMP:20261010T173544Z
+DTSTAMP:20261010T173706Z
 DTSTART;VALUE=DATE:20261029
 SUMMARY:El BCE decide los tipos de interés (BCE)
 DESCRIPTION:Lo que decida mueve el Euríbor y tu hipoteca variable.\nLo e
@@ -50,7 +50,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:20261030-ipcadelantadodeoctubreyp@eleuroclaro.es
-DTSTAMP:20261010T173544Z
+DTSTAMP:20261010T173706Z
 DTSTART;VALUE=DATE:20261030
 SUMMARY:IPC adelantado de octubre y PIB del tercer trimestre (INE)
 DESCRIPTION:Primer dato de precios de octubre: cuenta para la subida de l
@@ -61,7 +61,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:20261113-ipceiravdeoctubre@eleuroclaro.es
-DTSTAMP:20261010T173544Z
+DTSTAMP:20261010T173706Z
 DTSTART;VALUE=DATE:20261113
 SUMMARY:IPC e IRAV de octubre (INE)
 DESCRIPTION:Precios y alquileres de octubre\, ya definitivos.\nLo explica
@@ -71,7 +71,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:20261117-compraventadeviviendasde@eleuroclaro.es
-DTSTAMP:20261010T173544Z
+DTSTAMP:20261010T173706Z
 DTSTART;VALUE=DATE:20261117
 SUMMARY:Compraventa de viviendas de septiembre (INE)
 DESCRIPTION:Cuántas casas se venden.\nLo explicamos en https://eleurocla
@@ -81,7 +81,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:20261125-hipotecasdeseptiembre@eleuroclaro.es
-DTSTAMP:20261010T173544Z
+DTSTAMP:20261010T173706Z
 DTSTART;VALUE=DATE:20261125
 SUMMARY:Hipotecas de septiembre (INE)
 DESCRIPTION:Cuántas hipotecas se firman\, por cuánto y a qué tipo.\nLo
@@ -91,7 +91,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:20261127-ipcadelantadodenoviembre@eleuroclaro.es
-DTSTAMP:20261010T173544Z
+DTSTAMP:20261010T173706Z
 DTSTART;VALUE=DATE:20261127
 SUMMARY:IPC adelantado de noviembre (INE)
 DESCRIPTION:Con este dato ya se sabe casi seguro cuánto suben las pensio
@@ -101,7 +101,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:20261204-preciodelaviviendadelter@eleuroclaro.es
-DTSTAMP:20261010T173544Z
+DTSTAMP:20261010T173706Z
 DTSTART;VALUE=DATE:20261204
 SUMMARY:Precio de la vivienda del tercer trimestre (INE)
 DESCRIPTION:Cuánto sube comprar casa\, nueva y de segunda mano.\nLo expl
@@ -111,7 +111,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:20261215-ipceiravdenoviembresubid@eleuroclaro.es
-DTSTAMP:20261010T173544Z
+DTSTAMP:20261010T173706Z
 DTSTART;VALUE=DATE:20261215
 SUMMARY:IPC e IRAV de noviembre: subida de las pensiones de 2027 (INE)
 DESCRIPTION:Último mes que cuenta: con este dato queda calculada la subi
@@ -122,7 +122,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:20261217-costelaboralysalariosdel@eleuroclaro.es
-DTSTAMP:20261010T173544Z
+DTSTAMP:20261010T173706Z
 DTSTART;VALUE=DATE:20261217
 SUMMARY:Coste laboral y salarios del tercer trimestre (INE)
 DESCRIPTION:Cuánto suben los sueldos frente a los precios.\nLo explicamo
@@ -132,7 +132,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:20261217-elbcedecidelostiposdeint@eleuroclaro.es
-DTSTAMP:20261010T173544Z
+DTSTAMP:20261010T173706Z
 DTSTART;VALUE=DATE:20261217
 SUMMARY:El BCE decide los tipos de interés (BCE)
 DESCRIPTION:Última reunión del año: mueve el Euríbor y tu hipoteca va
@@ -142,7 +142,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:20261218-hipotecasdeoctubre@eleuroclaro.es
-DTSTAMP:20261010T173544Z
+DTSTAMP:20261010T173706Z
 DTSTART;VALUE=DATE:20261218
 SUMMARY:Hipotecas de octubre (INE)
 DESCRIPTION:Cuántas hipotecas se firman\, por cuánto y a qué tipo.\nLo
@@ -152,7 +152,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:20261223-pibdeltercertrimestredat@eleuroclaro.es
-DTSTAMP:20261010T173544Z
+DTSTAMP:20261010T173706Z
 DTSTART;VALUE=DATE:20261223
 SUMMARY:PIB del tercer trimestre\, dato completo (INE)
 DESCRIPTION:Confirma o corrige el primer dato de octubre sobre cómo va l
@@ -162,7 +162,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:20261230-ipcadelantadodediciembre@eleuroclaro.es
-DTSTAMP:20261010T173544Z
+DTSTAMP:20261010T173706Z
 DTSTART;VALUE=DATE:20261230
 SUMMARY:IPC adelantado de diciembre (INE)
 DESCRIPTION:Cómo cierran los precios el año.\nLo explicamos en https://
