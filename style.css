@@ -479,3 +479,25 @@ img.presenta-avatar { object-fit: cover; filter: grayscale(1); }
 :root[data-theme="dark"] .t-op.t-mal { background: #3a1513; color: #f3a9a3; }
 :root[data-theme="dark"] .t-v-bien { color: #6fd39a; }
 :root[data-theme="dark"] .t-v-mal { color: #f08a82; }
+
+/* Calendario de datos (/calendario/, generado por scripts/calendario.py) */
+.cal-intro { max-width: 40rem; }
+.cal-nota { margin-top: 1rem; }
+.cal { max-width: 46rem; }
+.cal-mes { font-size: 1.35rem; margin: 2rem 0 .6rem; }
+.cal-mes:first-child { margin-top: 0; }
+.cal-lista { list-style: none; margin: 0; padding: 0; background: var(--bg); border: 1px solid var(--line); border-radius: .8rem; overflow: hidden; }
+.cal-ev { display: grid; grid-template-columns: 3.4rem minmax(0, 1fr); gap: .9rem; padding: .9rem 1rem; border-top: 1px solid var(--line); }
+.cal-ev:first-child { border-top: 0; }
+.cal-ev time { display: flex; flex-direction: column; align-items: center; line-height: 1.1; padding-top: .1rem; }
+.cal-dia { font-family: var(--font-display); font-weight: 600; font-size: 1.6rem; color: var(--gold-text); }
+.cal-sem { font-size: .72rem; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; color: var(--muted); }
+.cal-tit { margin: 0 0 .2rem; font-weight: 700; line-height: 1.35; }
+.cal-org { display: inline-block; margin-left: .3rem; padding: .05rem .4rem; border-radius: .3rem; font-size: .68rem; font-weight: 700; letter-spacing: .06em; vertical-align: .12em; color: var(--muted); border: 1px solid var(--line); }
+.cal-para { margin: 0; font-size: .95rem; color: var(--muted); }
+.cal-para a { white-space: nowrap; font-weight: 600; }
+.cal-pasado { opacity: .5; }
+.cal-proximo { background: var(--gold-soft); box-shadow: inset 4px 0 0 var(--gold); }
+.cal-proximo .cal-tit::before { content: "Próximo dato"; display: block; font-size: .7rem; letter-spacing: .08em; text-transform: uppercase; color: var(--gold-text); margin-bottom: .15rem; }
+.agenda-mas { margin: .4rem 0 0; font-size: .9rem; font-weight: 700; }
+.agenda-mas a { color: var(--sol); }
