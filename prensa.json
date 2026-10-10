@@ -1,6 +1,48 @@
 {
- "actualizado": "2026-10-10T19:36:42Z",
+ "actualizado": "2026-10-10T22:37:47Z",
  "items": [
+  {
+   "t": "Por qué el precio de la gasolina no baja, aunque el petróleo vuelve a cruzar Ormuz",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/macroeconomia/2026/10/11/6ac913fde4d4d8641f8b4589.html",
+   "f": "2026-10-10T22:07:33Z",
+   "c": "energia"
+  },
+  {
+   "t": "¿Quién mató a la renta fija?",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/macroeconomia/2026/10/11/6ac675e6e85ecec0768b458f.html",
+   "f": "2026-10-10T22:07:32Z",
+   "c": "general"
+  },
+  {
+   "t": "Will Bruey, el capitán de fábricas espaciales",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261011/11656071/capitan-fabricas-espaciales.html",
+   "f": "2026-10-10T22:05:00Z",
+   "c": "general"
+  },
+  {
+   "t": "El ‘shadow AI’ se propaga y aumenta riesgos en la empresa",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261011/11655470/shadow-ai-propaga-aumenta-riesgos-empresa.html",
+   "f": "2026-10-10T22:05:00Z",
+   "c": "empresas"
+  },
+  {
+   "t": "El riesgo compartido del puesto de trabajo",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261010/11656171/riesgo-compartido-puesto-trabajo.html",
+   "f": "2026-10-10T21:12:47Z",
+   "c": "general"
+  },
+  {
+   "t": "Correos se hunde en pleno auge del comercio online: 1.160 millones en pérdidas, menos plantilla y 13 días para que llegue una carta de Valencia a Madrid",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/empresas/2026/10/10/6ac922d5e9cf4a980b8b4598.html",
+   "f": "2026-10-10T20:54:29Z",
+   "c": "empresas"
+  },
   {
    "t": "Guía para inquilinos y propietarios: cómo afecta la nueva regulación de la vivienda",
    "m": "Expansión",
@@ -14,48 +56,6 @@
    "u": "https://www.expansion.com/economia/2026/10/10/6ac904bee5fdea1a648b4583.html",
    "f": "2026-10-10T19:06:18Z",
    "c": "vivienda"
-  },
-  {
-   "t": "Cómo sacar partido a la fiscalidad de la vivienda tras el nuevo decreto",
-   "m": "Expansión",
-   "u": "https://www.expansion.com/economia/2026/10/10/6ac907dd468aeb78798b457d.html",
-   "f": "2026-10-10T19:06:16Z",
-   "c": "vivienda"
-  },
-  {
-   "t": "El 60% de las empresas españolas con inteligencia artificial sigue en fase de pruebas",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/60-las-empresas-espanolas-con-inteligencia-artificial-sigue-fase-pruebas_7047498_0.html",
-   "f": "2026-10-10T16:24:16Z",
-   "c": "tecnologia"
-  },
-  {
-   "t": "General Dynamics nombra a Danny Deep como nuevo CEO a partir de enero de 2027",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/noticia-general-dynamics-nombra-danny-deep-nuevo-ceo-partir-enero-2027-20261010181056.html",
-   "f": "2026-10-10T16:10:56Z",
-   "c": "general"
-  },
-  {
-   "t": "A tortas por el dinero de los ricos: un negocio de 10.000 millones en comisiones que ningún banco se quiere perder",
-   "m": "El País",
-   "u": "https://elpais.com/economia/negocios/2026-10-10/a-tortas-por-el-dinero-de-los-ricos-un-negocio-de-10000-millones-en-comisiones-que-ningun-banco-se-quiere-perder.html",
-   "f": "2026-10-10T15:45:00Z",
-   "c": "bancos"
-  },
-  {
-   "t": "La UE concede a España un préstamo de 1.000 millones para defensa",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261010/11656052/ue-concede-espana-prestamo-1-000-millones-defensa.html",
-   "f": "2026-10-10T15:40:50Z",
-   "c": "bancos"
-  },
-  {
-   "t": "Palantir se dispara a máximos históricos en Bolsa y supera el medio billón de capitalización con el apoyo de Barclays y Goldman",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-10/palantir-se-dispara-a-maximos-historicos-en-bolsa-y-supera-el-medio-billon-de-capitalizacion-con-el-apoyo-de-barclays-y-goldman.html",
-   "f": "2026-10-10T14:01:37Z",
-   "c": "empresas"
   }
  ]
 }
