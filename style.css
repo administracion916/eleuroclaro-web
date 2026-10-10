@@ -432,3 +432,11 @@ img.presenta-avatar { object-fit: cover; filter: grayscale(1); }
 }
 @media (prefers-reduced-motion: reduce) { .hero-calc { transition: none; } .hero-calc:hover { transform: none; } }
 .calc-banda-fin { margin: 2rem 0 0; }
+
+/* Pensiones (/pension-2027/) */
+.pen-aviso { max-width: 44rem; margin: 1rem 0 0; font-size: .95rem; background: var(--gold-soft); padding: .8rem 1rem; border-radius: .5rem; }
+.pen-calc { max-width: 30rem; }
+.pen-label { font-weight: 700; }
+.pen-res { margin: 0; font-size: 1.05rem; }
+.pen-res strong { font-family: var(--font-display); font-size: 1.4rem; font-variant-numeric: tabular-nums; }
+.tabla .pend { color: var(--muted); font-style: italic; }
