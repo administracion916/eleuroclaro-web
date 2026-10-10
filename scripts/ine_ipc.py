@@ -5,6 +5,7 @@ busca entre las tablas de la operación IPC la de «índices nacionales: general
 las series de variación anual del total nacional. Lo usa la calculadora /inflacion/.
 Si algo no cuadra (menos de 12 grupos, sin índice general o cifras fuera de rango), no escribe nada y
 termina con error, para que la web siga con el último dato bueno.
+También guarda la tasa anual del índice general de los últimos meses (general_historia).
 Uso: python3 scripts/ine_ipc.py datos/ipc-grupos.json
 """
 import json
@@ -64,12 +65,12 @@ def candidatas():
 
 
 def extraer(tabla_id):
-    """Devuelve (general, periodo, grupos) del último mes en que el INE da el general y al menos 12 grupos.
+    """Devuelve (general, periodo, grupos, historia) del último mes en que el INE da el general y al menos 12 grupos.
 
     Los nombres de las series son del tipo «Nacional. Alimentos y bebidas no alcohólicas. Variación anual.»
     (sin código de grupo): el código se pone por el orden en que los da el INE, que es el de la ECOICOP.
     """
-    series = leer(f"DATOS_TABLA/{tabla_id}?nult=3")
+    series = leer(f"DATOS_TABLA/{tabla_id}?nult=24")
     log(f"Tabla {tabla_id}: {len(series)} series; ejemplos: " + " | ".join((s.get("Nombre") or "")[:70] for s in series[:4]))
     general, grupos = {}, []
     for s in series:
@@ -89,15 +90,15 @@ def extraer(tabla_id):
     for p in periodos:
         lista = [{"codigo": f"{i + 1:02d}", "nombre": n, "tasa": v[p]} for i, (n, v) in enumerate(grupos) if p in v]
         if len(lista) >= 12 and len(lista) == len(grupos):
-            return general[p], p, lista
-    return (general[max(general)] if general else None), None, []
+            return general[p], p, lista, general
+    return (general[max(general)] if general else None), None, [], general
 
 
 def main():
     salida = sys.argv[1]
     for t in candidatas():
         try:
-            general, periodo, grupos = extraer(t["Id"])
+            general, periodo, grupos, historia = extraer(t["Id"])
         except SystemExit as e:
             log(f"Tabla {t['Id']}: {e}")
             continue
@@ -116,6 +117,8 @@ def main():
             "mes": mes,
             "general": general,
             "grupos": lista,
+            # Tasa anual del índice general de cada mes publicado (la usa /pension-2027/).
+            "general_historia": [{"anyo": a, "mes": m, "tasa": historia[(a, m)]} for a, m in sorted(historia)],
             "fuente": f"INE, Índice de Precios de Consumo, variación anual por grupos (tabla {t['Id']})",
             "tabla": t["Id"],
         }
