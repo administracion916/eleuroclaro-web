@@ -1,6 +1,27 @@
 {
- "actualizado": "2026-10-10T08:39:31Z",
+ "actualizado": "2026-10-10T10:38:05Z",
  "items": [
+  {
+   "t": "Putin confirma el acuerdo con Trump para el suministro de crudo a EEUU y al mercado mundial",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/2026/10/10/6aca05fa468aebb0518b4582.html",
+   "f": "2026-10-10T09:48:59Z",
+   "c": "comercio"
+  },
+  {
+   "t": "La presidencia irlandesa se acerca a los frugales y se aleja de España al proponer un recorte en el próximo presupuesto de la UE de más de 140.000 millones",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/macroeconomia/2026/10/10/6aca056ce4d4d85f2e8b459a.html",
+   "f": "2026-10-10T09:40:45Z",
+   "c": "comercio"
+  },
+  {
+   "t": "La presidencia del Consejo de la UE pone sobre la mesa un recorte del 8% en el próximo presupuesto europeo",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/noticia-presidencia-consejo-ue-pone-mesa-recorte-proximo-presupuesto-europeo-20261010112557.html",
+   "f": "2026-10-10T09:25:57Z",
+   "c": "comercio"
+  },
   {
    "t": "Gonzalo Bernardos, economista, ante la decisión del Gobierno de aprobar los decretos: \"Sugiero dejar las viviendas vacías hasta que vuelva la seguridad…",
    "m": "20minutos",
@@ -23,39 +44,18 @@
    "c": "empresas"
   },
   {
+   "t": "Los barrios más ricos y pobres de España: consulta la renta de tu calle",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/construccion-y-vivienda-00342/noticia-mapa-barrios-mas-ricos-pobres-espana-consulta-renta-calle-20261010085950.html",
+   "f": "2026-10-10T06:59:50Z",
+   "c": "general"
+  },
+  {
    "t": "¿Realmente funciona la cartera permanente? Un experto la analiza y despeja todas las dudas",
    "m": "20minutos",
    "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/realmente-funciona-cartera-permanente-un-experto-analiza-despeja-todas-las-dudas_7028664_0.html",
    "f": "2026-10-10T05:00:00Z",
    "c": "general"
-  },
-  {
-   "t": "El salario crece más que el IPC pero mucho menos que la vivienda desde el paro de 2012",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261010/11655528/salario-crece-mas-ipc-vivienda-paro-2012.html",
-   "f": "2026-10-10T04:10:00Z",
-   "c": "vivienda"
-  },
-  {
-   "t": "Culmia invertirá 455 millones en promociones en Catalunya",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261010/11655534/culmia-invertira-455-millones-promociones-catalunya.html",
-   "f": "2026-10-10T04:00:00Z",
-   "c": "general"
-  },
-  {
-   "t": "Europa tiene que reducir su demanda de gas un 7% ante las reservas más bajas desde el 2011",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261010/11655529/europa-reducir-demanda-gas-7-reservas-mas-bajas-2011.html",
-   "f": "2026-10-10T04:00:00Z",
-   "c": "energia"
-  },
-  {
-   "t": "El sindicalismo alternativo toma vuelo con las Inquilinas en dirección a la huelga general",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-10/el-sindicalismo-alternativo-toma-vuelo-con-las-inquilinas-en-direccion-a-la-huelga-general.html",
-   "f": "2026-10-10T03:45:01Z",
-   "c": "vivienda"
   }
  ]
 }
