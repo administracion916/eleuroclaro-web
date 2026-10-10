@@ -1,0 +1,137 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Test de dinero: ¿aciertas más que la media? 7 preguntas · El Euro Claro</title>
+<meta name="description" content="7 preguntas rápidas sobre inflación, intereses, nómina, hipoteca y alquiler. Comprueba si sabes más que la media de España (datos del Banco de España) y reta a tus amigos.">
+<meta name="theme-color" content="#0e2a47">
+<meta property="og:site_name" content="El Euro Claro">
+<meta property="og:title" content="Test de dinero: ¿aciertas más que la media?">
+<meta property="og:description" content="7 preguntas, 2 minutos. Solo el 41 % de los españoles acierta la del interés compuesto.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://eleuroclaro.es/test/">
+<meta property="og:locale" content="es_ES">
+<meta property="og:image" content="https://eleuroclaro.es/img/og-test.png">
+<meta property="og:image:type" content="image/png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Test de dinero de El Euro Claro: 7 preguntas. ¿Aciertas más que la media?">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="canonical" href="https://eleuroclaro.es/test/">
+<!-- Página en una subcarpeta: todas las rutas son absolutas (empiezan por /). -->
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="stylesheet" href="/fonts.css">
+<link rel="stylesheet" href="/style.css?v=20261010f">
+</head>
+<body>
+
+<header class="top">
+  <div class="wrap">
+    <a class="brand" href="/" aria-label="El Euro Claro, inicio">
+      <svg class="coin" viewBox="0 0 40 40" aria-hidden="true"><circle cx="20" cy="20" r="18" fill="#f4c51a"/><circle cx="20" cy="20" r="14.5" fill="none" stroke="#0e2a47" stroke-width="1.2" opacity=".45"/><text x="20" y="26.5" text-anchor="middle" font-family="Georgia, serif" font-size="19" font-weight="700" fill="#10294a">€</text></svg>
+      El Euro Claro
+    </a>
+    <nav class="nav" aria-label="Secciones">
+      <a href="/#noticias">Noticias</a>
+      <a href="/#videos">Vídeos</a>
+      <a href="/inflacion/">Calculadora</a>
+      <a href="/#kit">Kit</a>
+      <a href="/empresas/">Empresas</a>
+      <a href="/#newsletter">Newsletter</a>
+      <a href="/libros/">Libros</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <section class="section page-head test-head">
+    <div class="wrap">
+      <div class="test" id="t-inicio">
+        <p class="eyebrow">Test de dinero · 7 preguntas · 2 minutos</p>
+        <h1>¿Sabes de dinero más que <em>la media</em>?</h1>
+        <p class="intro">Inflación, intereses, nómina, hipoteca y alquiler. En las preguntas básicas del Banco de España, la media de aciertos en España es del 53&nbsp;%. Y solo el 41&nbsp;% acierta la del interés compuesto.</p>
+        <p class="t-reto" id="t-reto" hidden></p>
+        <button class="btn btn-sol t-empezar" type="button" id="t-empezar">Empezar el test</button>
+        <p class="small">Sin registrarte y sin guardar nada: tus respuestas no salen de tu móvil.</p>
+      </div>
+
+      <div class="test t-caja" id="t-caja" hidden>
+        <p class="t-num" id="t-num"></p>
+        <div class="t-progreso" aria-hidden="true"><span id="t-barra"></span></div>
+        <h2 class="t-q" id="t-q" tabindex="-1"></h2>
+        <div class="t-ops" id="t-ops"></div>
+        <div class="t-exp" id="t-exp" hidden aria-live="polite">
+          <p id="t-veredicto"></p>
+          <p id="t-x"></p>
+          <p class="small" id="t-dato" hidden></p>
+          <p><a id="t-enlace" href="/" hidden></a></p>
+          <button class="btn btn-primary" type="button" id="t-sig">Siguiente pregunta</button>
+        </div>
+      </div>
+
+      <div class="test t-fin" id="t-fin" hidden tabindex="-1">
+        <p class="eyebrow">Tu resultado</p>
+        <p class="t-nota" id="t-nota"></p>
+        <p class="t-frase" id="t-frase"></p>
+        <p class="t-vs" id="t-vs" hidden></p>
+        <h2>Reta a tu familia o a tus amigos</h2>
+        <div class="actions">
+          <button class="btn btn-sol" type="button" id="t-compartir">Compartir mi resultado</button>
+          <a class="btn btn-ghost" id="t-wa" href="https://wa.me/" rel="noopener" target="_blank">Enviar por WhatsApp</a>
+        </div>
+        <p class="small">Les llegará tu nota y podrán intentar ganarte.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="section alt" id="newsletter" aria-labelledby="nl-tit">
+    <div class="wrap news">
+      <div>
+        <p class="eyebrow">Newsletter · domingos · gratis</p>
+        <h2 id="nl-tit">Sube nota cada domingo</h2>
+        <p class="intro">En 3 minutos, las noticias de la semana que tocan tu bolsillo, explicadas con ejemplos en euros y datos oficiales.</p>
+        <p class="regalo">De regalo al apuntarte: la guía de una página <strong>«Cómo leer tu nómina en 2 minutos»</strong>.</p>
+      </div>
+      <form class="signup" data-campana="test" novalidate>
+        <label for="email">Tu correo electrónico</label>
+        <input type="email" id="email" name="email" placeholder="nombre@correo.es" autocomplete="email" required>
+        <label class="consent" for="consent">
+          <input type="checkbox" id="consent" name="consent" required>
+          <span>Quiero recibir la newsletter y he leído la <a href="/privacidad.html">política de privacidad</a>.</span>
+        </label>
+        <button class="btn btn-primary" type="submit">Apuntarme gratis</button>
+        <p class="msg" role="status"></p>
+        <p class="fine">Odana Ingeniería SL usará tu correo para enviarte la newsletter semanal, que puede incluir publicidad marcada y ofertas de nuestros productos, con tu consentimiento. Lo guarda nuestra plataforma de envíos, Substack (EE. UU.). Puedes darte de baja cuando quieras y ejercer tus derechos en hola@eleuroclaro.es. Más información en la <a href="/privacidad.html">política de privacidad</a>.</p>
+      </form>
+    </div>
+  </section>
+
+  <section class="section" aria-labelledby="fuentes">
+    <div class="wrap prose">
+      <h2 id="fuentes">De dónde salen los datos</h2>
+      <p>Los porcentajes de aciertos son de la Encuesta de Competencias Financieras 2021 del Banco de España y la CNMV (<a href="https://clientebancario.bde.es/pcb/es/blog/cambia-el-nivel-de-cultura-financiera-de-los-espanoles-segun-su-edad-.html" rel="noopener">resumen en el Portal del Cliente Bancario</a>). Las preguntas de este test no son las mismas de la encuesta, sino parecidas. La fianza del alquiler es la del artículo 36 de la Ley de Arrendamientos Urbanos.</p>
+      <p class="small note-legal">Contenido divulgativo. No es asesoramiento financiero.</p>
+    </div>
+  </section>
+</main>
+
+<footer class="foot">
+  <div class="wrap">
+    <p class="lema">La economía de tu bolsillo, en euros claros.</p>
+    <nav aria-label="Legal">
+      <a href="/aviso-legal.html">Aviso legal</a>
+      <a href="/privacidad.html">Privacidad</a>
+      <a href="/cookies.html">Cookies</a>
+      <span>Contacto: <span class="mail">hola@eleuroclaro.es</span></span>
+    </nav>
+    <p class="disclaimer">El Euro Claro es un medio divulgativo. La información es general y no constituye asesoramiento financiero ni una recomendación de comprar o vender ningún producto. Algunos enlaces pueden ser de afiliado y se indica cuando lo son.</p>
+    <p>© 2026 El Euro Claro · Odana Ingeniería SL</p>
+  </div>
+</footer>
+<script src="/test/test.js?v=20261010a" defer></script>
+<script src="/suscribir.js?v=20261010b" defer></script>
+<!-- Cloudflare Web Analytics --><script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "e81aecc33a6b40ccab86c1fbc9fa801c"}'></script><!-- End Cloudflare Web Analytics -->
+</body>
+</html>
