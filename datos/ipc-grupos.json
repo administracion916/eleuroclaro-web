@@ -71,6 +71,128 @@
    "tasa": 3.2
   }
  ],
+ "general_historia": [
+  {
+   "anyo": 2024,
+   "mes": 10,
+   "tasa": 1.8
+  },
+  {
+   "anyo": 2024,
+   "mes": 11,
+   "tasa": 2.4
+  },
+  {
+   "anyo": 2024,
+   "mes": 12,
+   "tasa": 2.8
+  },
+  {
+   "anyo": 2025,
+   "mes": 1,
+   "tasa": 2.9
+  },
+  {
+   "anyo": 2025,
+   "mes": 2,
+   "tasa": 3.0
+  },
+  {
+   "anyo": 2025,
+   "mes": 3,
+   "tasa": 2.3
+  },
+  {
+   "anyo": 2025,
+   "mes": 4,
+   "tasa": 2.2
+  },
+  {
+   "anyo": 2025,
+   "mes": 5,
+   "tasa": 2.0
+  },
+  {
+   "anyo": 2025,
+   "mes": 6,
+   "tasa": 2.3
+  },
+  {
+   "anyo": 2025,
+   "mes": 7,
+   "tasa": 2.7
+  },
+  {
+   "anyo": 2025,
+   "mes": 8,
+   "tasa": 2.7
+  },
+  {
+   "anyo": 2025,
+   "mes": 9,
+   "tasa": 3.0
+  },
+  {
+   "anyo": 2025,
+   "mes": 10,
+   "tasa": 3.1
+  },
+  {
+   "anyo": 2025,
+   "mes": 11,
+   "tasa": 3.0
+  },
+  {
+   "anyo": 2025,
+   "mes": 12,
+   "tasa": 2.9
+  },
+  {
+   "anyo": 2026,
+   "mes": 1,
+   "tasa": 2.3
+  },
+  {
+   "anyo": 2026,
+   "mes": 2,
+   "tasa": 2.3
+  },
+  {
+   "anyo": 2026,
+   "mes": 3,
+   "tasa": 3.4
+  },
+  {
+   "anyo": 2026,
+   "mes": 4,
+   "tasa": 3.2
+  },
+  {
+   "anyo": 2026,
+   "mes": 5,
+   "tasa": 3.2
+  },
+  {
+   "anyo": 2026,
+   "mes": 6,
+   "tasa": 3.2
+  },
+  {
+   "anyo": 2026,
+   "mes": 7,
+   "tasa": 3.6
+  },
+  {
+   "anyo": 2026,
+   "mes": 8,
+   "tasa": 4.3
+  },
+  {
+   "anyo": 2026,
+   "mes": 9,
+   "tasa": 4.9
+  }
+ ],
  "fuente": "INE, Índice de Precios de Consumo, variación anual por grupos (tabla 79181)",
  "tabla": 79181
 }
