@@ -20,6 +20,20 @@ MESES = ["enero", "febrero", "marzo", "abril", "mayo", "junio", "julio", "agosto
          "septiembre", "octubre", "noviembre", "diciembre"]
 
 
+REGISTRO = []
+
+
+def log(texto):
+    """Escribe en el registro de la tarea y lo guarda para el resumen (anotación de GitHub)."""
+    print(texto)
+    REGISTRO.append(str(texto))
+
+
+def resumen():
+    if REGISTRO:
+        print("::notice title=INE IPC::" + "%0A".join(x.replace("%", "%25").replace("\n", " ") for x in REGISTRO[-60:]))
+
+
 def leer(ruta):
     for intento in range(3):
         try:
@@ -27,7 +41,7 @@ def leer(ruta):
             with urllib.request.urlopen(req, timeout=60) as r:
                 return json.load(r)
         except Exception as e:  # noqa: BLE001
-            print(f"Aviso: {ruta}: {e}", file=sys.stderr)
+            log(f"Aviso: {ruta}: {e}")
             time.sleep(5 * (intento + 1))
     raise SystemExit(f"No se pudo leer {ruta}")
 
@@ -39,9 +53,12 @@ def candidatas():
         n = (t.get("Nombre") or "").lower()
         if "grupos" in n and "nacional" in n and "subgrupos" not in n and "especial" not in n and "ponderac" not in n:
             out.append(t)
-    print("Tablas candidatas:")
+    log(f"Tablas del IPC: {len(tablas)}; candidatas:")
     for t in out:
-        print(f"  {t.get('Id')}: {t.get('Nombre')} (última modificación {t.get('Ultima_Modificacion')})")
+        log(f"  {t.get('Id')}: {t.get('Nombre')}")
+    if not out:
+        for t in tablas[:40]:
+            log(f"  (todas) {t.get('Id')}: {t.get('Nombre')}")
     # Las más nuevas primero: con el cambio de base, la tabla vigente es la de Id más alto.
     return sorted(out, key=lambda t: int(t.get("Id") or 0), reverse=True)
 
@@ -49,6 +66,7 @@ def candidatas():
 def extraer(tabla_id):
     series = leer(f"DATOS_TABLA/{tabla_id}?nult=1")
     general, grupos, periodo = None, {}, None
+    log(f"Tabla {tabla_id}: {len(series)} series; ejemplos: " + " | ".join((s.get("Nombre") or "")[:70] for s in series[:4]))
     for s in series:
         nombre = (s.get("Nombre") or "").strip()
         bajo = nombre.lower()
@@ -72,13 +90,17 @@ def extraer(tabla_id):
 def main():
     salida = sys.argv[1]
     for t in candidatas():
-        general, periodo, grupos = extraer(t["Id"])
-        print(f"Tabla {t['Id']}: general={general} periodo={periodo} grupos={len(grupos)}")
+        try:
+            general, periodo, grupos = extraer(t["Id"])
+        except SystemExit as e:
+            log(f"Tabla {t['Id']}: {e}")
+            continue
+        log(f"Tabla {t['Id']}: general={general} periodo={periodo} grupos={len(grupos)}")
         if general is None or len(grupos) < 12:
             continue
         lista = [g for g in sorted(grupos.values(), key=lambda g: g["codigo"]) if g["periodo"] == periodo]
         if len(lista) < 12 or not all(-30 < g["tasa"] < 60 for g in lista) or not -10 < general < 30:
-            print("  Descartada: grupos de otro mes o cifras fuera de rango")
+            log("  Descartada: grupos de otro mes o cifras fuera de rango")
             continue
         anyo, mes = periodo
         datos = {
@@ -92,14 +114,17 @@ def main():
             "tabla": t["Id"],
         }
         for g in datos["grupos"]:
-            print(f"  {g['codigo']} {g['nombre']}: {g['tasa']} %")
+            log(f"  {g['codigo']} {g['nombre']}: {g['tasa']} %")
         with open(salida, "w", encoding="utf-8") as f:
             json.dump(datos, f, ensure_ascii=False, indent=1)
             f.write("\n")
-        print(f"Guardado {salida}: {datos['periodo']}, general {general} %")
+        log(f"Guardado {salida}: {datos['periodo']}, general {general} %")
         return
     raise SystemExit("Ninguna tabla del IPC por grupos ha pasado las comprobaciones")
 
 
 if __name__ == "__main__":
-    main()
+    try:
+        main()
+    finally:
+        resumen()
