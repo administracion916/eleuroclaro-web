@@ -326,7 +326,7 @@ PLANTILLA = """<!doctype html>
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="/apple-touch-icon.png">
 <link rel="stylesheet" href="/fonts.css">
-<link rel="stylesheet" href="/style.css?v=20261010i">
+<link rel="stylesheet" href="/style.css?v=20261010j">
 </head>
 <body>
 
@@ -424,6 +424,10 @@ PLANTILLA = """<!doctype html>
         <p class="eyebrow">Newsletter · domingos · gratis</p>
         <h2 id="nl-tit">El Índice del Bolsillo, cada mes en tu correo</h2>
         <p class="intro">Y cada domingo, en 3 minutos, lo que cambia en tu bolsillo, con ejemplos en euros.</p>
+        <div class="nl-autor">
+          <img src="/img/pere-jaume-avatar.jpg" width="56" height="56" alt="" loading="lazy">
+          <p>Cada domingo te lo cuento yo, con datos oficiales y ejemplos en euros.<span class="firma">Pere Jaume</span></p>
+        </div>
         <p class="regalo">De regalo al apuntarte: la guía de una página <strong>«Cómo leer tu nómina en 2 minutos»</strong>.</p>
       </div>
       <form class="signup" data-campana="indice" novalidate>

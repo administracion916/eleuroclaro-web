@@ -107,8 +107,8 @@ p { margin: 0; }
 .presenta { position: relative; justify-self: end; max-width: 26rem; background: #fffdf7; color: #0f1f3d; border-radius: 1rem; padding: 1.7rem 1.7rem 1.9rem; box-shadow: 0 30px 60px -30px rgba(0, 0, 0, .65); transform: rotate(1.5deg); --focus: #8a5a00; }
 .presenta::before { content: ""; position: absolute; top: -.75rem; left: 50%; width: 6.5rem; height: 1.5rem; background: rgba(245, 197, 26, .9); transform: translateX(-50%) rotate(-3deg); border-radius: .15rem; }
 .presenta-top { display: flex; gap: 1rem; align-items: center; }
-.presenta-avatar { width: 4.5rem; height: 4.5rem; flex: none; border-radius: 50%; }
-img.presenta-avatar { object-fit: cover; filter: grayscale(1); }
+.presenta-avatar { width: 7rem; height: 7rem; flex: none; border-radius: 50%; }
+img.presenta-avatar { object-fit: cover; box-shadow: 0 0 0 4px var(--sol), 0 16px 28px -14px rgba(14, 42, 71, .7); }
 .presenta-nombre { font-family: var(--font-display); font-size: 1.4rem; font-weight: 700; line-height: 1.2; }
 .presenta-rol { font-size: .78rem; text-transform: uppercase; letter-spacing: .08em; color: #8a5a00; font-weight: 700; }
 .presenta-frase { font-family: var(--font-display); font-style: italic; font-weight: 600; font-size: clamp(1.7rem, 3.2vw, 2.2rem); line-height: 1.15; margin-top: 1.3rem; color: #0e2a47; }
@@ -529,3 +529,15 @@ img.presenta-avatar { object-fit: cover; filter: grayscale(1); }
 .ib-tit th, .ib-tit td { background: var(--gold-soft); }
 .ib-ipc .ib-barra span { background: var(--muted); opacity: .6; }
 @media (max-width: 30rem) { .datos-pareja.ib-cifras { grid-template-columns: 1fr 1fr; gap: .6rem; } .ib-cifras .dato { padding: .9rem 1rem; } .ib-cifras .cifra { font-size: 2.4rem; } }
+
+/* Pere en persona: foto junto a la portada, la newsletter y la guía de la nómina */
+.hero-autor { display: flex; align-items: center; gap: .6rem; }
+.hero-autor img { display: none; width: 2.5rem; height: 2.5rem; border-radius: 50%; flex: none; box-shadow: 0 0 0 2px var(--sol); }
+@media (max-width: 52rem) { .hero-autor img { display: block; } }
+.nl-autor { display: flex; align-items: center; gap: .9rem; margin-top: 1.4rem; max-width: 34rem; }
+.nl-autor img { width: 3.5rem; height: 3.5rem; flex: none; border-radius: 50%; object-fit: cover; box-shadow: 0 0 0 3px var(--sol); }
+.nl-autor p { margin: 0; line-height: 1.45; }
+.nl-autor .firma { display: block; margin-top: .2rem; font-family: var(--font-display); font-style: italic; font-weight: 600; color: var(--gold-text); }
+.lp-autor { display: flex; align-items: center; gap: 1rem; margin-top: 1.5rem; max-width: 34rem; padding: .9rem 1.1rem; border-radius: .8rem; background: var(--gold-soft); }
+.lp-autor img { width: 4.75rem; height: 4.75rem; flex: none; border-radius: 50%; object-fit: cover; box-shadow: 0 0 0 3px var(--sol); }
+.lp-autor p { margin: 0; line-height: 1.45; }
