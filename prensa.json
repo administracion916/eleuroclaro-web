@@ -1,6 +1,27 @@
 {
- "actualizado": "2026-10-10T17:36:51Z",
+ "actualizado": "2026-10-10T19:36:42Z",
  "items": [
+  {
+   "t": "Guía para inquilinos y propietarios: cómo afecta la nueva regulación de la vivienda",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/2026/10/10/6ac901da468aeb78798b4575.html",
+   "f": "2026-10-10T19:06:20Z",
+   "c": "vivienda"
+  },
+  {
+   "t": "La amenaza latente para el mercado del alquiler: renovación automática con sanciones al casero",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/2026/10/10/6ac904bee5fdea1a648b4583.html",
+   "f": "2026-10-10T19:06:18Z",
+   "c": "vivienda"
+  },
+  {
+   "t": "Cómo sacar partido a la fiscalidad de la vivienda tras el nuevo decreto",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/2026/10/10/6ac907dd468aeb78798b457d.html",
+   "f": "2026-10-10T19:06:16Z",
+   "c": "vivienda"
+  },
   {
    "t": "El 60% de las empresas españolas con inteligencia artificial sigue en fase de pruebas",
    "m": "20minutos",
@@ -30,32 +51,11 @@
    "c": "bancos"
   },
   {
-   "t": "Irlanda propone recortar un 8% el presupuesto de la UE para 2028-2034",
-   "m": "Expansión",
-   "u": "https://www.expansion.com/economia/2026/10/10/6aca1706468aeb752e8b4597.html",
-   "f": "2026-10-10T14:08:14Z",
-   "c": "comercio"
-  },
-  {
    "t": "Palantir se dispara a máximos históricos en Bolsa y supera el medio billón de capitalización con el apoyo de Barclays y Goldman",
    "m": "Cinco Días",
    "u": "https://cincodias.elpais.com/companias/2026-10-10/palantir-se-dispara-a-maximos-historicos-en-bolsa-y-supera-el-medio-billon-de-capitalizacion-con-el-apoyo-de-barclays-y-goldman.html",
    "f": "2026-10-10T14:01:37Z",
    "c": "empresas"
-  },
-  {
-   "t": "Irlanda recorta en un 8% el futuro presupuesto de la UE pero mantiene la cohesión",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261010/11655966/irlanda-recorta-8-futuro-presupuesto-ue-mantiene-cohesion.html",
-   "f": "2026-10-10T13:20:39Z",
-   "c": "comercio"
-  },
-  {
-   "t": "La UE concede a España un préstamo de 1.000 millones para ampliar sus capacidades defensivas",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-10/la-ue-concede-a-espana-un-prestamo-de-1000-millones-para-ampliar-sus-capacidades-defensivas.html",
-   "f": "2026-10-10T12:43:21Z",
-   "c": "bancos"
   }
  ]
 }
