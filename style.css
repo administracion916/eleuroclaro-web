@@ -386,3 +386,17 @@ img.presenta-avatar { object-fit: cover; filter: grayscale(1); }
   .calc-banda { grid-template-columns: 1fr; }
   .cb-btn { grid-column: 1; grid-row: auto; margin-top: .6rem; text-align: center; }
 }
+
+/* Páginas de alta con regalo (/nomina/) */
+.lp-grid { display: grid; grid-template-columns: minmax(0, 1.1fr) minmax(0, 1fr); gap: 3rem; align-items: start; }
+.lp h1 { font-size: clamp(2.2rem, 5.5vw, 3.4rem); margin-block: .6rem 1rem; }
+.lp h1 em { font-style: italic; color: var(--gold-text); }
+.lp .intro { color: var(--muted); font-size: 1.1rem; max-width: 34rem; }
+.lp-form { margin-top: 1.6rem; max-width: 30rem; }
+.lp-pasos { margin-top: .8rem; max-width: 30rem; }
+.lp-img { margin: 0; }
+.lp-img img { display: block; width: 100%; height: auto; border-radius: .6rem; border: 1px solid var(--line); box-shadow: 0 30px 60px -34px rgba(14, 42, 71, .65); transform: rotate(1.5deg); background: #fff; }
+@media (max-width: 52rem) {
+  .lp-grid { grid-template-columns: 1fr; gap: 2rem; }
+  .lp-img { max-width: 22rem; }
+}
