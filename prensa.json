@@ -1,6 +1,27 @@
 {
- "actualizado": "2026-10-10T13:38:06Z",
+ "actualizado": "2026-10-10T14:38:07Z",
  "items": [
+  {
+   "t": "Irlanda propone recortar un 8% el presupuesto de la UE para 2028-2034",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/2026/10/10/6aca1706468aeb752e8b4597.html",
+   "f": "2026-10-10T14:08:14Z",
+   "c": "comercio"
+  },
+  {
+   "t": "Palantir se dispara a máximos históricos en Bolsa y supera el medio billón de capitalización con el apoyo de Barclays y Goldman",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-10/palantir-se-dispara-a-maximos-historicos-en-bolsa-y-supera-el-medio-billon-de-capitalizacion-con-el-apoyo-de-barclays-y-goldman.html",
+   "f": "2026-10-10T14:01:37Z",
+   "c": "empresas"
+  },
+  {
+   "t": "Irlanda recorta en un 8% el futuro presupuesto de la UE pero mantiene la cohesión",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261010/11655966/irlanda-recorta-8-futuro-presupuesto-ue-mantiene-cohesion.html",
+   "f": "2026-10-10T13:20:39Z",
+   "c": "comercio"
+  },
   {
    "t": "La UE concede a España un préstamo de 1.000 millones para ampliar sus capacidades defensivas",
    "m": "Cinco Días",
@@ -35,27 +56,6 @@
    "u": "https://www.elmundo.es/economia/macroeconomia/2026/10/10/6aca056ce4d4d85f2e8b459a.html",
    "f": "2026-10-10T09:40:45Z",
    "c": "comercio"
-  },
-  {
-   "t": "La presidencia del Consejo de la UE pone sobre la mesa un recorte del 8% en el próximo presupuesto europeo",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/noticia-presidencia-consejo-ue-pone-mesa-recorte-proximo-presupuesto-europeo-20261010112557.html",
-   "f": "2026-10-10T09:25:57Z",
-   "c": "comercio"
-  },
-  {
-   "t": "Gonzalo Bernardos, economista, ante la decisión del Gobierno de aprobar los decretos: \"Sugiero dejar las viviendas vacías hasta que vuelva la seguridad…",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/gonzalo-bernardos-economista-ante-decision-gobierno-aprobar-los-decretos-sugiero-dejar-las-viviendas-vacias-hasta-que-vuelva-seguridad-juridica_7047222_0.html",
-   "f": "2026-10-10T07:52:50Z",
-   "c": "vivienda"
-  },
-  {
-   "t": "Las ‘telecos’ se tambalean ante la entrada de Starlink en el mercado móvil",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-10/las-telecos-se-tambalean-ante-la-entrada-de-starlink-en-el-mercado-movil.html",
-   "f": "2026-10-10T07:46:51Z",
-   "c": "empresas"
   }
  ]
 }
