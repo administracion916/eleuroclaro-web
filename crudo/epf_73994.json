@@ -20,14 +20,6 @@
     "Anyo": 2024,
     "Valor": 34044.03,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 32616.66,
-    "Secreto": false
    }
   ]
  },
@@ -51,14 +43,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 13625.82,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 13120.1,
     "Secreto": false
    }
   ]
@@ -84,14 +68,6 @@
     "Anyo": 2024,
     "Valor": 20113.55,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 19357.04,
-    "Secreto": false
    }
   ]
  },
@@ -114,14 +90,6 @@
     "FK_TipoDato": 1,
     "FK_Periodo": 28,
     "Anyo": 2024,
-    "Valor": 100.0,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
     "Valor": 100.0,
     "Secreto": false
    }
@@ -148,14 +116,6 @@
     "Anyo": 2024,
     "Valor": 100.0,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 100.0,
-    "Secreto": false
    }
   ]
  },
@@ -179,14 +139,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 32645.64,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 31132.18,
     "Secreto": false
    }
   ]
@@ -212,14 +164,6 @@
     "Anyo": 2024,
     "Valor": 12216.5,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 11927.36,
-    "Secreto": false
    }
   ]
  },
@@ -243,14 +187,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 19126.41,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 18589.62,
     "Secreto": false
    }
   ]
@@ -276,14 +212,6 @@
     "Anyo": 2024,
     "Valor": 89.66,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 90.91,
-    "Secreto": false
    }
   ]
  },
@@ -307,14 +235,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 25.55,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 25.71,
     "Secreto": false
    }
   ]
@@ -340,14 +260,6 @@
     "Anyo": 2024,
     "Valor": 37328.27,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 36127.93,
-    "Secreto": false
    }
   ]
  },
@@ -371,14 +283,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 13304.41,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 12716.47,
     "Secreto": false
    }
   ]
@@ -404,14 +308,6 @@
     "Anyo": 2024,
     "Valor": 20132.64,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 19314.51,
-    "Secreto": false
    }
   ]
  },
@@ -435,14 +331,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 97.64,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 96.92,
     "Secreto": false
    }
   ]
@@ -468,14 +356,6 @@
     "Anyo": 2024,
     "Valor": 47.27,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 47.91,
-    "Secreto": false
    }
   ]
  },
@@ -499,14 +379,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 30594.23,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 28863.26,
     "Secreto": false
    }
   ]
@@ -532,14 +404,6 @@
     "Anyo": 2024,
     "Valor": 16038.83,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 15528.96,
-    "Secreto": false
    }
   ]
  },
@@ -563,14 +427,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 21102.45,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 20253.01,
     "Secreto": false
    }
   ]
@@ -596,14 +452,6 @@
     "Anyo": 2024,
     "Valor": 117.71,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 118.36,
-    "Secreto": false
    }
   ]
  },
@@ -627,14 +475,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 27.18,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 26.38,
     "Secreto": false
    }
   ]
@@ -660,14 +500,6 @@
     "Anyo": 2024,
     "Valor": 30145.17,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 29913.16,
-    "Secreto": false
    }
   ]
  },
@@ -691,14 +523,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 11865.32,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 11752.28,
     "Secreto": false
    }
   ]
@@ -724,14 +548,6 @@
     "Anyo": 2024,
     "Valor": 17623.72,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 17497.64,
-    "Secreto": false
    }
   ]
  },
@@ -754,14 +570,6 @@
     "FK_TipoDato": 1,
     "FK_Periodo": 28,
     "Anyo": 2024,
-    "Valor": 100.0,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
     "Valor": 100.0,
     "Secreto": false
    }
@@ -788,14 +596,6 @@
     "Anyo": 2024,
     "Valor": 100.0,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 100.0,
-    "Secreto": false
    }
   ]
  },
@@ -819,14 +619,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 31682.26,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 29127.64,
     "Secreto": false
    }
   ]
@@ -852,14 +644,6 @@
     "Anyo": 2024,
     "Valor": 11206.63,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 10756.5,
-    "Secreto": false
    }
   ]
  },
@@ -883,14 +667,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 17922.53,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 17092.44,
     "Secreto": false
    }
   ]
@@ -916,14 +692,6 @@
     "Anyo": 2024,
     "Valor": 94.45,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 91.53,
-    "Secreto": false
    }
   ]
  },
@@ -947,14 +715,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 27.17,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 26.22,
     "Secreto": false
    }
   ]
@@ -980,14 +740,6 @@
     "Anyo": 2024,
     "Valor": 31682.79,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 32873.63,
-    "Secreto": false
    }
   ]
  },
@@ -1011,14 +763,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 11347.88,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 11368.39,
     "Secreto": false
    }
   ]
@@ -1044,14 +788,6 @@
     "Anyo": 2024,
     "Valor": 17128.93,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 17325.85,
-    "Secreto": false
    }
   ]
  },
@@ -1075,14 +811,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 95.64,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 96.73,
     "Secreto": false
    }
   ]
@@ -1108,14 +836,6 @@
     "Anyo": 2024,
     "Valor": 45.98,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 47.78,
-    "Secreto": false
    }
   ]
  },
@@ -1139,14 +859,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 26624.59,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 26278.17,
     "Secreto": false
    }
   ]
@@ -1172,14 +884,6 @@
     "Anyo": 2024,
     "Valor": 13758.37,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 13915.38,
-    "Secreto": false
    }
   ]
  },
@@ -1203,14 +907,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 18217.61,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 18267.4,
     "Secreto": false
    }
   ]
@@ -1236,14 +932,6 @@
     "Anyo": 2024,
     "Valor": 115.95,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 118.41,
-    "Secreto": false
    }
   ]
  },
@@ -1267,14 +955,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 26.85,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 26.0,
     "Secreto": false
    }
   ]
@@ -1300,14 +980,6 @@
     "Anyo": 2024,
     "Valor": 33642.49,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 32980.44,
-    "Secreto": false
    }
   ]
  },
@@ -1331,14 +1003,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 14107.65,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 13833.08,
     "Secreto": false
    }
   ]
@@ -1364,14 +1028,6 @@
     "Anyo": 2024,
     "Valor": 20541.72,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 20152.1,
-    "Secreto": false
    }
   ]
  },
@@ -1394,14 +1050,6 @@
     "FK_TipoDato": 1,
     "FK_Periodo": 28,
     "Anyo": 2024,
-    "Valor": 100.0,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
     "Valor": 100.0,
     "Secreto": false
    }
@@ -1428,14 +1076,6 @@
     "Anyo": 2024,
     "Valor": 100.0,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 100.0,
-    "Secreto": false
    }
   ]
  },
@@ -1459,14 +1099,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 31279.82,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 31305.6,
     "Secreto": false
    }
   ]
@@ -1492,14 +1124,6 @@
     "Anyo": 2024,
     "Valor": 12606.27,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 13150.64,
-    "Secreto": false
    }
   ]
  },
@@ -1523,14 +1147,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 19414.09,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 19872.98,
     "Secreto": false
    }
   ]
@@ -1556,14 +1172,6 @@
     "Anyo": 2024,
     "Valor": 89.36,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 95.07,
-    "Secreto": false
    }
   ]
  },
@@ -1587,14 +1195,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 22.87,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 24.06,
     "Secreto": false
    }
   ]
@@ -1620,14 +1220,6 @@
     "Anyo": 2024,
     "Valor": 36400.59,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 35295.45,
-    "Secreto": false
    }
   ]
  },
@@ -1651,14 +1243,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 13189.38,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 12598.05,
     "Secreto": false
    }
   ]
@@ -1684,14 +1268,6 @@
     "Anyo": 2024,
     "Valor": 19919.53,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 19174.69,
-    "Secreto": false
    }
   ]
  },
@@ -1715,14 +1291,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 93.49,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 91.07,
     "Secreto": false
    }
   ]
@@ -1748,14 +1316,6 @@
     "Anyo": 2024,
     "Valor": 46.85,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 45.16,
-    "Secreto": false
    }
   ]
  },
@@ -1779,14 +1339,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 31733.01,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 31278.95,
     "Secreto": false
    }
   ]
@@ -1812,14 +1364,6 @@
     "Anyo": 2024,
     "Valor": 17582.0,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 16960.54,
-    "Secreto": false
    }
   ]
  },
@@ -1843,14 +1387,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 22627.18,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 22042.55,
     "Secreto": false
    }
   ]
@@ -1876,14 +1412,6 @@
     "Anyo": 2024,
     "Valor": 124.63,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 122.61,
-    "Secreto": false
    }
   ]
  },
@@ -1907,14 +1435,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 30.29,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 30.78,
     "Secreto": false
    }
   ]
@@ -1940,14 +1460,6 @@
     "Anyo": 2024,
     "Valor": 31391.44,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 30694.45,
-    "Secreto": false
    }
   ]
  },
@@ -1971,14 +1483,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 14220.53,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 13909.06,
     "Secreto": false
    }
   ]
@@ -2004,14 +1508,6 @@
     "Anyo": 2024,
     "Valor": 20063.05,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 19610.59,
-    "Secreto": false
    }
   ]
  },
@@ -2034,14 +1530,6 @@
     "FK_TipoDato": 1,
     "FK_Periodo": 28,
     "Anyo": 2024,
-    "Valor": 100.0,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
     "Valor": 100.0,
     "Secreto": false
    }
@@ -2068,14 +1556,6 @@
     "Anyo": 2024,
     "Valor": 100.0,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 100.0,
-    "Secreto": false
    }
   ]
  },
@@ -2099,14 +1579,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 28882.2,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 27570.71,
     "Secreto": false
    }
   ]
@@ -2132,14 +1604,6 @@
     "Anyo": 2024,
     "Valor": 11270.85,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 11614.37,
-    "Secreto": false
    }
   ]
  },
@@ -2163,14 +1627,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 17169.35,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 17425.66,
     "Secreto": false
    }
   ]
@@ -2196,14 +1652,6 @@
     "Anyo": 2024,
     "Valor": 79.26,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 83.5,
-    "Secreto": false
    }
   ]
  },
@@ -2227,14 +1675,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 19.62,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 19.61,
     "Secreto": false
    }
   ]
@@ -2260,14 +1700,6 @@
     "Anyo": 2024,
     "Valor": 34925.59,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 35090.95,
-    "Secreto": false
    }
   ]
  },
@@ -2291,14 +1723,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 14111.72,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 13806.37,
     "Secreto": false
    }
   ]
@@ -2324,14 +1748,6 @@
     "Anyo": 2024,
     "Valor": 20613.16,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 20247.55,
-    "Secreto": false
    }
   ]
  },
@@ -2355,14 +1771,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 99.23,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 99.26,
     "Secreto": false
    }
   ]
@@ -2388,14 +1796,6 @@
     "Anyo": 2024,
     "Valor": 44.4,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 45.0,
-    "Secreto": false
    }
   ]
  },
@@ -2419,14 +1819,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 29133.71,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 27992.67,
     "Secreto": false
    }
   ]
@@ -2452,14 +1844,6 @@
     "Anyo": 2024,
     "Valor": 16773.12,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 15786.88,
-    "Secreto": false
    }
   ]
  },
@@ -2483,14 +1867,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 21319.82,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 20206.41,
     "Secreto": false
    }
   ]
@@ -2516,14 +1892,6 @@
     "Anyo": 2024,
     "Valor": 117.95,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 113.5,
-    "Secreto": false
    }
   ]
  },
@@ -2547,14 +1915,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 35.98,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 35.39,
     "Secreto": false
    }
   ]
@@ -2580,14 +1940,6 @@
     "Anyo": 2024,
     "Valor": 38284.92,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 39081.03,
-    "Secreto": false
    }
   ]
  },
@@ -2611,14 +1963,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 14420.81,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 14768.88,
     "Secreto": false
    }
   ]
@@ -2644,14 +1988,6 @@
     "Anyo": 2024,
     "Valor": 21668.11,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 22206.5,
-    "Secreto": false
    }
   ]
  },
@@ -2674,14 +2010,6 @@
     "FK_TipoDato": 1,
     "FK_Periodo": 28,
     "Anyo": 2024,
-    "Valor": 100.0,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
     "Valor": 100.0,
     "Secreto": false
    }
@@ -2708,14 +2036,6 @@
     "Anyo": 2024,
     "Valor": 100.0,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 100.0,
-    "Secreto": false
    }
   ]
  },
@@ -2739,14 +2059,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 34742.35,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 38083.45,
     "Secreto": false
    }
   ]
@@ -2772,14 +2084,6 @@
     "Anyo": 2024,
     "Valor": 12747.0,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 14851.47,
-    "Secreto": false
    }
   ]
  },
@@ -2803,14 +2107,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 19746.7,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 22693.99,
     "Secreto": false
    }
   ]
@@ -2836,14 +2132,6 @@
     "Anyo": 2024,
     "Valor": 88.39,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 100.56,
-    "Secreto": false
    }
   ]
  },
@@ -2867,14 +2155,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 28.55,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 31.37,
     "Secreto": false
    }
   ]
@@ -2900,14 +2180,6 @@
     "Anyo": 2024,
     "Valor": 42214.14,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 41143.97,
-    "Secreto": false
    }
   ]
  },
@@ -2931,14 +2203,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 14580.64,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 13825.92,
     "Secreto": false
    }
   ]
@@ -2964,14 +2228,6 @@
     "Anyo": 2024,
     "Valor": 22291.55,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 21340.23,
-    "Secreto": false
    }
   ]
  },
@@ -2995,14 +2251,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 101.11,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 93.62,
     "Secreto": false
    }
   ]
@@ -3028,14 +2276,6 @@
     "Anyo": 2024,
     "Valor": 52.23,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 50.95,
-    "Secreto": false
    }
   ]
  },
@@ -3059,14 +2299,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 34756.45,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 35591.6,
     "Secreto": false
    }
   ]
@@ -3092,14 +2324,6 @@
     "Anyo": 2024,
     "Valor": 17277.52,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 18159.97,
-    "Secreto": false
    }
   ]
  },
@@ -3123,14 +2347,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 23263.25,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 24108.36,
     "Secreto": false
    }
   ]
@@ -3156,14 +2372,6 @@
     "Anyo": 2024,
     "Valor": 119.81,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 122.96,
-    "Secreto": false
    }
   ]
  },
@@ -3187,14 +2395,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 19.21,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 17.68,
     "Secreto": false
    }
   ]
@@ -3220,14 +2420,6 @@
     "Anyo": 2024,
     "Valor": 32681.78,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 29576.92,
-    "Secreto": false
    }
   ]
  },
@@ -3251,14 +2443,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 12549.96,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 11373.14,
     "Secreto": false
    }
   ]
@@ -3284,14 +2468,6 @@
     "Anyo": 2024,
     "Valor": 18654.03,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 16926.56,
-    "Secreto": false
    }
   ]
  },
@@ -3314,14 +2490,6 @@
     "FK_TipoDato": 1,
     "FK_Periodo": 28,
     "Anyo": 2024,
-    "Valor": 100.0,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
     "Valor": 100.0,
     "Secreto": false
    }
@@ -3348,14 +2516,6 @@
     "Anyo": 2024,
     "Valor": 100.0,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 100.0,
-    "Secreto": false
    }
   ]
  },
@@ -3379,14 +2539,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 30572.38,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 28947.38,
     "Secreto": false
    }
   ]
@@ -3412,14 +2564,6 @@
     "Anyo": 2024,
     "Valor": 11916.34,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 10728.12,
-    "Secreto": false
    }
   ]
  },
@@ -3443,14 +2587,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 18125.24,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 16639.37,
     "Secreto": false
    }
   ]
@@ -3476,14 +2612,6 @@
     "Anyo": 2024,
     "Valor": 94.95,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 94.33,
-    "Secreto": false
    }
   ]
  },
@@ -3507,14 +2635,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 26.57,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 26.99,
     "Secreto": false
    }
   ]
@@ -3540,14 +2660,6 @@
     "Anyo": 2024,
     "Valor": 33717.77,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 30630.56,
-    "Secreto": false
    }
   ]
  },
@@ -3571,14 +2683,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 11964.76,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 11169.63,
     "Secreto": false
    }
   ]
@@ -3604,14 +2708,6 @@
     "Anyo": 2024,
     "Valor": 18066.27,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 16717.42,
-    "Secreto": false
    }
   ]
  },
@@ -3635,14 +2731,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 95.34,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 98.21,
     "Secreto": false
    }
   ]
@@ -3668,14 +2756,6 @@
     "Anyo": 2024,
     "Valor": 48.5,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 49.74,
-    "Secreto": false
    }
   ]
  },
@@ -3699,14 +2779,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 33137.96,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 28214.47,
     "Secreto": false
    }
   ]
@@ -3732,14 +2804,6 @@
     "Anyo": 2024,
     "Valor": 14797.42,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 12759.24,
-    "Secreto": false
    }
   ]
  },
@@ -3763,14 +2827,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 20599.04,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 17756.52,
     "Secreto": false
    }
   ]
@@ -3796,14 +2852,6 @@
     "Anyo": 2024,
     "Valor": 117.91,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 112.19,
-    "Secreto": false
    }
   ]
  },
@@ -3827,14 +2875,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 24.92,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 23.28,
     "Secreto": false
    }
   ]
@@ -3860,14 +2900,6 @@
     "Anyo": 2024,
     "Valor": 33974.63,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 32389.73,
-    "Secreto": false
    }
   ]
  },
@@ -3891,14 +2923,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 14222.43,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 13626.71,
     "Secreto": false
    }
   ]
@@ -3924,14 +2948,6 @@
     "Anyo": 2024,
     "Valor": 20646.65,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 19755.33,
-    "Secreto": false
    }
   ]
  },
@@ -3954,14 +2970,6 @@
     "FK_TipoDato": 1,
     "FK_Periodo": 28,
     "Anyo": 2024,
-    "Valor": 100.0,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
     "Valor": 100.0,
     "Secreto": false
    }
@@ -3988,14 +2996,6 @@
     "Anyo": 2024,
     "Valor": 100.0,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 100.0,
-    "Secreto": false
    }
   ]
  },
@@ -4019,14 +3019,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 32049.63,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 29833.93,
     "Secreto": false
    }
   ]
@@ -4052,14 +3044,6 @@
     "Anyo": 2024,
     "Valor": 12728.6,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 11961.27,
-    "Secreto": false
    }
   ]
  },
@@ -4083,14 +3067,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 19620.5,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 18249.29,
     "Secreto": false
    }
   ]
@@ -4116,14 +3092,6 @@
     "Anyo": 2024,
     "Valor": 89.5,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 87.78,
-    "Secreto": false
    }
   ]
  },
@@ -4147,14 +3115,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 21.59,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 23.0,
     "Secreto": false
    }
   ]
@@ -4180,14 +3140,6 @@
     "Anyo": 2024,
     "Valor": 36805.41,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 35506.53,
-    "Secreto": false
    }
   ]
  },
@@ -4211,14 +3163,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 14000.78,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 13307.72,
     "Secreto": false
    }
   ]
@@ -4244,14 +3188,6 @@
     "Anyo": 2024,
     "Valor": 20809.41,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 19836.25,
-    "Secreto": false
    }
   ]
  },
@@ -4275,14 +3211,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 98.44,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 97.66,
     "Secreto": false
    }
   ]
@@ -4308,14 +3236,6 @@
     "Anyo": 2024,
     "Valor": 45.96,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 46.13,
-    "Secreto": false
    }
   ]
  },
@@ -4339,14 +3259,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 31782.95,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 30345.5,
     "Secreto": false
    }
   ]
@@ -4372,14 +3284,6 @@
     "Anyo": 2024,
     "Valor": 15811.81,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 15837.53,
-    "Secreto": false
    }
   ]
  },
@@ -4403,14 +3307,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 21148.41,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 20914.06,
     "Secreto": false
    }
   ]
@@ -4436,14 +3332,6 @@
     "Anyo": 2024,
     "Valor": 111.18,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 116.22,
-    "Secreto": false
    }
   ]
  },
@@ -4467,14 +3355,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 32.45,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 30.86,
     "Secreto": false
    }
   ]
@@ -4500,14 +3380,6 @@
     "Anyo": 2024,
     "Valor": 31433.43,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 28028.22,
-    "Secreto": false
    }
   ]
  },
@@ -4531,14 +3403,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 13974.41,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 12447.41,
     "Secreto": false
    }
   ]
@@ -4564,14 +3428,6 @@
     "Anyo": 2024,
     "Valor": 19876.2,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 17729.92,
-    "Secreto": false
    }
   ]
  },
@@ -4594,14 +3450,6 @@
     "FK_TipoDato": 1,
     "FK_Periodo": 28,
     "Anyo": 2024,
-    "Valor": 100.0,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
     "Valor": 100.0,
     "Secreto": false
    }
@@ -4628,14 +3476,6 @@
     "Anyo": 2024,
     "Valor": 100.0,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 100.0,
-    "Secreto": false
    }
   ]
  },
@@ -4659,14 +3499,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 31092.05,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 27373.51,
     "Secreto": false
    }
   ]
@@ -4692,14 +3524,6 @@
     "Anyo": 2024,
     "Valor": 12556.04,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 11333.56,
-    "Secreto": false
    }
   ]
  },
@@ -4723,14 +3547,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 19194.11,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 17401.83,
     "Secreto": false
    }
   ]
@@ -4756,14 +3572,6 @@
     "Anyo": 2024,
     "Valor": 89.85,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 91.05,
-    "Secreto": false
    }
   ]
  },
@@ -4787,14 +3595,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 20.67,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 19.59,
     "Secreto": false
    }
   ]
@@ -4820,14 +3620,6 @@
     "Anyo": 2024,
     "Valor": 34835.58,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 32722.15,
-    "Secreto": false
    }
   ]
  },
@@ -4851,14 +3643,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 13271.26,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 12046.94,
     "Secreto": false
    }
   ]
@@ -4884,14 +3668,6 @@
     "Anyo": 2024,
     "Valor": 19703.14,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 18028.52,
-    "Secreto": false
    }
   ]
  },
@@ -4915,14 +3691,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 94.97,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 96.78,
     "Secreto": false
    }
   ]
@@ -4948,14 +3716,6 @@
     "Anyo": 2024,
     "Valor": 45.05,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 48.14,
-    "Secreto": false
    }
   ]
  },
@@ -4979,14 +3739,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 28022.47,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 23367.27,
     "Secreto": false
    }
   ]
@@ -5012,14 +3764,6 @@
     "Anyo": 2024,
     "Valor": 16207.12,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 13974.33,
-    "Secreto": false
    }
   ]
  },
@@ -5043,14 +3787,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 20553.99,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 17497.91,
     "Secreto": false
    }
   ]
@@ -5076,14 +3812,6 @@
     "Anyo": 2024,
     "Valor": 115.98,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 112.27,
-    "Secreto": false
    }
   ]
  },
@@ -5107,14 +3835,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 34.28,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 32.27,
     "Secreto": false
    }
   ]
@@ -5140,14 +3860,6 @@
     "Anyo": 2024,
     "Valor": 29892.84,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 29391.85,
-    "Secreto": false
    }
   ]
  },
@@ -5171,14 +3883,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 11921.31,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 11766.86,
     "Secreto": false
    }
   ]
@@ -5204,14 +3908,6 @@
     "Anyo": 2024,
     "Valor": 17633.77,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 17420.72,
-    "Secreto": false
    }
   ]
  },
@@ -5234,14 +3930,6 @@
     "FK_TipoDato": 1,
     "FK_Periodo": 28,
     "Anyo": 2024,
-    "Valor": 100.0,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
     "Valor": 100.0,
     "Secreto": false
    }
@@ -5268,14 +3956,6 @@
     "Anyo": 2024,
     "Valor": 100.0,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 100.0,
-    "Secreto": false
    }
   ]
  },
@@ -5299,14 +3979,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 28302.0,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 31058.26,
     "Secreto": false
    }
   ]
@@ -5332,14 +4004,6 @@
     "Anyo": 2024,
     "Valor": 11553.22,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 11863.91,
-    "Secreto": false
    }
   ]
  },
@@ -5363,14 +4027,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 17782.36,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 18674.78,
     "Secreto": false
    }
   ]
@@ -5396,14 +4052,6 @@
     "Anyo": 2024,
     "Valor": 96.91,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 100.82,
-    "Secreto": false
    }
   ]
  },
@@ -5427,14 +4075,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 26.65,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 28.81,
     "Secreto": false
    }
   ]
@@ -5460,14 +4100,6 @@
     "Anyo": 2024,
     "Valor": 34581.04,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 32630.24,
-    "Secreto": false
    }
   ]
  },
@@ -5491,14 +4123,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 11537.67,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 11171.83,
     "Secreto": false
    }
   ]
@@ -5524,14 +4148,6 @@
     "Anyo": 2024,
     "Valor": 17726.41,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 17079.82,
-    "Secreto": false
    }
   ]
  },
@@ -5555,14 +4171,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 96.78,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 94.94,
     "Secreto": false
    }
   ]
@@ -5588,14 +4196,6 @@
     "Anyo": 2024,
     "Valor": 48.6,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 47.54,
-    "Secreto": false
    }
   ]
  },
@@ -5619,14 +4219,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 24792.33,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 23237.94,
     "Secreto": false
    }
   ]
@@ -5652,14 +4244,6 @@
     "Anyo": 2024,
     "Valor": 13240.08,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 13032.02,
-    "Secreto": false
    }
   ]
  },
@@ -5683,14 +4267,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 17300.54,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 16723.57,
     "Secreto": false
    }
   ]
@@ -5716,14 +4292,6 @@
     "Anyo": 2024,
     "Valor": 111.06,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 110.75,
-    "Secreto": false
    }
   ]
  },
@@ -5747,14 +4315,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 24.75,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 23.65,
     "Secreto": false
    }
   ]
@@ -5780,14 +4340,6 @@
     "Anyo": 2024,
     "Valor": 37409.09,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 34259.05,
-    "Secreto": false
    }
   ]
  },
@@ -5811,14 +4363,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 14746.47,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 13591.83,
     "Secreto": false
    }
   ]
@@ -5844,14 +4388,6 @@
     "Anyo": 2024,
     "Valor": 21906.16,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 20146.59,
-    "Secreto": false
    }
   ]
  },
@@ -5874,14 +4410,6 @@
     "FK_TipoDato": 1,
     "FK_Periodo": 28,
     "Anyo": 2024,
-    "Valor": 100.0,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
     "Valor": 100.0,
     "Secreto": false
    }
@@ -5908,14 +4436,6 @@
     "Anyo": 2024,
     "Valor": 100.0,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 100.0,
-    "Secreto": false
    }
   ]
  },
@@ -5939,14 +4459,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 33692.69,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 31381.53,
     "Secreto": false
    }
   ]
@@ -5972,14 +4484,6 @@
     "Anyo": 2024,
     "Valor": 12836.85,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 11698.82,
-    "Secreto": false
    }
   ]
  },
@@ -6003,14 +4507,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 19958.17,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 18350.31,
     "Secreto": false
    }
   ]
@@ -6036,14 +4532,6 @@
     "Anyo": 2024,
     "Valor": 87.05,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 86.07,
-    "Secreto": false
    }
   ]
  },
@@ -6067,14 +4555,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 27.27,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 28.35,
     "Secreto": false
    }
   ]
@@ -6100,14 +4580,6 @@
     "Anyo": 2024,
     "Valor": 41555.89,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 37699.67,
-    "Secreto": false
    }
   ]
  },
@@ -6131,14 +4603,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 14454.08,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 13400.63,
     "Secreto": false
    }
   ]
@@ -6164,14 +4628,6 @@
     "Anyo": 2024,
     "Valor": 22033.35,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 20242.57,
-    "Secreto": false
    }
   ]
  },
@@ -6195,14 +4651,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 98.02,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 98.59,
     "Secreto": false
    }
   ]
@@ -6228,14 +4676,6 @@
     "Anyo": 2024,
     "Valor": 47.47,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 45.94,
-    "Secreto": false
    }
   ]
  },
@@ -6259,14 +4699,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 35012.46,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 32259.12,
     "Secreto": false
    }
   ]
@@ -6292,14 +4724,6 @@
     "Anyo": 2024,
     "Valor": 18401.51,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 17073.07,
-    "Secreto": false
    }
   ]
  },
@@ -6323,14 +4747,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 24193.13,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 22371.46,
     "Secreto": false
    }
   ]
@@ -6356,14 +4772,6 @@
     "Anyo": 2024,
     "Valor": 124.79,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 125.61,
-    "Secreto": false
    }
   ]
  },
@@ -6387,14 +4795,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 25.26,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 25.71,
     "Secreto": false
    }
   ]
@@ -6420,14 +4820,6 @@
     "Anyo": 2024,
     "Valor": 32684.69,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 31765.85,
-    "Secreto": false
    }
   ]
  },
@@ -6451,14 +4843,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 13226.31,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 12971.38,
     "Secreto": false
    }
   ]
@@ -6484,14 +4868,6 @@
     "Anyo": 2024,
     "Valor": 19461.34,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 19063.31,
-    "Secreto": false
    }
   ]
  },
@@ -6514,14 +4890,6 @@
     "FK_TipoDato": 1,
     "FK_Periodo": 28,
     "Anyo": 2024,
-    "Valor": 100.0,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
     "Valor": 100.0,
     "Secreto": false
    }
@@ -6548,14 +4916,6 @@
     "Anyo": 2024,
     "Valor": 100.0,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 100.0,
-    "Secreto": false
    }
   ]
  },
@@ -6579,14 +4939,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 31556.18,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 30588.56,
     "Secreto": false
    }
   ]
@@ -6612,14 +4964,6 @@
     "Anyo": 2024,
     "Valor": 11884.44,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 11743.72,
-    "Secreto": false
    }
   ]
  },
@@ -6643,14 +4987,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 18547.59,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 18318.55,
     "Secreto": false
    }
   ]
@@ -6676,14 +5012,6 @@
     "Anyo": 2024,
     "Valor": 89.85,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 90.54,
-    "Secreto": false
    }
   ]
  },
@@ -6707,14 +5035,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 25.88,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 24.89,
     "Secreto": false
    }
   ]
@@ -6740,14 +5060,6 @@
     "Anyo": 2024,
     "Valor": 36908.42,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 36275.84,
-    "Secreto": false
    }
   ]
  },
@@ -6771,14 +5083,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 13280.26,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 12751.37,
     "Secreto": false
    }
   ]
@@ -6804,14 +5108,6 @@
     "Anyo": 2024,
     "Valor": 20061.42,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 19400.94,
-    "Secreto": false
    }
   ]
  },
@@ -6835,14 +5131,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 100.41,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 98.3,
     "Secreto": false
    }
   ]
@@ -6868,14 +5156,6 @@
     "Anyo": 2024,
     "Valor": 47.83,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 50.04,
-    "Secreto": false
    }
   ]
  },
@@ -6899,14 +5179,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 27862.92,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 26252.58,
     "Secreto": false
    }
   ]
@@ -6932,14 +5204,6 @@
     "Anyo": 2024,
     "Valor": 14758.37,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 15052.63,
-    "Secreto": false
    }
   ]
  },
@@ -6963,14 +5227,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 19346.81,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 19171.21,
     "Secreto": false
    }
   ]
@@ -6996,14 +5252,6 @@
     "Anyo": 2024,
     "Valor": 111.58,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 116.04,
-    "Secreto": false
    }
   ]
  },
@@ -7027,14 +5275,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 26.28,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 25.06,
     "Secreto": false
    }
   ]
@@ -7060,14 +5300,6 @@
     "Anyo": 2024,
     "Valor": 26889.65,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 26253.76,
-    "Secreto": false
    }
   ]
  },
@@ -7091,14 +5323,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 11398.35,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 11103.09,
     "Secreto": false
    }
   ]
@@ -7124,14 +5348,6 @@
     "Anyo": 2024,
     "Valor": 16521.32,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 16094.5,
-    "Secreto": false
    }
   ]
  },
@@ -7154,14 +5370,6 @@
     "FK_TipoDato": 1,
     "FK_Periodo": 28,
     "Anyo": 2024,
-    "Valor": 100.0,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
     "Valor": 100.0,
     "Secreto": false
    }
@@ -7188,14 +5396,6 @@
     "Anyo": 2024,
     "Valor": 100.0,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 100.0,
-    "Secreto": false
    }
   ]
  },
@@ -7219,14 +5419,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 25992.5,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 27663.45,
     "Secreto": false
    }
   ]
@@ -7252,14 +5444,6 @@
     "Anyo": 2024,
     "Valor": 10422.24,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 10993.51,
-    "Secreto": false
    }
   ]
  },
@@ -7283,14 +5467,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 16108.99,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 17010.23,
     "Secreto": false
    }
   ]
@@ -7316,14 +5492,6 @@
     "Anyo": 2024,
     "Valor": 91.44,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 99.01,
-    "Secreto": false
    }
   ]
  },
@@ -7347,14 +5515,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 23.31,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 26.2,
     "Secreto": false
    }
   ]
@@ -7380,14 +5540,6 @@
     "Anyo": 2024,
     "Valor": 31099.65,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 29618.1,
-    "Secreto": false
    }
   ]
  },
@@ -7411,14 +5563,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 11509.37,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 10822.05,
     "Secreto": false
    }
   ]
@@ -7444,14 +5588,6 @@
     "Anyo": 2024,
     "Valor": 17199.35,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 16197.4,
-    "Secreto": false
    }
   ]
  },
@@ -7475,14 +5611,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 100.97,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 97.47,
     "Secreto": false
    }
   ]
@@ -7508,14 +5636,6 @@
     "Anyo": 2024,
     "Valor": 49.73,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 47.84,
-    "Secreto": false
    }
   ]
  },
@@ -7539,14 +5659,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 22043.15,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 20825.14,
     "Secreto": false
    }
   ]
@@ -7572,14 +5684,6 @@
     "Anyo": 2024,
     "Valor": 12166.93,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 11785.46,
-    "Secreto": false
    }
   ]
  },
@@ -7603,14 +5707,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 15725.78,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 15097.85,
     "Secreto": false
    }
   ]
@@ -7636,14 +5732,6 @@
     "Anyo": 2024,
     "Valor": 106.74,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 106.15,
-    "Secreto": false
    }
   ]
  },
@@ -7667,14 +5755,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 26.96,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 25.97,
     "Secreto": false
    }
   ]
@@ -7700,14 +5780,6 @@
     "Anyo": 2024,
     "Valor": 33700.4,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 32558.35,
-    "Secreto": false
    }
   ]
  },
@@ -7731,14 +5803,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 14075.25,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 13566.74,
     "Secreto": false
    }
   ]
@@ -7764,14 +5828,6 @@
     "Anyo": 2024,
     "Valor": 20378.44,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 19693.96,
-    "Secreto": false
    }
   ]
  },
@@ -7794,14 +5850,6 @@
     "FK_TipoDato": 1,
     "FK_Periodo": 28,
     "Anyo": 2024,
-    "Valor": 100.0,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
     "Valor": 100.0,
     "Secreto": false
    }
@@ -7828,14 +5876,6 @@
     "Anyo": 2024,
     "Valor": 100.0,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 100.0,
-    "Secreto": false
    }
   ]
  },
@@ -7859,14 +5899,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 35109.39,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 32961.04,
     "Secreto": false
    }
   ]
@@ -7892,14 +5924,6 @@
     "Anyo": 2024,
     "Valor": 13826.83,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 13274.38,
-    "Secreto": false
    }
   ]
  },
@@ -7923,14 +5947,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 21155.62,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 20222.22,
     "Secreto": false
    }
   ]
@@ -7956,14 +5972,6 @@
     "Anyo": 2024,
     "Valor": 98.24,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 97.84,
-    "Secreto": false
    }
   ]
  },
@@ -7987,14 +5995,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 22.84,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 24.2,
     "Secreto": false
    }
   ]
@@ -8020,14 +6020,6 @@
     "Anyo": 2024,
     "Valor": 36780.25,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 36296.51,
-    "Secreto": false
    }
   ]
  },
@@ -8051,14 +6043,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 13525.1,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 13064.23,
     "Secreto": false
    }
   ]
@@ -8084,14 +6068,6 @@
     "Anyo": 2024,
     "Valor": 20243.51,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 19676.94,
-    "Secreto": false
    }
   ]
  },
@@ -8115,14 +6091,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 96.09,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 96.3,
     "Secreto": false
    }
   ]
@@ -8148,14 +6116,6 @@
     "Anyo": 2024,
     "Valor": 45.94,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 47.86,
-    "Secreto": false
    }
   ]
  },
@@ -8179,14 +6139,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 29240.28,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 27427.96,
     "Secreto": false
    }
   ]
@@ -8212,14 +6164,6 @@
     "Anyo": 2024,
     "Valor": 15183.29,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 14826.82,
-    "Secreto": false
    }
   ]
  },
@@ -8243,14 +6187,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 20036.52,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 19286.09,
     "Secreto": false
    }
   ]
@@ -8276,14 +6212,6 @@
     "Anyo": 2024,
     "Valor": 107.87,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 109.29,
-    "Secreto": false
    }
   ]
  },
@@ -8307,14 +6235,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 31.23,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 27.94,
     "Secreto": false
    }
   ]
@@ -8340,14 +6260,6 @@
     "Anyo": 2024,
     "Valor": 39317.62,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 37360.47,
-    "Secreto": false
    }
   ]
  },
@@ -8371,14 +6283,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 15108.12,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 14650.11,
     "Secreto": false
    }
   ]
@@ -8404,14 +6308,6 @@
     "Anyo": 2024,
     "Valor": 22607.11,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 21800.28,
-    "Secreto": false
    }
   ]
  },
@@ -8434,14 +6330,6 @@
     "FK_TipoDato": 1,
     "FK_Periodo": 28,
     "Anyo": 2024,
-    "Valor": 100.0,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
     "Valor": 100.0,
     "Secreto": false
    }
@@ -8468,14 +6356,6 @@
     "Anyo": 2024,
     "Valor": 100.0,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 100.0,
-    "Secreto": false
    }
   ]
  },
@@ -8499,14 +6379,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 36563.4,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 33948.96,
     "Secreto": false
    }
   ]
@@ -8532,14 +6404,6 @@
     "Anyo": 2024,
     "Valor": 12814.37,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 13569.17,
-    "Secreto": false
    }
   ]
  },
@@ -8563,14 +6427,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 20431.17,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 20725.26,
     "Secreto": false
    }
   ]
@@ -8596,14 +6452,6 @@
     "Anyo": 2024,
     "Valor": 84.82,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 92.62,
-    "Secreto": false
    }
   ]
  },
@@ -8627,14 +6475,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 26.56,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 26.48,
     "Secreto": false
    }
   ]
@@ -8660,14 +6500,6 @@
     "Anyo": 2024,
     "Valor": 43376.13,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 41560.33,
-    "Secreto": false
    }
   ]
  },
@@ -8691,14 +6523,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 15107.43,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 14016.61,
     "Secreto": false
    }
   ]
@@ -8724,14 +6548,6 @@
     "Anyo": 2024,
     "Valor": 23025.15,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 21627.44,
-    "Secreto": false
    }
   ]
  },
@@ -8755,14 +6571,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 100.0,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 95.68,
     "Secreto": false
    }
   ]
@@ -8788,14 +6596,6 @@
     "Anyo": 2024,
     "Valor": 48.01,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 48.76,
-    "Secreto": false
    }
   ]
  },
@@ -8819,14 +6619,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 35808.94,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 34227.84,
     "Secreto": false
    }
   ]
@@ -8852,14 +6644,6 @@
     "Anyo": 2024,
     "Valor": 18585.76,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 17740.37,
-    "Secreto": false
    }
   ]
  },
@@ -8883,14 +6667,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 24492.87,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 23471.7,
     "Secreto": false
    }
   ]
@@ -8916,14 +6692,6 @@
     "Anyo": 2024,
     "Valor": 123.02,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 121.09,
-    "Secreto": false
    }
   ]
  },
@@ -8947,14 +6715,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 25.42,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 24.76,
     "Secreto": false
    }
   ]
@@ -8980,14 +6740,6 @@
     "Anyo": 2024,
     "Valor": 33001.92,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 31851.1,
-    "Secreto": false
    }
   ]
  },
@@ -9011,14 +6763,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 12069.01,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 11619.84,
     "Secreto": false
    }
   ]
@@ -9044,14 +6788,6 @@
     "Anyo": 2024,
     "Valor": 18399.78,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 17732.68,
-    "Secreto": false
    }
   ]
  },
@@ -9074,14 +6810,6 @@
     "FK_TipoDato": 1,
     "FK_Periodo": 28,
     "Anyo": 2024,
-    "Valor": 100.0,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
     "Valor": 100.0,
     "Secreto": false
    }
@@ -9108,14 +6836,6 @@
     "Anyo": 2024,
     "Valor": 100.0,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 100.0,
-    "Secreto": false
    }
   ]
  },
@@ -9139,14 +6859,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 32177.0,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 30442.78,
     "Secreto": false
    }
   ]
@@ -9172,14 +6884,6 @@
     "Anyo": 2024,
     "Valor": 10966.34,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 10277.78,
-    "Secreto": false
    }
   ]
  },
@@ -9203,14 +6907,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 17971.45,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 16724.74,
     "Secreto": false
    }
   ]
@@ -9236,14 +6932,6 @@
     "Anyo": 2024,
     "Valor": 90.86,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 88.45,
-    "Secreto": false
    }
   ]
  },
@@ -9267,14 +6955,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 27.94,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 27.43,
     "Secreto": false
    }
   ]
@@ -9300,14 +6980,6 @@
     "Anyo": 2024,
     "Valor": 35571.53,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 34548.08,
-    "Secreto": false
    }
   ]
  },
@@ -9331,14 +7003,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 12138.57,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 11615.17,
     "Secreto": false
    }
   ]
@@ -9364,14 +7028,6 @@
     "Anyo": 2024,
     "Valor": 18526.59,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 17903.85,
-    "Secreto": false
    }
   ]
  },
@@ -9395,14 +7051,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 100.58,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 99.96,
     "Secreto": false
    }
   ]
@@ -9428,14 +7076,6 @@
     "Anyo": 2024,
     "Valor": 48.44,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 50.36,
-    "Secreto": false
    }
   ]
  },
@@ -9459,14 +7099,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 29523.94,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 28442.17,
     "Secreto": false
    }
   ]
@@ -9492,14 +7124,6 @@
     "Anyo": 2024,
     "Valor": 13517.35,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 13868.16,
-    "Secreto": false
    }
   ]
  },
@@ -9523,14 +7147,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 18663.84,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 18719.79,
     "Secreto": false
    }
   ]
@@ -9556,14 +7172,6 @@
     "Anyo": 2024,
     "Valor": 112.0,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 119.35,
-    "Secreto": false
    }
   ]
  },
@@ -9587,14 +7195,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 23.62,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 22.21,
     "Secreto": false
    }
   ]
@@ -9620,14 +7220,6 @@
     "Anyo": 2024,
     "Valor": 35700.42,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 35044.02,
-    "Secreto": false
    }
   ]
  },
@@ -9651,14 +7243,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 14153.68,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 13976.18,
     "Secreto": false
    }
   ]
@@ -9684,14 +7268,6 @@
     "Anyo": 2024,
     "Valor": 20984.57,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 20746.51,
-    "Secreto": false
    }
   ]
  },
@@ -9714,14 +7290,6 @@
     "FK_TipoDato": 1,
     "FK_Periodo": 28,
     "Anyo": 2024,
-    "Valor": 100.0,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
     "Valor": 100.0,
     "Secreto": false
    }
@@ -9748,14 +7316,6 @@
     "Anyo": 2024,
     "Valor": 100.0,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 100.0,
-    "Secreto": false
    }
   ]
  },
@@ -9779,14 +7339,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 32841.67,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 33439.3,
     "Secreto": false
    }
   ]
@@ -9812,14 +7364,6 @@
     "Anyo": 2024,
     "Valor": 12349.39,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 12182.34,
-    "Secreto": false
    }
   ]
  },
@@ -9843,14 +7387,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 19268.6,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 19555.99,
     "Secreto": false
    }
   ]
@@ -9876,14 +7412,6 @@
     "Anyo": 2024,
     "Valor": 87.25,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 87.17,
-    "Secreto": false
    }
   ]
  },
@@ -9907,14 +7435,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 24.6,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 23.46,
     "Secreto": false
    }
   ]
@@ -9940,14 +7460,6 @@
     "Anyo": 2024,
     "Valor": 39350.92,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 38770.29,
-    "Secreto": false
    }
   ]
  },
@@ -9971,14 +7483,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 13708.69,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 13600.48,
     "Secreto": false
    }
   ]
@@ -10004,14 +7508,6 @@
     "Anyo": 2024,
     "Valor": 20968.52,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 20725.2,
-    "Secreto": false
    }
   ]
  },
@@ -10035,14 +7531,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 96.86,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 97.31,
     "Secreto": false
    }
   ]
@@ -10068,14 +7556,6 @@
     "Anyo": 2024,
     "Valor": 48.08,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 48.9,
-    "Secreto": false
    }
   ]
  },
@@ -10099,14 +7579,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 32908.0,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 31032.34,
     "Secreto": false
    }
   ]
@@ -10132,14 +7604,6 @@
     "Anyo": 2024,
     "Valor": 17443.97,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 16917.18,
-    "Secreto": false
    }
   ]
  },
@@ -10163,14 +7627,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 22846.77,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 21918.99,
     "Secreto": false
    }
   ]
@@ -10196,14 +7652,6 @@
     "Anyo": 2024,
     "Valor": 123.25,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 121.04,
-    "Secreto": false
    }
   ]
  },
@@ -10227,14 +7675,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 27.33,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 27.64,
     "Secreto": false
    }
   ]
@@ -10260,14 +7700,6 @@
     "Anyo": 2024,
     "Valor": 36313.35,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 36331.06,
-    "Secreto": false
    }
   ]
  },
@@ -10291,14 +7723,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 15504.22,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 15570.1,
     "Secreto": false
    }
   ]
@@ -10324,14 +7748,6 @@
     "Anyo": 2024,
     "Valor": 22418.11,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 22509.62,
-    "Secreto": false
    }
   ]
  },
@@ -10354,14 +7770,6 @@
     "FK_TipoDato": 1,
     "FK_Periodo": 28,
     "Anyo": 2024,
-    "Valor": 100.0,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
     "Valor": 100.0,
     "Secreto": false
    }
@@ -10388,14 +7796,6 @@
     "Anyo": 2024,
     "Valor": 100.0,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 100.0,
-    "Secreto": false
    }
   ]
  },
@@ -10419,14 +7819,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 32097.58,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 32299.71,
     "Secreto": false
    }
   ]
@@ -10452,14 +7844,6 @@
     "Anyo": 2024,
     "Valor": 13155.43,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 12586.24,
-    "Secreto": false
    }
   ]
  },
@@ -10483,14 +7867,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 20113.78,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 19598.83,
     "Secreto": false
    }
   ]
@@ -10516,14 +7892,6 @@
     "Anyo": 2024,
     "Valor": 84.85,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 80.84,
-    "Secreto": false
    }
   ]
  },
@@ -10547,14 +7915,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 20.36,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 19.57,
     "Secreto": false
    }
   ]
@@ -10580,14 +7940,6 @@
     "Anyo": 2024,
     "Valor": 39376.69,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 40230.74,
-    "Secreto": false
    }
   ]
  },
@@ -10611,14 +7963,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 14514.33,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 15041.19,
     "Secreto": false
    }
   ]
@@ -10644,14 +7988,6 @@
     "Anyo": 2024,
     "Valor": 21831.03,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 22551.69,
-    "Secreto": false
    }
   ]
  },
@@ -10675,14 +8011,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 93.62,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 96.6,
     "Secreto": false
    }
   ]
@@ -10708,14 +8036,6 @@
     "Anyo": 2024,
     "Valor": 45.68,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 46.22,
-    "Secreto": false
    }
   ]
  },
@@ -10739,14 +8059,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 35396.33,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 34288.7,
     "Secreto": false
    }
   ]
@@ -10772,14 +8084,6 @@
     "Anyo": 2024,
     "Valor": 19349.8,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 19060.36,
-    "Secreto": false
    }
   ]
  },
@@ -10803,14 +8107,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 25043.58,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 24531.88,
     "Secreto": false
    }
   ]
@@ -10836,14 +8132,6 @@
     "Anyo": 2024,
     "Valor": 124.8,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 122.42,
-    "Secreto": false
    }
   ]
  },
@@ -10867,14 +8155,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 33.96,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 34.21,
     "Secreto": false
    }
   ]
@@ -10900,14 +8180,6 @@
     "Anyo": 2024,
     "Valor": 32978.29,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 32362.74,
-    "Secreto": false
    }
   ]
  },
@@ -10931,14 +8203,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 13978.55,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 13699.99,
     "Secreto": false
    }
   ]
@@ -10964,14 +8228,6 @@
     "Anyo": 2024,
     "Valor": 20300.0,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 19934.38,
-    "Secreto": false
    }
   ]
  },
@@ -10994,14 +8250,6 @@
     "FK_TipoDato": 1,
     "FK_Periodo": 28,
     "Anyo": 2024,
-    "Valor": 100.0,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
     "Valor": 100.0,
     "Secreto": false
    }
@@ -11028,14 +8276,6 @@
     "Anyo": 2024,
     "Valor": 100.0,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 100.0,
-    "Secreto": false
    }
   ]
  },
@@ -11059,14 +8299,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 32863.8,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 31066.6,
     "Secreto": false
    }
   ]
@@ -11092,14 +8324,6 @@
     "Anyo": 2024,
     "Valor": 12768.26,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 12302.19,
-    "Secreto": false
    }
   ]
  },
@@ -11123,14 +8347,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 19838.97,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 19115.44,
     "Secreto": false
    }
   ]
@@ -11156,14 +8372,6 @@
     "Anyo": 2024,
     "Valor": 91.34,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 89.8,
-    "Secreto": false
    }
   ]
  },
@@ -11187,14 +8395,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 24.87,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 24.91,
     "Secreto": false
    }
   ]
@@ -11220,14 +8420,6 @@
     "Anyo": 2024,
     "Valor": 36076.91,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 36605.48,
-    "Secreto": false
    }
   ]
  },
@@ -11251,14 +8443,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 13505.7,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 13436.33,
     "Secreto": false
    }
   ]
@@ -11284,14 +8468,6 @@
     "Anyo": 2024,
     "Valor": 20214.29,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 20217.57,
-    "Secreto": false
    }
   ]
  },
@@ -11315,14 +8491,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 96.62,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 98.08,
     "Secreto": false
    }
   ]
@@ -11348,14 +8516,6 @@
     "Anyo": 2024,
     "Valor": 47.91,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 47.63,
-    "Secreto": false
    }
   ]
  },
@@ -11379,14 +8539,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 28725.93,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 27820.98,
     "Secreto": false
    }
   ]
@@ -11412,14 +8564,6 @@
     "Anyo": 2024,
     "Valor": 16411.88,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 15877.66,
-    "Secreto": false
    }
   ]
  },
@@ -11443,14 +8587,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 20899.84,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 20229.15,
     "Secreto": false
    }
   ]
@@ -11476,14 +8612,6 @@
     "Anyo": 2024,
     "Valor": 117.41,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 115.9,
-    "Secreto": false
    }
   ]
  },
@@ -11507,14 +8635,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 27.21,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 27.45,
     "Secreto": false
    }
   ]
@@ -11540,14 +8660,6 @@
     "Anyo": 2024,
     "Valor": 35649.32,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 36181.96,
-    "Secreto": false
    }
   ]
  },
@@ -11571,14 +8683,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 11858.38,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 11731.26,
     "Secreto": false
    }
   ]
@@ -11604,14 +8708,6 @@
     "Anyo": 2024,
     "Valor": 18676.98,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 18682.62,
-    "Secreto": false
    }
   ]
  },
@@ -11634,14 +8730,6 @@
     "FK_TipoDato": 1,
     "FK_Periodo": 28,
     "Anyo": 2024,
-    "Valor": 100.0,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
     "Valor": 100.0,
     "Secreto": false
    }
@@ -11668,14 +8756,6 @@
     "Anyo": 2024,
     "Valor": 100.0,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 100.0,
-    "Secreto": false
    }
   ]
  },
@@ -11698,14 +8778,6 @@
     "FK_TipoDato": 1,
     "FK_Periodo": 28,
     "Anyo": 2024,
-    "Valor": null,
-    "Secreto": true
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
     "Valor": null,
     "Secreto": true
    }
@@ -11732,14 +8804,6 @@
     "Anyo": 2024,
     "Valor": null,
     "Secreto": true
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": null,
-    "Secreto": true
    }
   ]
  },
@@ -11762,14 +8826,6 @@
     "FK_TipoDato": 1,
     "FK_Periodo": 28,
     "Anyo": 2024,
-    "Valor": null,
-    "Secreto": true
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
     "Valor": null,
     "Secreto": true
    }
@@ -11796,14 +8852,6 @@
     "Anyo": 2024,
     "Valor": null,
     "Secreto": true
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": null,
-    "Secreto": true
    }
   ]
  },
@@ -11826,14 +8874,6 @@
     "FK_TipoDato": 1,
     "FK_Periodo": 28,
     "Anyo": 2024,
-    "Valor": null,
-    "Secreto": true
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
     "Valor": null,
     "Secreto": true
    }
@@ -11860,14 +8900,6 @@
     "Anyo": 2024,
     "Valor": 41938.86,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 43364.31,
-    "Secreto": false
    }
   ]
  },
@@ -11891,14 +8923,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 12376.01,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 12366.16,
     "Secreto": false
    }
   ]
@@ -11924,14 +8948,6 @@
     "Anyo": 2024,
     "Valor": 19981.41,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 20122.77,
-    "Secreto": false
    }
   ]
  },
@@ -11955,14 +8971,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 104.37,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 105.41,
     "Secreto": false
    }
   ]
@@ -11988,14 +8996,6 @@
     "Anyo": 2024,
     "Valor": 64.71,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 61.46,
-    "Secreto": false
    }
   ]
  },
@@ -12018,14 +9018,6 @@
     "FK_TipoDato": 1,
     "FK_Periodo": 28,
     "Anyo": 2024,
-    "Valor": null,
-    "Secreto": true
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
     "Valor": null,
     "Secreto": true
    }
@@ -12052,14 +9044,6 @@
     "Anyo": 2024,
     "Valor": null,
     "Secreto": true
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": null,
-    "Secreto": true
    }
   ]
  },
@@ -12082,14 +9066,6 @@
     "FK_TipoDato": 1,
     "FK_Periodo": 28,
     "Anyo": 2024,
-    "Valor": null,
-    "Secreto": true
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
     "Valor": null,
     "Secreto": true
    }
@@ -12116,14 +9092,6 @@
     "Anyo": 2024,
     "Valor": null,
     "Secreto": true
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": null,
-    "Secreto": true
    }
   ]
  },
@@ -12146,14 +9114,6 @@
     "FK_TipoDato": 1,
     "FK_Periodo": 28,
     "Anyo": 2024,
-    "Valor": null,
-    "Secreto": true
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
     "Valor": null,
     "Secreto": true
    }
@@ -12180,14 +9140,6 @@
     "Anyo": 2024,
     "Valor": 28473.51,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 29273.07,
-    "Secreto": false
    }
   ]
  },
@@ -12211,14 +9163,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 8586.35,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 9177.57,
     "Secreto": false
    }
   ]
@@ -12244,14 +9188,6 @@
     "Anyo": 2024,
     "Valor": 13880.61,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 14787.64,
-    "Secreto": false
    }
   ]
  },
@@ -12274,14 +9210,6 @@
     "FK_TipoDato": 1,
     "FK_Periodo": 28,
     "Anyo": 2024,
-    "Valor": 100.0,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
     "Valor": 100.0,
     "Secreto": false
    }
@@ -12308,14 +9236,6 @@
     "Anyo": 2024,
     "Valor": 100.0,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 100.0,
-    "Secreto": false
    }
   ]
  },
@@ -12338,14 +9258,6 @@
     "FK_TipoDato": 1,
     "FK_Periodo": 28,
     "Anyo": 2024,
-    "Valor": null,
-    "Secreto": true
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
     "Valor": null,
     "Secreto": true
    }
@@ -12372,14 +9284,6 @@
     "Anyo": 2024,
     "Valor": null,
     "Secreto": true
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": null,
-    "Secreto": true
    }
   ]
  },
@@ -12402,14 +9306,6 @@
     "FK_TipoDato": 1,
     "FK_Periodo": 28,
     "Anyo": 2024,
-    "Valor": null,
-    "Secreto": true
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
     "Valor": null,
     "Secreto": true
    }
@@ -12436,14 +9332,6 @@
     "Anyo": 2024,
     "Valor": null,
     "Secreto": true
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": null,
-    "Secreto": true
    }
   ]
  },
@@ -12466,14 +9354,6 @@
     "FK_TipoDato": 1,
     "FK_Periodo": 28,
     "Anyo": 2024,
-    "Valor": null,
-    "Secreto": true
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
     "Valor": null,
     "Secreto": true
    }
@@ -12500,14 +9380,6 @@
     "Anyo": 2024,
     "Valor": 31189.26,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 30448.46,
-    "Secreto": false
    }
   ]
  },
@@ -12531,14 +9403,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 8860.91,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 9208.53,
     "Secreto": false
    }
   ]
@@ -12564,14 +9428,6 @@
     "Anyo": 2024,
     "Valor": 14472.42,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 14583.8,
-    "Secreto": false
    }
   ]
  },
@@ -12595,14 +9451,6 @@
     "FK_Periodo": 28,
     "Anyo": 2024,
     "Valor": 103.2,
-    "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 100.34,
     "Secreto": false
    }
   ]
@@ -12628,14 +9476,6 @@
     "Anyo": 2024,
     "Valor": 40.42,
     "Secreto": false
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": 41.87,
-    "Secreto": false
    }
   ]
  },
@@ -12658,14 +9498,6 @@
     "FK_TipoDato": 1,
     "FK_Periodo": 28,
     "Anyo": 2024,
-    "Valor": null,
-    "Secreto": true
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
     "Valor": null,
     "Secreto": true
    }
@@ -12692,14 +9524,6 @@
     "Anyo": 2024,
     "Valor": null,
     "Secreto": true
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": null,
-    "Secreto": true
    }
   ]
  },
@@ -12722,14 +9546,6 @@
     "FK_TipoDato": 1,
     "FK_Periodo": 28,
     "Anyo": 2024,
-    "Valor": null,
-    "Secreto": true
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
     "Valor": null,
     "Secreto": true
    }
@@ -12756,14 +9572,6 @@
     "Anyo": 2024,
     "Valor": null,
     "Secreto": true
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
-    "Valor": null,
-    "Secreto": true
    }
   ]
  },
@@ -12786,14 +9594,6 @@
     "FK_TipoDato": 1,
     "FK_Periodo": 28,
     "Anyo": 2024,
-    "Valor": null,
-    "Secreto": true
-   },
-   {
-    "Fecha": 1672527600000,
-    "FK_TipoDato": 1,
-    "FK_Periodo": 28,
-    "Anyo": 2023,
     "Valor": null,
     "Secreto": true
    }

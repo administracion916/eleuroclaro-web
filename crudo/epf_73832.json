@@ -1,0 +1,722 @@
+[
+ {
+  "COD": "EPF504293",
+  "Nombre": "Total. Todas las edades. Hogares. Porcentaje. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1735686000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2025,
+    "Valor": 100.0,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1704063600000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2024,
+    "Valor": 100.0,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF504292",
+  "Nombre": "Total. Todas las edades. Personas. Porcentaje. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1735686000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2025,
+    "Valor": 100.0,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1704063600000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2024,
+    "Valor": 100.0,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF504301",
+  "Nombre": "Total. De 16 a 29 años. Hogares. Porcentaje. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1735686000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2025,
+    "Valor": 3.67,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1704063600000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2024,
+    "Valor": 3.03,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF504300",
+  "Nombre": "Total. De 16 a 29 años. Personas. Porcentaje. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1735686000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2025,
+    "Valor": 3.11,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1704063600000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2024,
+    "Valor": 2.47,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF504299",
+  "Nombre": "Total. De 30 a 44 años. Hogares. Porcentaje. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1735686000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2025,
+    "Valor": 22.44,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1704063600000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2024,
+    "Valor": 23.61,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF504298",
+  "Nombre": "Total. De 30 a 44 años. Personas. Porcentaje. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1735686000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2025,
+    "Valor": 24.9,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1704063600000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2024,
+    "Valor": 26.03,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF504297",
+  "Nombre": "Total. De 45 a 64 años. Hogares. Porcentaje. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1735686000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2025,
+    "Valor": 43.45,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1704063600000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2024,
+    "Valor": 43.11,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF504296",
+  "Nombre": "Total. De 45 a 64 años. Personas. Porcentaje. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1735686000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2025,
+    "Valor": 48.76,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1704063600000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2024,
+    "Valor": 48.41,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF504295",
+  "Nombre": "Total. 65 y más años. Hogares. Porcentaje. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1735686000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2025,
+    "Valor": 30.43,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1704063600000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2024,
+    "Valor": 30.24,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF504294",
+  "Nombre": "Total. 65 y más años. Personas. Porcentaje. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1735686000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2025,
+    "Valor": 23.24,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1704063600000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2024,
+    "Valor": 23.09,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF504303",
+  "Nombre": "Hombre. Todas las edades. Hogares. Porcentaje. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1735686000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2025,
+    "Valor": 62.86,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1704063600000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2024,
+    "Valor": 64.12,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF504302",
+  "Nombre": "Hombre. Todas las edades. Personas. Porcentaje. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1735686000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2025,
+    "Valor": 68.12,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1704063600000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2024,
+    "Valor": 69.58,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF504311",
+  "Nombre": "Hombre. De 16 a 29 años. Hogares. Porcentaje. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1735686000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2025,
+    "Valor": 1.97,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1704063600000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2024,
+    "Valor": 1.75,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF504310",
+  "Nombre": "Hombre. De 16 a 29 años. Personas. Porcentaje. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1735686000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2025,
+    "Valor": 1.73,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1704063600000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2024,
+    "Valor": 1.4,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF504309",
+  "Nombre": "Hombre. De 30 a 44 años. Hogares. Porcentaje. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1735686000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2025,
+    "Valor": 14.5,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1704063600000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2024,
+    "Valor": 15.74,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF504308",
+  "Nombre": "Hombre. De 30 a 44 años. Personas. Porcentaje. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1735686000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2025,
+    "Valor": 16.47,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1704063600000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2024,
+    "Valor": 17.92,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF504307",
+  "Nombre": "Hombre. De 45 a 64 años. Hogares. Porcentaje. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1735686000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2025,
+    "Valor": 28.35,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1704063600000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2024,
+    "Valor": 28.92,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF504306",
+  "Nombre": "Hombre. De 45 a 64 años. Personas. Porcentaje. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1735686000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2025,
+    "Valor": 34.02,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1704063600000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2024,
+    "Valor": 34.66,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF504305",
+  "Nombre": "Hombre. 65 y más años. Hogares. Porcentaje. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1735686000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2025,
+    "Valor": 18.03,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1704063600000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2024,
+    "Valor": 17.71,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF504304",
+  "Nombre": "Hombre. 65 y más años. Personas. Porcentaje. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1735686000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2025,
+    "Valor": 15.9,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1704063600000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2024,
+    "Valor": 15.59,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF504313",
+  "Nombre": "Mujer. Todas las edades. Hogares. Porcentaje. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1735686000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2025,
+    "Valor": 37.14,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1704063600000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2024,
+    "Valor": 35.88,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF504312",
+  "Nombre": "Mujer. Todas las edades. Personas. Porcentaje. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1735686000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2025,
+    "Valor": 31.88,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1704063600000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2024,
+    "Valor": 30.42,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF504321",
+  "Nombre": "Mujer. De 16 a 29 años. Hogares. Porcentaje. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1735686000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2025,
+    "Valor": 1.7,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1704063600000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2024,
+    "Valor": 1.29,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF504320",
+  "Nombre": "Mujer. De 16 a 29 años. Personas. Porcentaje. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1735686000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2025,
+    "Valor": 1.37,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1704063600000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2024,
+    "Valor": 1.06,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF504319",
+  "Nombre": "Mujer. De 30 a 44 años. Hogares. Porcentaje. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1735686000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2025,
+    "Valor": 7.94,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1704063600000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2024,
+    "Valor": 7.87,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF504318",
+  "Nombre": "Mujer. De 30 a 44 años. Personas. Porcentaje. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1735686000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2025,
+    "Valor": 8.43,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1704063600000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2024,
+    "Valor": 8.11,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF504317",
+  "Nombre": "Mujer. De 45 a 64 años. Hogares. Porcentaje. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1735686000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2025,
+    "Valor": 15.1,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1704063600000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2024,
+    "Valor": 14.19,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF504316",
+  "Nombre": "Mujer. De 45 a 64 años. Personas. Porcentaje. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1735686000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2025,
+    "Valor": 14.74,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1704063600000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2024,
+    "Valor": 13.75,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF504315",
+  "Nombre": "Mujer. 65 y más años. Hogares. Porcentaje. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1735686000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2025,
+    "Valor": 12.4,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1704063600000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2024,
+    "Valor": 12.53,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF504314",
+  "Nombre": "Mujer. 65 y más años. Personas. Porcentaje. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1735686000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2025,
+    "Valor": 7.34,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1704063600000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2024,
+    "Valor": 7.5,
+    "Secreto": false
+   }
+  ]
+ }
+]

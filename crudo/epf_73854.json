@@ -1,0 +1,362 @@
+[
+ {
+  "COD": "EPF546278",
+  "Nombre": "Total. Todas las edades. Coeficiente de variación. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1735686000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2025,
+    "Valor": 0.74,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1704063600000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2024,
+    "Valor": 0.77,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF546282",
+  "Nombre": "Total. De 16 a 29 años. Coeficiente de variación. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1735686000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2025,
+    "Valor": 3.48,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1704063600000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2024,
+    "Valor": 2.96,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF546281",
+  "Nombre": "Total. De 30 a 44 años. Coeficiente de variación. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1735686000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2025,
+    "Valor": 1.19,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1704063600000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2024,
+    "Valor": 1.21,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF546280",
+  "Nombre": "Total. De 45 a 64 años. Coeficiente de variación. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1735686000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2025,
+    "Valor": 1.03,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1704063600000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2024,
+    "Valor": 1.01,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF546279",
+  "Nombre": "Total. 65 y más años. Coeficiente de variación. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1735686000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2025,
+    "Valor": 1.1,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1704063600000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2024,
+    "Valor": 1.17,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF546283",
+  "Nombre": "Hombre. Todas las edades. Coeficiente de variación. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1735686000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2025,
+    "Valor": 0.86,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1704063600000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2024,
+    "Valor": 0.88,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF546287",
+  "Nombre": "Hombre. De 16 a 29 años. Coeficiente de variación. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1735686000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2025,
+    "Valor": 4.86,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1704063600000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2024,
+    "Valor": 3.82,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF546286",
+  "Nombre": "Hombre. De 30 a 44 años. Coeficiente de variación. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1735686000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2025,
+    "Valor": 1.5,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1704063600000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2024,
+    "Valor": 1.45,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF546285",
+  "Nombre": "Hombre. De 45 a 64 años. Coeficiente de variación. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1735686000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2025,
+    "Valor": 1.23,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1704063600000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2024,
+    "Valor": 1.19,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF546284",
+  "Nombre": "Hombre. 65 y más años. Coeficiente de variación. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1735686000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2025,
+    "Valor": 1.31,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1704063600000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2024,
+    "Valor": 1.33,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF546288",
+  "Nombre": "Mujer. Todas las edades. Coeficiente de variación. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1735686000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2025,
+    "Valor": 0.99,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1704063600000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2024,
+    "Valor": 1.07,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF546292",
+  "Nombre": "Mujer. De 16 a 29 años. Coeficiente de variación. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1735686000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2025,
+    "Valor": 4.7,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1704063600000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2024,
+    "Valor": 5.0,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF546291",
+  "Nombre": "Mujer. De 30 a 44 años. Coeficiente de variación. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1735686000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2025,
+    "Valor": 1.9,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1704063600000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2024,
+    "Valor": 2.04,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF546290",
+  "Nombre": "Mujer. De 45 a 64 años. Coeficiente de variación. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1735686000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2025,
+    "Valor": 1.4,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1704063600000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2024,
+    "Valor": 1.42,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF546289",
+  "Nombre": "Mujer. 65 y más años. Coeficiente de variación. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1735686000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2025,
+    "Valor": 1.52,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1704063600000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2024,
+    "Valor": 1.84,
+    "Secreto": false
+   }
+  ]
+ }
+]

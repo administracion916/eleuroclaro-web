@@ -1,0 +1,4240 @@
+[
+ {
+  "COD": "EPF9281",
+  "Nombre": "Base 2006. Anual. Total Nacional. Total. Gasto total. Dato base. ",
+  "FK_Unidad": 7,
+  "FK_Escala": 4,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 393919569.04,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 384945542.05,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF2568",
+  "Nombre": "Base 2006. Anual. Total Nacional. Total. Variación respecto al año anterior. Gasto total. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 2.3,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 0.7,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF68535",
+  "Nombre": "Base 2006. Anual. Total Nacional. Total. Variación respecto al año base. Gasto total. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": -1.7,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": -3.9,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF9280",
+  "Nombre": "Base 2006. Anual. Total Nacional. Total. Distribución porcentual. Dato base. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 100.0,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 100.0,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF149492",
+  "Nombre": "Base 2006. Anual. Total Nacional. Total. Distribución porcentual. Variación respecto al año anterior. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": []
+ },
+ {
+  "COD": "EPF149491",
+  "Nombre": "Base 2006. Anual. Total Nacional. Total. Distribución porcentual. Variación respecto al año base. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": []
+ },
+ {
+  "COD": "EPF9279",
+  "Nombre": "Base 2006. Anual. Total Nacional. Total. Gasto medio por hogar. Dato base. ",
+  "FK_Unidad": 7,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 21438.56,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 21031.62,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF2567",
+  "Nombre": "Base 2006. Anual. Total Nacional. Total. Variación respecto al año anterior. Gasto medio por hogar. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 1.9,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 0.2,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF68534",
+  "Nombre": "Base 2006. Anual. Total Nacional. Total. Variación respecto al año base. Gasto medio por hogar. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": -13.4,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": -15.1,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF9278",
+  "Nombre": "Base 2006. Anual. Total Nacional. Total. Gasto medio por persona. Dato base. ",
+  "FK_Unidad": 7,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 8569.61,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 8369.3,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF2566",
+  "Nombre": "Base 2006. Anual. Total Nacional. Total. Variación respecto al año anterior. Gasto medio por persona. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 2.4,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 1.1,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF68533",
+  "Nombre": "Base 2006. Anual. Total Nacional. Total. Variación respecto al año base. Gasto medio por persona. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": -5.8,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": -8.0,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF9277",
+  "Nombre": "Base 2006. Anual. Total Nacional. Total. Gasto medio por unidad de consumo. Dato base. ",
+  "FK_Unidad": 7,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 12740.53,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 12464.0,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF2565",
+  "Nombre": "Base 2006. Anual. Total Nacional. Total. Variación respecto al año anterior. Gasto medio por unidad de consumo. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 2.2,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 0.8,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF68532",
+  "Nombre": "Base 2006. Anual. Total Nacional. Total. Variación respecto al año base. Gasto medio por unidad de consumo. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": -7.9,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": -9.9,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF9276",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 1. Alimentos y bebidas no alcohólicas. Gasto total. Dato base. ",
+  "FK_Unidad": 7,
+  "FK_Escala": 4,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 74217918.21,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 72280757.72,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF2564",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 1. Alimentos y bebidas no alcohólicas. Variación respecto al año anterior. Gasto total. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 2.7,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": -1.5,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF68531",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 1. Alimentos y bebidas no alcohólicas. Variación respecto al año base. Gasto total. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 8.1,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 5.3,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF9275",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 1. Alimentos y bebidas no alcohólicas. Distribución porcentual. Dato base. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 18.84,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 18.78,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF149490",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 1. Alimentos y bebidas no alcohólicas. Distribución porcentual. Variación respecto al año anterior. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": []
+ },
+ {
+  "COD": "EPF149489",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 1. Alimentos y bebidas no alcohólicas. Distribución porcentual. Variación respecto al año base. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": []
+ },
+ {
+  "COD": "EPF9274",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 1. Alimentos y bebidas no alcohólicas. Gasto medio por hogar. Dato base. ",
+  "FK_Unidad": 7,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 4039.21,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 3949.08,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF2563",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 1. Alimentos y bebidas no alcohólicas. Variación respecto al año anterior. Gasto medio por hogar. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 2.3,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": -2.0,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF68530",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 1. Alimentos y bebidas no alcohólicas. Variación respecto al año base. Gasto medio por hogar. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": -4.8,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": -6.9,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF9273",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 1. Alimentos y bebidas no alcohólicas. Gasto medio por persona. Dato base. ",
+  "FK_Unidad": 7,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 1614.59,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 1571.49,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF2562",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 1. Alimentos y bebidas no alcohólicas. Variación respecto al año anterior. Gasto medio por persona. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 2.7,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": -1.2,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF68529",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 1. Alimentos y bebidas no alcohólicas. Variación respecto al año base. Gasto medio por persona. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 3.5,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 0.8,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF9272",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 1. Alimentos y bebidas no alcohólicas. Gasto medio por unidad de consumo. Dato base. ",
+  "FK_Unidad": 7,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 2400.43,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 2340.35,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF2561",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 1. Alimentos y bebidas no alcohólicas. Variación respecto al año anterior. Gasto medio por unidad de consumo. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 2.6,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": -1.4,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF68528",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 1. Alimentos y bebidas no alcohólicas. Variación respecto al año base. Gasto medio por unidad de consumo. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 1.2,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": -1.3,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF9271",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 2. Bebidas alcohólicas, tabaco y narcóticos. Gasto total. Dato base. ",
+  "FK_Unidad": 7,
+  "FK_Escala": 4,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 9552519.03,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 9299101.21,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF2560",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 2. Bebidas alcohólicas, tabaco y narcóticos. Variación respecto al año anterior. Gasto total. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 2.7,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": -4.1,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF68527",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 2. Bebidas alcohólicas, tabaco y narcóticos. Variación respecto al año base. Gasto total. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 6.0,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 3.2,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF9270",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 2. Bebidas alcohólicas, tabaco y narcóticos. Distribución porcentual. Dato base. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 2.42,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 2.42,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF149488",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 2. Bebidas alcohólicas, tabaco y narcóticos. Distribución porcentual. Variación respecto al año anterior. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": []
+ },
+ {
+  "COD": "EPF149487",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 2. Bebidas alcohólicas, tabaco y narcóticos. Distribución porcentual. Variación respecto al año base. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": []
+ },
+ {
+  "COD": "EPF9269",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 2. Bebidas alcohólicas, tabaco y narcóticos. Gasto medio por hogar. Dato base. ",
+  "FK_Unidad": 7,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 519.88,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 508.06,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF2559",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 2. Bebidas alcohólicas, tabaco y narcóticos. Variación respecto al año anterior. Gasto medio por hogar. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 2.3,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": -4.5,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF68526",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 2. Bebidas alcohólicas, tabaco y narcóticos. Variación respecto al año base. Gasto medio por hogar. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": -6.6,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": -8.8,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF9268",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 2. Bebidas alcohólicas, tabaco y narcóticos. Gasto medio por persona. Dato base. ",
+  "FK_Unidad": 7,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 207.81,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 202.18,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF2558",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 2. Bebidas alcohólicas, tabaco y narcóticos. Variación respecto al año anterior. Gasto medio por persona. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 2.8,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": -3.7,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF68525",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 2. Bebidas alcohólicas, tabaco y narcóticos. Variación respecto al año base. Gasto medio por persona. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 1.5,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": -1.2,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF9267",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 2. Bebidas alcohólicas, tabaco y narcóticos. Gasto medio por unidad de consumo. Dato base. ",
+  "FK_Unidad": 7,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 308.96,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 301.09,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF2557",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 2. Bebidas alcohólicas, tabaco y narcóticos. Variación respecto al año anterior. Gasto medio por unidad de consumo. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 2.6,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": -4.0,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF68524",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 2. Bebidas alcohólicas, tabaco y narcóticos. Variación respecto al año base. Gasto medio por unidad de consumo. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": -0.7,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": -3.2,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF9266",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 3. Artículos de vestir y calzado. Gasto total. Dato base. ",
+  "FK_Unidad": 7,
+  "FK_Escala": 4,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 25620053.53,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 25162093.51,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF2556",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 3. Artículos de vestir y calzado. Variación respecto al año anterior. Gasto total. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 1.8,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 2.5,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF68523",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 3. Artículos de vestir y calzado. Variación respecto al año base. Gasto total. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": -22.9,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": -24.2,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF9265",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 3. Artículos de vestir y calzado. Distribución porcentual. Dato base. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 6.5,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 6.54,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF149486",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 3. Artículos de vestir y calzado. Distribución porcentual. Variación respecto al año anterior. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": []
+ },
+ {
+  "COD": "EPF149485",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 3. Artículos de vestir y calzado. Distribución porcentual. Variación respecto al año base. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": []
+ },
+ {
+  "COD": "EPF9264",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 3. Artículos de vestir y calzado. Gasto medio por hogar. Dato base. ",
+  "FK_Unidad": 7,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 1394.34,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 1374.74,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF2555",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 3. Artículos de vestir y calzado. Variación respecto al año anterior. Gasto medio por hogar. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 1.4,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 2.0,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF68522",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 3. Artículos de vestir y calzado. Variación respecto al año base. Gasto medio por hogar. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": -32.1,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": -33.0,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF9263",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 3. Artículos de vestir y calzado. Gasto medio por persona. Dato base. ",
+  "FK_Unidad": 7,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 557.36,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 547.06,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF2554",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 3. Artículos de vestir y calzado. Variación respecto al año anterior. Gasto medio por persona. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 1.9,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 2.8,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF68521",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 3. Artículos de vestir y calzado. Variación respecto al año base. Gasto medio por persona. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": -26.1,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": -27.5,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF9262",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 3. Artículos de vestir y calzado. Gasto medio por unidad de consumo. Dato base. ",
+  "FK_Unidad": 7,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 828.63,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 814.71,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF2553",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 3. Artículos de vestir y calzado. Variación respecto al año anterior. Gasto medio por unidad de consumo. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 1.7,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 2.6,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF68520",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 3. Artículos de vestir y calzado. Variación respecto al año base. Gasto medio por unidad de consumo. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": -27.8,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": -29.0,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF9261",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 4. Vivienda, agua, electricidad, gas y otros combustibles. Gasto total. Dato base. ",
+  "FK_Unidad": 7,
+  "FK_Escala": 4,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 54408206.65,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 53895250.39,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF2552",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 4. Vivienda, agua, electricidad, gas y otros combustibles. Variación respecto al año anterior. Gasto total. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 1.0,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": -2.6,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF68519",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 4. Vivienda, agua, electricidad, gas y otros combustibles. Variación respecto al año base. Gasto total. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 48.3,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 46.9,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF9260",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 4. Vivienda, agua, electricidad, gas y otros combustibles. Distribución porcentual. Dato base. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 13.81,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 14.0,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF149484",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 4. Vivienda, agua, electricidad, gas y otros combustibles. Distribución porcentual. Variación respecto al año anterior. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": []
+ },
+ {
+  "COD": "EPF149483",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 4. Vivienda, agua, electricidad, gas y otros combustibles. Distribución porcentual. Variación respecto al año base. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": []
+ },
+ {
+  "COD": "EPF9259",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 4. Vivienda, agua, electricidad, gas y otros combustibles. Gasto medio por hogar. Dato base. ",
+  "FK_Unidad": 7,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 2961.1,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 2944.58,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF2551",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 4. Vivienda, agua, electricidad, gas y otros combustibles. Variación respecto al año anterior. Gasto medio por hogar. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 0.6,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": -3.1,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF68518",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 4. Vivienda, agua, electricidad, gas y otros combustibles. Variación respecto al año base. Gasto medio por hogar. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 30.6,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 29.8,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF9258",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 4. Vivienda, agua, electricidad, gas y otros combustibles. Gasto medio por persona. Dato base. ",
+  "FK_Unidad": 7,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 1183.64,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 1171.76,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF2550",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 4. Vivienda, agua, electricidad, gas y otros combustibles. Variación respecto al año anterior. Gasto medio por persona. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 1.0,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": -2.3,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF68517",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 4. Vivienda, agua, electricidad, gas y otros combustibles. Variación respecto al año base. Gasto medio por persona. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 42.0,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 40.6,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF9257",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 4. Vivienda, agua, electricidad, gas y otros combustibles. Gasto medio por unidad de consumo. Dato base. ",
+  "FK_Unidad": 7,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 1759.72,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 1745.05,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF2549",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 4. Vivienda, agua, electricidad, gas y otros combustibles. Variación respecto al año anterior. Gasto medio por unidad de consumo. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 0.8,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": -2.5,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF68516",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 4. Vivienda, agua, electricidad, gas y otros combustibles. Variación respecto al año base. Gasto medio por unidad de consumo. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 38.9,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 37.7,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF9256",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 5. Mobiliario, equipamiento del hogar y gastos corrientes de conservación de la vivienda. Gasto total. Dato base. ",
+  "FK_Unidad": 7,
+  "FK_Escala": 4,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 21387642.6,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 20107747.88,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF2548",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 5. Mobiliario, equipamiento del hogar y gastos corrientes de conservación de la vivienda. Variación respecto al año anterior. Gasto total. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 6.4,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": -3.7,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF68515",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 5. Mobiliario, equipamiento del hogar y gastos corrientes de conservación de la vivienda. Variación respecto al año base. Gasto total. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": -26.2,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": -30.6,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF9255",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 5. Mobiliario, equipamiento del hogar y gastos corrientes de conservación de la vivienda. Distribución porcentual. Dato base. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 5.43,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 5.22,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF149482",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 5. Mobiliario, equipamiento del hogar y gastos corrientes de conservación de la vivienda. Distribución porcentual. Variación respecto al año anterior. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": []
+ },
+ {
+  "COD": "EPF149481",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 5. Mobiliario, equipamiento del hogar y gastos corrientes de conservación de la vivienda. Distribución porcentual. Variación respecto al año base. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": []
+ },
+ {
+  "COD": "EPF9254",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 5. Mobiliario, equipamiento del hogar y gastos corrientes de conservación de la vivienda. Gasto medio por hogar. Dato base. ",
+  "FK_Unidad": 7,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 1163.99,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 1098.59,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF2547",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 5. Mobiliario, equipamiento del hogar y gastos corrientes de conservación de la vivienda. Variación respecto al año anterior. Gasto medio por hogar. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 6.0,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": -4.2,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF68514",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 5. Mobiliario, equipamiento del hogar y gastos corrientes de conservación de la vivienda. Variación respecto al año base. Gasto medio por hogar. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": -35.0,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": -38.7,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF9253",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 5. Mobiliario, equipamiento del hogar y gastos corrientes de conservación de la vivienda. Gasto medio por persona. Dato base. ",
+  "FK_Unidad": 7,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 465.28,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 437.17,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF2546",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 5. Mobiliario, equipamiento del hogar y gastos corrientes de conservación de la vivienda. Variación respecto al año anterior. Gasto medio por persona. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 6.4,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": -3.4,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF68513",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 5. Mobiliario, equipamiento del hogar y gastos corrientes de conservación de la vivienda. Variación respecto al año base. Gasto medio por persona. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": -29.3,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": -33.6,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF9252",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 5. Mobiliario, equipamiento del hogar y gastos corrientes de conservación de la vivienda. Gasto medio por unidad de consumo. Dato base. ",
+  "FK_Unidad": 7,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 691.74,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 651.06,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF2545",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 5. Mobiliario, equipamiento del hogar y gastos corrientes de conservación de la vivienda. Variación respecto al año anterior. Gasto medio por unidad de consumo. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 6.2,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": -3.6,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF68512",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 5. Mobiliario, equipamiento del hogar y gastos corrientes de conservación de la vivienda. Variación respecto al año base. Gasto medio por unidad de consumo. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": -30.9,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": -35.0,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF9251",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 6. Salud. Gasto total. Dato base. ",
+  "FK_Unidad": 7,
+  "FK_Escala": 4,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 17855386.47,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 17473179.05,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF2544",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 6. Salud. Variación respecto al año anterior. Gasto total. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 2.2,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 10.3,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF68511",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 6. Salud. Variación respecto al año base. Gasto total. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 26.0,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 23.3,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF9250",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 6. Salud. Distribución porcentual. Dato base. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 4.53,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 4.54,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF149480",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 6. Salud. Distribución porcentual. Variación respecto al año anterior. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": []
+ },
+ {
+  "COD": "EPF149479",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 6. Salud. Distribución porcentual. Variación respecto al año base. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": []
+ },
+ {
+  "COD": "EPF9249",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 6. Salud. Gasto medio por hogar. Dato base. ",
+  "FK_Unidad": 7,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 971.76,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 954.65,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF2543",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 6. Salud. Variación respecto al año anterior. Gasto medio por hogar. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 1.8,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 9.8,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF68510",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 6. Salud. Variación respecto al año base. Gasto medio por hogar. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 10.9,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 9.0,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF9248",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 6. Salud. Gasto medio por persona. Dato base. ",
+  "FK_Unidad": 7,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 388.44,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 379.89,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF2542",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 6. Salud. Variación respecto al año anterior. Gasto medio por persona. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 2.2,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 10.7,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF68509",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 6. Salud. Variación respecto al año base. Gasto medio por persona. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 20.7,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 18.0,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF9247",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 6. Salud. Gasto medio por unidad de consumo. Dato base. ",
+  "FK_Unidad": 7,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 577.5,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 565.76,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF2541",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 6. Salud. Variación respecto al año anterior. Gasto medio por unidad de consumo. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 2.1,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 10.4,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF68508",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 6. Salud. Variación respecto al año base. Gasto medio por unidad de consumo. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 18.0,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 15.6,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF9246",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 7. Transportes. Gasto total. Dato base. ",
+  "FK_Unidad": 7,
+  "FK_Escala": 4,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 57983894.11,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 58979371.42,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF2540",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 7. Transportes. Variación respecto al año anterior. Gasto total. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": -1.7,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 3.9,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF68507",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 7. Transportes. Variación respecto al año base. Gasto total. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": -19.7,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": -18.3,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF9245",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 7. Transportes. Distribución porcentual. Dato base. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 14.72,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 15.32,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF149478",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 7. Transportes. Distribución porcentual. Variación respecto al año anterior. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": []
+ },
+ {
+  "COD": "EPF149477",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 7. Transportes. Distribución porcentual. Variación respecto al año base. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": []
+ },
+ {
+  "COD": "EPF9244",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 7. Transportes. Gasto medio por hogar. Dato base. ",
+  "FK_Unidad": 7,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 3155.7,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 3222.36,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF2539",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 7. Transportes. Variación respecto al año anterior. Gasto medio por hogar. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": -2.1,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 3.4,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF68506",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 7. Transportes. Variación respecto al año base. Gasto medio por hogar. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": -29.3,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": -27.8,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF9243",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 7. Transportes. Gasto medio por persona. Dato base. ",
+  "FK_Unidad": 7,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 1261.42,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 1282.3,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF2538",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 7. Transportes. Variación respecto al año anterior. Gasto medio por persona. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": -1.6,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 4.2,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF68505",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 7. Transportes. Variación respecto al año base. Gasto medio por persona. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": -23.1,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": -21.8,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF9242",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 7. Transportes. Gasto medio por unidad de consumo. Dato base. ",
+  "FK_Unidad": 7,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 1875.37,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 1909.67,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF2537",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 7. Transportes. Variación respecto al año anterior. Gasto medio por unidad de consumo. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": -1.8,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 4.0,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF68504",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 7. Transportes. Variación respecto al año base. Gasto medio por unidad de consumo. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": -24.8,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": -23.4,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF9241",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 8. Comunicaciones. Gasto total. Dato base. ",
+  "FK_Unidad": 7,
+  "FK_Escala": 4,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 14486257.38,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 14444660.41,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF2536",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 8. Comunicaciones. Variación respecto al año anterior. Gasto total. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 0.3,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": -3.2,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF68503",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 8. Comunicaciones. Variación respecto al año base. Gasto total. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 3.9,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 3.6,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF9240",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 8. Comunicaciones. Distribución porcentual. Dato base. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 3.68,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 3.75,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF149476",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 8. Comunicaciones. Distribución porcentual. Variación respecto al año anterior. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": []
+ },
+ {
+  "COD": "EPF149475",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 8. Comunicaciones. Distribución porcentual. Variación respecto al año base. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": []
+ },
+ {
+  "COD": "EPF9239",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 8. Comunicaciones. Gasto medio por hogar. Dato base. ",
+  "FK_Unidad": 7,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 788.4,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 789.19,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF2535",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 8. Comunicaciones. Variación respecto al año anterior. Gasto medio por hogar. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": -0.1,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": -3.7,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF68502",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 8. Comunicaciones. Variación respecto al año base. Gasto medio por hogar. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": -8.5,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": -8.4,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF9238",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 8. Comunicaciones. Gasto medio por persona. Dato base. ",
+  "FK_Unidad": 7,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 315.14,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 314.05,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF2534",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 8. Comunicaciones. Variación respecto al año anterior. Gasto medio por persona. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 0.3,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": -2.9,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF68501",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 8. Comunicaciones. Variación respecto al año base. Gasto medio por persona. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": -0.5,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": -0.8,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF9237",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 8. Comunicaciones. Gasto medio por unidad de consumo. Dato base. ",
+  "FK_Unidad": 7,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 468.53,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 467.7,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF2533",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 8. Comunicaciones. Variación respecto al año anterior. Gasto medio por unidad de consumo. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 0.2,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": -3.1,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF68500",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 8. Comunicaciones. Variación respecto al año base. Gasto medio por unidad de consumo. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": -2.7,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": -2.9,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF9236",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 9. Ocio, espectáculos y cultura. Gasto total. Dato base. ",
+  "FK_Unidad": 7,
+  "FK_Escala": 4,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 29257679.68,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 28048164.72,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF2532",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 9. Ocio, espectáculos y cultura. Variación respecto al año anterior. Gasto total. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 4.3,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 0.2,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF68499",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 9. Ocio, espectáculos y cultura. Variación respecto al año base. Gasto total. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": -13.2,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": -16.8,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF9235",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 9. Ocio, espectáculos y cultura. Distribución porcentual. Dato base. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 7.43,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 7.29,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF149474",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 9. Ocio, espectáculos y cultura. Distribución porcentual. Variación respecto al año anterior. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": []
+ },
+ {
+  "COD": "EPF149473",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 9. Ocio, espectáculos y cultura. Distribución porcentual. Variación respecto al año base. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": []
+ },
+ {
+  "COD": "EPF9234",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 9. Ocio, espectáculos y cultura. Gasto medio por hogar. Dato base. ",
+  "FK_Unidad": 7,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 1592.31,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 1532.42,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF2531",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 9. Ocio, espectáculos y cultura. Variación respecto al año anterior. Gasto medio por hogar. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 3.9,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": -0.3,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF68498",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 9. Ocio, espectáculos y cultura. Variación respecto al año base. Gasto medio por hogar. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": -23.5,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": -26.4,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF9233",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 9. Ocio, espectáculos y cultura. Gasto medio por persona. Dato base. ",
+  "FK_Unidad": 7,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 636.49,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 609.81,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF2530",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 9. Ocio, espectáculos y cultura. Variación respecto al año anterior. Gasto medio por persona. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 4.4,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 0.6,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF68497",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 9. Ocio, espectáculos y cultura. Variación respecto al año base. Gasto medio por persona. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": -16.8,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": -20.3,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF9232",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 9. Ocio, espectáculos y cultura. Gasto medio por unidad de consumo. Dato base. ",
+  "FK_Unidad": 7,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 946.28,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 908.16,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF2529",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 9. Ocio, espectáculos y cultura. Variación respecto al año anterior. Gasto medio por unidad de consumo. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 4.2,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 0.3,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF68496",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 9. Ocio, espectáculos y cultura. Variación respecto al año base. Gasto medio por unidad de consumo. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": -18.7,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": -22.0,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF9231",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 10. Enseñanza. Gasto total. Dato base. ",
+  "FK_Unidad": 7,
+  "FK_Escala": 4,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 6909982.65,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 6727098.22,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF2528",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 10. Enseñanza. Variación respecto al año anterior. Gasto total. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 2.7,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 3.5,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF68495",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 10. Enseñanza. Variación respecto al año base. Gasto total. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 55.1,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 51.0,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF9230",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 10. Enseñanza. Distribución porcentual. Dato base. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 1.75,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 1.75,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF149472",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 10. Enseñanza. Distribución porcentual. Variación respecto al año anterior. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": []
+ },
+ {
+  "COD": "EPF149471",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 10. Enseñanza. Distribución porcentual. Variación respecto al año base. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": []
+ },
+ {
+  "COD": "EPF9229",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 10. Enseñanza. Gasto medio por hogar. Dato base. ",
+  "FK_Unidad": 7,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 376.07,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 367.54,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF2527",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 10. Enseñanza. Variación respecto al año anterior. Gasto medio por hogar. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 2.3,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 3.0,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF68494",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 10. Enseñanza. Variación respecto al año base. Gasto medio por hogar. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 36.6,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 33.5,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF9228",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 10. Enseñanza. Gasto medio por persona. Dato base. ",
+  "FK_Unidad": 7,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 150.32,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 146.26,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF2526",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 10. Enseñanza. Variación respecto al año anterior. Gasto medio por persona. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 2.8,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 3.8,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF68493",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 10. Enseñanza. Variación respecto al año base. Gasto medio por persona. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 48.5,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 44.5,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF9227",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 10. Enseñanza. Gasto medio por unidad de consumo. Dato base. ",
+  "FK_Unidad": 7,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 223.49,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 217.81,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF2525",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 10. Enseñanza. Variación respecto al año anterior. Gasto medio por unidad de consumo. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 2.6,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 3.6,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF68492",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 10. Enseñanza. Variación respecto al año base. Gasto medio por unidad de consumo. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 45.2,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 41.5,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF9226",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 11. Hoteles, cafés y restaurantes. Gasto total. Dato base. ",
+  "FK_Unidad": 7,
+  "FK_Escala": 4,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 44584681.41,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 40926630.01,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF2524",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 11. Hoteles, cafés y restaurantes. Variación respecto al año anterior. Gasto total. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 8.9,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 4.6,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF68491",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 11. Hoteles, cafés y restaurantes. Variación respecto al año base. Gasto total. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": -5.4,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": -13.2,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF9225",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 11. Hoteles, cafés y restaurantes. Distribución porcentual. Dato base. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 11.32,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 10.63,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF149470",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 11. Hoteles, cafés y restaurantes. Distribución porcentual. Variación respecto al año anterior. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": []
+ },
+ {
+  "COD": "EPF149469",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 11. Hoteles, cafés y restaurantes. Distribución porcentual. Variación respecto al año base. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": []
+ },
+ {
+  "COD": "EPF9224",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 11. Hoteles, cafés y restaurantes. Gasto medio por hogar. Dato base. ",
+  "FK_Unidad": 7,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 2426.46,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 2236.04,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF2523",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 11. Hoteles, cafés y restaurantes. Variación respecto al año anterior. Gasto medio por hogar. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 8.5,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 4.1,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF68490",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 11. Hoteles, cafés y restaurantes. Variación respecto al año base. Gasto medio por hogar. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": -16.7,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": -23.3,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF9223",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 11. Hoteles, cafés y restaurantes. Gasto medio por persona. Dato base. ",
+  "FK_Unidad": 7,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 969.93,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 889.81,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF2522",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 11. Hoteles, cafés y restaurantes. Variación respecto al año anterior. Gasto medio por persona. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 9.0,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 4.9,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF68489",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 11. Hoteles, cafés y restaurantes. Variación respecto al año base. Gasto medio por persona. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": -9.4,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": -16.9,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF9222",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 11. Hoteles, cafés y restaurantes. Gasto medio por unidad de consumo. Dato base. ",
+  "FK_Unidad": 7,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 1442.0,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 1325.15,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF2521",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 11. Hoteles, cafés y restaurantes. Variación respecto al año anterior. Gasto medio por unidad de consumo. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 8.8,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 4.7,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF68488",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 11. Hoteles, cafés y restaurantes. Variación respecto al año base. Gasto medio por unidad de consumo. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": -11.4,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": -18.6,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF9221",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 12. Otros bienes y servicios. Gasto total. Dato base. ",
+  "FK_Unidad": 7,
+  "FK_Escala": 4,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 37655347.31,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 37601487.5,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF2520",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 12. Otros bienes y servicios. Variación respecto al año anterior. Gasto total. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 0.1,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 1.4,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF68487",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 12. Otros bienes y servicios. Variación respecto al año base. Gasto total. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": -2.2,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": -2.3,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF9220",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 12. Otros bienes y servicios. Distribución porcentual. Dato base. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 9.56,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 9.77,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF149468",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 12. Otros bienes y servicios. Distribución porcentual. Variación respecto al año anterior. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": []
+ },
+ {
+  "COD": "EPF149467",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 12. Otros bienes y servicios. Distribución porcentual. Variación respecto al año base. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": []
+ },
+ {
+  "COD": "EPF9219",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 12. Otros bienes y servicios. Gasto medio por hogar. Dato base. ",
+  "FK_Unidad": 7,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 2049.34,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 2054.37,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF2519",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 12. Otros bienes y servicios. Variación respecto al año anterior. Gasto medio por hogar. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": -0.2,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 0.9,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF68486",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 12. Otros bienes y servicios. Variación respecto al año base. Gasto medio por hogar. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": -13.9,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": -13.6,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF9218",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 12. Otros bienes y servicios. Gasto medio por persona. Dato base. ",
+  "FK_Unidad": 7,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 819.18,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 817.51,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF2518",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 12. Otros bienes y servicios. Variación respecto al año anterior. Gasto medio por persona. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 0.2,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 1.7,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF68485",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 12. Otros bienes y servicios. Variación respecto al año base. Gasto medio por persona. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": -6.3,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": -6.5,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF9217",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 12. Otros bienes y servicios. Gasto medio por unidad de consumo. Dato base. ",
+  "FK_Unidad": 7,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 1217.89,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 1217.48,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF2517",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 12. Otros bienes y servicios. Variación respecto al año anterior. Gasto medio por unidad de consumo. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": 0.0,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": 1.5,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "EPF68484",
+  "Nombre": "Base 2006. Anual. Total Nacional. Grupo 12. Otros bienes y servicios. Variación respecto al año base. Gasto medio por unidad de consumo. ",
+  "FK_Unidad": 101,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1420066800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2015,
+    "Valor": -8.4,
+    "Secreto": false
+   },
+   {
+    "Fecha": 1388530800000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2014,
+    "Valor": -8.4,
+    "Secreto": false
+   }
+  ]
+ }
+]
