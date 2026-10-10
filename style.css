@@ -501,3 +501,6 @@ img.presenta-avatar { object-fit: cover; filter: grayscale(1); }
 .cal-proximo .cal-tit::before { content: "Próximo dato"; display: block; font-size: .7rem; letter-spacing: .08em; text-transform: uppercase; color: var(--gold-text); margin-bottom: .15rem; }
 .agenda-mas { margin: .4rem 0 0; font-size: .9rem; font-weight: 700; }
 .agenda-mas a { color: var(--sol); }
+.pen-cta { display: flex; flex-wrap: wrap; align-items: center; gap: .5rem 1rem; margin: 1.4rem 0 0; }
+.pen-cta .small { margin: 0; color: var(--muted); }
+.t-nl { margin: 0 0 1.4rem; font-weight: 700; }

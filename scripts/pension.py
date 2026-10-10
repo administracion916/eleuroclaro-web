@@ -164,7 +164,7 @@ PLANTILLA = """<!doctype html>
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="/apple-touch-icon.png">
 <link rel="stylesheet" href="/fonts.css">
-<link rel="stylesheet" href="/style.css?v=20261010g">
+<link rel="stylesheet" href="/style.css?v=20261010h">
 <script type="application/ld+json">{faq}</script>
 </head>
 <body>
@@ -204,6 +204,7 @@ PLANTILLA = """<!doctype html>
         <span class="cf-in"><input id="pension" name="pension" type="text" inputmode="decimal" autocomplete="off" placeholder="p. ej. 1.200"><span aria-hidden="true">€/mes</span></span>
         <p class="pen-res" id="pen-res" aria-live="polite">Con una pensión de 1.200&nbsp;€, en {anyo} cobrarías <strong>{ejemplo}</strong> al mes: {ejemplo_mas} más.</p>
       </form>
+      <p class="pen-cta"><a class="btn btn-sol" href="#newsletter">Avísame de la cifra final</a><span class="small">Te la mandamos al correo cuando salga. Gratis.</span></p>
     </div>
   </section>
 
