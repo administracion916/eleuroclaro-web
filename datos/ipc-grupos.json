@@ -1,0 +1,76 @@
+{
+ "actualizado": "2026-10-10",
+ "periodo": "agosto de 2026",
+ "anyo": 2026,
+ "mes": 8,
+ "general": 4.3,
+ "grupos": [
+  {
+   "codigo": "01",
+   "nombre": "Alimentos y bebidas no alcohólicas",
+   "tasa": 2.3
+  },
+  {
+   "codigo": "02",
+   "nombre": "Bebidas alcohólicas y tabaco",
+   "tasa": 2.8
+  },
+  {
+   "codigo": "03",
+   "nombre": "Vestido y calzado",
+   "tasa": -2.1
+  },
+  {
+   "codigo": "04",
+   "nombre": "Vivienda, agua, electricidad, gas y otros combustibles",
+   "tasa": 6.4
+  },
+  {
+   "codigo": "05",
+   "nombre": "Muebles, artículos del hogar y artículos para el mantenimiento corriente del hogar",
+   "tasa": 1.4
+  },
+  {
+   "codigo": "06",
+   "nombre": "Sanidad",
+   "tasa": 2.0
+  },
+  {
+   "codigo": "07",
+   "nombre": "Transporte",
+   "tasa": 9.5
+  },
+  {
+   "codigo": "08",
+   "nombre": "Información y comunicaciones",
+   "tasa": 3.1
+  },
+  {
+   "codigo": "09",
+   "nombre": "Actividades recreativas, deporte y cultura",
+   "tasa": 1.2
+  },
+  {
+   "codigo": "10",
+   "nombre": "Enseñanza",
+   "tasa": 2.5
+  },
+  {
+   "codigo": "11",
+   "nombre": "Restaurantes y servicios de alojamiento",
+   "tasa": 4.8
+  },
+  {
+   "codigo": "12",
+   "nombre": "Seguros y servicios financieros",
+   "tasa": 3.3
+  },
+  {
+   "codigo": "13",
+   "nombre": "Cuidado personal, protección social, y bienes y servicios diversos",
+   "tasa": 3.2
+  }
+ ],
+ "fuente": "INE, Índice de Precios de Consumo, variación anual por grupos (tabla 79181)",
+ "tabla": 79181
+}
