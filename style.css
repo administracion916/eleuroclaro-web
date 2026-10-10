@@ -400,3 +400,18 @@ img.presenta-avatar { object-fit: cover; filter: grayscale(1); }
   .lp-grid { grid-template-columns: 1fr; gap: 2rem; }
   .lp-img { max-width: 22rem; }
 }
+
+/* Reto de noviembre (/reto/) */
+.reto-cuenta { display: inline-block; margin: .4rem 0 0; padding: .45rem .9rem; border-radius: 999px; background: var(--gold-soft); color: var(--gold-text); font-weight: 700; font-size: .95rem; }
+.reto-pasos { list-style: none; margin: 0; padding: 0; display: grid; gap: .8rem; counter-reset: paso; }
+.reto-pasos li { counter-increment: paso; position: relative; display: grid; gap: .15rem; padding: 1rem 1.1rem 1rem 4rem; background: var(--surface); border: 1px solid var(--line); border-radius: .8rem; box-shadow: 0 18px 40px -32px rgba(14, 42, 71, .6); }
+.reto-pasos li::before { content: counter(paso); position: absolute; left: 1rem; top: 1rem; display: grid; place-items: center; width: 2.2rem; height: 2.2rem; border-radius: 50%; background: var(--navy); color: var(--sol); font-family: var(--font-display); font-weight: 700; font-size: 1.15rem; }
+.reto-pasos strong { font-family: var(--font-display); font-weight: 600; font-size: 1.15rem; line-height: 1.25; }
+.reto-pasos li > span:last-child { color: var(--muted); font-size: .95rem; }
+.rp-dia { font-size: .75rem; letter-spacing: .08em; text-transform: uppercase; font-weight: 700; color: var(--gold-text); }
+.reto-pasos .rp-siguiente { border-color: var(--gold); box-shadow: 0 0 0 2px var(--gold-soft), 0 18px 40px -32px rgba(14, 42, 71, .6); }
+.reto-pasos .rp-hecho { opacity: .7; }
+.reto-pasos .rp-hecho::before { content: "✓"; background: var(--sol); color: var(--navy); }
+.faq { border-bottom: 1px solid var(--line); padding: .3rem 0; }
+.faq summary { cursor: pointer; font-weight: 700; padding: .5rem 0; }
+.faq p { margin: 0 0 .8rem; color: var(--muted); }
