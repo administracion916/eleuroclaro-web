@@ -1,0 +1,530 @@
+[
+ {
+  "COD": "IPC331936",
+  "Nombre": "Total Nacional. Índice general. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 1000.0,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332376",
+  "Nombre": "Total Nacional. General sin alimentos no elaborados ni productos energéticos. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 848.238,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332373",
+  "Nombre": "Total Nacional. Alimentos no elaborados y productos energéticos. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 151.762,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332363",
+  "Nombre": "Total Nacional. Productos energéticos. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 89.257,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332359",
+  "Nombre": "Total Nacional. Alimentos sin elaboración. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 62.505,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332380",
+  "Nombre": "Total Nacional. Alimentos elaborados. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 96.713,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332382",
+  "Nombre": "Total Nacional. Alimentos, bebidas y tabaco. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 209.213,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332372",
+  "Nombre": "Total Nacional. Servicios. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 503.138,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332360",
+  "Nombre": "Total Nacional. Bienes industriales. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 287.648,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332371",
+  "Nombre": "Total Nacional. Alimentos y bebidas. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 188.928,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332384",
+  "Nombre": "Total Nacional. Alimentos con elaboración, bebidas y tabaco. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 146.708,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332385",
+  "Nombre": "Total Nacional. Bienes industriales duraderos. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 90.859,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332387",
+  "Nombre": "Total Nacional. Bienes industriales no duraderos. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 138.191,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332388",
+  "Nombre": "Total Nacional. Bienes industriales semiduraderos. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 58.598,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332381",
+  "Nombre": "Total Nacional. Bienes industriales sin energía. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 254.012,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332383",
+  "Nombre": "Total Nacional. Bienes industriales sin productos energéticos. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 198.392,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332361",
+  "Nombre": "Total Nacional. Servicios sin alquiler de vivienda. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 469.351,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332374",
+  "Nombre": "Total Nacional. General sin alimentos, bebidas y tabaco. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 790.787,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332364",
+  "Nombre": "Total Nacional. General sin alquiler de vivienda. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 966.213,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332365",
+  "Nombre": "Total Nacional. General sin carburantes ni combustibles. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 944.38,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332375",
+  "Nombre": "Total Nacional. General sin productos energéticos. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 910.743,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332366",
+  "Nombre": "Total Nacional. General sin servicios (incluye alquiler de vivienda). Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 530.649,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332377",
+  "Nombre": "Total Nacional. General sin servicios ni alquiler de vivienda. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 496.862,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332367",
+  "Nombre": "Total Nacional. General sin alimentos ni bebidas ni tabaco ni alquiler de vivienda. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 757.0,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332378",
+  "Nombre": "Total Nacional. General sin alimentos ni bebidas ni tabaco ni carburantes ni combustibles. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 735.167,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332368",
+  "Nombre": "Total Nacional. General sin alimentos ni bebidas ni tabaco ni productos energéticos. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 701.53,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332379",
+  "Nombre": "Total Nacional. General sin alimentos ni bebidas ni tabaco ni servicios (incluido alquiler de vivienda). Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 321.436,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332369",
+  "Nombre": "Total Nacional. General sin alimentos ni bebidas ni tabaco ni servicios ni alquiler de vivienda. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 287.648,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332386",
+  "Nombre": "Total Nacional. General sin carburantes ni combustibles líquidos. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 955.483,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332370",
+  "Nombre": "Total Nacional. General sin tabaco. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 979.715,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332389",
+  "Nombre": "Total Nacional. Aceite de oliva. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 5.777,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332362",
+  "Nombre": "Total Nacional. Carburantes y combustibles. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 55.62,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332390",
+  "Nombre": "Total Nacional. Hoteles. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 8.699,
+    "Secreto": false
+   }
+  ]
+ }
+]

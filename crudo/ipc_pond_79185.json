@@ -1,0 +1,226 @@
+[
+ {
+  "COD": "IPC331936",
+  "Nombre": "Total Nacional. Índice general. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 1000.0,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC331937",
+  "Nombre": "Total Nacional. Alimentos y bebidas no alcohólicas. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 174.077,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC331943",
+  "Nombre": "Total Nacional. Bebidas alcohólicas, tabaco y estupefacientes. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 35.136,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC331938",
+  "Nombre": "Total Nacional. Vestido y calzado. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 35.817,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC331939",
+  "Nombre": "Total Nacional. Vivienda, agua, electricidad, gas y otros combustibles. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 122.584,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC331940",
+  "Nombre": "Total Nacional. Muebles, artículos del hogar y artículos para el mantenimiento corriente del hogar. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 47.426,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC331941",
+  "Nombre": "Total Nacional. Sanidad. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 52.285,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC331942",
+  "Nombre": "Total Nacional. Transporte. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 154.693,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC331944",
+  "Nombre": "Total Nacional. Información y comunicaciones. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 37.468,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC331945",
+  "Nombre": "Total Nacional. Actividades recreativas, deporte y cultura. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 74.761,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC331946",
+  "Nombre": "Total Nacional. Servicios de educación. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 16.086,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC331947",
+  "Nombre": "Total Nacional. Restaurantes y servicios de alojamiento. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 170.327,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC331948",
+  "Nombre": "Total Nacional. Seguros y servicios financieros. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 22.667,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC331949",
+  "Nombre": "Total Nacional. Cuidado personal, protección social, y bienes y servicios diversos. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 56.674,
+    "Secreto": false
+   }
+  ]
+ }
+]

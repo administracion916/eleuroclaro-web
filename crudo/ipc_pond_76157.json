@@ -1,0 +1,738 @@
+[
+ {
+  "COD": "IPC331936",
+  "Nombre": "Total Nacional. Índice general. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 1000.0,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC331951",
+  "Nombre": "Total Nacional. Alimentos. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 159.219,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC331952",
+  "Nombre": "Total Nacional. Bebidas no alcohólicas. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 14.858,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC331953",
+  "Nombre": "Total Nacional. Bebidas alcohólicas. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 14.851,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC331954",
+  "Nombre": "Total Nacional. Tabaco. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 20.285,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC331955",
+  "Nombre": "Total Nacional. Vestido. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 26.568,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC331969",
+  "Nombre": "Total Nacional. Calzado. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 9.249,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC331970",
+  "Nombre": "Total Nacional. Pagos reales efectuados de alquiler de la vivienda. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 36.442,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC331971",
+  "Nombre": "Total Nacional. Mantenimiento, reparación y seguridad de la vivienda. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 11.154,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC331972",
+  "Nombre": "Total Nacional. Suministro de agua y servicios diversos relacionados con la vivienda. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 27.195,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC331956",
+  "Nombre": "Total Nacional. Electricidad, gas y otros combustibles. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 47.793,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC331973",
+  "Nombre": "Total Nacional. Muebles, accesorios y alfombras. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 12.4,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC331957",
+  "Nombre": "Total Nacional. Artículos textiles para el hogar. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 2.781,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC331958",
+  "Nombre": "Total Nacional. Aparatos domésticos. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 6.49,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC331959",
+  "Nombre": "Total Nacional. Cristalería, vajilla y utensilios para el hogar. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 1.191,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC331960",
+  "Nombre": "Total Nacional. Herramientas y equipos para el hogar y el jardín. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 1.807,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC331961",
+  "Nombre": "Total Nacional. Bienes y servicios para el mantenimiento corriente del hogar. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 22.757,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC331974",
+  "Nombre": "Total Nacional. Medicamentos y productos sanitarios. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 20.272,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC331975",
+  "Nombre": "Total Nacional. Servicios de cuidados ambulatorios. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 26.688,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC331976",
+  "Nombre": "Total Nacional. Servicios de cuidados hospitalarios. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 4.79,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC331977",
+  "Nombre": "Total Nacional. Otros servicios sanitarios. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 0.534,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC331962",
+  "Nombre": "Total Nacional. Adquisición de vehículos. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 44.546,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC331963",
+  "Nombre": "Total Nacional. Utilización de vehículos personales. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 84.42,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC331978",
+  "Nombre": "Total Nacional. Servicios de transporte de pasajeros. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 23.686,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC331979",
+  "Nombre": "Total Nacional. Servicios de transporte de mercancías. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 2.039,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC331980",
+  "Nombre": "Total Nacional. Equipos de información y comunicaciones. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 11.383,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC331981",
+  "Nombre": "Total Nacional. Servicios de información y comunicaciones. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 26.085,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC331982",
+  "Nombre": "Total Nacional. Equipos duraderos para fines recreativos. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 1.087,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC331983",
+  "Nombre": "Total Nacional. Otros artículos para fines recreativos. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 5.277,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC331984",
+  "Nombre": "Total Nacional. Productos de jardinería y mascotas. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 5.797,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC331985",
+  "Nombre": "Total Nacional. Servicios para fines recreativos. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 35.116,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC331986",
+  "Nombre": "Total Nacional. Servicios culturales. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 5.686,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC331987",
+  "Nombre": "Total Nacional. Periódicos, libros y artículos de papelería. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 4.868,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC331964",
+  "Nombre": "Total Nacional. Paquetes turísticos. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 16.93,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC331988",
+  "Nombre": "Total Nacional. Educación Infantil y Primaria. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 3.001,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC331989",
+  "Nombre": "Total Nacional. Educación Secundaria. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 2.412,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC331990",
+  "Nombre": "Total Nacional. Educación Superior. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 4.821,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC331991",
+  "Nombre": "Total Nacional. Educación no reglada y no formal. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 5.852,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC331992",
+  "Nombre": "Total Nacional. Servicios de comidas y bebidas. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 155.416,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC331965",
+  "Nombre": "Total Nacional. Servicios de alojamiento. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 14.911,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC331968",
+  "Nombre": "Total Nacional. Seguros. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 10.329,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC331993",
+  "Nombre": "Total Nacional. Servicios financieros. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 12.338,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC331966",
+  "Nombre": "Total Nacional. Cuidado personal. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 30.755,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC331994",
+  "Nombre": "Total Nacional. Otros efectos personales. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 4.829,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC331967",
+  "Nombre": "Total Nacional. Protección social. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 12.267,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC331995",
+  "Nombre": "Total Nacional. Otros servicios. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 8.823,
+    "Secreto": false
+   }
+  ]
+ }
+]

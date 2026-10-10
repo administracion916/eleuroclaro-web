@@ -1,0 +1,4482 @@
+[
+ {
+  "COD": "IPC331936",
+  "Nombre": "Total Nacional. Índice general. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 1000.0,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC331937",
+  "Nombre": "Total Nacional. Alimentos y bebidas no alcohólicas. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 174.077,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC331943",
+  "Nombre": "Total Nacional. Bebidas alcohólicas, tabaco y estupefacientes. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 35.136,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC331938",
+  "Nombre": "Total Nacional. Vestido y calzado. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 35.817,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC331939",
+  "Nombre": "Total Nacional. Vivienda, agua, electricidad, gas y otros combustibles. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 122.584,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC331940",
+  "Nombre": "Total Nacional. Muebles, artículos del hogar y artículos para el mantenimiento corriente del hogar. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 47.426,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC331941",
+  "Nombre": "Total Nacional. Sanidad. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 52.285,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC331942",
+  "Nombre": "Total Nacional. Transporte. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 154.693,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC331944",
+  "Nombre": "Total Nacional. Información y comunicaciones. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 37.468,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC331945",
+  "Nombre": "Total Nacional. Actividades recreativas, deporte y cultura. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 74.761,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC331946",
+  "Nombre": "Total Nacional. Servicios de educación. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 16.086,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC331947",
+  "Nombre": "Total Nacional. Restaurantes y servicios de alojamiento. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 170.327,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC331948",
+  "Nombre": "Total Nacional. Seguros y servicios financieros. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 22.667,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC331949",
+  "Nombre": "Total Nacional. Cuidado personal, protección social, y bienes y servicios diversos. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 56.674,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332407",
+  "Nombre": "Andalucía. Índice general. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 1000.0,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332408",
+  "Nombre": "Andalucía. Alimentos y bebidas no alcohólicas. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 184.612,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332414",
+  "Nombre": "Andalucía. Bebidas alcohólicas, tabaco y estupefacientes. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 41.107,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332409",
+  "Nombre": "Andalucía. Vestido y calzado. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 36.228,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332410",
+  "Nombre": "Andalucía. Vivienda, agua, electricidad, gas y otros combustibles. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 104.441,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332411",
+  "Nombre": "Andalucía. Muebles, artículos del hogar y artículos para el mantenimiento corriente del hogar. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 51.237,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332412",
+  "Nombre": "Andalucía. Sanidad. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 51.237,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332413",
+  "Nombre": "Andalucía. Transporte. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 152.76,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332415",
+  "Nombre": "Andalucía. Información y comunicaciones. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 36.776,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332416",
+  "Nombre": "Andalucía. Actividades recreativas, deporte y cultura. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 60.927,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332417",
+  "Nombre": "Andalucía. Servicios de educación. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 13.005,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332418",
+  "Nombre": "Andalucía. Restaurantes y servicios de alojamiento. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 187.802,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332419",
+  "Nombre": "Andalucía. Seguros y servicios financieros. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 23.555,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332420",
+  "Nombre": "Andalucía. Cuidado personal, protección social, y bienes y servicios diversos. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 56.314,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332421",
+  "Nombre": "Aragón. Índice general. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 1000.0,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332422",
+  "Nombre": "Aragón. Alimentos y bebidas no alcohólicas. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 180.855,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332428",
+  "Nombre": "Aragón. Bebidas alcohólicas, tabaco y estupefacientes. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 38.358,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332423",
+  "Nombre": "Aragón. Vestido y calzado. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 33.74,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332424",
+  "Nombre": "Aragón. Vivienda, agua, electricidad, gas y otros combustibles. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 118.228,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332425",
+  "Nombre": "Aragón. Muebles, artículos del hogar y artículos para el mantenimiento corriente del hogar. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 49.015,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332426",
+  "Nombre": "Aragón. Sanidad. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 52.696,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332427",
+  "Nombre": "Aragón. Transporte. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 136.165,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332429",
+  "Nombre": "Aragón. Información y comunicaciones. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 36.95,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332430",
+  "Nombre": "Aragón. Actividades recreativas, deporte y cultura. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 75.698,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332431",
+  "Nombre": "Aragón. Servicios de educación. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 15.342,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332432",
+  "Nombre": "Aragón. Restaurantes y servicios de alojamiento. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 176.17,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332433",
+  "Nombre": "Aragón. Seguros y servicios financieros. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 28.225,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332434",
+  "Nombre": "Aragón. Cuidado personal, protección social, y bienes y servicios diversos. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 58.559,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332435",
+  "Nombre": "Asturias, Principado de. Índice general. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 1000.0,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332436",
+  "Nombre": "Asturias, Principado de. Alimentos y bebidas no alcohólicas. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 183.412,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332442",
+  "Nombre": "Asturias, Principado de. Bebidas alcohólicas, tabaco y estupefacientes. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 37.231,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332437",
+  "Nombre": "Asturias, Principado de. Vestido y calzado. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 39.244,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332438",
+  "Nombre": "Asturias, Principado de. Vivienda, agua, electricidad, gas y otros combustibles. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 115.197,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332439",
+  "Nombre": "Asturias, Principado de. Muebles, artículos del hogar y artículos para el mantenimiento corriente del hogar. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 44.862,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332440",
+  "Nombre": "Asturias, Principado de. Sanidad. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 54.325,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332441",
+  "Nombre": "Asturias, Principado de. Transporte. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 145.321,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332443",
+  "Nombre": "Asturias, Principado de. Información y comunicaciones. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 38.777,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332444",
+  "Nombre": "Asturias, Principado de. Actividades recreativas, deporte y cultura. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 76.269,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332445",
+  "Nombre": "Asturias, Principado de. Servicios de educación. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 14.296,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332446",
+  "Nombre": "Asturias, Principado de. Restaurantes y servicios de alojamiento. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 171.908,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332447",
+  "Nombre": "Asturias, Principado de. Seguros y servicios financieros. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 19.577,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332448",
+  "Nombre": "Asturias, Principado de. Cuidado personal, protección social, y bienes y servicios diversos. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 59.581,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332449",
+  "Nombre": "Balears, Illes. Índice general. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 1000.0,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332450",
+  "Nombre": "Balears, Illes. Alimentos y bebidas no alcohólicas. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 167.584,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332456",
+  "Nombre": "Balears, Illes. Bebidas alcohólicas, tabaco y estupefacientes. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 31.521,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332451",
+  "Nombre": "Balears, Illes. Vestido y calzado. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 35.438,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332452",
+  "Nombre": "Balears, Illes. Vivienda, agua, electricidad, gas y otros combustibles. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 143.999,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332453",
+  "Nombre": "Balears, Illes. Muebles, artículos del hogar y artículos para el mantenimiento corriente del hogar. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 52.427,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332454",
+  "Nombre": "Balears, Illes. Sanidad. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 50.969,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332455",
+  "Nombre": "Balears, Illes. Transporte. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 163.821,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332457",
+  "Nombre": "Balears, Illes. Información y comunicaciones. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 40.161,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332458",
+  "Nombre": "Balears, Illes. Actividades recreativas, deporte y cultura. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 73.104,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332459",
+  "Nombre": "Balears, Illes. Servicios de educación. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 14.969,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332460",
+  "Nombre": "Balears, Illes. Restaurantes y servicios de alojamiento. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 148.325,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332461",
+  "Nombre": "Balears, Illes. Seguros y servicios financieros. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 21.325,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332462",
+  "Nombre": "Balears, Illes. Cuidado personal, protección social, y bienes y servicios diversos. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 56.357,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332463",
+  "Nombre": "Canarias. Índice general. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 1000.0,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332464",
+  "Nombre": "Canarias. Alimentos y bebidas no alcohólicas. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 175.516,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332470",
+  "Nombre": "Canarias. Bebidas alcohólicas, tabaco y estupefacientes. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 36.781,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332465",
+  "Nombre": "Canarias. Vestido y calzado. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 30.775,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332466",
+  "Nombre": "Canarias. Vivienda, agua, electricidad, gas y otros combustibles. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 111.857,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332467",
+  "Nombre": "Canarias. Muebles, artículos del hogar y artículos para el mantenimiento corriente del hogar. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 46.24,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332468",
+  "Nombre": "Canarias. Sanidad. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 50.214,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332469",
+  "Nombre": "Canarias. Transporte. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 172.645,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332471",
+  "Nombre": "Canarias. Información y comunicaciones. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 43.993,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332472",
+  "Nombre": "Canarias. Actividades recreativas, deporte y cultura. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 82.572,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332473",
+  "Nombre": "Canarias. Servicios de educación. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 15.484,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332474",
+  "Nombre": "Canarias. Restaurantes y servicios de alojamiento. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 161.457,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332475",
+  "Nombre": "Canarias. Seguros y servicios financieros. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 16.133,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332476",
+  "Nombre": "Canarias. Cuidado personal, protección social, y bienes y servicios diversos. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 56.332,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332477",
+  "Nombre": "Cantabria. Índice general. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 1000.0,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332478",
+  "Nombre": "Cantabria. Alimentos y bebidas no alcohólicas. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 173.333,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332484",
+  "Nombre": "Cantabria. Bebidas alcohólicas, tabaco y estupefacientes. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 37.562,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332479",
+  "Nombre": "Cantabria. Vestido y calzado. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 35.942,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332480",
+  "Nombre": "Cantabria. Vivienda, agua, electricidad, gas y otros combustibles. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 110.716,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332481",
+  "Nombre": "Cantabria. Muebles, artículos del hogar y artículos para el mantenimiento corriente del hogar. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 45.259,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332482",
+  "Nombre": "Cantabria. Sanidad. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 51.776,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332483",
+  "Nombre": "Cantabria. Transporte. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 158.679,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332485",
+  "Nombre": "Cantabria. Información y comunicaciones. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 35.01,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332486",
+  "Nombre": "Cantabria. Actividades recreativas, deporte y cultura. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 73.481,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332487",
+  "Nombre": "Cantabria. Servicios de educación. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 12.94,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332488",
+  "Nombre": "Cantabria. Restaurantes y servicios de alojamiento. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 171.17,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332489",
+  "Nombre": "Cantabria. Seguros y servicios financieros. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 31.347,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332490",
+  "Nombre": "Cantabria. Cuidado personal, protección social, y bienes y servicios diversos. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 62.785,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332491",
+  "Nombre": "Castilla y León. Índice general. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 1000.0,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332492",
+  "Nombre": "Castilla y León. Alimentos y bebidas no alcohólicas. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 187.926,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332498",
+  "Nombre": "Castilla y León. Bebidas alcohólicas, tabaco y estupefacientes. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 33.404,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332493",
+  "Nombre": "Castilla y León. Vestido y calzado. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 35.587,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332494",
+  "Nombre": "Castilla y León. Vivienda, agua, electricidad, gas y otros combustibles. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 115.059,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332495",
+  "Nombre": "Castilla y León. Muebles, artículos del hogar y artículos para el mantenimiento corriente del hogar. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 44.022,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332496",
+  "Nombre": "Castilla y León. Sanidad. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 52.511,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332497",
+  "Nombre": "Castilla y León. Transporte. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 146.458,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332499",
+  "Nombre": "Castilla y León. Información y comunicaciones. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 37.398,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332500",
+  "Nombre": "Castilla y León. Actividades recreativas, deporte y cultura. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 80.888,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332501",
+  "Nombre": "Castilla y León. Servicios de educación. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 15.376,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332502",
+  "Nombre": "Castilla y León. Restaurantes y servicios de alojamiento. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 171.24,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332503",
+  "Nombre": "Castilla y León. Seguros y servicios financieros. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 24.22,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332504",
+  "Nombre": "Castilla y León. Cuidado personal, protección social, y bienes y servicios diversos. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 55.911,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332505",
+  "Nombre": "Castilla - La Mancha. Índice general. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 1000.0,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332506",
+  "Nombre": "Castilla - La Mancha. Alimentos y bebidas no alcohólicas. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 185.259,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332512",
+  "Nombre": "Castilla - La Mancha. Bebidas alcohólicas, tabaco y estupefacientes. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 34.27,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332507",
+  "Nombre": "Castilla - La Mancha. Vestido y calzado. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 38.173,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332508",
+  "Nombre": "Castilla - La Mancha. Vivienda, agua, electricidad, gas y otros combustibles. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 115.413,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332509",
+  "Nombre": "Castilla - La Mancha. Muebles, artículos del hogar y artículos para el mantenimiento corriente del hogar. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 50.851,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332510",
+  "Nombre": "Castilla - La Mancha. Sanidad. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 50.02,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332511",
+  "Nombre": "Castilla - La Mancha. Transporte. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 176.724,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332513",
+  "Nombre": "Castilla - La Mancha. Información y comunicaciones. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 38.888,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332514",
+  "Nombre": "Castilla - La Mancha. Actividades recreativas, deporte y cultura. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 61.709,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332515",
+  "Nombre": "Castilla - La Mancha. Servicios de educación. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 11.614,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332516",
+  "Nombre": "Castilla - La Mancha. Restaurantes y servicios de alojamiento. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 164.374,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332517",
+  "Nombre": "Castilla - La Mancha. Seguros y servicios financieros. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 18.801,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332518",
+  "Nombre": "Castilla - La Mancha. Cuidado personal, protección social, y bienes y servicios diversos. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 53.903,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332519",
+  "Nombre": "Cataluña. Índice general. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 1000.0,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332520",
+  "Nombre": "Cataluña. Alimentos y bebidas no alcohólicas. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 173.465,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332526",
+  "Nombre": "Cataluña. Bebidas alcohólicas, tabaco y estupefacientes. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 33.651,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332521",
+  "Nombre": "Cataluña. Vestido y calzado. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 34.057,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332522",
+  "Nombre": "Cataluña. Vivienda, agua, electricidad, gas y otros combustibles. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 146.467,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332523",
+  "Nombre": "Cataluña. Muebles, artículos del hogar y artículos para el mantenimiento corriente del hogar. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 42.96,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332524",
+  "Nombre": "Cataluña. Sanidad. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 52.445,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332525",
+  "Nombre": "Cataluña. Transporte. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 144.056,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332527",
+  "Nombre": "Cataluña. Información y comunicaciones. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 37.998,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332528",
+  "Nombre": "Cataluña. Actividades recreativas, deporte y cultura. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 86.751,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332529",
+  "Nombre": "Cataluña. Servicios de educación. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 20.131,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332530",
+  "Nombre": "Cataluña. Restaurantes y servicios de alojamiento. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 149.008,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332531",
+  "Nombre": "Cataluña. Seguros y servicios financieros. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 22.695,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332532",
+  "Nombre": "Cataluña. Cuidado personal, protección social, y bienes y servicios diversos. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 56.316,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332533",
+  "Nombre": "Comunitat Valenciana. Índice general. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 1000.0,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332534",
+  "Nombre": "Comunitat Valenciana. Alimentos y bebidas no alcohólicas. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 173.577,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332540",
+  "Nombre": "Comunitat Valenciana. Bebidas alcohólicas, tabaco y estupefacientes. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 38.476,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332535",
+  "Nombre": "Comunitat Valenciana. Vestido y calzado. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 37.482,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332536",
+  "Nombre": "Comunitat Valenciana. Vivienda, agua, electricidad, gas y otros combustibles. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 116.367,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332537",
+  "Nombre": "Comunitat Valenciana. Muebles, artículos del hogar y artículos para el mantenimiento corriente del hogar. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 51.451,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332538",
+  "Nombre": "Comunitat Valenciana. Sanidad. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 51.905,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332539",
+  "Nombre": "Comunitat Valenciana. Transporte. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 145.686,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332541",
+  "Nombre": "Comunitat Valenciana. Información y comunicaciones. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 35.759,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332542",
+  "Nombre": "Comunitat Valenciana. Actividades recreativas, deporte y cultura. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 72.586,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332543",
+  "Nombre": "Comunitat Valenciana. Servicios de educación. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 13.23,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332544",
+  "Nombre": "Comunitat Valenciana. Restaurantes y servicios de alojamiento. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 182.71,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332545",
+  "Nombre": "Comunitat Valenciana. Seguros y servicios financieros. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 19.07,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332546",
+  "Nombre": "Comunitat Valenciana. Cuidado personal, protección social, y bienes y servicios diversos. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 61.703,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332547",
+  "Nombre": "Extremadura. Índice general. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 1000.0,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332548",
+  "Nombre": "Extremadura. Alimentos y bebidas no alcohólicas. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 193.886,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332554",
+  "Nombre": "Extremadura. Bebidas alcohólicas, tabaco y estupefacientes. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 48.632,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332549",
+  "Nombre": "Extremadura. Vestido y calzado. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 42.09,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332550",
+  "Nombre": "Extremadura. Vivienda, agua, electricidad, gas y otros combustibles. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 101.391,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332551",
+  "Nombre": "Extremadura. Muebles, artículos del hogar y artículos para el mantenimiento corriente del hogar. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 53.073,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332552",
+  "Nombre": "Extremadura. Sanidad. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 56.294,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332553",
+  "Nombre": "Extremadura. Transporte. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 167.753,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332555",
+  "Nombre": "Extremadura. Información y comunicaciones. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 41.433,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332556",
+  "Nombre": "Extremadura. Actividades recreativas, deporte y cultura. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 55.991,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332557",
+  "Nombre": "Extremadura. Servicios de educación. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 12.492,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332558",
+  "Nombre": "Extremadura. Restaurantes y servicios de alojamiento. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 150.647,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332559",
+  "Nombre": "Extremadura. Seguros y servicios financieros. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 19.311,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332560",
+  "Nombre": "Extremadura. Cuidado personal, protección social, y bienes y servicios diversos. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 57.008,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332561",
+  "Nombre": "Galicia. Índice general. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 1000.0,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332562",
+  "Nombre": "Galicia. Alimentos y bebidas no alcohólicas. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 188.762,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332568",
+  "Nombre": "Galicia. Bebidas alcohólicas, tabaco y estupefacientes. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 33.633,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332563",
+  "Nombre": "Galicia. Vestido y calzado. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 41.715,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332564",
+  "Nombre": "Galicia. Vivienda, agua, electricidad, gas y otros combustibles. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 104.638,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332565",
+  "Nombre": "Galicia. Muebles, artículos del hogar y artículos para el mantenimiento corriente del hogar. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 48.732,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332566",
+  "Nombre": "Galicia. Sanidad. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 57.078,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332567",
+  "Nombre": "Galicia. Transporte. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 156.081,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332569",
+  "Nombre": "Galicia. Información y comunicaciones. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 36.898,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332570",
+  "Nombre": "Galicia. Actividades recreativas, deporte y cultura. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 82.025,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332571",
+  "Nombre": "Galicia. Servicios de educación. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 13.852,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332572",
+  "Nombre": "Galicia. Restaurantes y servicios de alojamiento. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 158.139,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332573",
+  "Nombre": "Galicia. Seguros y servicios financieros. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 17.312,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332574",
+  "Nombre": "Galicia. Cuidado personal, protección social, y bienes y servicios diversos. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 61.135,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332575",
+  "Nombre": "Madrid, Comunidad de. Índice general. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 1000.0,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332576",
+  "Nombre": "Madrid, Comunidad de. Alimentos y bebidas no alcohólicas. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 144.332,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332582",
+  "Nombre": "Madrid, Comunidad de. Bebidas alcohólicas, tabaco y estupefacientes. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 29.129,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332577",
+  "Nombre": "Madrid, Comunidad de. Vestido y calzado. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 32.083,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332578",
+  "Nombre": "Madrid, Comunidad de. Vivienda, agua, electricidad, gas y otros combustibles. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 137.791,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332579",
+  "Nombre": "Madrid, Comunidad de. Muebles, artículos del hogar y artículos para el mantenimiento corriente del hogar. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 42.813,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332580",
+  "Nombre": "Madrid, Comunidad de. Sanidad. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 54.499,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332581",
+  "Nombre": "Madrid, Comunidad de. Transporte. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 175.924,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332583",
+  "Nombre": "Madrid, Comunidad de. Información y comunicaciones. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 37.307,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332584",
+  "Nombre": "Madrid, Comunidad de. Actividades recreativas, deporte y cultura. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 76.643,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332585",
+  "Nombre": "Madrid, Comunidad de. Servicios de educación. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 19.221,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332586",
+  "Nombre": "Madrid, Comunidad de. Restaurantes y servicios de alojamiento. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 169.65,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332587",
+  "Nombre": "Madrid, Comunidad de. Seguros y servicios financieros. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 28.316,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332588",
+  "Nombre": "Madrid, Comunidad de. Cuidado personal, protección social, y bienes y servicios diversos. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 52.292,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332589",
+  "Nombre": "Murcia, Región de. Índice general. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 1000.0,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332590",
+  "Nombre": "Murcia, Región de. Alimentos y bebidas no alcohólicas. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 188.169,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332596",
+  "Nombre": "Murcia, Región de. Bebidas alcohólicas, tabaco y estupefacientes. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 40.509,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332591",
+  "Nombre": "Murcia, Región de. Vestido y calzado. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 37.612,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332592",
+  "Nombre": "Murcia, Región de. Vivienda, agua, electricidad, gas y otros combustibles. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 110.647,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332593",
+  "Nombre": "Murcia, Región de. Muebles, artículos del hogar y artículos para el mantenimiento corriente del hogar. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 56.435,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332594",
+  "Nombre": "Murcia, Región de. Sanidad. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 48.826,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332595",
+  "Nombre": "Murcia, Región de. Transporte. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 153.234,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332597",
+  "Nombre": "Murcia, Región de. Información y comunicaciones. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 33.756,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332598",
+  "Nombre": "Murcia, Región de. Actividades recreativas, deporte y cultura. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 65.753,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332599",
+  "Nombre": "Murcia, Región de. Servicios de educación. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 10.967,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332600",
+  "Nombre": "Murcia, Región de. Restaurantes y servicios de alojamiento. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 169.727,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332601",
+  "Nombre": "Murcia, Región de. Seguros y servicios financieros. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 21.435,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332602",
+  "Nombre": "Murcia, Región de. Cuidado personal, protección social, y bienes y servicios diversos. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 62.928,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332603",
+  "Nombre": "Navarra, Comunidad Foral de. Índice general. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 1000.0,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332604",
+  "Nombre": "Navarra, Comunidad Foral de. Alimentos y bebidas no alcohólicas. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 179.506,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332610",
+  "Nombre": "Navarra, Comunidad Foral de. Bebidas alcohólicas, tabaco y estupefacientes. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 28.47,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332605",
+  "Nombre": "Navarra, Comunidad Foral de. Vestido y calzado. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 43.063,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332606",
+  "Nombre": "Navarra, Comunidad Foral de. Vivienda, agua, electricidad, gas y otros combustibles. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 113.914,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332607",
+  "Nombre": "Navarra, Comunidad Foral de. Muebles, artículos del hogar y artículos para el mantenimiento corriente del hogar. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 47.719,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332608",
+  "Nombre": "Navarra, Comunidad Foral de. Sanidad. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 53.001,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332609",
+  "Nombre": "Navarra, Comunidad Foral de. Transporte. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 148.662,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332611",
+  "Nombre": "Navarra, Comunidad Foral de. Información y comunicaciones. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 35.227,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332612",
+  "Nombre": "Navarra, Comunidad Foral de. Actividades recreativas, deporte y cultura. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 79.38,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332613",
+  "Nombre": "Navarra, Comunidad Foral de. Servicios de educación. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 17.288,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332614",
+  "Nombre": "Navarra, Comunidad Foral de. Restaurantes y servicios de alojamiento. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 185.561,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332615",
+  "Nombre": "Navarra, Comunidad Foral de. Seguros y servicios financieros. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 18.65,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332616",
+  "Nombre": "Navarra, Comunidad Foral de. Cuidado personal, protección social, y bienes y servicios diversos. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 49.558,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332617",
+  "Nombre": "País Vasco. Índice general. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 1000.0,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332618",
+  "Nombre": "País Vasco. Alimentos y bebidas no alcohólicas. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 179.069,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332624",
+  "Nombre": "País Vasco. Bebidas alcohólicas, tabaco y estupefacientes. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 30.276,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332619",
+  "Nombre": "País Vasco. Vestido y calzado. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 38.516,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332620",
+  "Nombre": "País Vasco. Vivienda, agua, electricidad, gas y otros combustibles. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 117.611,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332621",
+  "Nombre": "País Vasco. Muebles, artículos del hogar y artículos para el mantenimiento corriente del hogar. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 48.568,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332622",
+  "Nombre": "País Vasco. Sanidad. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 46.51,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332623",
+  "Nombre": "País Vasco. Transporte. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 133.643,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332625",
+  "Nombre": "País Vasco. Información y comunicaciones. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 36.198,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332626",
+  "Nombre": "País Vasco. Actividades recreativas, deporte y cultura. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 73.998,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332627",
+  "Nombre": "País Vasco. Servicios de educación. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 21.042,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332628",
+  "Nombre": "País Vasco. Restaurantes y servicios de alojamiento. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 197.908,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332629",
+  "Nombre": "País Vasco. Seguros y servicios financieros. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 22.07,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332630",
+  "Nombre": "País Vasco. Cuidado personal, protección social, y bienes y servicios diversos. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 54.59,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332631",
+  "Nombre": "Rioja, La. Índice general. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 1000.0,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332632",
+  "Nombre": "Rioja, La. Alimentos y bebidas no alcohólicas. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 175.29,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332638",
+  "Nombre": "Rioja, La. Bebidas alcohólicas, tabaco y estupefacientes. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 28.101,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332633",
+  "Nombre": "Rioja, La. Vestido y calzado. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 41.27,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332634",
+  "Nombre": "Rioja, La. Vivienda, agua, electricidad, gas y otros combustibles. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 113.54,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332635",
+  "Nombre": "Rioja, La. Muebles, artículos del hogar y artículos para el mantenimiento corriente del hogar. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 47.837,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332636",
+  "Nombre": "Rioja, La. Sanidad. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 53.117,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332637",
+  "Nombre": "Rioja, La. Transporte. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 139.017,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332639",
+  "Nombre": "Rioja, La. Información y comunicaciones. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 36.665,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332640",
+  "Nombre": "Rioja, La. Actividades recreativas, deporte y cultura. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 77.759,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332641",
+  "Nombre": "Rioja, La. Servicios de educación. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 17.082,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332642",
+  "Nombre": "Rioja, La. Restaurantes y servicios de alojamiento. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 187.117,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332643",
+  "Nombre": "Rioja, La. Seguros y servicios financieros. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 20.977,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332644",
+  "Nombre": "Rioja, La. Cuidado personal, protección social, y bienes y servicios diversos. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 62.228,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332645",
+  "Nombre": "Ceuta. Índice general. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 1000.0,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332646",
+  "Nombre": "Ceuta. Alimentos y bebidas no alcohólicas. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 180.281,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332652",
+  "Nombre": "Ceuta. Bebidas alcohólicas, tabaco y estupefacientes. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 34.36,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332647",
+  "Nombre": "Ceuta. Vestido y calzado. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 46.554,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332648",
+  "Nombre": "Ceuta. Vivienda, agua, electricidad, gas y otros combustibles. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 123.58,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332649",
+  "Nombre": "Ceuta. Muebles, artículos del hogar y artículos para el mantenimiento corriente del hogar. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 50.635,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332650",
+  "Nombre": "Ceuta. Sanidad. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 52.34,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332651",
+  "Nombre": "Ceuta. Transporte. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 132.441,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332653",
+  "Nombre": "Ceuta. Información y comunicaciones. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 41.837,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332654",
+  "Nombre": "Ceuta. Actividades recreativas, deporte y cultura. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 73.259,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332655",
+  "Nombre": "Ceuta. Servicios de educación. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 7.318,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332656",
+  "Nombre": "Ceuta. Restaurantes y servicios de alojamiento. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 179.419,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332657",
+  "Nombre": "Ceuta. Seguros y servicios financieros. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 16.444,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332658",
+  "Nombre": "Ceuta. Cuidado personal, protección social, y bienes y servicios diversos. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 61.533,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332393",
+  "Nombre": "Melilla. Índice general. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 1000.0,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332394",
+  "Nombre": "Melilla. Alimentos y bebidas no alcohólicas. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 195.248,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332400",
+  "Nombre": "Melilla. Bebidas alcohólicas, tabaco y estupefacientes. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 37.682,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332395",
+  "Nombre": "Melilla. Vestido y calzado. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 50.481,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332396",
+  "Nombre": "Melilla. Vivienda, agua, electricidad, gas y otros combustibles. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 124.48,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332397",
+  "Nombre": "Melilla. Muebles, artículos del hogar y artículos para el mantenimiento corriente del hogar. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 53.984,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332398",
+  "Nombre": "Melilla. Sanidad. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 50.395,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332399",
+  "Nombre": "Melilla. Transporte. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 143.734,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332401",
+  "Nombre": "Melilla. Información y comunicaciones. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 44.464,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332402",
+  "Nombre": "Melilla. Actividades recreativas, deporte y cultura. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 59.191,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332403",
+  "Nombre": "Melilla. Servicios de educación. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 10.157,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332404",
+  "Nombre": "Melilla. Restaurantes y servicios de alojamiento. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 151.297,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332405",
+  "Nombre": "Melilla. Seguros y servicios financieros. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 20.663,
+    "Secreto": false
+   }
+  ]
+ },
+ {
+  "COD": "IPC332406",
+  "Nombre": "Melilla. Cuidado personal, protección social, y bienes y servicios diversos. Ponderación. ",
+  "FK_Unidad": 51,
+  "FK_Escala": 1,
+  "Data": [
+   {
+    "Fecha": 1767222000000,
+    "FK_TipoDato": 1,
+    "FK_Periodo": 28,
+    "Anyo": 2026,
+    "Valor": 58.223,
+    "Secreto": false
+   }
+  ]
+ }
+]
