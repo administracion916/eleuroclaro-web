@@ -1,5 +1,5 @@
 # IPC por grupos para la calculadora /inflacion/: guarda datos/ipc-grupos.json con el último mes que publica el INE
-# y rehace /pension-2027/ con la tasa anual del IPC general de cada mes.
+# rehace /pension-2027/ con la tasa anual del IPC general de cada mes y el Índice del Bolsillo (scripts/indice.py).
 # El INE publica a las 9:00 (hora peninsular); se mira cada día a las 10:20 y solo se guarda si cambia.
 name: Datos del INE
 on:
@@ -21,11 +21,13 @@ jobs:
         run: mkdir -p datos && python3 scripts/ine_ipc.py datos/ipc-grupos.json
       - name: Rehacer la página de las pensiones
         run: python3 scripts/pension.py datos/ipc-grupos.json pension-2027/index.html
+      - name: Rehacer el Índice del Bolsillo
+        run: python3 scripts/indice.py datos/indice-bolsillo.json indice-del-bolsillo/index.html || echo "::warning title=Índice del Bolsillo::No se ha actualizado (ver el registro)"
       - name: Guardar si ha cambiado
         run: |
-          if git diff --quiet -- datos/ipc-grupos.json pension-2027/index.html && git ls-files --error-unmatch datos/ipc-grupos.json >/dev/null 2>&1; then echo "Sin cambios"; exit 0; fi
+          if git diff --quiet -- datos/ipc-grupos.json pension-2027/index.html datos/indice-bolsillo.json indice-del-bolsillo/index.html && git ls-files --error-unmatch datos/ipc-grupos.json >/dev/null 2>&1; then echo "Sin cambios"; exit 0; fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add datos/ipc-grupos.json pension-2027/index.html
+          git add datos/ipc-grupos.json pension-2027/index.html datos/indice-bolsillo.json indice-del-bolsillo/index.html
           git commit -m "IPC por grupos del INE"
           git pull --rebase origin main && git push || { sleep 5; git pull --rebase origin main && git push; }

@@ -1,0 +1,248 @@
+{
+ "actualizado": "2026-10-10 19:49",
+ "periodo": "agosto de 2026",
+ "anyo": 2026,
+ "mes": 8,
+ "ipc": 4.3,
+ "edades": {
+  "De 16 a 29 años": 4.5,
+  "De 30 a 44 años": 4.5,
+  "De 45 a 64 años": 4.3,
+  "65 y más años": 4.0
+ },
+ "titular": {
+  "edad": "De 30 a 44 años",
+  "tasa": 4.5,
+  "grupos": [
+   "Transporte",
+   "Casa: alquiler, luz, gas y agua"
+  ]
+ },
+ "grupos_titular": [
+  {
+   "grupo": "Transporte",
+   "peso": 164.5,
+   "peso_ipc": 154.7,
+   "tasa": 9.5
+  },
+  {
+   "grupo": "Casa: alquiler, luz, gas y agua",
+   "peso": 145.9,
+   "peso_ipc": 122.6,
+   "tasa": 6.4
+  },
+  {
+   "grupo": "Restaurantes y hoteles",
+   "peso": 179.8,
+   "peso_ipc": 170.3,
+   "tasa": 4.8
+  },
+  {
+   "grupo": "Comida y bebida",
+   "peso": 147.2,
+   "peso_ipc": 174.1,
+   "tasa": 2.3
+  },
+  {
+   "grupo": "Cuidado personal y otros",
+   "peso": 54.4,
+   "peso_ipc": 56.7,
+   "tasa": 3.2
+  },
+  {
+   "grupo": "Móvil, internet y ordenadores",
+   "peso": 36.9,
+   "peso_ipc": 37.5,
+   "tasa": 3.1
+  },
+  {
+   "grupo": "Ocio, deporte y cultura",
+   "peso": 82.9,
+   "peso_ipc": 74.8,
+   "tasa": 1.2
+  },
+  {
+   "grupo": "Salud",
+   "peso": 43.5,
+   "peso_ipc": 52.3,
+   "tasa": 2.0
+  },
+  {
+   "grupo": "Alcohol y tabaco",
+   "peso": 27.7,
+   "peso_ipc": 35.1,
+   "tasa": 2.8
+  },
+  {
+   "grupo": "Muebles y hogar",
+   "peso": 42.6,
+   "peso_ipc": 47.4,
+   "tasa": 1.4
+  },
+  {
+   "grupo": "Seguros y banca",
+   "peso": 18.0,
+   "peso_ipc": 22.7,
+   "tasa": 3.3
+  },
+  {
+   "grupo": "Educación",
+   "peso": 16.0,
+   "peso_ipc": 16.1,
+   "tasa": 2.5
+  },
+  {
+   "grupo": "Ropa y calzado",
+   "peso": 40.5,
+   "peso_ipc": 35.8,
+   "tasa": -2.1
+  }
+ ],
+ "serie": [
+  {
+   "anyo": 2026,
+   "mes": 1,
+   "ipc": 2.3,
+   "edades": {
+    "De 16 a 29 años": 2.2,
+    "De 30 a 44 años": 2.3,
+    "De 45 a 64 años": 2.3,
+    "65 y más años": 2.4
+   },
+   "exacto": {
+    "De 16 a 29 años": 2.232,
+    "De 30 a 44 años": 2.26,
+    "De 45 a 64 años": 2.273,
+    "65 y más años": 2.395
+   }
+  },
+  {
+   "anyo": 2026,
+   "mes": 2,
+   "ipc": 2.3,
+   "edades": {
+    "De 16 a 29 años": 2.2,
+    "De 30 a 44 años": 2.2,
+    "De 45 a 64 años": 2.3,
+    "65 y más años": 2.4
+   },
+   "exacto": {
+    "De 16 a 29 años": 2.153,
+    "De 30 a 44 años": 2.236,
+    "De 45 a 64 años": 2.289,
+    "65 y más años": 2.397
+   }
+  },
+  {
+   "anyo": 2026,
+   "mes": 3,
+   "ipc": 3.4,
+   "edades": {
+    "De 16 a 29 años": 3.4,
+    "De 30 a 44 años": 3.5,
+    "De 45 a 64 años": 3.4,
+    "65 y más años": 3.3
+   },
+   "exacto": {
+    "De 16 a 29 años": 3.406,
+    "De 30 a 44 años": 3.464,
+    "De 45 a 64 años": 3.432,
+    "65 y más años": 3.265
+   }
+  },
+  {
+   "anyo": 2026,
+   "mes": 4,
+   "ipc": 3.2,
+   "edades": {
+    "De 16 a 29 años": 3.1,
+    "De 30 a 44 años": 3.2,
+    "De 45 a 64 años": 3.3,
+    "65 y más años": 3.0
+   },
+   "exacto": {
+    "De 16 a 29 años": 3.102,
+    "De 30 a 44 años": 3.205,
+    "De 45 a 64 años": 3.281,
+    "65 y más años": 3.041
+   }
+  },
+  {
+   "anyo": 2026,
+   "mes": 5,
+   "ipc": 3.2,
+   "edades": {
+    "De 16 a 29 años": 3.1,
+    "De 30 a 44 años": 3.2,
+    "De 45 a 64 años": 3.3,
+    "65 y más años": 3.0
+   },
+   "exacto": {
+    "De 16 a 29 años": 3.146,
+    "De 30 a 44 años": 3.229,
+    "De 45 a 64 años": 3.295,
+    "65 y más años": 2.984
+   }
+  },
+  {
+   "anyo": 2026,
+   "mes": 6,
+   "ipc": 3.2,
+   "edades": {
+    "De 16 a 29 años": 3.4,
+    "De 30 a 44 años": 3.3,
+    "De 45 a 64 años": 3.2,
+    "65 y más años": 3.0
+   },
+   "exacto": {
+    "De 16 a 29 años": 3.435,
+    "De 30 a 44 años": 3.299,
+    "De 45 a 64 años": 3.225,
+    "65 y más años": 3.02
+   }
+  },
+  {
+   "anyo": 2026,
+   "mes": 7,
+   "ipc": 3.6,
+   "edades": {
+    "De 16 a 29 años": 3.9,
+    "De 30 a 44 años": 3.7,
+    "De 45 a 64 años": 3.6,
+    "65 y más años": 3.4
+   },
+   "exacto": {
+    "De 16 a 29 años": 3.851,
+    "De 30 a 44 años": 3.737,
+    "De 45 a 64 años": 3.619,
+    "65 y más años": 3.387
+   }
+  },
+  {
+   "anyo": 2026,
+   "mes": 8,
+   "ipc": 4.3,
+   "edades": {
+    "De 16 a 29 años": 4.5,
+    "De 30 a 44 años": 4.5,
+    "De 45 a 64 años": 4.3,
+    "65 y más años": 4.0
+   },
+   "exacto": {
+    "De 16 a 29 años": 4.536,
+    "De 30 a 44 años": 4.454,
+    "De 45 a 64 años": 4.345,
+    "65 y más años": 4.022
+   }
+  }
+ ],
+ "prueba": {
+  "max_diferencia": 0.05,
+  "meses": 8
+ },
+ "fuentes": {
+  "ipc": "INE, IPC base 2025, tablas 79181 y 79185",
+  "epf": "INE, Encuesta de Presupuestos Familiares 2025 (y 2024 para el año anterior), tablas 73801 y 73815"
+ },
+ "nota": "Cálculo propio de El Euro Claro con datos del INE. No es una estadística oficial."
+}

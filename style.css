@@ -517,3 +517,15 @@ img.presenta-avatar { object-fit: cover; filter: grayscale(1); }
 }
 @keyframes nl-sube { from { transform: translateY(100%); } to { transform: none; } }
 @media (prefers-reduced-motion: reduce) { .nl-barra { animation: none; } }
+
+/* Índice del Bolsillo (/indice-del-bolsillo/, generado por scripts/indice.py) */
+.page-head h1 em { font-style: italic; color: var(--gold-text); }
+.ib-cifras { margin: 1.6rem 0 1.2rem; }
+.ib-tabla th[scope="row"] { font-weight: 600; white-space: nowrap; }
+.ib-tabla .num { width: 6rem; }
+.ib-barra { width: 55%; }
+.ib-barra span { display: block; height: .7rem; border-radius: 1rem; background: var(--blue); opacity: .55; }
+.ib-tit .ib-barra span { background: var(--gold); opacity: 1; }
+.ib-tit th, .ib-tit td { background: var(--gold-soft); }
+.ib-ipc .ib-barra span { background: var(--muted); opacity: .6; }
+@media (max-width: 30rem) { .datos-pareja.ib-cifras { grid-template-columns: 1fr 1fr; gap: .6rem; } .ib-cifras .dato { padding: .9rem 1rem; } .ib-cifras .cifra { font-size: 2.4rem; } }
