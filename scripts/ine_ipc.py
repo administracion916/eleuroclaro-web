@@ -64,27 +64,33 @@ def candidatas():
 
 
 def extraer(tabla_id):
-    series = leer(f"DATOS_TABLA/{tabla_id}?nult=1")
-    general, grupos, periodo = None, {}, None
+    """Devuelve (general, periodo, grupos) del último mes en que el INE da el general y al menos 12 grupos.
+
+    Los nombres de las series son del tipo «Nacional. Alimentos y bebidas no alcohólicas. Variación anual.»
+    (sin código de grupo): el código se pone por el orden en que los da el INE, que es el de la ECOICOP.
+    """
+    series = leer(f"DATOS_TABLA/{tabla_id}?nult=3")
     log(f"Tabla {tabla_id}: {len(series)} series; ejemplos: " + " | ".join((s.get("Nombre") or "")[:70] for s in series[:4]))
+    general, grupos = {}, []
     for s in series:
-        nombre = (s.get("Nombre") or "").strip()
-        bajo = nombre.lower()
-        if "variación anual" not in bajo or "nacional" not in bajo:
+        partes = [x.strip() for x in (s.get("Nombre") or "").split(".") if x.strip()]
+        if len(partes) != 3 or partes[0] not in ("Nacional", "Total Nacional") or partes[2] != "Variación anual":
             continue
-        datos = [d for d in (s.get("Data") or []) if d.get("Valor") is not None]
-        if not datos:
-            continue
-        d = datos[-1]
-        p = (int(d["Anyo"]), int(d["FK_Periodo"]))
-        valor = round(float(d["Valor"]), 1)
-        if "índice general" in bajo:
-            general, periodo = valor, p
-            continue
-        m = re.search(r"\b(\d{2})\s+([^.]+)", nombre)
-        if m:
-            grupos[m.group(1)] = {"codigo": m.group(1), "nombre": m.group(2).strip(), "tasa": valor, "periodo": p}
-    return general, periodo, grupos
+        valores = {}
+        for d in s.get("Data") or []:
+            if d.get("Valor") is None or not 1 <= int(d.get("FK_Periodo") or 0) <= 12:
+                continue
+            valores[(int(d["Anyo"]), int(d["FK_Periodo"]))] = round(float(d["Valor"]), 1)
+        if partes[1].lower() == "índice general":
+            general = valores
+        else:
+            grupos.append((partes[1], valores))
+    periodos = sorted({p for _, v in grupos for p in v} & set(general), reverse=True)
+    for p in periodos:
+        lista = [{"codigo": f"{i + 1:02d}", "nombre": n, "tasa": v[p]} for i, (n, v) in enumerate(grupos) if p in v]
+        if len(lista) >= 12 and len(lista) == len(grupos):
+            return general[p], p, lista
+    return (general[max(general)] if general else None), None, []
 
 
 def main():
@@ -98,7 +104,7 @@ def main():
         log(f"Tabla {t['Id']}: general={general} periodo={periodo} grupos={len(grupos)}")
         if general is None or len(grupos) < 12:
             continue
-        lista = [g for g in sorted(grupos.values(), key=lambda g: g["codigo"]) if g["periodo"] == periodo]
+        lista = grupos
         if len(lista) < 12 or not all(-30 < g["tasa"] < 60 for g in lista) or not -10 < general < 30:
             log("  Descartada: grupos de otro mes o cifras fuera de rango")
             continue
@@ -109,7 +115,7 @@ def main():
             "anyo": anyo,
             "mes": mes,
             "general": general,
-            "grupos": [{"codigo": g["codigo"], "nombre": g["nombre"], "tasa": g["tasa"]} for g in lista],
+            "grupos": lista,
             "fuente": f"INE, Índice de Precios de Consumo, variación anual por grupos (tabla {t['Id']})",
             "tabla": t["Id"],
         }
