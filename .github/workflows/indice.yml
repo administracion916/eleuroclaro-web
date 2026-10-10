@@ -1,0 +1,25 @@
+# Índice del Bolsillo: baja del INE los datos en bruto (IPC por grupos, ponderaciones y EPF por edad)
+# y los deja en la rama «indice» (no se publica). Se lanza a mano.
+name: Índice del Bolsillo
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: indice
+jobs:
+  datos:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - name: Bajar datos del INE
+        run: python3 .github/indice/bajar.py "$RUNNER_TEMP/crudo"
+      - name: Guardar en la rama indice
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git fetch origin indice; then git checkout -B indice FETCH_HEAD; else git checkout --orphan indice && git rm -rqf .; fi
+          rm -rf crudo && cp -r "$RUNNER_TEMP/crudo" crudo
+          git add -A
+          git commit -qm "Datos del INE para el Índice del Bolsillo" && git push origin indice || echo "Sin cambios"
