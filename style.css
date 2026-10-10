@@ -415,3 +415,20 @@ img.presenta-avatar { object-fit: cover; filter: grayscale(1); }
 .faq { border-bottom: 1px solid var(--line); padding: .3rem 0; }
 .faq summary { cursor: pointer; font-weight: 700; padding: .5rem 0; }
 .faq p { margin: 0 0 .8rem; color: var(--muted); }
+
+/* Calculadora destacada en la portada */
+.hero-calc { display: grid; grid-template-columns: auto 1fr auto; align-items: center; gap: 1rem; margin-top: 1.6rem; max-width: 36rem; padding: 1rem 1.1rem; border-radius: .9rem; background: var(--sol); color: var(--navy); text-decoration: none; box-shadow: 0 22px 44px -26px rgba(0, 0, 0, .7); transition: transform .15s ease, box-shadow .15s ease; }
+.hero-calc:hover { transform: translateY(-2px); box-shadow: 0 26px 50px -24px rgba(0, 0, 0, .75); }
+.hero-calc:focus-visible { outline: 3px solid #fff; outline-offset: 3px; }
+.hc-ico { display: grid; place-items: center; width: 3rem; height: 3rem; border-radius: 50%; background: var(--navy); color: var(--sol); font-family: var(--font-display); font-weight: 700; font-size: 1.5rem; }
+.hc-txt { display: grid; gap: .2rem; }
+.hc-txt strong { font-family: var(--font-display); font-weight: 600; font-size: 1.25rem; line-height: 1.2; }
+.hc-txt em { font-style: italic; }
+.hc-txt span { font-size: .92rem; color: #263f5e; }
+.hc-btn { background: var(--navy); color: #fff; font-weight: 700; padding: .65rem 1rem; border-radius: .6rem; white-space: nowrap; }
+@media (max-width: 40rem) {
+  .hero-calc { grid-template-columns: auto 1fr; }
+  .hc-btn { grid-column: 1 / -1; text-align: center; }
+}
+@media (prefers-reduced-motion: reduce) { .hero-calc { transition: none; } .hero-calc:hover { transform: none; } }
+.calc-banda-fin { margin: 2rem 0 0; }
