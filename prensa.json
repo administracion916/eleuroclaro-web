@@ -1,6 +1,13 @@
 {
- "actualizado": "2026-10-10T11:37:32Z",
+ "actualizado": "2026-10-10T12:44:32Z",
  "items": [
+  {
+   "t": "La UE asume los recortes en su próximo presupuesto ante las exigencias alemanas",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-10/la-ue-asume-los-recortes-en-su-proximo-presupuesto-ante-las-exigencias-alemanas.html",
+   "f": "2026-10-10T12:32:04Z",
+   "c": "comercio"
+  },
   {
    "t": "La UE concede a España un préstamo de 1.000 millones para que amplíe sus capacidades defensivas",
    "m": "El Mundo",
@@ -49,13 +56,6 @@
    "u": "https://www.elmundo.es/economia/2026/10/10/6ac762aee85ece93458b45a9.html",
    "f": "2026-10-10T07:21:08Z",
    "c": "empresas"
-  },
-  {
-   "t": "Los barrios más ricos y pobres de España: consulta la renta de tu calle",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/construccion-y-vivienda-00342/noticia-mapa-barrios-mas-ricos-pobres-espana-consulta-renta-calle-20261010085950.html",
-   "f": "2026-10-10T06:59:50Z",
-   "c": "general"
   }
  ]
 }
