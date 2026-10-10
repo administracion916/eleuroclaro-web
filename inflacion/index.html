@@ -1,0 +1,144 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Calculadora de inflación personal: ¿cuánto te cuesta a ti la subida de precios? · El Euro Claro</title>
+<meta name="description" content="Pon lo que gastas al mes y descubre cuántos euros más al año pagas por lo mismo que hace un año. Con la subida oficial de cada grupo del IPC (INE). Gratis y sin dar tus datos.">
+<meta name="theme-color" content="#0e2a47">
+<meta property="og:site_name" content="El Euro Claro">
+<meta property="og:title" content="¿Cuánto te cuesta a ti la subida de precios?">
+<meta property="og:description" content="Calcúlalo en 1 minuto con los datos oficiales del INE. Gratis y sin dar tus datos.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://eleuroclaro.es/inflacion/">
+<meta property="og:locale" content="es_ES">
+<meta property="og:image" content="https://eleuroclaro.es/img/og-inflacion.png">
+<meta property="og:image:type" content="image/png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="¿Cuánto te cuesta a ti la subida de precios? Calculadora de El Euro Claro con datos del INE.">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="canonical" href="https://eleuroclaro.es/inflacion/">
+<!-- Página en una subcarpeta: todas las rutas son absolutas (empiezan por /). -->
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="stylesheet" href="/fonts.css">
+<link rel="stylesheet" href="/style.css?v=20261010a">
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebApplication","name":"Calculadora de inflación personal","url":"https://eleuroclaro.es/inflacion/","applicationCategory":"FinanceApplication","operatingSystem":"Cualquiera","inLanguage":"es-ES","isAccessibleForFree":true,"offers":{"@type":"Offer","price":"0","priceCurrency":"EUR"},"publisher":{"@type":"Organization","name":"El Euro Claro","url":"https://eleuroclaro.es/"}}
+</script>
+</head>
+<body>
+
+<header class="top">
+  <div class="wrap">
+    <a class="brand" href="/" aria-label="El Euro Claro, inicio">
+      <svg class="coin" viewBox="0 0 40 40" aria-hidden="true"><circle cx="20" cy="20" r="18" fill="#f4c51a"/><circle cx="20" cy="20" r="14.5" fill="none" stroke="#0e2a47" stroke-width="1.2" opacity=".45"/><text x="20" y="26.5" text-anchor="middle" font-family="Georgia, serif" font-size="19" font-weight="700" fill="#10294a">€</text></svg>
+      El Euro Claro
+    </a>
+    <nav class="nav" aria-label="Secciones">
+      <a href="/#noticias">Noticias</a>
+      <a href="/#videos">Vídeos</a>
+      <a href="/inflacion/" aria-current="page">Calculadora</a>
+      <a href="/#kit">Kit</a>
+      <a href="/empresas/">Empresas</a>
+      <a href="/#newsletter">Newsletter</a>
+      <a href="/libros/">Libros</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <section class="section page-head calc-head">
+    <div class="wrap">
+      <p class="eyebrow">Calculadora · datos oficiales del INE</p>
+      <h1>¿Cuánto te cuesta <em>a ti</em> la subida de precios?</h1>
+      <p class="intro">Pon lo que gastas al mes en cada cosa. Con la subida oficial de cada grupo de precios, te decimos cuántos euros más pagas al año por lo mismo que hace un año.</p>
+      <p class="small calc-privado">🔒 Tus cifras no salen de tu móvil: el cálculo se hace aquí mismo y no guardamos nada.</p>
+
+      <form class="calc" id="calc" novalidate>
+        <p class="calc-dato" id="calc-dato">Subida de precios de cada grupo en los últimos 12 meses, según el INE.</p>
+        <div class="calc-filas" id="calc-filas"></div>
+        <details class="calc-mas" id="calc-mas">
+          <summary>Añadir más gastos <span>(salud, seguros, educación, peluquería…)</span></summary>
+          <div class="calc-filas" id="calc-filas-mas"></div>
+        </details>
+        <div class="calc-total" aria-live="polite"><span>Total al mes</span> <strong id="calc-suma">0 €</strong></div>
+        <button class="btn btn-primary calc-boton" type="submit">Calcular lo que me cuesta</button>
+        <p class="msg" id="calc-msg" role="status"></p>
+      </form>
+    </div>
+  </section>
+
+  <section class="section alt calc-res" id="resultado" hidden tabindex="-1" aria-labelledby="res-tit">
+    <div class="wrap">
+      <div class="res-card">
+        <p class="que" id="res-tit">Lo mismo que hace un año te cuesta ahora</p>
+        <p class="res-cifra"><span id="res-euros">0 €</span> <span class="res-al">más al año</span></p>
+        <p class="res-tasa" id="res-tasa"></p>
+        <ul class="res-top" id="res-top"></ul>
+        <p class="small" id="res-fuente"></p>
+      </div>
+      <div class="res-share">
+        <h2>Compártelo: ¿a tus amigos les sube más o menos?</h2>
+        <img class="res-img" id="res-img" alt="Imagen para compartir con tu resultado" width="1080" height="1350" hidden>
+        <div class="actions">
+          <button class="btn btn-sol" type="button" id="b-compartir">Compartir mi resultado</button>
+          <a class="btn btn-ghost" id="b-whatsapp" href="https://wa.me/" rel="noopener" target="_blank">Enviar por WhatsApp</a>
+          <a class="btn btn-ghost" id="b-descargar" href="#" download="mi-inflacion-eleuroclaro.png">Descargar la imagen</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section" id="newsletter" aria-labelledby="nl-tit">
+    <div class="wrap news">
+      <div>
+        <p class="eyebrow">Newsletter · domingos · gratis</p>
+        <h2 id="nl-tit">Cada mes, tu cifra cambia. Te avisamos.</h2>
+        <p class="intro">Cuando el INE publica el dato nuevo te lo contamos el domingo, en 3 minutos y con ejemplos en euros: precios, Euríbor, sueldos y alquiler.</p>
+        <p class="regalo">De regalo al apuntarte: la guía de una página <strong>«Cómo leer tu nómina en 2 minutos»</strong>.</p>
+      </div>
+      <form class="signup" id="signup" novalidate>
+        <label for="email">Tu correo electrónico</label>
+        <input type="email" id="email" name="email" placeholder="nombre@correo.es" autocomplete="email" required>
+        <label class="consent" for="consent">
+          <input type="checkbox" id="consent" name="consent" required>
+          <span>Quiero recibir la newsletter y he leído la <a href="/privacidad.html">política de privacidad</a>.</span>
+        </label>
+        <button class="btn btn-primary" type="submit">Apuntarme gratis</button>
+        <p class="msg" id="signup-msg" role="status"></p>
+        <p class="fine">Odana Ingeniería SL usará tu correo solo para enviarte la newsletter, con tu consentimiento. Lo guarda nuestra plataforma de envíos, Substack (EE. UU.). Puedes darte de baja cuando quieras y ejercer tus derechos en hola@eleuroclaro.es. Más información en la <a href="/privacidad.html">política de privacidad</a>.</p>
+      </form>
+    </div>
+  </section>
+
+  <section class="section alt" aria-labelledby="como">
+    <div class="wrap prose">
+      <h2 id="como">Cómo se calcula</h2>
+      <p>El INE mide cada mes cuánto han subido los precios de 13 grupos de gastos respecto al mismo mes del año anterior. La media de todos es el IPC, la inflación que sale en las noticias. Pero tu cesta no es la media: si gastas mucho en gasolina o en alquiler, tu subida es mayor.</p>
+      <p>Para cada gasto calculamos cuánto te costaba lo mismo hace un año con la subida oficial de su grupo, y sumamos la diferencia de los 12 meses. Es una estimación: dentro de cada grupo, unos productos suben más que otros.</p>
+      <p><strong>Lo que no entra:</strong> la cuota de la hipoteca, porque el IPC no la mide (comprar una casa se considera una inversión). Si tienes hipoteca variable, mira <a href="/euribor/">cuánto cambia tu cuota con el Euríbor</a>. El alquiler sí entra, en «Casa».</p>
+      <p>Más sobre el último dato en <a href="/ipc/">IPC hoy</a>.</p>
+      <p class="small note-legal">Contenido divulgativo. No es asesoramiento financiero. Fuente: INE, Índice de Precios de Consumo (tasa de variación anual por grupos ECOICOP).</p>
+    </div>
+  </section>
+</main>
+
+<footer class="foot">
+  <div class="wrap">
+    <p class="lema">La economía de tu bolsillo, en euros claros.</p>
+    <nav aria-label="Legal">
+      <a href="/aviso-legal.html">Aviso legal</a>
+      <a href="/privacidad.html">Privacidad</a>
+      <a href="/cookies.html">Cookies</a>
+      <span>Contacto: <span class="mail">hola@eleuroclaro.es</span></span>
+    </nav>
+    <p class="disclaimer">El Euro Claro es un medio divulgativo. La información es general y no constituye asesoramiento financiero ni una recomendación de comprar o vender ningún producto. Algunos enlaces pueden ser de afiliado y se indica cuando lo son.</p>
+    <p>© 2026 El Euro Claro · Odana Ingeniería SL</p>
+  </div>
+</footer>
+<script src="/inflacion/inflacion.js?v=20261010a" defer></script>
+<!-- Cloudflare Web Analytics --><script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "e81aecc33a6b40ccab86c1fbc9fa801c"}'></script><!-- End Cloudflare Web Analytics -->
+</body>
+</html>
