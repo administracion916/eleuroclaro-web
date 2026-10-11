@@ -22,7 +22,7 @@
     });
   });
 
-  // Barra de la newsletter abajo: sale al pasar un tercio de la página, se esconde cuando se ve el formulario
+  // Barra de la newsletter abajo: sale al bajar un poco (250 px), se esconde cuando se ve el formulario
   // y, si se cierra, no vuelve en 14 días. No sale en páginas con <body data-sin-barra>.
   var nl = document.getElementById("newsletter");
   if (!nl || document.body.hasAttribute("data-sin-barra") || !("IntersectionObserver" in window)) return;
@@ -33,7 +33,7 @@
   barra.setAttribute("aria-label", "Newsletter");
   barra.hidden = true;
   barra.innerHTML = '<p><strong>Cada domingo, lo que cambia en tu bolsillo.</strong> <span>Gratis, en 3 minutos.</span></p>' +
-    '<a class="btn btn-sol" href="#newsletter">Apuntarme</a>' +
+    '<a class="btn btn-sol" href="/domingo/?src=web-barra">Apuntarme gratis</a>' +
     '<button type="button" class="nl-cerrar" aria-label="Cerrar">×</button>';
   document.body.appendChild(barra);
   var visto = false, pasado = false;
@@ -41,12 +41,8 @@
   new IntersectionObserver(function (e) { visto = e[0].isIntersecting; pintar(); }, { threshold: .25 })
     .observe(nl.querySelector("form") || nl);
   window.addEventListener("scroll", function () {
-    if (!pasado && window.scrollY > (document.documentElement.scrollHeight - window.innerHeight) / 3) { pasado = true; pintar(); }
+    if (!pasado && window.scrollY > 250) { pasado = true; pintar(); }
   }, { passive: true });
-  barra.querySelector("a").addEventListener("click", function () {
-    var correo = nl.querySelector("input[type=email]");
-    if (correo) setTimeout(function () { correo.focus({ preventScroll: true }); }, 400);
-  });
   barra.querySelector(".nl-cerrar").addEventListener("click", function () {
     barra.remove();
     try { localStorage.setItem(CLAVE, String(Date.now())); } catch (e) { /* nada */ }

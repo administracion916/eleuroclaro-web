@@ -541,3 +541,12 @@ img.presenta-avatar { object-fit: cover; box-shadow: 0 0 0 4px var(--sol), 0 16p
 .lp-autor { display: flex; align-items: center; gap: 1rem; margin-top: 1.5rem; max-width: 34rem; padding: .9rem 1.1rem; border-radius: .8rem; background: var(--gold-soft); }
 .lp-autor img { width: 4.75rem; height: 4.75rem; flex: none; border-radius: 50%; object-fit: cover; box-shadow: 0 0 0 3px var(--sol); }
 .lp-autor p { margin: 0; line-height: 1.45; }
+
+/* Botón de la newsletter en el menú de todas las páginas (11-10) */
+.nav a.nav-nl { display: inline-flex; align-items: center; gap: .4rem; background: var(--sol); color: var(--navy); padding: .3rem .85rem; border-radius: 2rem; font-weight: 800; box-shadow: 0 0 0 3px rgba(245, 197, 24, .22); }
+.nav a.nav-nl:hover { color: var(--navy); filter: brightness(1.06); }
+.nav a.nav-nl svg { width: 1.1em; height: 1.1em; flex: none; }
+/* Portada: la newsletter va primero (amarilla) y la calculadora debajo (blanca) */
+.hero-calc.hc-nl .hc-ico svg { width: 1.45rem; height: 1.45rem; }
+.hero-calc.hc-blanco { background: #fff; margin-top: .9rem; }
+.hero-calc.hc-blanco .hc-ico { background: var(--sol); color: var(--navy); }

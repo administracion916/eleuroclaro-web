@@ -24,7 +24,7 @@
 <link rel="icon" href="favicon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="apple-touch-icon.png">
 <link rel="stylesheet" href="fonts.css">
-<link rel="stylesheet" href="style.css?v=20261010j">
+<link rel="stylesheet" href="style.css?v=20261011n">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -75,15 +75,14 @@
       El Euro Claro
     </a>
     <nav class="nav" aria-label="Secciones">
+      <a class="nav-nl" href="/domingo/?src=web-cabecera"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><rect x="2.5" y="5" width="19" height="14" rx="2.5"/><path d="M3 6.5l9 6.5 9-6.5"/></svg>Newsletter gratis</a>
       <a href="#noticias">Noticias</a>
       <a href="#videos">Vídeos</a>
       <a href="inflacion/">Calculadora</a>
       <a href="#kit">Kit</a>
       <a href="empresas/">Empresas</a>
-      <a href="#newsletter">Newsletter</a>
       <a href="libros/">Libros</a>
     </nav>
-    <a class="top-cta" href="https://eleuroclaro.gumroad.com/l/kit" rel="noopener">Kit de cuentas · 19&nbsp;€</a>
   </div>
 </header>
 
@@ -94,13 +93,17 @@
         <p class="eyebrow hero-autor"><img src="img/pere-jaume-avatar.jpg" width="40" height="40" alt="">Cada día · en 90 segundos · con Pere Jaume</p>
         <h1>La noticia económica del día, <em>en euros de tu bolsillo</em>.</h1>
         <p class="lead">Hipoteca, sueldo, ahorros y la compra. Qué ha pasado, por qué y cuánto te toca, sin tecnicismos y con el dato oficial delante.</p>
-        <a class="hero-calc" href="inflacion/">
+        <a class="hero-calc hc-nl" href="/domingo/?src=web-portada">
+          <span class="hc-ico" aria-hidden="true"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><rect x="2.5" y="5" width="19" height="14" rx="2.5"/><path d="M3 6.5l9 6.5 9-6.5"/></svg></span>
+          <span class="hc-txt"><strong>Apúntate gratis a la newsletter</strong><span>Cada domingo, lo que cambia en tu bolsillo. En 3 minutos y con datos oficiales.</span></span>
+          <span class="hc-btn">Apuntarme gratis →</span>
+        </a>
+        <a class="hero-calc hc-blanco" href="inflacion/">
           <span class="hc-ico" aria-hidden="true">%</span>
           <span class="hc-txt"><strong>¿Cuánto te cuesta <em>a ti</em> la subida de precios?</strong><span>Calculadora gratis con los datos del INE. En 1 minuto y sin dar tus datos.</span></span>
           <span class="hc-btn">Calcular →</span>
         </a>
         <div class="actions">
-          <a class="btn btn-sol" href="#newsletter">Recibe el resumen gratis</a>
           <a class="btn btn-line" href="#kit">Kit de cuentas de casa · 19&nbsp;€</a>
         </div>
         <div class="follow">
@@ -127,6 +130,37 @@
         <p class="presenta-frase">«Traduzco la economía a euros.»</p>
         <p class="presenta-txt">No soy economista: soy empresario y hago números cada mes, como tú. Te cuento la noticia del día con datos oficiales.</p>
       </aside>
+    </div>
+  </section>
+
+  <section class="section" id="newsletter">
+    <div class="wrap news">
+      <div>
+        <p class="eyebrow">Newsletter · domingos</p>
+        <h2>La economía de la semana que toca tu bolsillo</h2>
+        <p class="intro">Un correo cada domingo, se lee en 3 minutos. Gratis y te das de baja con un clic.</p>
+        <ul class="checks">
+          <li>Euríbor, IPC, sueldos y ayudas del BOE, explicados</li>
+          <li>Un ejemplo con números redondos para cada noticia</li>
+          <li>El calendario de lo que viene la semana siguiente</li>
+        </ul>
+        <div class="nl-autor">
+          <img src="/img/pere-jaume-avatar.jpg" width="56" height="56" alt="" loading="lazy">
+          <p>Cada domingo te lo cuento yo, con datos oficiales y ejemplos en euros.<span class="firma">Pere Jaume</span></p>
+        </div>
+        <p class="regalo">De regalo al apuntarte: la guía de una página <strong>«Cómo leer tu nómina en 2 minutos»</strong>, con lo que te quitan y a dónde va.</p>
+      </div>
+      <form class="signup" id="signup" novalidate>
+        <label for="email">Tu correo electrónico</label>
+        <input type="email" id="email" name="email" placeholder="nombre@correo.es" autocomplete="email" required>
+        <label class="consent" for="consent">
+          <input type="checkbox" id="consent" name="consent" required>
+          <span>Quiero recibir la newsletter y he leído la <a href="privacidad.html">política de privacidad</a>.</span>
+        </label>
+        <button class="btn btn-primary" type="submit">Apuntarme gratis</button>
+        <p class="msg" id="signup-msg" role="status"></p>
+        <p class="fine">Odana Ingeniería SL usará tu correo para enviarte la newsletter semanal, que puede incluir publicidad marcada y ofertas de nuestros productos, con tu consentimiento. Lo guarda nuestra plataforma de envíos, Substack (EE. UU.). Puedes darte de baja cuando quieras y ejercer tus derechos en hola@eleuroclaro.es. Más información en la <a href="privacidad.html">política de privacidad</a>.</p>
+      </form>
     </div>
   </section>
 
@@ -326,36 +360,6 @@
     </div>
   </section>
 
-  <section class="section" id="newsletter">
-    <div class="wrap news">
-      <div>
-        <p class="eyebrow">Newsletter · domingos</p>
-        <h2>La economía de la semana que toca tu bolsillo</h2>
-        <p class="intro">Un correo cada domingo, se lee en 3 minutos. Gratis y te das de baja con un clic.</p>
-        <ul class="checks">
-          <li>Euríbor, IPC, sueldos y ayudas del BOE, explicados</li>
-          <li>Un ejemplo con números redondos para cada noticia</li>
-          <li>El calendario de lo que viene la semana siguiente</li>
-        </ul>
-        <div class="nl-autor">
-          <img src="/img/pere-jaume-avatar.jpg" width="56" height="56" alt="" loading="lazy">
-          <p>Cada domingo te lo cuento yo, con datos oficiales y ejemplos en euros.<span class="firma">Pere Jaume</span></p>
-        </div>
-        <p class="regalo">De regalo al apuntarte: la guía de una página <strong>«Cómo leer tu nómina en 2 minutos»</strong>, con lo que te quitan y a dónde va.</p>
-      </div>
-      <form class="signup" id="signup" novalidate>
-        <label for="email">Tu correo electrónico</label>
-        <input type="email" id="email" name="email" placeholder="nombre@correo.es" autocomplete="email" required>
-        <label class="consent" for="consent">
-          <input type="checkbox" id="consent" name="consent" required>
-          <span>Quiero recibir la newsletter y he leído la <a href="privacidad.html">política de privacidad</a>.</span>
-        </label>
-        <button class="btn btn-primary" type="submit">Apuntarme gratis</button>
-        <p class="msg" id="signup-msg" role="status"></p>
-        <p class="fine">Odana Ingeniería SL usará tu correo para enviarte la newsletter semanal, que puede incluir publicidad marcada y ofertas de nuestros productos, con tu consentimiento. Lo guarda nuestra plataforma de envíos, Substack (EE. UU.). Puedes darte de baja cuando quieras y ejercer tus derechos en hola@eleuroclaro.es. Más información en la <a href="privacidad.html">política de privacidad</a>.</p>
-      </form>
-    </div>
-  </section>
 
   <section class="section alt" id="anunciate">
     <div class="wrap">
