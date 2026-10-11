@@ -1,61 +1,61 @@
 {
- "actualizado": "2026-10-10T22:37:47Z",
+ "actualizado": "2026-10-11T05:08:57Z",
  "items": [
   {
-   "t": "Por qué el precio de la gasolina no baja, aunque el petróleo vuelve a cruzar Ormuz",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/macroeconomia/2026/10/11/6ac913fde4d4d8641f8b4589.html",
-   "f": "2026-10-10T22:07:33Z",
-   "c": "energia"
+   "t": "Alfonso Muñoz, funcionario de la Seguridad Social, explica si compensa cotizar por la base máxima",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/alfonso-munoz-funcionario-seguridad-social-explica-compensa-cotizar-base-maxima_7044975_0.html",
+   "f": "2026-10-11T05:00:00Z",
+   "c": "empleo"
   },
   {
-   "t": "¿Quién mató a la renta fija?",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/macroeconomia/2026/10/11/6ac675e6e85ecec0768b458f.html",
-   "f": "2026-10-10T22:07:32Z",
-   "c": "general"
-  },
-  {
-   "t": "Will Bruey, el capitán de fábricas espaciales",
+   "t": "Negociación en la sombra: así fracasó el decreto de vivienda",
    "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261011/11656071/capitan-fabricas-espaciales.html",
-   "f": "2026-10-10T22:05:00Z",
-   "c": "general"
-  },
-  {
-   "t": "El ‘shadow AI’ se propaga y aumenta riesgos en la empresa",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261011/11655470/shadow-ai-propaga-aumenta-riesgos-empresa.html",
-   "f": "2026-10-10T22:05:00Z",
-   "c": "empresas"
-  },
-  {
-   "t": "El riesgo compartido del puesto de trabajo",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261010/11656171/riesgo-compartido-puesto-trabajo.html",
-   "f": "2026-10-10T21:12:47Z",
-   "c": "general"
-  },
-  {
-   "t": "Correos se hunde en pleno auge del comercio online: 1.160 millones en pérdidas, menos plantilla y 13 días para que llegue una carta de Valencia a Madrid",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/empresas/2026/10/10/6ac922d5e9cf4a980b8b4598.html",
-   "f": "2026-10-10T20:54:29Z",
-   "c": "empresas"
-  },
-  {
-   "t": "Guía para inquilinos y propietarios: cómo afecta la nueva regulación de la vivienda",
-   "m": "Expansión",
-   "u": "https://www.expansion.com/economia/2026/10/10/6ac901da468aeb78798b4575.html",
-   "f": "2026-10-10T19:06:20Z",
+   "u": "https://www.lavanguardia.com/economia/20261011/11656109/negociacion-sombra-asi-fracaso-decreto-vivienda.html",
+   "f": "2026-10-11T04:00:00Z",
    "c": "vivienda"
   },
   {
-   "t": "La amenaza latente para el mercado del alquiler: renovación automática con sanciones al casero",
-   "m": "Expansión",
-   "u": "https://www.expansion.com/economia/2026/10/10/6ac904bee5fdea1a648b4583.html",
-   "f": "2026-10-10T19:06:18Z",
+   "t": "Los bancos se preparan para empezar a ofrecer la nueva cuenta de inversión",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261011/11656081/bancos-preparan-empezar-ofrecer-nueva-cuenta-inversion.html",
+   "f": "2026-10-11T04:00:00Z",
+   "c": "bancos"
+  },
+  {
+   "t": "Los españoles pierden 35.000 millones al año por el dinero en cuentas ociosas",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261011/11656076/espanoles-pierden-35-000-millones-ano-dinero-cuentas-ociosas.html",
+   "f": "2026-10-11T04:00:00Z",
+   "c": "general"
+  },
+  {
+   "t": "El movimiento de vivienda señala a los pequeños caseros: ¿son responsables del alza de los precios?",
+   "m": "El País",
+   "u": "https://elpais.com/economia/vivienda/2026-10-11/el-movimiento-de-vivienda-senala-a-los-pequenos-caseros-son-responsables-del-alza-de-los-precios.html",
+   "f": "2026-10-11T03:30:01Z",
    "c": "vivienda"
+  },
+  {
+   "t": "Construir vivienda como política de alquiler",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-11/construir-vivienda-como-politica-de-alquiler.html",
+   "f": "2026-10-11T03:30:01Z",
+   "c": "vivienda"
+  },
+  {
+   "t": "Del colchón a la Bolsa: la nueva cuenta que aspira a movilizar ahorro por un billón de euros",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-11/del-colchon-a-la-bolsa-la-nueva-cuenta-que-aspira-a-movilizar-ahorro-por-un-billon-de-euros.html",
+   "f": "2026-10-11T03:30:00Z",
+   "c": "empresas"
+  },
+  {
+   "t": "El Sabadell, con escudo francés y sin prima de opa",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-11/el-sabadell-con-escudo-frances-y-sin-prima-de-opa.html",
+   "f": "2026-10-11T03:30:00Z",
+   "c": "bancos"
   }
  ]
 }
