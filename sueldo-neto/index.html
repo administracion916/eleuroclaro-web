@@ -1,0 +1,171 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Calcular sueldo neto 2026: de bruto a neto con el IRPF y la Seguridad Social · El Euro Claro</title>
+<meta name="description" content="Pon tu sueldo bruto anual y te decimos cuánto cobras limpio al mes en 2026, en 12 o 14 pagas. Con la retención oficial de IRPF de la Agencia Tributaria y la cotización a la Seguridad Social. Gratis y sin dar tus datos.">
+<meta name="theme-color" content="#0e2a47">
+<meta property="og:site_name" content="El Euro Claro">
+<meta property="og:title" content="¿Cuánto cobras limpio? Calculadora de sueldo neto 2026">
+<meta property="og:description" content="De bruto a neto en 10 segundos, con la retención oficial de IRPF de 2026.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://eleuroclaro.es/sueldo-neto/">
+<meta property="og:locale" content="es_ES">
+<meta property="og:image" content="https://eleuroclaro.es/img/og-eleuroclaro.png">
+<meta property="og:image:type" content="image/png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="El Euro Claro: la economía de tu bolsillo, en euros claros.">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="canonical" href="https://eleuroclaro.es/sueldo-neto/">
+<!-- Página en una subcarpeta: todas las rutas son absolutas (empiezan por /). -->
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="stylesheet" href="/fonts.css">
+<link rel="stylesheet" href="/style.css?v=20261010j">
+<style>.calc select { width: 100%; padding: .7rem .8rem; border: 1px solid var(--muted); border-radius: .45rem; background: var(--bg); color: var(--ink); font: inherit; } .calc-fila > select { min-width: 9.5rem; } @media (max-width: 40rem) { .calc-fila > select { grid-column: 1 / -1; } } .calc .consent { padding: .4rem 0; }</style>
+</head>
+<body>
+
+<header class="top">
+  <div class="wrap">
+    <a class="brand" href="/" aria-label="El Euro Claro, inicio">
+      <svg class="coin" viewBox="0 0 40 40" aria-hidden="true"><circle cx="20" cy="20" r="18" fill="#f4c51a"/><circle cx="20" cy="20" r="14.5" fill="none" stroke="#0e2a47" stroke-width="1.2" opacity=".45"/><text x="20" y="26.5" text-anchor="middle" font-family="Georgia, serif" font-size="19" font-weight="700" fill="#10294a">€</text></svg>
+      El Euro Claro
+    </a>
+    <nav class="nav" aria-label="Secciones">
+      <a href="/#noticias">Noticias</a>
+      <a href="/#videos">Vídeos</a>
+      <a href="/inflacion/">Calculadora</a>
+      <a href="/#kit">Kit</a>
+      <a href="/empresas/">Empresas</a>
+      <a href="/#newsletter">Newsletter</a>
+      <a href="/libros/">Libros</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <section class="section page-head calc-head">
+    <div class="wrap">
+      <p class="eyebrow">Calculadora · datos oficiales de 2026</p>
+      <h1>¿Cuánto cobras <em>limpio</em> al mes?</h1>
+      <p class="intro">Pon tu sueldo bruto al año y te decimos lo que te llega al banco, después de la Seguridad Social y la retención de IRPF de 2026.</p>
+      <p class="small calc-privado">🔒 Tus cifras no salen de tu móvil: el cálculo se hace aquí mismo y no guardamos nada.</p>
+
+      <form class="calc" id="calc" novalidate>
+        <div class="calc-filas">
+          <div class="calc-fila">
+            <label for="bruto"><span class="cf-n">Sueldo bruto al año</span><span class="cf-d">Lo que pone tu contrato, con las pagas extra</span></label>
+            <span></span>
+            <span class="cf-in"><input id="bruto" name="bruto" type="text" inputmode="decimal" autocomplete="off" placeholder="p. ej. 25.000"><span aria-hidden="true">€/año</span></span>
+          </div>
+          <div class="calc-fila">
+            <label for="pagas"><span class="cf-n">Número de pagas</span><span class="cf-d">14 si cobras dos pagas extra aparte</span></label>
+            <span></span>
+            <select id="pagas" name="pagas"><option value="14">14 pagas</option><option value="12">12 pagas</option></select>
+          </div>
+          <div class="calc-fila">
+            <label for="contrato"><span class="cf-n">Contrato</span><span class="cf-d">Cambia un poco lo que pagas por desempleo</span></label>
+            <span></span>
+            <select id="contrato" name="contrato"><option value="indefinido">Indefinido</option><option value="temporal">Temporal</option></select>
+          </div>
+          <div class="calc-fila">
+            <label for="hijos"><span class="cf-n">Hijos menores de 25 que viven contigo</span><span class="cf-d">Rebajan la retención</span></label>
+            <span></span>
+            <select id="hijos" name="hijos"><option value="0">Ninguno</option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4 o más</option></select>
+          </div>
+          <div id="datos-hijos" hidden>
+            <div class="calc-fila">
+              <label for="menores"><span class="cf-n">De ellos, menores de 3 años</span><span class="cf-d"></span></label>
+              <span></span>
+              <select id="menores" name="menores"><option value="0">Ninguno</option><option value="1">1</option><option value="2">2</option><option value="3">3</option></select>
+            </div>
+            <label class="consent" for="solo"><input type="checkbox" id="solo" name="solo"> <span>Los hijos cuentan solo para mí (si no, se reparten a medias con el otro progenitor, que es lo habitual)</span></label>
+          </div>
+          <label class="consent" for="conyuge"><input type="checkbox" id="conyuge" name="conyuge"> <span>Estoy casado o casada y mi pareja gana menos de 1.500 € al año</span></label>
+        </div>
+        <button class="btn btn-primary calc-boton" type="submit">Calcular mi sueldo neto</button>
+        <p class="msg" id="calc-msg" role="status"></p>
+      </form>
+    </div>
+  </section>
+
+  <section class="section alt calc-res" id="resultado" hidden tabindex="-1" aria-labelledby="res-tit">
+    <div class="wrap">
+      <div class="res-card">
+        <p class="que" id="res-tit">Te llegan al banco</p>
+        <p class="res-cifra"><span id="r-mes">0 €</span> <span class="res-al" id="r-pagas">netos al mes</span></p>
+        <ul class="res-top">
+          <li>Neto al año: <strong id="r-anual">0 €</strong></li>
+          <li>Seguridad Social (6,50 %): <strong id="r-ss">0 €</strong> al año</li>
+          <li>Retención de IRPF: <strong id="r-irpf">0 €</strong> al año</li>
+        </ul>
+        <p class="res-tasa" id="r-ejemplo"></p>
+        <p class="small">Es una estimación con el cálculo oficial de la Agencia Tributaria. Tu nómina puede variar un poco por tu convenio, horas extra o situaciones que aquí no entran.</p>
+      </div>
+      <div class="res-share">
+        <h2>Y ahora, ¿cuánto de eso deberías ahorrar?</h2>
+        <p>Con la <a href="/50-30-20/">regla 50/30/20</a> te lo repartimos en euros en 10 segundos: gastos fijos, caprichos y ahorro.</p>
+        <p>Si quieres llevar las cuentas de casa en una hoja ya hecha, está el <strong>Kit de cuentas de casa</strong>: presupuesto, calculadora de hipoteca y Euríbor y plan de ahorro, por 19&nbsp;€, IVA incluido.</p>
+        <div class="actions">
+          <a class="btn btn-sol" href="/50-30-20/">Repartir mi sueldo</a>
+          <a class="btn btn-ghost" href="/kit/" rel="noopener">Ver el kit</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section" id="newsletter" aria-labelledby="nl-tit">
+    <div class="wrap news">
+      <div>
+        <p class="eyebrow">Newsletter · domingos · gratis</p>
+        <h2 id="nl-tit">Si cambia tu nómina, te avisamos</h2>
+        <p class="intro">Subidas del salario mínimo, cambios del IRPF, cotizaciones, precios y Euríbor: cada domingo, en 3 minutos y con ejemplos en euros.</p>
+        <p class="regalo">De regalo al apuntarte: la guía de una página <strong>«Cómo leer tu nómina en 2 minutos»</strong>.</p>
+      </div>
+      <form class="signup" data-campana="sueldo-neto" novalidate>
+        <label for="email">Tu correo electrónico</label>
+        <input type="email" id="email" name="email" placeholder="nombre@correo.es" autocomplete="email" required>
+        <label class="consent" for="consent">
+          <input type="checkbox" id="consent" name="consent" required>
+          <span>Quiero recibir la newsletter y he leído la <a href="/privacidad.html">política de privacidad</a>.</span>
+        </label>
+        <button class="btn btn-primary" type="submit">Apuntarme gratis</button>
+        <p class="msg" role="status"></p>
+        <p class="fine">Odana Ingeniería SL usará tu correo para enviarte la newsletter semanal, que puede incluir publicidad marcada y ofertas de nuestros productos, con tu consentimiento. Lo guarda nuestra plataforma de envíos, Substack (EE. UU.). Puedes darte de baja cuando quieras y ejercer tus derechos en hola@eleuroclaro.es. Más información en la <a href="/privacidad.html">política de privacidad</a>.</p>
+      </form>
+    </div>
+  </section>
+
+  <section class="section alt" aria-labelledby="como">
+    <div class="wrap prose">
+      <h2 id="como">Cómo se calcula</h2>
+      <p><strong>Seguridad Social:</strong> el trabajador paga un 6,50&nbsp;% de su sueldo (4,70&nbsp;% de contingencias comunes, 1,55&nbsp;% de desempleo, 0,10&nbsp;% de formación y 0,15&nbsp;% del mecanismo de equidad intergeneracional), con un tope de 5.101,20&nbsp;€ al mes en 2026. En contratos temporales, el desempleo es un 1,60&nbsp;%.</p>
+      <p><strong>IRPF:</strong> usamos el mismo cálculo que publica la Agencia Tributaria para las empresas (versión del 10 de septiembre de 2026): a tu sueldo se le restan la Seguridad Social, 2.000&nbsp;€ de gastos y una rebaja para sueldos bajos, y se aplica la escala de retención descontando tu mínimo personal y familiar. Por debajo de unos 15.900&nbsp;€ al año, sin hijos, no te retienen nada.</p>
+      <p><strong>Ejemplo:</strong> con 25.000&nbsp;€ brutos en 14 pagas, sin hijos, pagas 1.625&nbsp;€ a la Seguridad Social y te retienen un 14,09&nbsp;% de IRPF. Te quedan unos 1.418&nbsp;€ al mes.</p>
+      <p>La retención es un adelanto: lo que pagas de verdad se ajusta en la declaración de la renta. Vale para toda España salvo el País Vasco y Navarra, que tienen su propio IRPF. Más sobre tu nómina en la <a href="/nomina/">guía gratis</a>.</p>
+      <p class="small note-legal">Contenido divulgativo: no es asesoramiento laboral ni fiscal. No incluye casos especiales (discapacidad, movilidad geográfica, mayores de 64, pensiones compensatorias ni la cotización de solidaridad de los sueldos más altos). Fuentes: Agencia Tributaria, algoritmo de cálculo del tipo de retención 2026; Orden PJC/297/2026 (BOE 31-3-2026).</p>
+    </div>
+  </section>
+</main>
+
+<footer class="foot">
+  <div class="wrap">
+    <p class="lema">La economía de tu bolsillo, en euros claros.</p>
+    <nav aria-label="Legal">
+      <a href="/aviso-legal.html">Aviso legal</a>
+      <a href="/privacidad.html">Privacidad</a>
+      <a href="/cookies.html">Cookies</a>
+      <span>Contacto: <span class="mail">hola@eleuroclaro.es</span></span>
+    </nav>
+    <p class="disclaimer">El Euro Claro es un medio divulgativo. La información es general y no constituye asesoramiento financiero ni una recomendación de comprar o vender ningún producto. Algunos enlaces pueden ser de afiliado y se indica cuando lo son.</p>
+    <p>© 2026 El Euro Claro · Odana Ingeniería SL</p>
+  </div>
+</footer>
+<script src="/suscribir.js?v=20261010c" defer></script>
+<script src="/sueldo-neto/neto.js?v=20261011a" defer></script>
+<!-- Cloudflare Web Analytics --><script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "e81aecc33a6b40ccab86c1fbc9fa801c"}'></script><!-- End Cloudflare Web Analytics -->
+</body>
+</html>
