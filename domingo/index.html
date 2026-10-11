@@ -5,9 +5,30 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="noindex">
 <title>El Euro Claro</title>
-<!-- Dirección corta: reenvía a otra página. No sale en el sitemap ni en Google. -->
-<meta http-equiv="refresh" content="0; url=https://eleuroclaro.substack.com/subscribe?utm_source=redes&amp;utm_medium=direccion&amp;utm_campaign=domingo">
-<script>location.replace("https://eleuroclaro.substack.com/subscribe?utm_source=redes&utm_medium=direccion&utm_campaign=domingo");</script>
+<!-- Dirección corta: reenvía al alta de Substack. No sale en el sitemap ni en Google.
+     utm_source dice de dónde llega el alta: ?src=… si lo trae; si no, la web del clic (facebook, instagram, youtube…);
+     y «redes» si la dirección se escribe a mano, que es lo normal desde un vídeo de TikTok o Instagram. -->
+<script>
+(function () {
+  var s = "", m = "direccion", r = "";
+  try { s = (new URLSearchParams(location.search).get("src") || "").toLowerCase(); } catch (e) {}
+  if (!/^[a-z0-9-]{2,20}$/.test(s)) s = "";
+  try { r = document.referrer ? new URL(document.referrer).hostname.toLowerCase() : ""; } catch (e) {}
+  var webs = [
+    ["facebook", /(^|\.)(facebook\.com|fb\.com|fb\.me)$/], ["instagram", /(^|\.)instagram\.com$/],
+    ["tiktok", /(^|\.)tiktok\.com$/], ["youtube", /(^|\.)(youtube\.com|youtu\.be)$/],
+    ["linkedin", /(^|\.)(linkedin\.com|lnkd\.in)$/], ["x", /(^|\.)(t\.co|x\.com|twitter\.com)$/],
+    ["whatsapp", /(^|\.)whatsapp\.com$/], ["google", /(^|\.)google\.[a-z.]+$/], ["web", /(^|\.)eleuroclaro\.es$/]
+  ];
+  if (!s && r) {
+    for (var i = 0; i < webs.length; i++) if (webs[i][1].test(r)) { s = webs[i][0]; break; }
+    if (!s) s = "otra-web";
+  }
+  if (s) m = "enlace";
+  location.replace("https://eleuroclaro.substack.com/subscribe?utm_source=" + (s || "redes") + "&utm_medium=" + m + "&utm_campaign=domingo");
+})();
+</script>
+<noscript><meta http-equiv="refresh" content="0; url=https://eleuroclaro.substack.com/subscribe?utm_source=redes&amp;utm_medium=direccion&amp;utm_campaign=domingo"></noscript>
 </head>
 <body>
 <p>Te llevamos a <a href="https://eleuroclaro.substack.com/subscribe?utm_source=redes&amp;utm_medium=direccion&amp;utm_campaign=domingo">El Euro Claro</a>…</p>
