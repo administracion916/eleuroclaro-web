@@ -1,6 +1,34 @@
 {
- "actualizado": "2026-10-11T19:38:04Z",
+ "actualizado": "2026-10-11T22:39:12Z",
  "items": [
+  {
+   "t": "La química que mueve la nueva economía",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/empresas/2026/10/12/6ac66f2321efa0db268b459f.html",
+   "f": "2026-10-11T22:11:08Z",
+   "c": "general"
+  },
+  {
+   "t": "Santiago Gómez, presidente de la patronal renovable: \"El próximo Gobierno necesita altura de miras, hacer política con la energía solo encarece la factura\"",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/empresas/2026/10/12/6ac779f5fdddff08248b45b4.html",
+   "f": "2026-10-11T22:10:31Z",
+   "c": "energia"
+  },
+  {
+   "t": "Viaje a la aldea tecnológica donde se cocina la nueva revolución de la IA en China: \"La idea de que el Partido Comunista pueda perder el control sobre esta…",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/macroeconomia/2026/10/12/6ac65f8921efa045508b45a5.html",
+   "f": "2026-10-11T22:10:30Z",
+   "c": "transporte"
+  },
+  {
+   "t": "Europa encara el invierno con las reservas de gas bajo mínimos y los precios en máximos",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/2026/10/11/6acb6fd2468aeb591e8b45a8.html",
+   "f": "2026-10-11T21:43:37Z",
+   "c": "energia"
+  },
   {
    "t": "UGT y CCOO apelan a un acuerdo para Frente Amplio: \"El país os espera\"",
    "m": "Europa Press",
@@ -28,34 +56,6 @@
    "u": "https://elpais.com/economia/2026-10-11/la-aie-anima-a-una-nueva-liberacion-de-reservas-de-diesel-para-detener-la-escalada-de-precios.html",
    "f": "2026-10-11T16:02:12Z",
    "c": "energia"
-  },
-  {
-   "t": "Cientos de pasajeros varados por Plus Ultra en la ruta Madrid-Buenos Aires: \"Posible estafa premeditada\"",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/10/11/6acba69221efa0c0698b4579.html",
-   "f": "2026-10-11T15:15:50Z",
-   "c": "general"
-  },
-  {
-   "t": "Los frugales avanzan: el presupuesto de la UE se debatirá desde los recortes",
-   "m": "Expansión",
-   "u": "https://www.expansion.com/economia/2026/10/11/6acba76c468aeba6488b45a1.html",
-   "f": "2026-10-11T15:12:58Z",
-   "c": "comercio"
-  },
-  {
-   "t": "Las gestoras dudan del margen de maniobra de Francia ante una crisis de deuda",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/economia/2026-10-11/las-gestoras-dudan-del-margen-de-maniobra-de-francia-ante-una-crisis-de-deuda.html",
-   "f": "2026-10-11T12:44:25Z",
-   "c": "general"
-  },
-  {
-   "t": "Las gestoras dudan del margen de maniobra de Francia ante el repunte de deuda y ya atisban riesgos en su banca",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/finanzas-00340/noticia-gestoras-dudan-margen-maniobra-francia-repunte-deuda-ya-atisban-riesgos-banca-20261011120551.html",
-   "f": "2026-10-11T10:05:51Z",
-   "c": "bancos"
   }
  ]
 }
