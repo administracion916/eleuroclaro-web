@@ -1,6 +1,13 @@
 {
- "actualizado": "2026-10-12T06:53:45Z",
+ "actualizado": "2026-10-12T07:45:37Z",
  "items": [
+  {
+   "t": "El Ibex estrena la semana con ganancias mientras que el petróleo recorta un 1%",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-12/la-bolsa-y-el-ibex-35.html",
+   "f": "2026-10-12T07:11:03Z",
+   "c": "energia"
+  },
   {
    "t": "Guía para la jubilación: las cinco fórmulas para anticipar el retiro o compaginar salario y pensión",
    "m": "Expansión",
@@ -9,18 +16,18 @@
    "c": "pensiones"
   },
   {
+   "t": "Supermercados abiertos el festivo del 12 de octubre: Horarios de Mercadona, Carrefour, Lidl y Supercor",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/noticia-supermercados-abiertos-festivo-12-octubre-horarios-mercadona-carrefour-lidl-supercor-20261012075950.html",
+   "f": "2026-10-12T05:59:50Z",
+   "c": "precios"
+  },
+  {
    "t": "Los nueve cambios para la jubilación en 2027, según el abogado laboralista Ignacio Solsona",
    "m": "20minutos",
    "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/cambios-jubilacion-abogado-laboralista-ignacio-solsona_7046207_0.html",
    "f": "2026-10-12T05:57:12Z",
    "c": "pensiones"
-  },
-  {
-   "t": "Las Bolsas se preparan para abrir con ganancias mientras que el petróleo recorta un 1%",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-12/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-10-12T05:44:51Z",
-   "c": "energia"
   },
   {
    "t": "La vacuna contra el cáncer abre la carrera por el medicamento más vendido del mundo",
@@ -49,13 +56,6 @@
    "u": "https://www.lavanguardia.com/economia/20261012/11656593/smi-pensiones-y-elecciones.html",
    "f": "2026-10-12T04:00:00Z",
    "c": "pensiones"
-  },
-  {
-   "t": "¿Cuánto sabes de cultura financiera? Diez preguntas para demostrar tus conocimientos",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-12/cuanto-sabes-de-cultura-financiera-diez-preguntas-para-demostrar-tus-conocimientos.html",
-   "f": "2026-10-12T03:30:01Z",
-   "c": "general"
   }
  ]
 }
