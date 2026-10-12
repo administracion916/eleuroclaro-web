@@ -1,11 +1,18 @@
 {
- "actualizado": "2026-10-12T10:43:18Z",
+ "actualizado": "2026-10-12T11:43:52Z",
  "items": [
+  {
+   "t": "Europa pone un dique a la avalancha de coches híbridos chinos: las claves del pacto comercial con Pekín",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/macroeconomia/2026/10/12/6accc5eb21efa0354d8b4575.html",
+   "f": "2026-10-12T11:37:57Z",
+   "c": "transporte"
+  },
   {
    "t": "Premio Nobel de Economía 2026 para Michael Woodford y Robert E. Hall",
    "m": "El País",
    "u": "https://elpais.com/economia/2026-10-12/premio-nobel-de-economia-2026-en-directo-para.html",
-   "f": "2026-10-12T10:26:57Z",
+   "f": "2026-10-12T11:32:34Z",
    "c": "general"
   },
   {
@@ -23,6 +30,13 @@
    "c": "general"
   },
   {
+   "t": "El Ibex 35 repunta un 0,7% en la media sesión y rebasa los 19.150 puntos, con el crudo en 105 dólares",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/bolsa-00348/noticia-ibex-35-repunta-07-media-sesion-rebasa-19150-puntos-crudo-105-dolares-20261012121205.html",
+   "f": "2026-10-12T10:12:05Z",
+   "c": "empresas"
+  },
+  {
    "t": "Los estadounidenses Robert E. Hall y Michael Woodford se llevan el Nobel de Economía por estudiar los fundamentos micro en la estabilización macroeconómica",
    "m": "El Mundo",
    "u": "https://www.elmundo.es/economia/2026/10/12/6accaf72fdddff80638b45a9.html",
@@ -37,25 +51,11 @@
    "c": "general"
   },
   {
-   "t": "El número de viviendas protegidas crece un 96% en el primer semestre, hasta las 11.270",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/construccion-y-vivienda-00342/noticia-numero-viviendas-protegidas-crece-96-primer-semestre-11270-20261012115152.html",
-   "f": "2026-10-12T09:51:52Z",
-   "c": "vivienda"
-  },
-  {
-   "t": "Los primeros directivos del sector petrolero se retiran de un congreso sobre energía tras los atentados de Riad",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-12/los-primeros-directivos-del-sector-petrolero-se-retiran-de-un-congreso-sobre-energia-tras-los-atentados-de-riad.html",
-   "f": "2026-10-12T09:28:43Z",
-   "c": "energia"
-  },
-  {
-   "t": "El Ibex sube un 1% mientras el mercado digiere las señales cruzadas del petróleo",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-12/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-10-12T09:21:15Z",
-   "c": "energia"
+   "t": "Michael Woodford y Robert E. Hall ganan el Nobel por explicar cómo hogares y empresas influyen en la economía con sus acciones",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/michael-woodford-robert-hall-ganan-nobel-economia-por-explicar-como-hogares-empresas-influyen-economia-con-sus-acciones_7047757_0.html",
+   "f": "2026-10-12T09:57:58Z",
+   "c": "empresas"
   }
  ]
 }
