@@ -1,6 +1,13 @@
 {
- "actualizado": "2026-10-12T07:45:37Z",
+ "actualizado": "2026-10-12T08:45:50Z",
  "items": [
+  {
+   "t": "Las ventas del grupo Seat caen un 1,4% en los nueve primeros meses del año",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261012/11656900/ventas-grupo-seat-caen-1-4-mueve-primeros-meses-ano.html",
+   "f": "2026-10-12T07:45:26Z",
+   "c": "empresas"
+  },
   {
    "t": "El Ibex estrena la semana con ganancias mientras que el petróleo recorta un 1%",
    "m": "Cinco Días",
@@ -49,13 +56,6 @@
    "u": "https://www.lavanguardia.com/economia/20261012/11656632/viviendas-zonas-inundables-devaluan-8-dana.html",
    "f": "2026-10-12T04:00:00Z",
    "c": "vivienda"
-  },
-  {
-   "t": "SMI, pensiones y elecciones",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261012/11656593/smi-pensiones-y-elecciones.html",
-   "f": "2026-10-12T04:00:00Z",
-   "c": "pensiones"
   }
  ]
 }
