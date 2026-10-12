@@ -1,19 +1,33 @@
 {
- "actualizado": "2026-10-12T08:45:50Z",
+ "actualizado": "2026-10-12T09:45:22Z",
  "items": [
+  {
+   "t": "Los primeros directivos del sector petrolero se retiran de un congreso sobre energía tras los atentados de Riad",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-12/los-primeros-directivos-del-sector-petrolero-se-retiran-de-un-congreso-sobre-energia-tras-los-atentados-de-riad.html",
+   "f": "2026-10-12T09:28:43Z",
+   "c": "energia"
+  },
+  {
+   "t": "El Ibex sube un 1% mientras el mercado digiere las señales cruzadas del petróleo",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-12/la-bolsa-y-el-ibex-35.html",
+   "f": "2026-10-12T09:21:15Z",
+   "c": "energia"
+  },
+  {
+   "t": "Macron anuncia un acuerdo con Alemania para proteger la industria europea del automóvil",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/macron-anuncia-un-acuerdo-con-alemania-para-proteger-industria-europea-automovil_7047739_0.html",
+   "f": "2026-10-12T09:13:42Z",
+   "c": "transporte"
+  },
   {
    "t": "Las ventas del grupo Seat caen un 1,4% en los nueve primeros meses del año",
    "m": "La Vanguardia",
    "u": "https://www.lavanguardia.com/economia/20261012/11656900/ventas-grupo-seat-caen-1-4-mueve-primeros-meses-ano.html",
    "f": "2026-10-12T07:45:26Z",
    "c": "empresas"
-  },
-  {
-   "t": "El Ibex estrena la semana con ganancias mientras que el petróleo recorta un 1%",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-12/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-10-12T07:11:03Z",
-   "c": "energia"
   },
   {
    "t": "Guía para la jubilación: las cinco fórmulas para anticipar el retiro o compaginar salario y pensión",
@@ -42,20 +56,6 @@
    "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/vacuna-cancer-carrera-medicamento-mas-vendido-mundo_7047206_0.html",
    "f": "2026-10-12T05:36:06Z",
    "c": "general"
-  },
-  {
-   "t": "Illa aprieta a Moncloa para salvar la red eléctrica y la gigafactoría // Oliu: de Caixa a caja y sigo porque me toca",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261012/11656688/illa-aprieta-moncloa-salvar-red-electrica-gigafactoria-oliu-caixa-caja-sigo-me-toca.html",
-   "f": "2026-10-12T04:00:00Z",
-   "c": "energia"
-  },
-  {
-   "t": "Las viviendas en zonas inundables se devalúan un 8% desde la dana",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261012/11656632/viviendas-zonas-inundables-devaluan-8-dana.html",
-   "f": "2026-10-12T04:00:00Z",
-   "c": "vivienda"
   }
  ]
 }
