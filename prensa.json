@@ -1,6 +1,34 @@
 {
- "actualizado": "2026-10-12T15:43:39Z",
+ "actualizado": "2026-10-12T16:41:25Z",
  "items": [
+  {
+   "t": "Los inversores españoles suben su apuesta en Nvidia hasta los 4.500 millones en plena euforia de la IA",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-12/los-inversores-espanoles-suben-su-apuesta-en-nvidia-hasta-los-4500-millones-en-plena-euforia-de-la-ia.html",
+   "f": "2026-10-12T16:32:42Z",
+   "c": "tecnologia"
+  },
+  {
+   "t": "La UE importará como máximo 350.000 coches híbridos chinos al año",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-12/la-ue-importara-como-maximo-350000-coches-hibridos-chinos-al-ano.html",
+   "f": "2026-10-12T16:20:08Z",
+   "c": "transporte"
+  },
+  {
+   "t": "Un incendio en un AVE de Renfe interrumpe la circulación en la línea de alta velocidad Madrid-Barcelona",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-12/la-averia-de-un-tren-interrumpe-la-circulacion-en-la-linea-de-alta-velocidad-madrid-barcelona.html",
+   "f": "2026-10-12T15:45:10Z",
+   "c": "transporte"
+  },
+  {
+   "t": "El repunte del crudo y la fragilidad de la deuda ponen a prueba el optimismo bursátil",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-12/la-bolsa-y-el-ibex-35.html",
+   "f": "2026-10-12T15:44:36Z",
+   "c": "general"
+  },
   {
    "t": "Las ‘telecos’ europeas exigen a la UE la renovación de licencias para liberar 30.000 millones de euros",
    "m": "Cinco Días",
@@ -16,7 +44,7 @@
    "c": "general"
   },
   {
-   "t": "Seat alcanzará el máximo de capacidad de producción en Matorell el año que viene con 2.500 coches al día",
+   "t": "Seat alcanzará el máximo de capacidad de producción en Martorell el año que viene con 2.500 coches al día",
    "m": "20minutos",
    "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/seat-alcanzara-tope-produccion-matorell-ano-que-viene-con-2-500-coches-dia_7047835_0.html",
    "f": "2026-10-12T14:51:34Z",
@@ -27,34 +55,6 @@
    "m": "El País",
    "u": "https://elpais.com/economia/2026-10-12/los-cimientos-de-la-estabilidad.html",
    "f": "2026-10-12T14:25:05Z",
-   "c": "general"
-  },
-  {
-   "t": "El repunte del crudo y la fragilidad de la deuda ponen a prueba el optimismo bursátil",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-12/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-10-12T13:38:45Z",
-   "c": "general"
-  },
-  {
-   "t": "China inunda la principal cita del automóvil europeo con más modelos y cargas para eléctricos en cinco minutos",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-12/china-inunda-la-principal-cita-del-automovil-europeo-con-mas-modelos-y-cargas-para-electricos-en-cinco-minutos.html",
-   "f": "2026-10-12T12:55:29Z",
-   "c": "transporte"
-  },
-  {
-   "t": "España defiende mantener la ambición del mercado europeo de CO2 frente a las peticiones de flexibilizarlo",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/noticia-espana-defiende-mantener-ambicion-mercado-europeo-co2-frente-peticiones-flexibilizarlo-20261012144439.html",
-   "f": "2026-10-12T12:44:39Z",
-   "c": "general"
-  },
-  {
-   "t": "Michael Woodford y Robert E. Hall ganan el Nobel de Economía por sus propuestas para suavizar crisis y burbujas",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-12/premio-nobel-de-economia-2026-en-directo-para.html",
-   "f": "2026-10-12T12:03:27Z",
    "c": "general"
   }
  ]
