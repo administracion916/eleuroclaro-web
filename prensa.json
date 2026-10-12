@@ -1,8 +1,15 @@
 {
- "actualizado": "2026-10-12T18:46:26Z",
+ "actualizado": "2026-10-12T19:40:30Z",
  "items": [
   {
-   "t": "Un incendio en un AVE interrumpe la línea Madrid-Barcelona y deja parados a alrededor de 10.000 viajeros",
+   "t": "Renault pone en duda el futuro de la fábrica de Valladolid si siguen las ayudas a los coches chinos",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-12/provost-renault-espana-gasta-dinero-publico-en-financiar-hibridos-enchufables-importados-de-china-eso-no-es-justo.html",
+   "f": "2026-10-12T18:39:01Z",
+   "c": "transporte"
+  },
+  {
+   "t": "Un incendio en un AVE interrumpe la línea Madrid-Barcelona y deja parados a más de 11.000 viajeros",
    "m": "El País",
    "u": "https://elpais.com/economia/2026-10-12/la-averia-de-un-tren-interrumpe-la-circulacion-en-la-linea-de-alta-velocidad-madrid-barcelona.html",
    "f": "2026-10-12T18:22:55Z",
@@ -49,13 +56,6 @@
    "u": "https://elpais.com/economia/2026-10-12/la-ue-importara-como-maximo-350000-coches-hibridos-chinos-al-ano.html",
    "f": "2026-10-12T16:20:08Z",
    "c": "transporte"
-  },
-  {
-   "t": "El repunte del crudo y la fragilidad de la deuda ponen a prueba el optimismo bursátil",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-12/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-10-12T15:44:36Z",
-   "c": "general"
   }
  ]
 }
