@@ -1,19 +1,40 @@
 {
- "actualizado": "2026-10-13T13:50:16Z",
+ "actualizado": "2026-10-13T14:46:32Z",
  "items": [
+  {
+   "t": "Indra se adjudica un contrato de la Xunta de casi cinco millones para modernizar su administración de Justicia",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-13/indra-se-adjudica-un-contrato-de-la-xunta-de-casi-cinco-millones-para-modernizar-su-administracion-de-justicia.html",
+   "f": "2026-10-13T14:41:01Z",
+   "c": "empresas"
+  },
+  {
+   "t": "El supervisor de los futuros de EE UU entorpece la investigación de operaciones sospechosas con el petróleo",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-13/supervisores-del-mercado-de-materias-primas-de-ee-uu-reciben-la-orden-de-no-investigar-operaciones-sospechosas-con-el-petroleo.html",
+   "f": "2026-10-13T14:23:54Z",
+   "c": "energia"
+  },
+  {
+   "t": "Los sindicatos aprietan a Yolanda Díaz: exigen subir el salario mínimo a más de 1.300 euros antes de las elecciones",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/2026/10/13/6ace39dae5fdea596e8b4593.html",
+   "f": "2026-10-13T14:02:52Z",
+   "c": "empleo"
+  },
+  {
+   "t": "El abogado David Jiménez explica qué hacer cuando un heredero quiere vender y el otro no: \"Podéis hacer una extinción del condominio\"",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/abogado-david-jimenez-explica-que-hacer-heredero-quiere-vender-otro-no-podeis-hacer-extincion-condominio_7048233_0.html",
+   "f": "2026-10-13T13:45:11Z",
+   "c": "general"
+  },
   {
    "t": "Las Bolsas europeas suben pese a que se enfría el entusiasmo por la IA",
    "m": "Cinco Días",
    "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-13/la-bolsa-y-el-ibex-35.html",
    "f": "2026-10-13T13:41:15Z",
    "c": "tecnologia"
-  },
-  {
-   "t": "Los gestores de fondos eligen la Bolsa española como su mercado favorito en Europa",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-13/los-gestores-de-fondos-eligen-la-bolsa-espanola-como-su-mercado-favorito-en-europa.html",
-   "f": "2026-10-13T13:07:35Z",
-   "c": "empresas"
   },
   {
    "t": "Los autónomos entran en campaña y piden a los partidos cuota cero para las nuevas altas y exención de IVA para los que menos facturen",
@@ -35,27 +56,6 @@
    "u": "https://www.europapress.es/economia/fiscal-00347/noticia-hacienda-avisa-propuesta-vox-cargarse-irpf-tiene-coste-85000-millones-20261013141212.html",
    "f": "2026-10-13T12:12:12Z",
    "c": "impuestos"
-  },
-  {
-   "t": "Renault reducirá la producción europea en 300.000 unidades si Bruselas no cambia el objetivo de emisiones",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/renault-reducira-produccion-no-cambia-objetivo-emisiones_7048183_0.html",
-   "f": "2026-10-13T12:07:06Z",
-   "c": "comercio"
-  },
-  {
-   "t": "Berkeley se dispara un 100% en Bolsa desde la convocatoria electoral pese a tener bloqueada su mina de uranio",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-13/berkeley-se-dispara-un-100-en-bolsa-al-calor-de-las-elecciones-pese-a-tener-bloqueada-su-mina-de-uranio.html",
-   "f": "2026-10-13T11:42:47Z",
-   "c": "empresas"
-  },
-  {
-   "t": "Las ventas de BMW siguen cayendo por la baja demanda en el mercado chino",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/empresas/ventas-bmw-cayendo-baja-demanda-mercado-chino_7048096_0.html",
-   "f": "2026-10-13T11:25:27Z",
-   "c": "empresas"
   }
  ]
 }
