@@ -1,6 +1,34 @@
 {
- "actualizado": "2026-10-13T18:51:06Z",
+ "actualizado": "2026-10-13T22:51:40Z",
  "items": [
+  {
+   "t": "El primer año que afrontará el futuro Gobierno, según el FMI: desaceleración y alta inflación con estancamiento en el empleo y la renta per cápita",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/10/14/6ace6b7fe85eceb2298b459c.html",
+   "f": "2026-10-13T22:05:36Z",
+   "c": "precios"
+  },
+  {
+   "t": "Hoja de ruta para revertir la crisis de vivienda: ¿Cuánto tiempo es necesario para resolver el problema?",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/vivienda/2026/10/14/6ace0ae2e85ece29348b45a6.html",
+   "f": "2026-10-13T22:05:34Z",
+   "c": "vivienda"
+  },
+  {
+   "t": "Los empresarios se rebelan contra la subida del salario mínimo del 7% que exigen los sindicatos: \"Es electoralista y una aberración\"",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/10/14/6ace3d4921efa0e8568b4595.html",
+   "f": "2026-10-13T22:05:33Z",
+   "c": "empleo"
+  },
+  {
+   "t": "Las empresas españolas, rezagadas en inversión en formación de las plantillas",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261014/11658170/empresas-espanolas-rezagadas-inversion-formacion-plantillas.html",
+   "f": "2026-10-13T22:05:00Z",
+   "c": "empresas"
+  },
   {
    "t": "Cuerpo apadrina la nueva red de economistas progresistas: “Una economía desigual es una economía lastrada”",
    "m": "El País",
@@ -28,34 +56,6 @@
    "u": "https://www.lavanguardia.com/economia/20261013/11658160/bbva-reinicia-recompras-acciones-1-000-millones-retribuir-accionistas.html",
    "f": "2026-10-13T17:40:29Z",
    "c": "bancos"
-  },
-  {
-   "t": "Getty Images anuncia que se declarará en bancarrota y que saldrá de la Bolsa",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-13/getty-images-anuncia-que-se-declarara-en-bancarrota-y-que-saldra-de-la-bolsa.html",
-   "f": "2026-10-13T17:17:24Z",
-   "c": "empresas"
-  },
-  {
-   "t": "El Gobierno modifica por la vía de urgencia los estatutos del ICO para adaptarlos al fondo España Crece",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-13/el-gobierno-modifica-por-la-via-de-urgencia-los-estatutos-del-ico-para-adaptarlos-al-fondo-espana-crece.html",
-   "f": "2026-10-13T17:05:32Z",
-   "c": "general"
-  },
-  {
-   "t": "Red Eléctrica niega que los servicios de ajuste sean sobrecostes del sistema",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-13/red-electrica-niega-que-los-servicios-de-ajuste-sean-sobrecostes-del-sistema.html",
-   "f": "2026-10-13T17:00:58Z",
-   "c": "energia"
-  },
-  {
-   "t": "Ithaca Holdings ultima la compra de Bumble tras el fracaso de su 'app' de citas",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261013/11658088/ithaca-holdings-ultima-compra-bumble-fracaso-apps-citas.html",
-   "f": "2026-10-13T16:55:14Z",
-   "c": "general"
   }
  ]
 }
