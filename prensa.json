@@ -1,6 +1,20 @@
 {
- "actualizado": "2026-10-13T05:09:12Z",
+ "actualizado": "2026-10-13T05:42:47Z",
  "items": [
+  {
+   "t": "El FMI mejora el PIB de España al 2,5% este año, pero alerta de la abultada inflación",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/2026/10/13/6accc9e8e5fdeaee188b4597.html",
+   "f": "2026-10-13T05:34:36Z",
+   "c": "precios"
+  },
+  {
+   "t": "El FMI mejora su previsión de crecimiento mundial gracias al boom de la IA pero advierte del peligro del coste de la deuda y los ciberataques",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/macroeconomia/2026/10/13/6acdbe68fdddffad438b4574.html",
+   "f": "2026-10-13T05:16:41Z",
+   "c": "economia"
+  },
   {
    "t": "Pesimismo en las Bolsas al enfriarse el entusiasmo por la IA",
    "m": "Cinco Días",
@@ -42,20 +56,6 @@
    "u": "https://elpais.com/economia/2026-10-13/lupa-sobre-el-carrito-del-super-la-cnmc-se-prepara-para-vigilar-el-precio-de-los-alimentos.html",
    "f": "2026-10-13T03:45:01Z",
    "c": "precios"
-  },
-  {
-   "t": "Más de setenta economistas progresistas crean una alianza para promover un reparto más justo de la riqueza",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-13/mas-de-setenta-economistas-progresistas-crean-una-alianza-para-promover-un-reparto-mas-justo-de-la-riqueza.html",
-   "f": "2026-10-13T03:45:01Z",
-   "c": "general"
-  },
-  {
-   "t": "El Gobierno prevé que la cuenta Financia Europa eleve la recaudación de impuestos",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-13/el-gobierno-preve-que-la-cuenta-financia-europa-eleve-la-recaudacion-de-impuestos.html",
-   "f": "2026-10-13T03:30:01Z",
-   "c": "impuestos"
   }
  ]
 }
