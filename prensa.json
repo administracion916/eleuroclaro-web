@@ -1,26 +1,40 @@
 {
- "actualizado": "2026-10-13T15:44:26Z",
+ "actualizado": "2026-10-13T16:43:57Z",
  "items": [
   {
-   "t": "El Gobierno autoriza la construcción de ocho nuevas áreas de servicio con recarga ultrarrápida para coches eléctricos",
+   "t": "Berkeley se dispara un 70% en Bolsa desde la convocatoria electoral pese a tener bloqueada su mina de uranio",
    "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-13/el-gobierno-autoriza-la-construccion-de-ocho-nuevas-areas-de-servicio-con-recarga-ultrarrapida-para-coches-electricos.html",
-   "f": "2026-10-13T15:31:14Z",
-   "c": "transporte"
-  },
-  {
-   "t": "Fossa prevé alcanzar los 140 satélites en órbita baja en los próximos dos años",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-13/fossa-preve-alcanzar-los-140-satelites-en-orbita-baja-en-los-proximos-dos-anos.html",
-   "f": "2026-10-13T15:21:35Z",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-13/berkeley-se-dispara-un-100-en-bolsa-al-calor-de-las-elecciones-pese-a-tener-bloqueada-su-mina-de-uranio.html",
+   "f": "2026-10-13T16:17:02Z",
    "c": "empresas"
   },
   {
-   "t": "Indra se adjudica un contrato de la Xunta de casi cinco millones para modernizar su administración de Justicia",
+   "t": "El Ibex 35 cede un 0,4% y posterga su recuperación ante el inicio de la temporada de resultados en EEUU",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/bolsa-00348/noticia-ibex-35-cede-04-posterga-recuperacion-inicio-temporada-resultados-eeuu-20261013180653.html",
+   "f": "2026-10-13T16:06:53Z",
+   "c": "comercio"
+  },
+  {
+   "t": "Las Bolsas europeas pinchan ante el frenazo del entusiasmo por la IA",
    "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-13/indra-se-adjudica-un-contrato-de-la-xunta-de-casi-cinco-millones-para-modernizar-su-administracion-de-justicia.html",
-   "f": "2026-10-13T14:41:01Z",
-   "c": "empresas"
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-13/la-bolsa-y-el-ibex-35.html",
+   "f": "2026-10-13T15:53:01Z",
+   "c": "tecnologia"
+  },
+  {
+   "t": "El francés BPCE compró la mayor parte de su participación en el Sabadell con derivados",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-13/el-frances-bpce-compro-la-mayor-parte-de-su-participacion-en-el-sabadell-con-derivados.html",
+   "f": "2026-10-13T15:41:32Z",
+   "c": "bancos"
+  },
+  {
+   "t": "El principal sindicato de El Corte Inglés plantea una subida de hasta un 18% en el nuevo Convenio de Grandes Almacenes",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/principal-sindicato-corte-ingles-plantea-una-subida-hasta-un-18-nuevo-convenio-grandes-almacenes_7048207_0.html",
+   "f": "2026-10-13T15:33:48Z",
+   "c": "empleo"
   },
   {
    "t": "Los sindicatos aprietan a Yolanda Díaz: exigen subir el salario mínimo a más de 1.300 euros antes de las elecciones",
@@ -42,20 +56,6 @@
    "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/los-autonomos-entran-campana-piden-los-partidos-cuota-cero-para-las-nuevas-altas-exencion-iva-para-los-que-menos-facturen_7048212_0.html",
    "f": "2026-10-13T13:05:13Z",
    "c": "empleo"
-  },
-  {
-   "t": "El coche chino refuerza su dominio comercial en Europa con el híbrido enchufable disparado",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261013/11657812/coche-chino-refuerza-dominio-comercial-europa-hibrido-enchufable-disparado.html",
-   "f": "2026-10-13T12:14:14Z",
-   "c": "transporte"
-  },
-  {
-   "t": "Hacienda avisa de que la propuesta de Vox de \"cargarse el IRPF\" tiene un coste de 85.000 millones",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/fiscal-00347/noticia-hacienda-avisa-propuesta-vox-cargarse-irpf-tiene-coste-85000-millones-20261013141212.html",
-   "f": "2026-10-13T12:12:12Z",
-   "c": "impuestos"
   }
  ]
 }
