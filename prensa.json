@@ -1,61 +1,61 @@
 {
- "actualizado": "2026-10-13T08:45:05Z",
+ "actualizado": "2026-10-13T09:43:03Z",
  "items": [
+  {
+   "t": "El BOE publica el calendario laboral de 2027: días festivos, fines de semana largos y puentes de todo el año",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/2026/10/13/6acdd8ae468aeb73758b45a3.html",
+   "f": "2026-10-13T09:33:31Z",
+   "c": "general"
+  },
+  {
+   "t": "ASAJA denuncia la muerte de cinco reses en 12 días por ataques de lobo en un pueblo de Ávila",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/10/13/6acdf8d2e4d4d88b1e8b458b.html",
+   "f": "2026-10-13T09:33:29Z",
+   "c": "general"
+  },
+  {
+   "t": "La ley lo confirma: los inquilinos podrán reparar desperfectos y descontarlo del coste del alquiler",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/10/13/6acdf0a8e85ece26218b4578.html",
+   "f": "2026-10-13T09:33:15Z",
+   "c": "vivienda"
+  },
+  {
+   "t": "Cinco Días celebra la tercera edición del foro CREO con los ministros Yolanda Díaz, Óscar López, Sara Aagesen, Arcadi España, Jordi Hereu, Pablo Bustinduy y…",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/economia/foro-creo-creando-oportunidades/2026-10-13/cinco-dias-celebra-la-tercera-edicion-del-foro-creo-con-los-ministros-yolanda-diaz-oscar-lopez-sara-aagesen-arcadi-espana-jordi-hereu-pablo-bustinduy-y-elma-saiz.html",
+   "f": "2026-10-13T09:33:06Z",
+   "c": "general"
+  },
+  {
+   "t": "Nuevo castigo bursátil a las acciones ligadas a la IA en Asia",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261013/11657607/nuevo-castigo-bursatil-acciones-ligadas-ia-asia.html",
+   "f": "2026-10-13T09:03:22Z",
+   "c": "tecnologia"
+  },
+  {
+   "t": "Moeve y Enso se alían para acelerar la descarbonización industrial mediante biomasa y gases renovables",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-13/moeve-y-enso-se-alian-para-acelerar-la-descarbonizacion-industrial-mediante-biomasa-y-gases-renovables.html",
+   "f": "2026-10-13T08:58:18Z",
+   "c": "energia"
+  },
+  {
+   "t": "Mueren 498 trabajadores en accidente laboral hasta agosto, nueve más que en 2025",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/laboral-00346/noticia-mueren-498-trabajadores-accidente-laboral-agosto-nueve-mas-2025-20261013103607.html",
+   "f": "2026-10-13T08:36:07Z",
+   "c": "empleo"
+  },
   {
    "t": "La creación de empresas sube un 5,7% en su mejor agosto en 19 años",
    "m": "Expansión",
    "u": "https://www.expansion.com/economia/2026/10/13/6acdec76468aebdf418b457d.html",
    "f": "2026-10-13T08:31:51Z",
    "c": "empresas"
-  },
-  {
-   "t": "El aceite español, gran ganador de la rebaja arancelaria pactada entre China y la UE",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/macroeconomia/2026/10/13/6acdeb4ee9cf4ab0238b45a2.html",
-   "f": "2026-10-13T08:30:21Z",
-   "c": "precios"
-  },
-  {
-   "t": "La dueña de Fábrica de Municiones de Granada entra en el sector espacial con una participación mayoritaria en MDA Space",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-13/la-duena-de-fabrica-de-municiones-de-granada-entra-en-el-sector-espacial-con-una-participacion-mayoritaria-en-mda-space.html",
-   "f": "2026-10-13T08:20:43Z",
-   "c": "empresas"
-  },
-  {
-   "t": "Las Bolsas europeas suben pese a que se enfría el entusiasmo por la IA",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-13/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-10-13T08:10:31Z",
-   "c": "tecnologia"
-  },
-  {
-   "t": "Las agencias inmobiliarias avisan: retirada de anuncios de alquiler y freno a contratos tras los decretos",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/construccion-y-vivienda-00342/noticia-agencias-inmobiliarias-avisan-retirada-anuncios-alquiler-freno-contratos-decretos-20261013100948.html",
-   "f": "2026-10-13T08:09:48Z",
-   "c": "vivienda"
-  },
-  {
-   "t": "La OCU denuncia a Engel & Völkers por cobrar a los inquilinos comisiones de gestión inmobiliaria",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/construccion-y-vivienda-00342/noticia-ocu-denuncia-engel-volkers-cobrar-inquilinos-comisiones-gestion-inmobiliaria-20261013100627.html",
-   "f": "2026-10-13T08:06:27Z",
-   "c": "vivienda"
-  },
-  {
-   "t": "Publicado el calendario laboral con los festivos del 2027: ¿cuándo habrá puente?",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261013/11657564/calendario-laboral-festivos-fiesta-puente-espana-cataluna.html",
-   "f": "2026-10-13T08:05:58Z",
-   "c": "general"
-  },
-  {
-   "t": "Calendario laboral 2027: días festivos, fines de semana largos y puentes de todo el año",
-   "m": "Expansión",
-   "u": "https://www.expansion.com/economia/2026/10/13/6acdd8ae468aeb73758b45a3.html",
-   "f": "2026-10-13T08:04:45Z",
-   "c": "general"
   }
  ]
 }
