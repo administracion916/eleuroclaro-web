@@ -1,6 +1,34 @@
 {
- "actualizado": "2026-10-13T17:41:29Z",
+ "actualizado": "2026-10-13T18:51:06Z",
  "items": [
+  {
+   "t": "Cuerpo apadrina la nueva red de economistas progresistas: “Una economía desigual es una economía lastrada”",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-13/cuerpo-apadrina-la-nueva-red-de-economistas-progresistas-una-economia-desigual-es-una-economia-lastrada.html",
+   "f": "2026-10-13T18:28:58Z",
+   "c": "general"
+  },
+  {
+   "t": "Las Bolsas europeas pinchan ante el frenazo del entusiasmo por la IA",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-13/la-bolsa-y-el-ibex-35.html",
+   "f": "2026-10-13T18:26:39Z",
+   "c": "tecnologia"
+  },
+  {
+   "t": "España, contra la idea irlandesa de recortar el futuro presupuesto de la UE",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261013/11658171/espana-idea-irlandesa-recortar-futuro-presupuesto-ue.html",
+   "f": "2026-10-13T17:58:49Z",
+   "c": "comercio"
+  },
+  {
+   "t": "BBVA reinicia las recompras de acciones por 1.000 millones para retribuir a los accionistas",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261013/11658160/bbva-reinicia-recompras-acciones-1-000-millones-retribuir-accionistas.html",
+   "f": "2026-10-13T17:40:29Z",
+   "c": "bancos"
+  },
   {
    "t": "Getty Images anuncia que se declarará en bancarrota y que saldrá de la Bolsa",
    "m": "Cinco Días",
@@ -28,34 +56,6 @@
    "u": "https://www.lavanguardia.com/economia/20261013/11658088/ithaca-holdings-ultima-compra-bumble-fracaso-apps-citas.html",
    "f": "2026-10-13T16:55:14Z",
    "c": "general"
-  },
-  {
-   "t": "Los beneficios de Johnson & Johnson caen un 96% por el litigio de los polvos de talco, pero sus ventas aumentan",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-13/los-beneficios-de-johnson-johnson-caen-un-96-por-el-litigio-de-los-polvos-de-talco-pero-sus-ventas-aumentan.html",
-   "f": "2026-10-13T16:39:33Z",
-   "c": "empresas"
-  },
-  {
-   "t": "El Ibex 35 cede un 0,4% y posterga su recuperación ante el inicio de la temporada de resultados en EEUU",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/bolsa-00348/noticia-ibex-35-cede-04-posterga-recuperacion-inicio-temporada-resultados-eeuu-20261013180653.html",
-   "f": "2026-10-13T16:06:53Z",
-   "c": "comercio"
-  },
-  {
-   "t": "El principal sindicato de El Corte Inglés plantea una subida de hasta un 18% en el nuevo Convenio de Grandes Almacenes",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/principal-sindicato-corte-ingles-plantea-una-subida-hasta-un-18-nuevo-convenio-grandes-almacenes_7048207_0.html",
-   "f": "2026-10-13T15:33:48Z",
-   "c": "empleo"
-  },
-  {
-   "t": "El supervisor de los futuros de EE UU entorpece la investigación de operaciones sospechosas con el petróleo",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-13/el-supervisor-de-los-futuros-de-ee-uu-entorpece-la-investigacion-de-operaciones-sospechosas-con-el-petroleo.html",
-   "f": "2026-10-13T14:23:54Z",
-   "c": "energia"
   }
  ]
 }
