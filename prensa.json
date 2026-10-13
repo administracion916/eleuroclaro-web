@@ -1,6 +1,48 @@
 {
- "actualizado": "2026-10-13T05:42:47Z",
+ "actualizado": "2026-10-13T06:52:38Z",
  "items": [
+  {
+   "t": "El BOE publica el calendario laboral de 2027, con 9 festivos comunes para toda España",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/laboral-00346/noticia-boe-publica-calendario-laboral-2027-festivos-comunes-toda-espana-20261013084034.html",
+   "f": "2026-10-13T06:40:34Z",
+   "c": "general"
+  },
+  {
+   "t": "La alta velocidad entre Madrid y Barcelona inicia la jornada con demoras y suspensiones por el tren incendiado ayer",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-13/la-alta-velocidad-entre-madrid-y-barcelona-inicia-la-jornada-con-demoras-y-suspensiones-por-el-tren-incendiado-ayer.html",
+   "f": "2026-10-13T06:32:38Z",
+   "c": "pensiones"
+  },
+  {
+   "t": "Los nueve cambios para la jubilación en 2027, según el abogado laboralista Ignacio Solsona",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/cambios-jubilacion-ignacio-solsona-abogado-laboralista_7046207_0.html",
+   "f": "2026-10-13T06:29:24Z",
+   "c": "pensiones"
+  },
+  {
+   "t": "Alteraciones y demoras en trenes de la línea Madrid-Barcelona, que se vio interrumpida por un incendio en una cabina",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/transportes-00343/noticia-alteraciones-demoras-salidas-llegadas-algunos-trenes-linea-madrid-barcelona-20261013080904.html",
+   "f": "2026-10-13T06:09:04Z",
+   "c": "transporte"
+  },
+  {
+   "t": "El precio del petróleo cae hasta los 105 dólares tras el acuerdo entre Trump y Putin sobre el diésel ruso",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/energia-00341/noticia-precio-petroleo-cae-105-dolares-acuerdo-trump-putin-diesel-ruso-20261013075459.html",
+   "f": "2026-10-13T05:54:59Z",
+   "c": "energia"
+  },
+  {
+   "t": "Retrasos y alteraciones en la salida y llegada de Alta Velocidad por el incendio que afectó este domingo a un tren en Zaragoza y que ha perjudicado a casi…",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/10/13/6acdbe35e85ecee2188b458a.html",
+   "f": "2026-10-13T05:47:02Z",
+   "c": "transporte"
+  },
   {
    "t": "El FMI mejora el PIB de España al 2,5% este año, pero alerta de la abultada inflación",
    "m": "Expansión",
@@ -9,53 +51,11 @@
    "c": "precios"
   },
   {
-   "t": "El FMI mejora su previsión de crecimiento mundial gracias al boom de la IA pero advierte del peligro del coste de la deuda y los ciberataques",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/macroeconomia/2026/10/13/6acdbe68fdddffad438b4574.html",
-   "f": "2026-10-13T05:16:41Z",
+   "t": "El FMI sube al 2,5 % el crecimiento previsto para España en 2026, más del doble que la eurozona",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/fmi-sube-2-5-crecimiento-previsto-para-espana-2026-mas-doble-que-eurozona_7047923_0.html",
+   "f": "2026-10-13T05:27:50Z",
    "c": "economia"
-  },
-  {
-   "t": "Pesimismo en las Bolsas al enfriarse el entusiasmo por la IA",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-13/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-10-13T04:38:37Z",
-   "c": "tecnologia"
-  },
-  {
-   "t": "El FMI prevé que la inflación en Estados Unidos repunte en 2026 antes de moderarse el próximo año",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-13/el-fmi-preve-que-la-inflacion-en-estados-unidos-repunte-en-2026-antes-de-moderarse-el-proximo-ano.html",
-   "f": "2026-10-13T04:00:00Z",
-   "c": "precios"
-  },
-  {
-   "t": "Suelos vacíos que agravan la crisis de vivienda",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261013/11657252/suelos-vacios-agravan-crisis-vivienda.html",
-   "f": "2026-10-13T04:00:00Z",
-   "c": "vivienda"
-  },
-  {
-   "t": "¿Facturar 100 millones con solo 45 empleados? Ya está pasando",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261013/11657131/ia-empresas-inteligencia-artificial-pablo-foncillas-pf-video-seo-lv.html",
-   "f": "2026-10-13T04:00:00Z",
-   "c": "empresas"
-  },
-  {
-   "t": "Cómo incorporar la inteligencia artificial en el trabajo con criterio",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261013/11652636/como-incorporar-inteligencia-artificial-trabajo-criterio-brl.html",
-   "f": "2026-10-13T03:55:00Z",
-   "c": "tecnologia"
-  },
-  {
-   "t": "Lupa sobre el carrito del súper: la CNMC se prepara para vigilar el precio de los alimentos",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-13/lupa-sobre-el-carrito-del-super-la-cnmc-se-prepara-para-vigilar-el-precio-de-los-alimentos.html",
-   "f": "2026-10-13T03:45:01Z",
-   "c": "precios"
   }
  ]
 }
