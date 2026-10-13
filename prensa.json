@@ -1,61 +1,61 @@
 {
- "actualizado": "2026-10-12T22:40:10Z",
+ "actualizado": "2026-10-13T05:09:12Z",
  "items": [
   {
-   "t": "Viena, un siglo construyendo una solución a la vivienda",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/vivienda/2026/10/13/6acd07cbfc6c832d308b4590.html",
-   "f": "2026-10-12T22:01:27Z",
+   "t": "Pesimismo en las Bolsas al enfriarse el entusiasmo por la IA",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-13/la-bolsa-y-el-ibex-35.html",
+   "f": "2026-10-13T04:38:37Z",
+   "c": "tecnologia"
+  },
+  {
+   "t": "El FMI prevé que la inflación en Estados Unidos repunte en 2026 antes de moderarse el próximo año",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-13/el-fmi-preve-que-la-inflacion-en-estados-unidos-repunte-en-2026-antes-de-moderarse-el-proximo-ano.html",
+   "f": "2026-10-13T04:00:00Z",
+   "c": "precios"
+  },
+  {
+   "t": "Suelos vacíos que agravan la crisis de vivienda",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261013/11657252/suelos-vacios-agravan-crisis-vivienda.html",
+   "f": "2026-10-13T04:00:00Z",
    "c": "vivienda"
   },
   {
-   "t": "El Gobierno cambia de fórmula para aprobar sin pasar por el Congreso el decreto del IVA de RTVE",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/empresas/2026/10/12/6ac92575e4d4d85f2e8b458a.html",
-   "f": "2026-10-12T20:41:49Z",
-   "c": "impuestos"
+   "t": "¿Facturar 100 millones con solo 45 empleados? Ya está pasando",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261013/11657131/ia-empresas-inteligencia-artificial-pablo-foncillas-pf-video-seo-lv.html",
+   "f": "2026-10-13T04:00:00Z",
+   "c": "empresas"
   },
   {
-   "t": "¡Que viene el lobo! La próxima crisis de deuda soberana pilla a los bancos 'cargados' de deuda pública",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/dinero-inversion/2026/10/12/6ac8b19cfdddff18508b458f.html",
-   "f": "2026-10-12T20:41:16Z",
-   "c": "impuestos"
+   "t": "Cómo incorporar la inteligencia artificial en el trabajo con criterio",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261013/11652636/como-incorporar-inteligencia-artificial-trabajo-criterio-brl.html",
+   "f": "2026-10-13T03:55:00Z",
+   "c": "tecnologia"
   },
   {
-   "t": "El alza del crudo y la fragilidad de la deuda dañan el optimismo bursátil, y Wall Street cierra con pérdidas",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-12/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-10-12T20:03:14Z",
-   "c": "general"
-  },
-  {
-   "t": "Renault pone en duda el futuro de la fábrica de Valladolid si siguen las ayudas a los coches chinos",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-12/provost-renault-espana-gasta-dinero-publico-en-financiar-hibridos-enchufables-importados-de-china-eso-no-es-justo.html",
-   "f": "2026-10-12T18:39:01Z",
-   "c": "transporte"
-  },
-  {
-   "t": "Un incendio en un AVE interrumpe la línea Madrid-Barcelona y altera los planes de viaje de 19.500 viajeros",
+   "t": "Lupa sobre el carrito del súper: la CNMC se prepara para vigilar el precio de los alimentos",
    "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-12/la-averia-de-un-tren-interrumpe-la-circulacion-en-la-linea-de-alta-velocidad-madrid-barcelona.html",
-   "f": "2026-10-12T18:22:55Z",
-   "c": "transporte"
+   "u": "https://elpais.com/economia/2026-10-13/lupa-sobre-el-carrito-del-super-la-cnmc-se-prepara-para-vigilar-el-precio-de-los-alimentos.html",
+   "f": "2026-10-13T03:45:01Z",
+   "c": "precios"
   },
   {
-   "t": "Seat liga la continuidad de la marca a la legislación europea sobre emisiones",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261012/11657269/seat-marca-cupra-futuro-legislacion-europa-emisiones.html",
-   "f": "2026-10-12T18:11:23Z",
+   "t": "Más de setenta economistas progresistas crean una alianza para promover un reparto más justo de la riqueza",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-13/mas-de-setenta-economistas-progresistas-crean-una-alianza-para-promover-un-reparto-mas-justo-de-la-riqueza.html",
+   "f": "2026-10-13T03:45:01Z",
    "c": "general"
   },
   {
-   "t": "Rechazo de Bruselas al recorte de Irlanda sobre el futuro presupuesto europeo",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261012/11657261/rechazo-bruselas-recorte-irlanda-sobre-futuro-presupuesto-europeo.html",
-   "f": "2026-10-12T17:38:33Z",
-   "c": "comercio"
+   "t": "El Gobierno prevé que la cuenta Financia Europa eleve la recaudación de impuestos",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-13/el-gobierno-preve-que-la-cuenta-financia-europa-eleve-la-recaudacion-de-impuestos.html",
+   "f": "2026-10-13T03:30:01Z",
+   "c": "impuestos"
   }
  ]
 }
