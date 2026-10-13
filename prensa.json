@@ -1,61 +1,61 @@
 {
- "actualizado": "2026-10-13T06:52:38Z",
+ "actualizado": "2026-10-13T07:45:39Z",
  "items": [
   {
-   "t": "El BOE publica el calendario laboral de 2027, con 9 festivos comunes para toda España",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/laboral-00346/noticia-boe-publica-calendario-laboral-2027-festivos-comunes-toda-espana-20261013084034.html",
-   "f": "2026-10-13T06:40:34Z",
+   "t": "Las Bolsas europeas suben pese a que se enfría el entusiasmo por la IA",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-13/la-bolsa-y-el-ibex-35.html",
+   "f": "2026-10-13T07:33:43Z",
+   "c": "tecnologia"
+  },
+  {
+   "t": "El calendario laboral de 2027 en España: nueve festivos comunes y cuatro fines de semana largos",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/10/13/6acdd7edfdddffec208b4581.html",
+   "f": "2026-10-13T07:33:16Z",
    "c": "general"
   },
   {
-   "t": "La alta velocidad entre Madrid y Barcelona inicia la jornada con demoras y suspensiones por el tren incendiado ayer",
+   "t": "Elon Musk dona 276 millones de dólares a los republicanos para la campaña de mitad de mandato de Estados Unidos",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/10/13/6acdde7ce4d4d810698b4589.html",
+   "f": "2026-10-13T07:32:18Z",
+   "c": "comercio"
+  },
+  {
+   "t": "La creación de empresas registra su mejor agosto en 19 años, con 7.526 nuevas sociedades, un 5,7% más",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/noticia-creacion-empresas-registra-mejor-agosto-19-anos-7526-nuevas-sociedades-57-mas-20261013092016.html",
+   "f": "2026-10-13T07:20:16Z",
+   "c": "empresas"
+  },
+  {
+   "t": "La alta velocidad Madrid-Barcelona sigue afectada tras el incendio: Renfe maniobra para reducir las demoras y cancela trayectos con Navarra",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/empresas/2026/10/13/6acdd5c9e9cf4a4a5c8b4575.html",
+   "f": "2026-10-13T07:14:48Z",
+   "c": "transporte"
+  },
+  {
+   "t": "El Ibex 35 abre con un alza del 0,3% y supera los 19.300 puntos, con el petróleo bajando a 105 dólares",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/bolsa-00348/noticia-ibex-35-abre-alza-03-supera-19300-puntos-petroleo-bajando-105-dolares-20261013091428.html",
+   "f": "2026-10-13T07:14:28Z",
+   "c": "energia"
+  },
+  {
+   "t": "La checa CSG entra en el sector espacial tras comprar una participación mayoritaria del 9,5% en MDA Space",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/noticia-checa-csg-entra-sector-espacial-comprar-participacion-mayoritaria-95-mda-space-20261013084917.html",
+   "f": "2026-10-13T06:49:17Z",
+   "c": "general"
+  },
+  {
+   "t": "La alta velocidad entre Madrid y Barcelona sufre demoras y suspensiones por el tren incendiado ayer",
    "m": "El País",
    "u": "https://elpais.com/economia/2026-10-13/la-alta-velocidad-entre-madrid-y-barcelona-inicia-la-jornada-con-demoras-y-suspensiones-por-el-tren-incendiado-ayer.html",
    "f": "2026-10-13T06:32:38Z",
    "c": "pensiones"
-  },
-  {
-   "t": "Los nueve cambios para la jubilación en 2027, según el abogado laboralista Ignacio Solsona",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/cambios-jubilacion-ignacio-solsona-abogado-laboralista_7046207_0.html",
-   "f": "2026-10-13T06:29:24Z",
-   "c": "pensiones"
-  },
-  {
-   "t": "Alteraciones y demoras en trenes de la línea Madrid-Barcelona, que se vio interrumpida por un incendio en una cabina",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/transportes-00343/noticia-alteraciones-demoras-salidas-llegadas-algunos-trenes-linea-madrid-barcelona-20261013080904.html",
-   "f": "2026-10-13T06:09:04Z",
-   "c": "transporte"
-  },
-  {
-   "t": "El precio del petróleo cae hasta los 105 dólares tras el acuerdo entre Trump y Putin sobre el diésel ruso",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/energia-00341/noticia-precio-petroleo-cae-105-dolares-acuerdo-trump-putin-diesel-ruso-20261013075459.html",
-   "f": "2026-10-13T05:54:59Z",
-   "c": "energia"
-  },
-  {
-   "t": "Retrasos y alteraciones en la salida y llegada de Alta Velocidad por el incendio que afectó este domingo a un tren en Zaragoza y que ha perjudicado a casi…",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/10/13/6acdbe35e85ecee2188b458a.html",
-   "f": "2026-10-13T05:47:02Z",
-   "c": "transporte"
-  },
-  {
-   "t": "El FMI mejora el PIB de España al 2,5% este año, pero alerta de la abultada inflación",
-   "m": "Expansión",
-   "u": "https://www.expansion.com/economia/2026/10/13/6accc9e8e5fdeaee188b4597.html",
-   "f": "2026-10-13T05:34:36Z",
-   "c": "precios"
-  },
-  {
-   "t": "El FMI sube al 2,5 % el crecimiento previsto para España en 2026, más del doble que la eurozona",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/fmi-sube-2-5-crecimiento-previsto-para-espana-2026-mas-doble-que-eurozona_7047923_0.html",
-   "f": "2026-10-13T05:27:50Z",
-   "c": "economia"
   }
  ]
 }
