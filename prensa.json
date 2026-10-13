@@ -1,6 +1,34 @@
 {
- "actualizado": "2026-10-13T11:42:35Z",
+ "actualizado": "2026-10-13T12:52:47Z",
  "items": [
+  {
+   "t": "El coche chino refuerza su dominio comercial en Europa con el híbrido enchufable disparado",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261013/11657812/coche-chino-refuerza-dominio-comercial-europa-hibrido-enchufable-disparado.html",
+   "f": "2026-10-13T12:14:14Z",
+   "c": "transporte"
+  },
+  {
+   "t": "Hacienda avisa de que la propuesta de Vox de \"cargarse el IRPF\" tiene un coste de 85.000 millones",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/fiscal-00347/noticia-hacienda-avisa-propuesta-vox-cargarse-irpf-tiene-coste-85000-millones-20261013141212.html",
+   "f": "2026-10-13T12:12:12Z",
+   "c": "impuestos"
+  },
+  {
+   "t": "Renault reducirá la producción europea en 300.000 unidades si Bruselas no cambia el objetivo de emisiones",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/renault-reducira-produccion-no-cambia-objetivo-emisiones_7048183_0.html",
+   "f": "2026-10-13T12:07:06Z",
+   "c": "comercio"
+  },
+  {
+   "t": "Berkeley se dispara un 100% en Bolsa desde la convocatoria electoral pese a tener bloqueada su mina de uranio",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-13/berkeley-se-dispara-un-100-en-bolsa-al-calor-de-las-elecciones-pese-a-tener-bloqueada-su-mina-de-uranio.html",
+   "f": "2026-10-13T11:42:47Z",
+   "c": "empresas"
+  },
   {
    "t": "Las ventas de BMW siguen cayendo por la baja demanda en el mercado chino",
    "m": "20minutos",
@@ -28,34 +56,6 @@
    "u": "https://www.elmundo.es/economia/2026/10/13/6acc80d2e85ece7e318b4577.html",
    "f": "2026-10-13T11:18:52Z",
    "c": "precios"
-  },
-  {
-   "t": "Aena creció en tráfico en España un 4,2% en septiembre, hasta 31,7 millones de viajeros",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-13/aena-crecio-en-trafico-en-espana-un-42-en-septiembre-hasta-317-millones-de-viajeros.html",
-   "f": "2026-10-13T11:16:42Z",
-   "c": "transporte"
-  },
-  {
-   "t": "Los consumidores avisan a Cuerpo y Escrivá de que el euro digital protege menos del fraude",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261013/11657810/consumidores-avisan-cuerpo-escriva-euro-digital-protege-fraude.html",
-   "f": "2026-10-13T11:04:34Z",
-   "c": "precios"
-  },
-  {
-   "t": "El sindicato mayoritario en El Corte Inglés pide una subida salarial del 18% en grandes almacenes",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-13/el-sindicato-mayoritario-en-la-patronal-de-el-corte-ingles-e-ikea-pide-una-subida-salarial-del-18.html",
-   "f": "2026-10-13T11:00:38Z",
-   "c": "empleo"
-  },
-  {
-   "t": "Euríbor hoy, martes 13 de octubre: se recupera y sigue la tendencia al alza",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/10/13/6ac4cdb4e85ece55658b458f.html",
-   "f": "2026-10-13T10:53:49Z",
-   "c": "tipos"
   }
  ]
 }
