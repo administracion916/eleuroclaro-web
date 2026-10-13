@@ -1,11 +1,39 @@
 {
- "actualizado": "2026-10-13T16:43:57Z",
+ "actualizado": "2026-10-13T17:41:29Z",
  "items": [
   {
-   "t": "Berkeley se dispara un 70% en Bolsa desde la convocatoria electoral pese a tener bloqueada su mina de uranio",
+   "t": "Getty Images anuncia que se declarará en bancarrota y que saldrá de la Bolsa",
    "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-13/berkeley-se-dispara-un-100-en-bolsa-al-calor-de-las-elecciones-pese-a-tener-bloqueada-su-mina-de-uranio.html",
-   "f": "2026-10-13T16:17:02Z",
+   "u": "https://cincodias.elpais.com/companias/2026-10-13/getty-images-anuncia-que-se-declarara-en-bancarrota-y-que-saldra-de-la-bolsa.html",
+   "f": "2026-10-13T17:17:24Z",
+   "c": "empresas"
+  },
+  {
+   "t": "El Gobierno modifica por la vía de urgencia los estatutos del ICO para adaptarlos al fondo España Crece",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-13/el-gobierno-modifica-por-la-via-de-urgencia-los-estatutos-del-ico-para-adaptarlos-al-fondo-espana-crece.html",
+   "f": "2026-10-13T17:05:32Z",
+   "c": "general"
+  },
+  {
+   "t": "Red Eléctrica niega que los servicios de ajuste sean sobrecostes del sistema",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-13/red-electrica-niega-que-los-servicios-de-ajuste-sean-sobrecostes-del-sistema.html",
+   "f": "2026-10-13T17:00:58Z",
+   "c": "energia"
+  },
+  {
+   "t": "Ithaca Holdings ultima la compra de Bumble tras el fracaso de su 'app' de citas",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261013/11658088/ithaca-holdings-ultima-compra-bumble-fracaso-apps-citas.html",
+   "f": "2026-10-13T16:55:14Z",
+   "c": "general"
+  },
+  {
+   "t": "Los beneficios de Johnson & Johnson caen un 96% por el litigio de los polvos de talco, pero sus ventas aumentan",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-13/los-beneficios-de-johnson-johnson-caen-un-96-por-el-litigio-de-los-polvos-de-talco-pero-sus-ventas-aumentan.html",
+   "f": "2026-10-13T16:39:33Z",
    "c": "empresas"
   },
   {
@@ -16,20 +44,6 @@
    "c": "comercio"
   },
   {
-   "t": "Las Bolsas europeas pinchan ante el frenazo del entusiasmo por la IA",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-13/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-10-13T15:53:01Z",
-   "c": "tecnologia"
-  },
-  {
-   "t": "El francés BPCE compró la mayor parte de su participación en el Sabadell con derivados",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-13/el-frances-bpce-compro-la-mayor-parte-de-su-participacion-en-el-sabadell-con-derivados.html",
-   "f": "2026-10-13T15:41:32Z",
-   "c": "bancos"
-  },
-  {
    "t": "El principal sindicato de El Corte Inglés plantea una subida de hasta un 18% en el nuevo Convenio de Grandes Almacenes",
    "m": "20minutos",
    "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/principal-sindicato-corte-ingles-plantea-una-subida-hasta-un-18-nuevo-convenio-grandes-almacenes_7048207_0.html",
@@ -37,25 +51,11 @@
    "c": "empleo"
   },
   {
-   "t": "Los sindicatos aprietan a Yolanda Díaz: exigen subir el salario mínimo a más de 1.300 euros antes de las elecciones",
-   "m": "Expansión",
-   "u": "https://www.expansion.com/economia/2026/10/13/6ace39dae5fdea596e8b4593.html",
-   "f": "2026-10-13T14:02:52Z",
-   "c": "empleo"
-  },
-  {
-   "t": "El abogado David Jiménez explica qué hacer cuando un heredero quiere vender y el otro no: \"Podéis hacer una extinción del condominio\"",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/abogado-david-jimenez-explica-que-hacer-heredero-quiere-vender-otro-no-podeis-hacer-extincion-condominio_7048233_0.html",
-   "f": "2026-10-13T13:45:11Z",
-   "c": "general"
-  },
-  {
-   "t": "Los autónomos entran en campaña y piden a los partidos cuota cero para las nuevas altas y exención de IVA para los que menos facturen",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/los-autonomos-entran-campana-piden-los-partidos-cuota-cero-para-las-nuevas-altas-exencion-iva-para-los-que-menos-facturen_7048212_0.html",
-   "f": "2026-10-13T13:05:13Z",
-   "c": "empleo"
+   "t": "El supervisor de los futuros de EE UU entorpece la investigación de operaciones sospechosas con el petróleo",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-13/el-supervisor-de-los-futuros-de-ee-uu-entorpece-la-investigacion-de-operaciones-sospechosas-con-el-petroleo.html",
+   "f": "2026-10-13T14:23:54Z",
+   "c": "energia"
   }
  ]
 }
