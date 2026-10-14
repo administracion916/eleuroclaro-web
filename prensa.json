@@ -1,60 +1,60 @@
 {
- "actualizado": "2026-10-14T16:01:51Z",
+ "actualizado": "2026-10-14T16:59:06Z",
  "items": [
   {
-   "t": "El PP plantea un \"plan de choque\" con rebajas en IVA e IRPF para contener el alza de precios",
-   "m": "Expansión",
-   "u": "https://www.expansion.com/economia/2026/10/14/pp-plantea-plan-choque-rebajas-iva-e-irpf-contener-alza-precios.html",
-   "f": "2026-10-14T15:55:26Z",
-   "c": "precios"
-  },
-  {
-   "t": "Carmen González (Huawei España), sobre el veto de EE UU a su empresa: “Establecer criterios basados en el país de origen no nos parece adecuado”",
+   "t": "Unicaja convoca junta de accionistas para ampliar el mandato de su CEO",
    "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/economia/foro-creo-creando-oportunidades/2026-10-14/carmen-gonzalez-huawei-espana-sobre-el-veto-de-ee-uu-establecer-criterios-basados-en-el-pais-de-origen-no-nos-parece-adecuado.html",
-   "f": "2026-10-14T15:46:36Z",
-   "c": "empresas"
+   "u": "https://cincodias.elpais.com/companias/2026-10-14/unicaja-convoca-junta-de-accionistas-para-ampliar-el-mandato-de-su-ceo.html",
+   "f": "2026-10-14T16:39:08Z",
+   "c": "bancos"
   },
   {
-   "t": "El repunte de la inflación de EE UU pesa en la deuda y Wall Street",
+   "t": "Google apuesta por un pacto de Estado digital a las puertas del nuevo ciclo electoral en España",
    "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-14/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-10-14T15:44:35Z",
-   "c": "precios"
+   "u": "https://cincodias.elpais.com/economia/foro-creo-creando-oportunidades/2026-10-14/google-apuesta-por-un-pacto-de-estado-digital-a-las-puertas-del-nuevo-ciclo-electoral-en-espana.html",
+   "f": "2026-10-14T16:37:12Z",
+   "c": "tecnologia"
   },
   {
-   "t": "Hatta Energy reclama al Gobierno liberar las reservas de carburantes para aliviar la subida de precios",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-14/hatta-energy-reclama-al-gobierno-liberar-las-reservas-de-carburantes-para-aliviar-la-subida-de-precios.html",
-   "f": "2026-10-14T15:31:52Z",
-   "c": "energia"
-  },
-  {
-   "t": "Estados Unidos propone aranceles de 200.000 dólares a los buques españoles y restricciones a las exportaciones",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/eeuu-propone-aranceles-200-000-dolares-buques-espanoles-restricciones-exportaciones_7048802_0.html",
-   "f": "2026-10-14T15:27:19Z",
+   "t": "Estados Unidos plantea gravar a los buques españoles y restringir la entrada de productos",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-14/estados-unidos-plantea-gravar-a-los-buques-espanoles-y-restringir-la-entrada-de-productos.html",
+   "f": "2026-10-14T16:33:18Z",
    "c": "comercio"
   },
   {
-   "t": "Netflix despide a 1.000 empleados en su mayor reestructuración de plantilla desde 2022",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/noticia-netflix-despide-1000-empleados-mayor-reestructuracion-plantilla-2022-20261014172258.html",
-   "f": "2026-10-14T15:22:58Z",
-   "c": "empleo"
-  },
-  {
-   "t": "Netflix despedirá a unos 1.000 empleados, el 6 % de su plantilla, según medios estadounidenses",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/empresas/2026/10/14/6acf993421efa0e9518b458a.html",
-   "f": "2026-10-14T15:17:44Z",
+   "t": "El empresario francés Cédric Meston salva la histórica Duralex",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261014/11659018/empresario-frances-cedric-meston-salva-historica-duralex.html",
+   "f": "2026-10-14T16:28:39Z",
    "c": "empresas"
   },
   {
-   "t": "Nueva York, precios disparatados en un mercado intervenido y disfuncional",
+   "t": "EEUU amenaza con sanciones de 200.000 dólares a cada barco español que quiera usar sus puertos y restricciones a varios productos",
    "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/vivienda/2026/10/14/6ace2c9021efa0045e8b45ac.html",
-   "f": "2026-10-14T14:47:47Z",
+   "u": "https://www.elmundo.es/economia/2026/10/14/6acfacfdfdddff84468b4574.html",
+   "f": "2026-10-14T16:25:50Z",
+   "c": "comercio"
+  },
+  {
+   "t": "José Luis Bonet (Cámara de Comercio de España): “Es imprescindible un plan de despliegue de inteligencia artificial para pymes”",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/economia/foro-creo-creando-oportunidades/2026-10-14/jose-luis-bonet-camara-de-espana-es-imprescindible-un-plan-de-despliegue-de-inteligencia-artificial-para-pymes.html",
+   "f": "2026-10-14T16:21:19Z",
+   "c": "tecnologia"
+  },
+  {
+   "t": "Las acusaciones populares piden a la Audiencia Nacional que deniegue la amnistía a los CDR tras la sentencia del TJUE",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/2026/10/14/acusaciones-populares-piden-audiencia-nacional-deniegue-amnistia-cdr-sentencia-tjue.html",
+   "f": "2026-10-14T16:13:58Z",
+   "c": "general"
+  },
+  {
+   "t": "El IPC de EEUU y el repunte de los bonos diluyen el avance del Ibex 35, que cierra plano en los 19.200",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/bolsa-00348/noticia-ipc-eeuu-repunte-bonos-diluyen-avance-ibex-35-cierra-plano-19200-20261014180858.html",
+   "f": "2026-10-14T16:08:58Z",
    "c": "precios"
   }
  ]
