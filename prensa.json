@@ -1,6 +1,27 @@
 {
- "actualizado": "2026-10-14T09:57:02Z",
+ "actualizado": "2026-10-14T10:57:12Z",
  "items": [
+  {
+   "t": "Si haces huelga el 11 de noviembre, esto es lo que te pueden descontar de la nómina",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/10/14/6acf30ef21efa0734c8b45ac.html",
+   "f": "2026-10-14T10:19:05Z",
+   "c": "empleo"
+  },
+  {
+   "t": "El interés de las hipotecas fijas se dispara tras la subida de tipos del Banco Central Europeo",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/ahorro-y-consumo/2026/10/14/6ac8bf40e4d4d871078b4595.html",
+   "f": "2026-10-14T10:00:00Z",
+   "c": "tipos"
+  },
+  {
+   "t": "Seat y Cupra suman 76.066 vehículos matriculados hasta septiembre, un 9% más",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-14/seat-y-cupra-suman-76066-vehiculos-matriculados-hasta-septiembre-un-9-mas.html",
+   "f": "2026-10-14T09:58:36Z",
+   "c": "transporte"
+  },
   {
    "t": "La regularización conduce al empleo extranjero a un nuevo récord en septiembre tras sumar 84.200 cotizantes",
    "m": "20minutos",
@@ -16,7 +37,7 @@
    "c": "tipos"
   },
   {
-   "t": "Planas no se presentará a las elecciones del 29-N y asegura que se centrará en las decisivas negociaciones con Bruselas",
+   "t": "Planas no se presentará a las elecciones del 29-N para centrarse en Bruselas",
    "m": "20minutos",
    "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/planas-no-se-presentara-elecciones-cordoba-asegura-centrara-decisivas-negociaciones-bruselas_7048544_0.html",
    "f": "2026-10-14T09:37:39Z",
@@ -35,27 +56,6 @@
    "u": "https://www.lavanguardia.com/economia/20261014/11658605/exntrajeros-afiliados-seguridad-social-septiembre.html",
    "f": "2026-10-14T09:27:17Z",
    "c": "empleo"
-  },
-  {
-   "t": "El Gobierno acelera y lanza de forma urgente el decreto para 'salvar' a RTVE del agujero del IVA sin pasar por el Congreso",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/empresas/2026/10/14/6acf464621efa04d5c8b457d.html",
-   "f": "2026-10-14T09:23:55Z",
-   "c": "impuestos"
-  },
-  {
-   "t": "TSK cae un 6% tras ordenar la Justicia británica el pago de 81 millones en avales por su planta en Mozambique",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/legal-00345/noticia-tsk-cae-ordenar-justicia-britanica-pago-81-millones-avales-planta-mozambique-20261014111203.html",
-   "f": "2026-10-14T09:12:03Z",
-   "c": "general"
-  },
-  {
-   "t": "La portavoz del PP Ester Muñoz asegura que “el sistema de pensiones va a colapsar” y pide cambiarlo",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-14/la-portavoz-del-pp-ester-munoz-asegura-que-el-sistema-de-pensiones-va-a-colapsar-y-pide-cambiarlo.html",
-   "f": "2026-10-14T09:01:16Z",
-   "c": "pensiones"
   }
  ]
 }
