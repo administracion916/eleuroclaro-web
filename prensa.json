@@ -1,60 +1,60 @@
 {
- "actualizado": "2026-10-13T22:51:40Z",
+ "actualizado": "2026-10-14T05:09:30Z",
  "items": [
   {
-   "t": "El primer año que afrontará el futuro Gobierno, según el FMI: desaceleración y alta inflación con estancamiento en el empleo y la renta per cápita",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/10/14/6ace6b7fe85eceb2298b459c.html",
-   "f": "2026-10-13T22:05:36Z",
-   "c": "precios"
-  },
-  {
-   "t": "Hoja de ruta para revertir la crisis de vivienda: ¿Cuánto tiempo es necesario para resolver el problema?",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/vivienda/2026/10/14/6ace0ae2e85ece29348b45a6.html",
-   "f": "2026-10-13T22:05:34Z",
-   "c": "vivienda"
-  },
-  {
-   "t": "Los empresarios se rebelan contra la subida del salario mínimo del 7% que exigen los sindicatos: \"Es electoralista y una aberración\"",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/10/14/6ace3d4921efa0e8568b4595.html",
-   "f": "2026-10-13T22:05:33Z",
-   "c": "empleo"
-  },
-  {
-   "t": "Las empresas españolas, rezagadas en inversión en formación de las plantillas",
+   "t": "Qilimanjaro consigue 19,6 millones en una ronda con Indra y la SETT",
    "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261014/11658170/empresas-espanolas-rezagadas-inversion-formacion-plantillas.html",
-   "f": "2026-10-13T22:05:00Z",
-   "c": "empresas"
-  },
-  {
-   "t": "Cuerpo apadrina la nueva red de economistas progresistas: “Una economía desigual es una economía lastrada”",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-13/cuerpo-apadrina-la-nueva-red-de-economistas-progresistas-una-economia-desigual-es-una-economia-lastrada.html",
-   "f": "2026-10-13T18:28:58Z",
+   "u": "https://www.lavanguardia.com/economia/20261014/11658149/qilimanjaro-consigue-19-6-millones-ronda-indra-sett.html",
+   "f": "2026-10-14T04:00:00Z",
    "c": "general"
   },
   {
-   "t": "Las Bolsas europeas pinchan ante el frenazo del entusiasmo por la IA",
+   "t": "El invierno energético de Europa",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261014/11658148/invierno-energetico-europa.html",
+   "f": "2026-10-14T04:00:00Z",
+   "c": "energia"
+  },
+  {
+   "t": "Las grandes fortunas familiares se alejan de la Bolsa",
    "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-13/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-10-13T18:26:39Z",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-14/las-grandes-fortunas-familiares-se-alejan-de-la-bolsa.html",
+   "f": "2026-10-14T03:30:01Z",
+   "c": "empresas"
+  },
+  {
+   "t": "Los países europeos se preparan para el impacto de la inflación en sus salarios mínimos",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-14/los-paises-europeos-se-preparan-para-el-impacto-de-la-inflacion-en-sus-salarios-minimos.html",
+   "f": "2026-10-14T03:30:01Z",
+   "c": "precios"
+  },
+  {
+   "t": "El gran sobresalto de la IA",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-14/el-gran-sobresalto-de-la-ia.html",
+   "f": "2026-10-14T03:30:01Z",
    "c": "tecnologia"
   },
   {
-   "t": "España, contra la idea irlandesa de recortar el futuro presupuesto de la UE",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261013/11658171/espana-idea-irlandesa-recortar-futuro-presupuesto-ue.html",
-   "f": "2026-10-13T17:58:49Z",
-   "c": "comercio"
+   "t": "España nada a contracorriente en el tsunami mundial de la deuda pública",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-14/espana-nada-a-contracorriente-en-el-tsunami-mundial-de-la-deuda-publica.html",
+   "f": "2026-10-14T03:30:01Z",
+   "c": "impuestos"
   },
   {
-   "t": "BBVA reinicia las recompras de acciones por 1.000 millones para retribuir a los accionistas",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261013/11658160/bbva-reinicia-recompras-acciones-1-000-millones-retribuir-accionistas.html",
-   "f": "2026-10-13T17:40:29Z",
+   "t": "La Bolsa ahuyenta los fantasmas ante la expectativa de otra temporada de beneficios récord",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-14/la-bolsa-ahuyenta-los-fantasmas-ante-la-expectativa-de-otra-temporada-de-beneficios-record.html",
+   "f": "2026-10-14T03:25:00Z",
+   "c": "empresas"
+  },
+  {
+   "t": "Los creadores de Crescenta lanzan una plataforma de mercados privados para la banca",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-14/los-creadores-de-crescenta-lanzan-una-plataforma-de-mercados-privados-para-la-banca.html",
+   "f": "2026-10-14T03:25:00Z",
    "c": "bancos"
   }
  ]
