@@ -1,6 +1,48 @@
 {
- "actualizado": "2026-10-14T16:59:06Z",
+ "actualizado": "2026-10-14T17:56:01Z",
  "items": [
+  {
+   "t": "El Gobierno invierte 20 millones en el “fondo bueno” Genivs para levantar vivienda de alquiler asequible",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-14/el-gobierno-invierte-20-millones-en-el-fondo-bueno-genivs-para-levantar-vivienda-de-alquiler-asequible.html",
+   "f": "2026-10-14T17:39:35Z",
+   "c": "vivienda"
+  },
+  {
+   "t": "La UE abre la puerta a no acordar este año el presupuesto común",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/2026/10/14/ue-abre-puerta-acordar-ano-presupuesto-comun.html",
+   "f": "2026-10-14T17:27:48Z",
+   "c": "comercio"
+  },
+  {
+   "t": "Estados Unidos plantea gravar a los buques españoles y restringir la entrada de productos",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-14/estados-unidos-plantea-gravar-a-los-buques-espanoles-y-restringir-la-entrada-de-productos.html",
+   "f": "2026-10-14T17:24:00Z",
+   "c": "comercio"
+  },
+  {
+   "t": "Bruselas quiere retrasar parte del freno a las emisiones de metano en la UE por el cierre del estrecho de Ormuz",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-14/bruselas-quiere-retrasar-parte-del-freno-a-las-emisiones-de-metano-en-la-ue-por-el-cierre-del-estrecho-de-ormuz.html",
+   "f": "2026-10-14T17:23:12Z",
+   "c": "comercio"
+  },
+  {
+   "t": "Unicaja convoca una junta extraordinaria para renovar a Rubiales como CEO hasta 2029",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/empresas/unicaja-convoca-junta-extraordinaria-renovar-rubiales_7048844_0.html",
+   "f": "2026-10-14T17:01:45Z",
+   "c": "bancos"
+  },
+  {
+   "t": "EEUU acusa a España de dañar su comercio marítimo y propone una tasa de 180.000 euros a todo barco español",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/macroeconomia-00338/noticia-eeuu-acusa-espana-danar-comercio-maritimo-propone-tasa-180000-euros-todo-barco-espanol-20261014190034.html",
+   "f": "2026-10-14T17:00:34Z",
+   "c": "comercio"
+  },
   {
    "t": "Unicaja convoca junta de accionistas para ampliar el mandato de su CEO",
    "m": "Cinco Días",
@@ -9,53 +51,11 @@
    "c": "bancos"
   },
   {
-   "t": "Google apuesta por un pacto de Estado digital a las puertas del nuevo ciclo electoral en España",
+   "t": "Google España apuesta por un pacto de Estado digital a las puertas del nuevo ciclo electoral",
    "m": "Cinco Días",
    "u": "https://cincodias.elpais.com/economia/foro-creo-creando-oportunidades/2026-10-14/google-apuesta-por-un-pacto-de-estado-digital-a-las-puertas-del-nuevo-ciclo-electoral-en-espana.html",
    "f": "2026-10-14T16:37:12Z",
    "c": "tecnologia"
-  },
-  {
-   "t": "Estados Unidos plantea gravar a los buques españoles y restringir la entrada de productos",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-14/estados-unidos-plantea-gravar-a-los-buques-espanoles-y-restringir-la-entrada-de-productos.html",
-   "f": "2026-10-14T16:33:18Z",
-   "c": "comercio"
-  },
-  {
-   "t": "El empresario francés Cédric Meston salva la histórica Duralex",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261014/11659018/empresario-frances-cedric-meston-salva-historica-duralex.html",
-   "f": "2026-10-14T16:28:39Z",
-   "c": "empresas"
-  },
-  {
-   "t": "EEUU amenaza con sanciones de 200.000 dólares a cada barco español que quiera usar sus puertos y restricciones a varios productos",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/10/14/6acfacfdfdddff84468b4574.html",
-   "f": "2026-10-14T16:25:50Z",
-   "c": "comercio"
-  },
-  {
-   "t": "José Luis Bonet (Cámara de Comercio de España): “Es imprescindible un plan de despliegue de inteligencia artificial para pymes”",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/economia/foro-creo-creando-oportunidades/2026-10-14/jose-luis-bonet-camara-de-espana-es-imprescindible-un-plan-de-despliegue-de-inteligencia-artificial-para-pymes.html",
-   "f": "2026-10-14T16:21:19Z",
-   "c": "tecnologia"
-  },
-  {
-   "t": "Las acusaciones populares piden a la Audiencia Nacional que deniegue la amnistía a los CDR tras la sentencia del TJUE",
-   "m": "Expansión",
-   "u": "https://www.expansion.com/economia/2026/10/14/acusaciones-populares-piden-audiencia-nacional-deniegue-amnistia-cdr-sentencia-tjue.html",
-   "f": "2026-10-14T16:13:58Z",
-   "c": "general"
-  },
-  {
-   "t": "El IPC de EEUU y el repunte de los bonos diluyen el avance del Ibex 35, que cierra plano en los 19.200",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/bolsa-00348/noticia-ipc-eeuu-repunte-bonos-diluyen-avance-ibex-35-cierra-plano-19200-20261014180858.html",
-   "f": "2026-10-14T16:08:58Z",
-   "c": "precios"
   }
  ]
 }
