@@ -1,6 +1,34 @@
 {
- "actualizado": "2026-10-14T05:09:30Z",
+ "actualizado": "2026-10-14T05:54:12Z",
  "items": [
+  {
+   "t": "La Seguridad Social recortará hasta un 17% la pensión a quienes adelanten su jubilación aunque hayan cotizado más de 41 años",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/2026/10/14/6ace5cac468aebb4118b4598.html",
+   "f": "2026-10-14T05:38:47Z",
+   "c": "pensiones"
+  },
+  {
+   "t": "Tono positivo en las Bolsas con la inflación americana y los resultados en el foco",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-14/la-bolsa-y-el-ibex-35.html",
+   "f": "2026-10-14T05:17:35Z",
+   "c": "precios"
+  },
+  {
+   "t": "El FMI lanza un últimatum a los gobiernos para consolidar sus finanzas o advierte de un ajuste \"más doloroso\"",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/10/14/6acf0e44e4d4d8454b8b456d.html",
+   "f": "2026-10-14T05:14:53Z",
+   "c": "economia"
+  },
+  {
+   "t": "Primera jornada del foro creo",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/economia/foro-creo-creando-oportunidades/2026-10-14/primera-jornada-del-foro-creo.html",
+   "f": "2026-10-14T05:14:41Z",
+   "c": "empleo"
+  },
   {
    "t": "Qilimanjaro consigue 19,6 millones en una ronda con Indra y la SETT",
    "m": "La Vanguardia",
@@ -28,34 +56,6 @@
    "u": "https://elpais.com/economia/2026-10-14/los-paises-europeos-se-preparan-para-el-impacto-de-la-inflacion-en-sus-salarios-minimos.html",
    "f": "2026-10-14T03:30:01Z",
    "c": "precios"
-  },
-  {
-   "t": "El gran sobresalto de la IA",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-14/el-gran-sobresalto-de-la-ia.html",
-   "f": "2026-10-14T03:30:01Z",
-   "c": "tecnologia"
-  },
-  {
-   "t": "España nada a contracorriente en el tsunami mundial de la deuda pública",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-14/espana-nada-a-contracorriente-en-el-tsunami-mundial-de-la-deuda-publica.html",
-   "f": "2026-10-14T03:30:01Z",
-   "c": "impuestos"
-  },
-  {
-   "t": "La Bolsa ahuyenta los fantasmas ante la expectativa de otra temporada de beneficios récord",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-14/la-bolsa-ahuyenta-los-fantasmas-ante-la-expectativa-de-otra-temporada-de-beneficios-record.html",
-   "f": "2026-10-14T03:25:00Z",
-   "c": "empresas"
-  },
-  {
-   "t": "Los creadores de Crescenta lanzan una plataforma de mercados privados para la banca",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-14/los-creadores-de-crescenta-lanzan-una-plataforma-de-mercados-privados-para-la-banca.html",
-   "f": "2026-10-14T03:25:00Z",
-   "c": "bancos"
   }
  ]
 }
