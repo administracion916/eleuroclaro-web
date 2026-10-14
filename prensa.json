@@ -1,6 +1,48 @@
 {
- "actualizado": "2026-10-14T13:07:17Z",
+ "actualizado": "2026-10-14T13:58:33Z",
  "items": [
+  {
+   "t": "Hipoteca, planes de pensiones, retribución flexible, donaciones... Los trucos para ahorrar hasta 10.000 euros en la próxima declaración de la Renta",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/trucos-ahorrar-euros-proxima-declaracion-renta_7048738_0.html",
+   "f": "2026-10-14T13:44:30Z",
+   "c": "pensiones"
+  },
+  {
+   "t": "Lufthansa se impone a Air France en la compra del 44,9% de la portuguesa TAP",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/empresas/lufthansa-se-impone-air-france-compra-44-9-portuguesa-tap_7048732_0.html",
+   "f": "2026-10-14T13:17:46Z",
+   "c": "general"
+  },
+  {
+   "t": "Los supermercados ya soportan un sobrecoste mensual de 25 millones por la crisis energética",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/supermercados-soportan-sobrecoste-mensual-25-millones-euros-combustibles-electricidad_7048680_0.html",
+   "f": "2026-10-14T13:12:51Z",
+   "c": "energia"
+  },
+  {
+   "t": "Díaz acusa al PP de querer recortar las pensiones y asegura que el sistema público no va a \"petar\"",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/laboral-00346/noticia-diaz-acusa-pp-querer-recortar-pensiones-asegura-sistema-publico-no-va-petar-20261014150610.html",
+   "f": "2026-10-14T13:06:10Z",
+   "c": "pensiones"
+  },
+  {
+   "t": "El Gobierno portugués elige a Lufthansa para adquirir hasta el 49,9% de TAP por 1.201 millones",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/noticia-gobierno-portugues-elige-lufthansa-adquirir-499-aerolinea-tap-1201-millones-20261014150240.html",
+   "f": "2026-10-14T13:02:40Z",
+   "c": "general"
+  },
+  {
+   "t": "La inflación vuelve a escalar en EE.UU. y queda en el 3,7% por el combustible",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261014/11658895/inflacion-eeuu-septiembre-precios.html",
+   "f": "2026-10-14T13:00:00Z",
+   "c": "energia"
+  },
   {
    "t": "Acciona gana la construcción de un proyecto de transmisión eléctrica de 400 millones en Australia",
    "m": "Cinco Días",
@@ -14,48 +56,6 @@
    "u": "https://cincodias.elpais.com/companias/2026-10-14/avatel-plantea-un-ere-para-444-empleados-un-tercio-de-su-plantilla.html",
    "f": "2026-10-14T12:55:20Z",
    "c": "empleo"
-  },
-  {
-   "t": "La inflación sorprende con un repunte del 3,7% en EEUU a las puertas de las 'midterm'",
-   "m": "Expansión",
-   "u": "https://www.expansion.com/economia/2026/10/14/inflacion-sorprende-repunte-3-7-eeuu-puertas-midterm.html",
-   "f": "2026-10-14T12:49:59Z",
-   "c": "precios"
-  },
-  {
-   "t": "La primera jornada del foro económico CREO 2026, en imágenes",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/economia/foro-creo-creando-oportunidades/2026-10-14/la-primera-jornada-del-foro-economico-creo-2026-en-imagenes.html",
-   "f": "2026-10-14T12:46:49Z",
-   "c": "empleo"
-  },
-  {
-   "t": "El campo retoma las protestas contra el aumento de los costes de producción",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261014/11658862/campo-retoma-protestas-aumento-costes-produccion.html",
-   "f": "2026-10-14T12:11:56Z",
-   "c": "general"
-  },
-  {
-   "t": "La portavoz del PP Ester Muñoz asegura que “el sistema de pensiones va a colapsar” y pide cambiarlo",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-14/la-portavoz-del-pp-ester-munoz-asegura-que-el-sistema-de-pensiones-va-a-colapsar-y-pide-cambiarlo.html",
-   "f": "2026-10-14T11:38:52Z",
-   "c": "pensiones"
-  },
-  {
-   "t": "Seat & Cupra disparan sus ventas un 9% en lo que va de año a pesar del incierto futuro de Seat",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/empresas/seat-cupra-disparan-ventas-ano-rumores-futuro-seat_7048659_0.html",
-   "f": "2026-10-14T11:33:23Z",
-   "c": "empresas"
-  },
-  {
-   "t": "La AIE advierte de problemas de escasez de diésel \"hasta bien entrado 2027\"",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/aie-advierte-problemas-escasez-diesel-hasta-bien-entrado-2027_7048661_0.html",
-   "f": "2026-10-14T11:22:30Z",
-   "c": "energia"
   }
  ]
 }
