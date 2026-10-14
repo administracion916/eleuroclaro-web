@@ -1,61 +1,61 @@
 {
- "actualizado": "2026-10-14T05:54:12Z",
+ "actualizado": "2026-10-14T07:09:50Z",
  "items": [
   {
-   "t": "La Seguridad Social recortará hasta un 17% la pensión a quienes adelanten su jubilación aunque hayan cotizado más de 41 años",
-   "m": "Expansión",
-   "u": "https://www.expansion.com/economia/2026/10/14/6ace5cac468aebb4118b4598.html",
-   "f": "2026-10-14T05:38:47Z",
-   "c": "pensiones"
+   "t": "La inflación escala al 4,9% en septiembre por el golpe de los carburantes",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/10/14/6acf27b9fc6c83af588b4570.html",
+   "f": "2026-10-14T07:05:48Z",
+   "c": "energia"
+  },
+  {
+   "t": "Gallina Blanca da un giro a sus recetas para responder a un público \"exigente y cambiante\" y empieza por reformular Yatekomo",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/empresas/2026/10/14/6ace8316fc6c8386388b45a4.html",
+   "f": "2026-10-14T07:05:00Z",
+   "c": "general"
   },
   {
    "t": "Tono positivo en las Bolsas con la inflación americana y los resultados en el foco",
    "m": "Cinco Días",
    "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-14/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-10-14T05:17:35Z",
+   "f": "2026-10-14T07:04:20Z",
    "c": "precios"
   },
   {
-   "t": "El FMI lanza un últimatum a los gobiernos para consolidar sus finanzas o advierte de un ajuste \"más doloroso\"",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/10/14/6acf0e44e4d4d8454b8b456d.html",
-   "f": "2026-10-14T05:14:53Z",
-   "c": "economia"
-  },
-  {
-   "t": "Primera jornada del foro creo",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/economia/foro-creo-creando-oportunidades/2026-10-14/primera-jornada-del-foro-creo.html",
-   "f": "2026-10-14T05:14:41Z",
-   "c": "empleo"
-  },
-  {
-   "t": "Qilimanjaro consigue 19,6 millones en una ronda con Indra y la SETT",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261014/11658149/qilimanjaro-consigue-19-6-millones-ronda-indra-sett.html",
-   "f": "2026-10-14T04:00:00Z",
-   "c": "general"
-  },
-  {
-   "t": "El invierno energético de Europa",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261014/11658148/invierno-energetico-europa.html",
-   "f": "2026-10-14T04:00:00Z",
+   "t": "El dato de inflación del 4,9% en septiembre confirma las rebajas fiscales a los carburantes",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-14/el-dato-de-inflacion-del-49-en-septiembre-confirma-las-rebajas-fiscales-a-los-carburantes.html",
+   "f": "2026-10-14T07:00:07Z",
    "c": "energia"
+  },
+  {
+   "t": "La lucha contrarreloj de un propietario de Málaga para no perder su casa por un robo de datos: \"La Policía me dijo que si no había firmado nada, no me tenía…",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/vivienda/2026/10/14/6ace82f6fc6c83d3258b45ae.html",
+   "f": "2026-10-14T06:57:44Z",
+   "c": "general"
   },
   {
    "t": "Las grandes fortunas familiares se alejan de la Bolsa",
    "m": "Cinco Días",
    "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-14/las-grandes-fortunas-familiares-se-alejan-de-la-bolsa.html",
-   "f": "2026-10-14T03:30:01Z",
+   "f": "2026-10-14T06:48:37Z",
    "c": "empresas"
   },
   {
-   "t": "Los países europeos se preparan para el impacto de la inflación en sus salarios mínimos",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-14/los-paises-europeos-se-preparan-para-el-impacto-de-la-inflacion-en-sus-salarios-minimos.html",
-   "f": "2026-10-14T03:30:01Z",
-   "c": "precios"
+   "t": "Cox firma con el Gobierno de El Salvador un acuerdo para invertir 2.588 millones de euros en energía y agua",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-14/cox-firma-con-el-gobierno-de-el-salvador-un-acuerdo-para-invertir-2588-millones-de-euros-en-energia-y-agua.html",
+   "f": "2026-10-14T06:38:49Z",
+   "c": "energia"
+  },
+  {
+   "t": "Los chips y los vehículos eléctricos impulsan las exportaciones chinas, que crecen el 29,6% en septiembre",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261014/11658450/chips-vehiculos-electricos-impulsan-exportaciones-chinas-crecen-29-6-septiembre.html",
+   "f": "2026-10-14T06:01:23Z",
+   "c": "transporte"
   }
  ]
 }
