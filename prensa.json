@@ -1,61 +1,61 @@
 {
- "actualizado": "2026-10-14T08:59:19Z",
+ "actualizado": "2026-10-14T09:57:02Z",
  "items": [
   {
-   "t": "AT&T vende su filial mexicana a Televisa y Fintech por 2.000 millones de dólares",
+   "t": "La regularización conduce al empleo extranjero a un nuevo récord en septiembre tras sumar 84.200 cotizantes",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/regularizacion-conduce-empleo-extranjero-un-nuevo-record-septiembre-tras-sumar-84-200-cotizantes_7048590_0.html",
+   "f": "2026-10-14T09:55:12Z",
+   "c": "empleo"
+  },
+  {
+   "t": "Lagarde considera que la solución para Francia está en casa y aleja una intervención del BCE",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/macroeconomia-00338/noticia-lagarde-considera-solucion-francia-casa-aleja-intervencion-bce-20261014113747.html",
+   "f": "2026-10-14T09:37:47Z",
+   "c": "tipos"
+  },
+  {
+   "t": "Planas no se presentará a las elecciones del 29-N y asegura que se centrará en las decisivas negociaciones con Bruselas",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/planas-no-se-presentara-elecciones-cordoba-asegura-centrara-decisivas-negociaciones-bruselas_7048544_0.html",
+   "f": "2026-10-14T09:37:39Z",
+   "c": "comercio"
+  },
+  {
+   "t": "El economista jefe del Banco de España prevé una inflación “volátil, elevada y persistente”",
    "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-14/att-vende-su-filial-mexicana-a-televisa-y-fintech-por-2000-millones-de-dolares.html",
-   "f": "2026-10-14T08:53:16Z",
-   "c": "empresas"
+   "u": "https://cincodias.elpais.com/economia/foro-creo-creando-oportunidades/2026-10-14/el-economista-jefe-del-banco-de-espana-preve-una-inflacion-volatil-elevada-y-persistente.html",
+   "f": "2026-10-14T09:32:31Z",
+   "c": "precios"
+  },
+  {
+   "t": "Los extranjeros superan el récord de los 3,6 millones de cotizantes y ya son el 16% del empleo",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261014/11658605/exntrajeros-afiliados-seguridad-social-septiembre.html",
+   "f": "2026-10-14T09:27:17Z",
+   "c": "empleo"
+  },
+  {
+   "t": "El Gobierno acelera y lanza de forma urgente el decreto para 'salvar' a RTVE del agujero del IVA sin pasar por el Congreso",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/empresas/2026/10/14/6acf464621efa04d5c8b457d.html",
+   "f": "2026-10-14T09:23:55Z",
+   "c": "impuestos"
+  },
+  {
+   "t": "TSK cae un 6% tras ordenar la Justicia británica el pago de 81 millones en avales por su planta en Mozambique",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/legal-00345/noticia-tsk-cae-ordenar-justicia-britanica-pago-81-millones-avales-planta-mozambique-20261014111203.html",
+   "f": "2026-10-14T09:12:03Z",
+   "c": "general"
   },
   {
    "t": "La portavoz del PP Ester Muñoz asegura que “el sistema de pensiones va a colapsar” y pide cambiarlo",
    "m": "El País",
    "u": "https://elpais.com/economia/2026-10-14/la-portavoz-del-pp-ester-munoz-asegura-que-el-sistema-de-pensiones-va-a-colapsar-y-pide-cambiarlo.html",
-   "f": "2026-10-14T08:46:55Z",
+   "f": "2026-10-14T09:01:16Z",
    "c": "pensiones"
-  },
-  {
-   "t": "El Gobierno ve a Hernández de Cos con opciones de alcanzar la presidencia en el BCE",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/gobierno-ve-hernandez-cos-con-opciones-alcanzar-presidencia-bce_7048525_0.html",
-   "f": "2026-10-14T08:43:12Z",
-   "c": "tipos"
-  },
-  {
-   "t": "Hacienda defiende que España es el país que más recursos ha movilizado en la UE para contener los precios",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/macroeconomia-00338/noticia-hacienda-defiende-espana-pais-mas-recursos-movilizado-ue-contener-precios-20261014103944.html",
-   "f": "2026-10-14T08:39:44Z",
-   "c": "precios"
-  },
-  {
-   "t": "Cuerpo no aprecia por ahora efectos de la guerra en el precio de los alimentos, pero estará \"muy alerta\"",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/macroeconomia-00338/noticia-cuerpo-no-aprecia-ahora-efectos-guerra-precio-alimentos-estara-muy-alerta-20261014103748.html",
-   "f": "2026-10-14T08:37:48Z",
-   "c": "precios"
-  },
-  {
-   "t": "El Gobierno cree que Hernández de Cos tiene posibilidades de alcanzar la presidencia del BCE",
-   "m": "Expansión",
-   "u": "https://www.expansion.com/economia/2026/10/14/gobierno-cree-hernandez-cos-posibilidades-alcanzar-presidencia-bce.html",
-   "f": "2026-10-14T08:23:34Z",
-   "c": "tipos"
-  },
-  {
-   "t": "El Gobierno cree que Hernández de Cos tiene posibilidades en el BCE: \"Estamos empujando de manera activa\"",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/finanzas-00340/noticia-gobierno-cree-hernandez-cos-tiene-posibilidades-bce-estamos-empujando-manera-activa-20261014101350.html",
-   "f": "2026-10-14T08:13:50Z",
-   "c": "tipos"
-  },
-  {
-   "t": "Confirmado: secundar la huelga por la vivienda supondrá perder unos 90 euros de media",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/10/14/6acf30ef21efa0734c8b45ac.html",
-   "f": "2026-10-14T08:12:55Z",
-   "c": "vivienda"
   }
  ]
 }
