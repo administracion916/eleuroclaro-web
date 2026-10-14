@@ -1,60 +1,60 @@
 {
- "actualizado": "2026-10-14T14:57:19Z",
+ "actualizado": "2026-10-14T16:01:51Z",
  "items": [
+  {
+   "t": "El PP plantea un \"plan de choque\" con rebajas en IVA e IRPF para contener el alza de precios",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/2026/10/14/pp-plantea-plan-choque-rebajas-iva-e-irpf-contener-alza-precios.html",
+   "f": "2026-10-14T15:55:26Z",
+   "c": "precios"
+  },
+  {
+   "t": "Carmen González (Huawei España), sobre el veto de EE UU a su empresa: “Establecer criterios basados en el país de origen no nos parece adecuado”",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/economia/foro-creo-creando-oportunidades/2026-10-14/carmen-gonzalez-huawei-espana-sobre-el-veto-de-ee-uu-establecer-criterios-basados-en-el-pais-de-origen-no-nos-parece-adecuado.html",
+   "f": "2026-10-14T15:46:36Z",
+   "c": "empresas"
+  },
+  {
+   "t": "El repunte de la inflación de EE UU pesa en la deuda y Wall Street",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-14/la-bolsa-y-el-ibex-35.html",
+   "f": "2026-10-14T15:44:35Z",
+   "c": "precios"
+  },
+  {
+   "t": "Hatta Energy reclama al Gobierno liberar las reservas de carburantes para aliviar la subida de precios",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-14/hatta-energy-reclama-al-gobierno-liberar-las-reservas-de-carburantes-para-aliviar-la-subida-de-precios.html",
+   "f": "2026-10-14T15:31:52Z",
+   "c": "energia"
+  },
+  {
+   "t": "Estados Unidos propone aranceles de 200.000 dólares a los buques españoles y restricciones a las exportaciones",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/eeuu-propone-aranceles-200-000-dolares-buques-espanoles-restricciones-exportaciones_7048802_0.html",
+   "f": "2026-10-14T15:27:19Z",
+   "c": "comercio"
+  },
+  {
+   "t": "Netflix despide a 1.000 empleados en su mayor reestructuración de plantilla desde 2022",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/noticia-netflix-despide-1000-empleados-mayor-reestructuracion-plantilla-2022-20261014172258.html",
+   "f": "2026-10-14T15:22:58Z",
+   "c": "empleo"
+  },
+  {
+   "t": "Netflix despedirá a unos 1.000 empleados, el 6 % de su plantilla, según medios estadounidenses",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/empresas/2026/10/14/6acf993421efa0e9518b458a.html",
+   "f": "2026-10-14T15:17:44Z",
+   "c": "empresas"
+  },
   {
    "t": "Nueva York, precios disparatados en un mercado intervenido y disfuncional",
    "m": "El Mundo",
    "u": "https://www.elmundo.es/economia/vivienda/2026/10/14/6ace2c9021efa0045e8b45ac.html",
    "f": "2026-10-14T14:47:47Z",
-   "c": "precios"
-  },
-  {
-   "t": "Netflix planea despedir a 1.000 trabajadores, su mayor recorte de plantilla en cuatro años",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/empresas/netflix-planea-despedir-1-000-trabajadores-su-mayor-recorte-plantilla-cuatro-anos_7048783_0.html",
-   "f": "2026-10-14T14:45:38Z",
-   "c": "empleo"
-  },
-  {
-   "t": "Netflix recorta alrededor del 6% de la plantilla en la mayor ronda de despidos desde 2022",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-14/netflix-recorta-alrededor-del-6-de-la-plantilla-en-la-mayor-ronda-de-despidos-desde-2022.html",
-   "f": "2026-10-14T14:38:48Z",
-   "c": "empleo"
-  },
-  {
-   "t": "El FBI detiene a un empleado de OpenAI de origen saudí por espiar reuniones confidenciales",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/10/14/6acf90f5e4d4d84d498b45b5.html",
-   "f": "2026-10-14T14:35:35Z",
-   "c": "tecnologia"
-  },
-  {
-   "t": "La primera jornada del foro económico CREO 2026, en imágenes",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/economia/foro-creo-creando-oportunidades/2026-10-14/la-primera-jornada-del-foro-economico-creo-2026-en-imagenes.html",
-   "f": "2026-10-14T14:33:00Z",
-   "c": "empleo"
-  },
-  {
-   "t": "Sanofi se compromete ante la UE a corregir sus mensajes sobre una vacuna rival contra la gripe para evitar una multa",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-14/sanofi-se-compromete-ante-la-ue-a-corregir-sus-mensajes-sobre-una-vacuna-rival-contra-la-gripe-para-evitar-una-multa.html",
-   "f": "2026-10-14T14:29:13Z",
-   "c": "comercio"
-  },
-  {
-   "t": "La lucha contrarreloj de un propietario de Málaga para no perder su casa por un robo de datos: \"La Policía me dijo que si no había firmado nada, no me tenía…",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/vivienda/2026/10/14/6ace82f6fc6c83d3258b45ae.html",
-   "f": "2026-10-14T14:16:33Z",
-   "c": "general"
-  },
-  {
-   "t": "El repunte de la inflación de EE UU tensiona el mercado de deuda y las Bolsas",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-14/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-10-14T14:01:25Z",
    "c": "precios"
   }
  ]
