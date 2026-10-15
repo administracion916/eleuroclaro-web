@@ -1,61 +1,61 @@
 {
- "actualizado": "2026-10-15T07:11:13Z",
+ "actualizado": "2026-10-15T07:59:40Z",
  "items": [
+  {
+   "t": "Desplome de los valores tecnológicos, con caídas cercanas al 10% en Asia y Europa",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-15/la-bolsa-y-el-ibex-35.html",
+   "f": "2026-10-15T07:46:50Z",
+   "c": "tecnologia"
+  },
+  {
+   "t": "La Seguridad Social lo confirma: los hijos mayores de 45 años que cuidaron de sus padres pueden cobrar una pensión vitalicia",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/10/15/6acf9cffe4d4d8403f8b4578.html",
+   "f": "2026-10-15T07:36:22Z",
+   "c": "pensiones"
+  },
+  {
+   "t": "Dinamarca, Suecia y Finlandia rechazan relajar las reglas del mercado europeo de emisiones",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/noticia-dinamarca-suecia-finlandia-rechazan-relajar-reglas-mercado-europeo-emisiones-20261015092816.html",
+   "f": "2026-10-15T07:28:16Z",
+   "c": "general"
+  },
+  {
+   "t": "Las mejores hipotecas fijas, mixtas y variables de octubre de 2026",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/vivienda/2026/10/15/6ad072d2e9cf4ab2248b459a.html",
+   "f": "2026-10-15T07:21:47Z",
+   "c": "tipos"
+  },
+  {
+   "t": "La compraventa de vivienda por extranjeros cae un 13% entre presión regulatoria y precios altos",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261015/11659404/compra-vivienda-extranjeros-semestre-espana-notarios.html",
+   "f": "2026-10-15T07:19:46Z",
+   "c": "vivienda"
+  },
+  {
+   "t": "Santander amortiza anticipadamente dos emisiones de cédulas por importe de 4.590 millones de euros",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/finanzas-00340/noticia-santander-amortiza-anticipadamente-dos-emisiones-cedulas-importe-4590-millones-euros-20261015091346.html",
+   "f": "2026-10-15T07:13:46Z",
+   "c": "bancos"
+  },
   {
    "t": "Anthropic calienta su histórica salida a Bolsa con un aumento trimestral de sus ingresos del 46%",
    "m": "Cinco Días",
    "u": "https://cincodias.elpais.com/companias/2026-10-15/anthropic-calienta-su-historica-salida-a-bolsa-con-un-aumento-trimestral-de-sus-ingresos-del-46.html",
-   "f": "2026-10-15T07:06:51Z",
+   "f": "2026-10-15T07:13:38Z",
    "c": "empresas"
   },
   {
-   "t": "El Gobierno crea la figura del Economista Jefe en la CNMC",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-15/el-gobierno-crea-la-figura-del-economista-jefe-en-la-cnmc.html",
-   "f": "2026-10-15T07:03:44Z",
-   "c": "empresas"
-  },
-  {
-   "t": "Solaria firma un acuerdo con el Gobierno de Uruguay para invertir 5.000 millones en centros de datos",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-15/solaria-firma-un-acuerdo-con-el-gobierno-de-uruguay-para-invertir-5000-millones-en-centros-de-datos.html",
-   "f": "2026-10-15T06:53:37Z",
-   "c": "empresas"
-  },
-  {
-   "t": "El Gobierno hace cambios en la CNMC: crea un Economista Jefe y una Subdirección de Inteligencia Económica",
+   "t": "El PIB del Reino Unido moderó su crecimiento en agosto al 0,1%",
    "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/macroeconomia-00338/noticia-gobierno-hace-cambios-cnmc-crea-economista-jefe-subdireccion-inteligencia-economica-20261015083443.html",
-   "f": "2026-10-15T06:34:43Z",
-   "c": "general"
-  },
-  {
-   "t": "Los ingresos de Anthropic aumentaron casi un 50% en el último trimestre",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/empresas/2026/10/15/6ad063a7e85ece0f4a8b45a6.html",
-   "f": "2026-10-15T05:35:42Z",
-   "c": "general"
-  },
-  {
-   "t": "España tiene suelo para 6,7 millones de viviendas, según Funcas: ¿por qué no se construyen?",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261015/11659130/espana-suelo-6-7-millones-viviendas-funcas-construyen.html",
-   "f": "2026-10-15T04:00:00Z",
-   "c": "vivienda"
-  },
-  {
-   "t": "El Govern propone a la ex número dos de Educació cesada para el CTESC",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261015/11659111/govern-propone-ex-numero-dos-educacio-cesada-ctesc.html",
-   "f": "2026-10-15T04:00:00Z",
-   "c": "general"
-  },
-  {
-   "t": "La UE baraja nuevos instrumentos para armarse frente a las prácticas comerciales de Pekín",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261015/11659085/ue-baraja-nuevos-instrumentos-armarse-frente-practicas-comerciales-pekin.html",
-   "f": "2026-10-15T04:00:00Z",
-   "c": "comercio"
+   "u": "https://www.europapress.es/economia/macroeconomia-00338/noticia-pib-reino-unido-modero-crecimiento-agosto-01-20261015090738.html",
+   "f": "2026-10-15T07:07:38Z",
+   "c": "economia"
   }
  ]
 }
