@@ -1,6 +1,48 @@
 {
- "actualizado": "2026-10-15T09:57:16Z",
+ "actualizado": "2026-10-15T10:57:12Z",
  "items": [
+  {
+   "t": "Euríbor hoy, miércoles 14 de octubre: la tasa diaria marca una nueva subida por encima del 3,2%",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/10/14/6ac4cdb4e85ece3f128b45a5.html",
+   "f": "2026-10-15T10:50:13Z",
+   "c": "tipos"
+  },
+  {
+   "t": "Funcas advierte de que la economía crecerá menos a partir de 2027 mientras la inflación se mantiene elevada",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/funcas-advierte-que-economia-crecera-menos-partir-2027-mientras-inflacion-se-mantiene-elevada_7049102_0.html",
+   "f": "2026-10-15T10:43:46Z",
+   "c": "precios"
+  },
+  {
+   "t": "Kutxabank impulsa el negocio mayorista con un nuevo centro de empresas para el área del Mediterráneo",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-15/kutxabank-impulsa-el-negocio-mayorista-con-un-nuevo-centro-de-empresas-para-el-area-del-mediterraneo.html",
+   "f": "2026-10-15T10:26:50Z",
+   "c": "bancos"
+  },
+  {
+   "t": "Almeida bajará el IBI al mínimo legal en 2027, con un ahorro de 31 millones para los madrileños",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/2026/10/15/almeida-bajara-ibi-minimo-legal-2027-ahorro-31-millones-madrilenos.html",
+   "f": "2026-10-15T10:11:43Z",
+   "c": "general"
+  },
+  {
+   "t": "Amper y el fondo de Pablo Casado negocian la compra del fabricante de radares ART",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-15/amper-y-el-fondo-de-pablo-casado-negocian-la-compra-del-fabricante-de-radares-art.html",
+   "f": "2026-10-15T10:08:40Z",
+   "c": "empresas"
+  },
+  {
+   "t": "El Gobierno libera otros 4,4 millones de barriles de petróleo ante los precios disparados de los carburantes",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/nacional/gobierno-libera-otros-4-4-millones-barriles-petroleo-ante-los-precios-disparados-los-carburantes_7049097_0.html",
+   "f": "2026-10-15T10:05:46Z",
+   "c": "energia"
+  },
   {
    "t": "Paola de la Cruz, maestra y asesora educativa: “Cuidar y respetar a la persona que educa es también proteger los derechos de nuestros hijos”",
    "m": "El País",
@@ -9,53 +51,11 @@
    "c": "general"
   },
   {
-   "t": "Amper y el fondo de Pablo Casado negocian la compra del fabricante de radares ART",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-15/amper-y-el-fondo-de-pablo-casado-negocian-la-compra-del-fabricante-de-radares-art.html",
-   "f": "2026-10-15T09:41:21Z",
-   "c": "empresas"
-  },
-  {
-   "t": "Feijóo da su apoyo a Pablo Hernández de Cos para la presidencia del BCE",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-15/feijoo-da-su-apoyo-a-pablo-hernandez-de-cos-para-la-presidencia-del-bce.html",
-   "f": "2026-10-15T09:36:12Z",
-   "c": "tipos"
-  },
-  {
-   "t": "Las gasolinas dan un nuevo respiro tras subir un 28% en septiembre: se abaratan hasta un 3,24% con las rebajas fiscales",
+   "t": "Amancio Ortega acuerda con el magnate Donald Bren la compra de un rascacielos en Chicago por 490 millones",
    "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/las-gasolinas-dan-un-nuevo-respiro-tras-subir-un-28-septiembre-su-precio-se-abarata-hasta-un-3-24-con-las-rebajas-fiscales_7049041_0.html",
-   "f": "2026-10-15T09:34:59Z",
-   "c": "energia"
-  },
-  {
-   "t": "Canarias quiere exigir 10 años de empadronamiento para poder comprar una casa en las islas",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/vivienda/2026/10/15/6ad09d5f21efa0666b8b45b9.html",
-   "f": "2026-10-15T09:31:15Z",
+   "u": "https://www.20minutos.es/lainformacion/empresas/amancio-ortega-acuerda-con-magnate-donald-bren-compra-un-rascacielos-chicago-por-490-millones_7049062_0.html",
+   "f": "2026-10-15T09:42:48Z",
    "c": "general"
-  },
-  {
-   "t": "El Tesoro coloca 5.435,3 millones en deuda a medio y largo plazo y sube la rentabilidad ofrecida a inversores",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/macroeconomia-00338/noticia-tesoro-coloca-54353-millones-deuda-medio-largo-plazo-sube-rentabilidad-ofrecida-inversores-20261015112451.html",
-   "f": "2026-10-15T09:24:51Z",
-   "c": "general"
-  },
-  {
-   "t": "Funcas mantiene en el 2,5% su previsión de crecimiento pero avisa de una desaceleración de la economía para los próximos dos años por la inflación",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/10/15/6acfe44bfc6c834e608b4593.html",
-   "f": "2026-10-15T09:23:30Z",
-   "c": "precios"
-  },
-  {
-   "t": "El Gobierno ve factible aprobar el salario mínimo antes de las elecciones y subir las pensiones en diciembre",
-   "m": "Expansión",
-   "u": "https://www.expansion.com/economia/2026/10/15/gobierno-ve-factible-aprobar-salario-minimo-elecciones-subir-pensiones-diciembre.html",
-   "f": "2026-10-15T09:18:45Z",
-   "c": "pensiones"
   }
  ]
 }
