@@ -1,6 +1,41 @@
 {
- "actualizado": "2026-10-15T07:59:40Z",
+ "actualizado": "2026-10-15T09:00:15Z",
  "items": [
+  {
+   "t": "El neobanco Bunq incrementa hasta el 3,11% la remuneración de su cuenta de ahorro",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/neobanco-bunq-incrementa-hasta-3-11-remuneracion-su-cuenta-ahorro_7049009_0.html",
+   "f": "2026-10-15T08:35:44Z",
+   "c": "general"
+  },
+  {
+   "t": "La logística moverá 127 millones de envíos en Black Friday y Navidad, el menor crecimiento en cuatro años",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/empresas/2026/10/15/6ad08547e4d4d8d2358b458a.html",
+   "f": "2026-10-15T08:30:37Z",
+   "c": "economia"
+  },
+  {
+   "t": "Cuerpo avanza que el Gobierno subirá pensiones y salario mínimo aunque esté en funciones",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/cuerpo-avanza-que-gobierno-subira-pensiones-salario-minimo-aunque-este-funciones_7049003_0.html",
+   "f": "2026-10-15T08:19:14Z",
+   "c": "pensiones"
+  },
+  {
+   "t": "Cuerpo ve factible aprobar la subida de las pensiones en diciembre y el SMI, antes de las elecciones",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/laboral-00346/noticia-cuerpo-ve-factible-aprobar-subida-pensiones-diciembre-smi-antes-elecciones-20261015100237.html",
+   "f": "2026-10-15T08:02:37Z",
+   "c": "pensiones"
+  },
+  {
+   "t": "Ericsson gana un 46% menos hasta septiembre por costes de reestructuración",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/noticia-ericsson-gana-46-menos-septiembre-costes-reestructuracion-20261015095245.html",
+   "f": "2026-10-15T07:52:45Z",
+   "c": "general"
+  },
   {
    "t": "Desplome de los valores tecnológicos, con caídas cercanas al 10% en Asia y Europa",
    "m": "Cinco Días",
@@ -16,46 +51,11 @@
    "c": "pensiones"
   },
   {
-   "t": "Dinamarca, Suecia y Finlandia rechazan relajar las reglas del mercado europeo de emisiones",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/noticia-dinamarca-suecia-finlandia-rechazan-relajar-reglas-mercado-europeo-emisiones-20261015092816.html",
-   "f": "2026-10-15T07:28:16Z",
-   "c": "general"
-  },
-  {
-   "t": "Las mejores hipotecas fijas, mixtas y variables de octubre de 2026",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/vivienda/2026/10/15/6ad072d2e9cf4ab2248b459a.html",
-   "f": "2026-10-15T07:21:47Z",
-   "c": "tipos"
-  },
-  {
-   "t": "La compraventa de vivienda por extranjeros cae un 13% entre presión regulatoria y precios altos",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261015/11659404/compra-vivienda-extranjeros-semestre-espana-notarios.html",
-   "f": "2026-10-15T07:19:46Z",
-   "c": "vivienda"
-  },
-  {
-   "t": "Santander amortiza anticipadamente dos emisiones de cédulas por importe de 4.590 millones de euros",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/finanzas-00340/noticia-santander-amortiza-anticipadamente-dos-emisiones-cedulas-importe-4590-millones-euros-20261015091346.html",
-   "f": "2026-10-15T07:13:46Z",
-   "c": "bancos"
-  },
-  {
-   "t": "Anthropic calienta su histórica salida a Bolsa con un aumento trimestral de sus ingresos del 46%",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-15/anthropic-calienta-su-historica-salida-a-bolsa-con-un-aumento-trimestral-de-sus-ingresos-del-46.html",
-   "f": "2026-10-15T07:13:38Z",
+   "t": "Cuatro de cada diez pymes espera aumentar sus ventas este año",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/cuatro-cada-diez-pymes-espera-aumentar-sus-ventas-este-ano_7048868_0.html",
+   "f": "2026-10-15T07:33:38Z",
    "c": "empresas"
-  },
-  {
-   "t": "El PIB del Reino Unido moderó su crecimiento en agosto al 0,1%",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/macroeconomia-00338/noticia-pib-reino-unido-modero-crecimiento-agosto-01-20261015090738.html",
-   "f": "2026-10-15T07:07:38Z",
-   "c": "economia"
   }
  ]
 }
