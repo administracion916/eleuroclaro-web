@@ -1,6 +1,20 @@
 {
- "actualizado": "2026-10-15T20:55:19Z",
+ "actualizado": "2026-10-15T22:50:17Z",
  "items": [
+  {
+   "t": "Los Ángeles, una crisis de vivienda entre alquileres por las nubes y el sinhogarismo",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/vivienda/2026/10/16/6ad0bc2a21efa03e758b4592.html",
+   "f": "2026-10-15T22:00:50Z",
+   "c": "vivienda"
+  },
+  {
+   "t": "La herencia económica del sanchismo",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/macroeconomia/2026/10/16/6ad105a4e4d4d8960a8b4581.html",
+   "f": "2026-10-15T22:00:49Z",
+   "c": "general"
+  },
   {
    "t": "El consenso de la UE sobre su respuesta a la crisis energética salta por los aires",
    "m": "Expansión",
@@ -23,6 +37,13 @@
    "c": "comercio"
   },
   {
+   "t": "Crónica de una decepción anunciada: la primera reunión para negociar el presupuesto europeo acaba en fracaso",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/10/15/6ad129b1fc6c83fe588b4585.html",
+   "f": "2026-10-15T20:01:33Z",
+   "c": "general"
+  },
+  {
    "t": "El difícil aterrizaje en el bolsillo de los hogares de una economía que vuela",
    "m": "Cinco Días",
    "u": "https://cincodias.elpais.com/economia/foro-creo-creando-oportunidades/2026-10-15/el-dificil-aterrizaje-en-el-bolsillo-de-los-hogares-de-una-economia-que-vuela.html",
@@ -35,27 +56,6 @@
    "u": "https://www.lavanguardia.com/economia/20261015/11660071/garamendi-carga-gobierno-querer-subir-smi-campana-electoral.html",
    "f": "2026-10-15T18:19:28Z",
    "c": "empleo"
-  },
-  {
-   "t": "Amancio Ortega realiza una de sus grandes operaciones en EE UU con el cierre de la compra de un rascacielos en Chicago",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-15/amancio-ortega-realiza-una-de-sus-grandes-operaciones-en-ee-uu-con-el-cierre-de-la-compra-de-un-rascacielos-en-chicago.html",
-   "f": "2026-10-15T18:13:01Z",
-   "c": "empresas"
-  },
-  {
-   "t": "La mitad de las viviendas compradas durante la burbuja inmobiliaria se vendieron a pérdidas",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261015/11660054/mitad-viviendas-compradas-burbuja-inmobiliaria-vendieron-perdidas.html",
-   "f": "2026-10-15T17:53:59Z",
-   "c": "vivienda"
-  },
-  {
-   "t": "La Airef urge a superar las prórrogas presupuestarias para garantizar el control fiscal y afrontar los nuevos gastos",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/economia/foro-creo-creando-oportunidades/2026-10-15/la-airef-urge-a-superar-las-prorrogas-presupuestarias-para-garantizar-el-control-fiscal-y-afrontar-los-nuevos-gastos.html",
-   "f": "2026-10-15T17:25:22Z",
-   "c": "impuestos"
   }
  ]
 }
