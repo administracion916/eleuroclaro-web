@@ -1,6 +1,27 @@
 {
- "actualizado": "2026-10-15T05:09:10Z",
+ "actualizado": "2026-10-15T05:54:31Z",
  "items": [
+  {
+   "t": "Los ingresos de Anthropic aumentaron casi un 50% en el último trimestre",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/empresas/2026/10/15/6ad063a7e85ece0f4a8b45a6.html",
+   "f": "2026-10-15T05:35:42Z",
+   "c": "general"
+  },
+  {
+   "t": "Corrección en las Bolsas por el temor a más subidas de tipos tras el IPC americano",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-15/la-bolsa-y-el-ibex-35.html",
+   "f": "2026-10-15T05:13:54Z",
+   "c": "tipos"
+  },
+  {
+   "t": "España tiene suelo para 6,7 millones de viviendas, según Funcas: ¿por qué no se construyen?",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261015/11659130/espana-suelo-6-7-millones-viviendas-funcas-construyen.html",
+   "f": "2026-10-15T04:00:00Z",
+   "c": "vivienda"
+  },
   {
    "t": "El Govern propone a la ex número dos de Educació cesada para el CTESC",
    "m": "La Vanguardia",
@@ -14,13 +35,6 @@
    "u": "https://www.lavanguardia.com/economia/20261015/11659085/ue-baraja-nuevos-instrumentos-armarse-frente-practicas-comerciales-pekin.html",
    "f": "2026-10-15T04:00:00Z",
    "c": "comercio"
-  },
-  {
-   "t": "Para convencer a alguien, di menos argumentos (lo dice la ciencia)",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261015/11658636/convencer-argumentos-pablo-foncillas-pf-video-seo-lv.html",
-   "f": "2026-10-15T04:00:00Z",
-   "c": "general"
   },
   {
    "t": "El PSOE y el PP encienden la batalla por el futuro de las pensiones",
@@ -42,20 +56,6 @@
    "u": "https://elpais.com/economia/2026-10-15/los-sindicatos-corporativos-dan-la-espalda-a-la-huelga-general-por-la-vivienda.html",
    "f": "2026-10-15T03:30:01Z",
    "c": "vivienda"
-  },
-  {
-   "t": "Citi apuesta por la banca europea en Bolsa y ve injustificado el miedo a la deuda soberana",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-15/citi-apuesta-por-la-banca-europea-en-bolsa-y-ve-injustificado-el-miedo-a-la-deuda-soberana.html",
-   "f": "2026-10-15T03:30:01Z",
-   "c": "bancos"
-  },
-  {
-   "t": "Mediolanum cuestiona el diseño de las nuevas cuentas de inversión europeas: “Cinco años no bastan”",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-15/mediolanum-cuestiona-el-diseno-de-las-nuevas-cuentas-de-inversion-europeas-cinco-anos-no-bastan.html",
-   "f": "2026-10-15T03:30:01Z",
-   "c": "general"
   }
  ]
 }
