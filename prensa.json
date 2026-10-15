@@ -1,6 +1,34 @@
 {
- "actualizado": "2026-10-15T13:10:57Z",
+ "actualizado": "2026-10-15T14:03:21Z",
  "items": [
+  {
+   "t": "Los bancos, obligados a reintegrar pagos no autorizados aunque se trate de una negligencia del cliente",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/2026/10/15/bancos-obligados-reintegrar-pagos-autorizados-trate-negligencia-cliente.html",
+   "f": "2026-10-15T13:50:38Z",
+   "c": "bancos"
+  },
+  {
+   "t": "Feijóo se suma a Sánchez en el apoyo a Pablo Hernández de Cos para la presidencia del BCE",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-15/feijoo-da-su-apoyo-a-pablo-hernandez-de-cos-para-la-presidencia-del-bce.html",
+   "f": "2026-10-15T13:32:03Z",
+   "c": "tipos"
+  },
+  {
+   "t": "Substrate AI, cotizada en BME Growth y con participación pública, se marca un objetivo de ingresos de 100 millones en 2030",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-15/substrate-ai-cotizada-en-bme-growth-y-con-participacion-publica-preve-elevar-su-facturacion-de-71-a-100-millones-entre-2027-y-2030.html",
+   "f": "2026-10-15T13:29:31Z",
+   "c": "empresas"
+  },
+  {
+   "t": "La gran distribución exige al próximo Gobierno cinco reformas para frenar la pérdida de poder adquisitivo",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/empresas/2026/10/15/6ad0d2c621efa0004d8b45ba.html",
+   "f": "2026-10-15T13:27:28Z",
+   "c": "general"
+  },
   {
    "t": "Sánchez y Feijoo se enzarzan sobre las pensiones en Bruselas",
    "m": "Expansión",
@@ -16,13 +44,6 @@
    "c": "comercio"
   },
   {
-   "t": "Substrate AI, cotizada en BME Growth y con participación pública, prevé elevar su facturación de 7,1 a 100 millones entre 2027 y 2030",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-15/substrate-ai-cotizada-en-bme-growth-y-con-participacion-publica-preve-elevar-su-facturacion-de-71-a-100-millones-entre-2027-y-2030.html",
-   "f": "2026-10-15T12:41:50Z",
-   "c": "empresas"
-  },
-  {
    "t": "Elma Saiz asegura que las cifras económicas alimentan el optimismo del Gobierno",
    "m": "Cinco Días",
    "u": "https://cincodias.elpais.com/economia/foro-creo-creando-oportunidades/2026-10-15/elma-saiz-asegura-que-las-cifras-economicas-alimentan-el-optimismo-del-gobierno.html",
@@ -30,31 +51,10 @@
    "c": "general"
   },
   {
-   "t": "Santalucía y Zurich se alían para vender seguros de autos, decesos y mascotas",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-15/santalucia-y-zurich-se-alian-para-vender-seguros-de-autos-decesos-y-mascotas.html",
-   "f": "2026-10-15T12:18:22Z",
-   "c": "empresas"
-  },
-  {
-   "t": "Funcas ve señales de ralentización en la economía española por la persistencia de la inflación",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-15/funcas-ve-senales-de-ralentizacion-en-la-economia-espanola-por-la-persistencia-de-la-inflacion.html",
-   "f": "2026-10-15T12:07:42Z",
-   "c": "precios"
-  },
-  {
-   "t": "El gasto medio en transporte de los hogares españoles supera los 4.000 euros y se consolida como factor de desigualdad",
+   "t": "La patronal de los grandes almacenes propone una vicepresidencia económica de desregulación y mayor libertad de horarios",
    "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/gasto-medio-transporte-los-hogares-espanoles-supera-los-4-000-euros-se-consolida-como-factor-desigualdad_7049196_0.html",
-   "f": "2026-10-15T12:05:54Z",
-   "c": "general"
-  },
-  {
-   "t": "Santalucía y Zurich firman una alianza para la próxima década para seguros de auto, mascotas y decesos",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/empresas/2026/10/15/6ad0bb07e9cf4a40268b45a8.html",
-   "f": "2026-10-15T11:43:28Z",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/patronal-grandes-almacenes-propone-vicepresidencia-economica-desregulacion-libertad-horarios_7049172_0.html",
+   "f": "2026-10-15T12:27:19Z",
    "c": "general"
   }
  ]
