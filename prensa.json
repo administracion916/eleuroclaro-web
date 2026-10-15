@@ -1,6 +1,34 @@
 {
- "actualizado": "2026-10-15T14:03:21Z",
+ "actualizado": "2026-10-15T14:57:02Z",
  "items": [
+  {
+   "t": "Aagesen pide apostar por energía autóctona y renovable ante un coste extra de 100.000 millones en la UE por la guerra",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/economia/foro-creo-creando-oportunidades/2026-10-15/aagesen-pide-apostar-por-energia-autoctona-y-renovable-ante-un-extracoste-de-100000-millones-en-la-ue-por-la-guerra.html",
+   "f": "2026-10-15T14:50:39Z",
+   "c": "energia"
+  },
+  {
+   "t": "Substrate AI, cotizada en BME Growth y con participación pública, se marca un objetivo de ingresos de 100 millones en 2030",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-15/substrate-ai-cotizada-en-bme-growth-y-con-participacion-publica-preve-elevar-su-facturacion-de-71-a-100-millones-entre-2027-y-2030.html",
+   "f": "2026-10-15T14:44:12Z",
+   "c": "empresas"
+  },
+  {
+   "t": "Ferrovial gana la autopista I-285 en Atlanta con una oferta de 29.000 millones",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-15/ferrovial-gana-la-autopista-i-285-en-atlanta-con-una-oferta-de-29000-millones.html",
+   "f": "2026-10-15T14:37:49Z",
+   "c": "empresas"
+  },
+  {
+   "t": "Así es el método de los 'seis sobres', la forma de dividir el dinero de la forma más eficiente posible",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/asi-es-metodo-seis-sobres-forma-dividir-dinero-forma-mas-eficiente-posible_7049176_0.html",
+   "f": "2026-10-15T14:27:58Z",
+   "c": "general"
+  },
   {
    "t": "Los bancos, obligados a reintegrar pagos no autorizados aunque se trate de una negligencia del cliente",
    "m": "Expansión",
@@ -16,13 +44,6 @@
    "c": "tipos"
   },
   {
-   "t": "Substrate AI, cotizada en BME Growth y con participación pública, se marca un objetivo de ingresos de 100 millones en 2030",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-15/substrate-ai-cotizada-en-bme-growth-y-con-participacion-publica-preve-elevar-su-facturacion-de-71-a-100-millones-entre-2027-y-2030.html",
-   "f": "2026-10-15T13:29:31Z",
-   "c": "empresas"
-  },
-  {
    "t": "La gran distribución exige al próximo Gobierno cinco reformas para frenar la pérdida de poder adquisitivo",
    "m": "El Mundo",
    "u": "https://www.elmundo.es/economia/empresas/2026/10/15/6ad0d2c621efa0004d8b45ba.html",
@@ -30,32 +51,11 @@
    "c": "general"
   },
   {
-   "t": "Sánchez y Feijoo se enzarzan sobre las pensiones en Bruselas",
-   "m": "Expansión",
-   "u": "https://www.expansion.com/economia/2026/10/15/sanchez-feijoo-enzarzan-sobre-pensiones-bruselas.html",
-   "f": "2026-10-15T12:53:08Z",
-   "c": "pensiones"
-  },
-  {
-   "t": "Amancio Ortega refuerza su presencia en EEUU tras comprar una torre de oficinas en Chicago por 490 millones",
+   "t": "Garamendi (CEOE) ve \"increíble\" que el Gobierno use su \"poder\" para subir el SMI en periodo electoral",
    "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/noticia-amancio-ortega-refuerza-presencia-eeuu-comprar-torre-oficinas-chicago-490-millones-20261015145000.html",
-   "f": "2026-10-15T12:50:00Z",
-   "c": "comercio"
-  },
-  {
-   "t": "Elma Saiz asegura que las cifras económicas alimentan el optimismo del Gobierno",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/economia/foro-creo-creando-oportunidades/2026-10-15/elma-saiz-asegura-que-las-cifras-economicas-alimentan-el-optimismo-del-gobierno.html",
-   "f": "2026-10-15T12:32:59Z",
-   "c": "general"
-  },
-  {
-   "t": "La patronal de los grandes almacenes propone una vicepresidencia económica de desregulación y mayor libertad de horarios",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/patronal-grandes-almacenes-propone-vicepresidencia-economica-desregulacion-libertad-horarios_7049172_0.html",
-   "f": "2026-10-15T12:27:19Z",
-   "c": "general"
+   "u": "https://www.europapress.es/economia/laboral-00346/noticia-garamendi-ceoe-ve-increible-gobierno-use-poder-subir-smi-periodo-electoral-20261015145528.html",
+   "f": "2026-10-15T12:55:28Z",
+   "c": "empleo"
   }
  ]
 }
