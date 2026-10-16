@@ -1,19 +1,33 @@
 {
- "actualizado": "2026-10-16T21:52:44Z",
+ "actualizado": "2026-10-16T22:52:11Z",
  "items": [
+  {
+   "t": "Carácter nada discreto y estilo urbano sobre ruedas",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/empresas/2026/10/17/6ac92bed21efa0903c8b45b9.html",
+   "f": "2026-10-16T22:03:05Z",
+   "c": "general"
+  },
+  {
+   "t": "Italia mira a España para reclamar soluciones a la crisis de la vivienda",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/vivienda/2026/10/17/6ad24c58e85eceac3a8b45b2.html",
+   "f": "2026-10-16T22:03:04Z",
+   "c": "vivienda"
+  },
+  {
+   "t": "La subida del petróleo deja al Ejército sin proveedores interesados en vender combustible para la aviación en Canarias",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/empresas/2026/10/17/6ad105effdddff60468b4586.html",
+   "f": "2026-10-16T22:03:00Z",
+   "c": "energia"
+  },
   {
    "t": "La Cámara Alemana reúne a empresas y centros educativos para reivindicar la FP Dual como respuesta a la escasez de talento",
    "m": "20minutos",
    "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/camara-alemana-reune-empresas-centros-educativos-para-reivindicar-fp-dual-como-respuesta-escasez-talento_7049901_0.html",
    "f": "2026-10-16T20:47:06Z",
    "c": "empresas"
-  },
-  {
-   "t": "Cantabria inicia un plan para incorporar viviendas vacías al mercado de alquiler asequible",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/vivienda/2026/10/16/6ad26d4be9cf4a2a0b8b45c4.html",
-   "f": "2026-10-16T18:39:04Z",
-   "c": "vivienda"
   },
   {
    "t": "Pimec tiene vía libre para entrar en el CES dos años después",
@@ -37,24 +51,10 @@
    "c": "empresas"
   },
   {
-   "t": "Los maquinistas convocan una huelga de 24 horas en Renfe el 29 de octubre",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/empresas/2026/10/16/6ad25287e4d4d8c5018b4570.html",
-   "f": "2026-10-16T16:40:54Z",
-   "c": "transporte"
-  },
-  {
    "t": "Francia y Alemania se alían para alargar la vida al coche de combustión",
    "m": "La Vanguardia",
    "u": "https://www.lavanguardia.com/economia/20261016/11660997/francia-alemania-alian-alargar-vida-coche-combustion.html",
    "f": "2026-10-16T16:37:23Z",
-   "c": "transporte"
-  },
-  {
-   "t": "Francia y Alemania presionan para permitir la venta de coches de combustión en la UE después de 2035",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-16/francia-y-alemania-presionan-para-permitir-la-venta-de-coches-de-combustion-en-la-ue-despues-de-2035.html",
-   "f": "2026-10-16T16:13:01Z",
    "c": "transporte"
   }
  ]
