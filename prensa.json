@@ -1,6 +1,20 @@
 {
- "actualizado": "2026-10-16T17:53:13Z",
+ "actualizado": "2026-10-16T19:00:00Z",
  "items": [
+  {
+   "t": "Cantabria inicia un plan para incorporar viviendas vacías al mercado de alquiler asequible",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/vivienda/2026/10/16/6ad26d4be9cf4a2a0b8b45c4.html",
+   "f": "2026-10-16T18:39:04Z",
+   "c": "vivienda"
+  },
+  {
+   "t": "Pimec tiene vía libre para entrar en el CES dos años después",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261016/11661051/pimec-libre-entrar-ces-dos-anos.html",
+   "f": "2026-10-16T18:06:43Z",
+   "c": "general"
+  },
   {
    "t": "La multinacional Mahle plantea un nuevo ERE para 170 trabajadores en su fábrica de Cuenca",
    "m": "Cinco Días",
@@ -42,20 +56,6 @@
    "u": "https://www.europapress.es/economia/bolsa-00348/noticia-ibex-35-sube-154-semana-aferra-19300-puntos-20261016180834.html",
    "f": "2026-10-16T16:08:34Z",
    "c": "empresas"
-  },
-  {
-   "t": "Las Bolsas europeas esquivan el castigo tecnológico y cierran al alza una semana de sobresaltos",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-16/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-10-16T15:56:39Z",
-   "c": "tecnologia"
-  },
-  {
-   "t": "Friedrich Merz promete seguir luchando: ‘Somos el cordón sanitario’",
-   "m": "Expansión",
-   "u": "https://www.expansion.com/economia/financial-times/2026/10/16/friedrich-merz-promete-seguir-luchando-cordon-sanitario.html",
-   "f": "2026-10-16T14:59:40Z",
-   "c": "general"
   }
  ]
 }
