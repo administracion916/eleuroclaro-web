@@ -1,12 +1,40 @@
 {
- "actualizado": "2026-10-16T05:54:14Z",
+ "actualizado": "2026-10-16T07:10:09Z",
  "items": [
   {
    "t": "Las Bolsas se animan tras relajar Warsh las perspectivas de alzas de tipos",
    "m": "Cinco Días",
    "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-16/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-10-16T05:27:46Z",
+   "f": "2026-10-16T07:02:14Z",
    "c": "tipos"
+  },
+  {
+   "t": "La Bolsa de Indonesia se desploma más del 10% ante el riesgo de exclusión del proveedor de índices MSCI",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-16/la-bolsa-de-indonesia-se-desploma-mas-del-10-ante-el-riesgo-de-exclusion-del-proveedor-de-indices-msci.html",
+   "f": "2026-10-16T06:48:53Z",
+   "c": "empresas"
+  },
+  {
+   "t": "Italia quiere impulsar en Europa el horario de verano permanente para no volver a cambiar la hora",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/10/16/6ad1c629e4d4d897598b4597.html",
+   "f": "2026-10-16T06:37:34Z",
+   "c": "general"
+  },
+  {
+   "t": "Consumo abre expediente a una empresa de telecomunicaciones por cláusulas abusivas",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261016/11660383/consumo-abre-expediente-empresa-telecomunicaciones-clausulas-abusivas.html",
+   "f": "2026-10-16T06:22:21Z",
+   "c": "tecnologia"
+  },
+  {
+   "t": "Consumo abre expediente a una empresa de telecomunicaciones por prácticas abusivas y blinda al usuario con el prefijo 400",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/10/16/6ad1c14921efa029108b45b0.html",
+   "f": "2026-10-16T06:19:46Z",
+   "c": "tecnologia"
   },
   {
    "t": "Mentiras y falsas verdades",
@@ -28,34 +56,6 @@
    "u": "https://elpais.com/economia/2026-10-16/si-a-partir-de-este-sabado-te-llaman-para-venderte-algo-el-numero-empezara-por-400.html",
    "f": "2026-10-16T03:45:00Z",
    "c": "general"
-  },
-  {
-   "t": "Trabajo prepara una subida del salario mínimo antes de las elecciones que rondará el 5%",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-16/trabajo-prepara-una-subida-del-salario-minimo-antes-de-las-elecciones-que-rondara-el-5.html",
-   "f": "2026-10-16T03:30:01Z",
-   "c": "empleo"
-  },
-  {
-   "t": "Canarias pide al Gobierno que solo puedan comprar vivienda quienes lleven 10 años residiendo en las islas",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-16/canarias-pide-al-gobierno-que-solo-puedan-comprar-vivienda-quienes-lleven-10-anos-residiendo-en-las-islas.html",
-   "f": "2026-10-16T03:30:01Z",
-   "c": "vivienda"
-  },
-  {
-   "t": "La nueva vida de Galería Canalejas sin Mohari: reducir la dependencia del turista de EE UU y atraer al nacional",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-16/la-nueva-vida-de-galeria-canalejas-sin-mohari-reducir-la-dependencia-del-turista-de-ee-uu-y-atraer-al-nacional.html",
-   "f": "2026-10-16T03:15:00Z",
-   "c": "transporte"
-  },
-  {
-   "t": "El gigante estatal Energy China hace gira por el Ibex para atar socios y acelerar su expansión en España",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/empresas/gigante-estatal-energy-china-hace-gira-por-ibex-para-atar-socios-acelerar-su-expansion-espana_7049219_0.html",
-   "f": "2026-10-16T03:00:00Z",
-   "c": "energia"
   }
  ]
 }
