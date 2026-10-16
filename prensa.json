@@ -1,12 +1,54 @@
 {
- "actualizado": "2026-10-16T07:59:16Z",
+ "actualizado": "2026-10-16T08:59:19Z",
  "items": [
+  {
+   "t": "Estas son las mejores empresas españolas para trabajar en 2026, según Forbes",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/energia-medio-ambiente-00183/noticia-iberdrola-mejor-empresa-espanola-trabajar-ranking-mundial-forbes-20261016103358.html",
+   "f": "2026-10-16T08:33:58Z",
+   "c": "empresas"
+  },
+  {
+   "t": "Las empresas deberán utilizar números con prefijo 400 para realizar llamadas comerciales desde este sábado",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/noticia-empresas-deberan-utilizar-numeros-prefijo-400-realizar-llamadas-comerciales-sabado-20261016103230.html",
+   "f": "2026-10-16T08:32:30Z",
+   "c": "empresas"
+  },
+  {
+   "t": "Consumo abre un expediente sancionador a una gran 'teleco' por posibles prácticas abusivas",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/noticia-consumo-abre-expediente-sancionador-gran-teleco-posibles-practicas-abusivas-20261016102302.html",
+   "f": "2026-10-16T08:23:02Z",
+   "c": "general"
+  },
   {
    "t": "El BOE lo confirma: los autobuses con pasajeros de pie o sin cinturón no podrán superar los 80 km/h",
    "m": "El Mundo",
    "u": "https://www.elmundo.es/economia/2026/10/16/6ad1d1dcfdddff84598b456e.html",
-   "f": "2026-10-16T07:56:56Z",
+   "f": "2026-10-16T08:14:02Z",
    "c": "transporte"
+  },
+  {
+   "t": "España prohíbe las llamadas comerciales que no empiecen por 400 desde este sábado",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/espana-prohibe-las-llamadas-comerciales-que-no-empiecen-por-400-desde-este-sabado_7049516_0.html",
+   "f": "2026-10-16T08:08:25Z",
+   "c": "general"
+  },
+  {
+   "t": "¿Un coche volador? Tesla sorprende con el nuevo Roadster y sus piruetas",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261016/11660427/tesla-coche-roadster-volar-volador-elon-musk.html",
+   "f": "2026-10-16T08:07:42Z",
+   "c": "transporte"
+  },
+  {
+   "t": "Amancio Ortega refuerza su presencia en EEUU tras comprar una torre de oficinas en Chicago por 490 millones",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/10/16/6ad1d7c4e4d4d8021c8b4586.html",
+   "f": "2026-10-16T07:59:55Z",
+   "c": "comercio"
   },
   {
    "t": "Las ventas del sector servicios aceleran su crecimiento en agosto al 6% y las de la industria al 10,8%",
@@ -14,48 +56,6 @@
    "u": "https://www.expansion.com/economia/2026/10/16/ventas-sector-servicios-aceleran-crecimiento-agosto-6-industria-10-8.html",
    "f": "2026-10-16T07:48:23Z",
    "c": "economia"
-  },
-  {
-   "t": "Letterone coloca a su consejero delegado como presidente del consejo de Dia",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-16/letterone-coloca-a-su-consejero-delegado-como-presidente-del-consejo-de-dia.html",
-   "f": "2026-10-16T07:29:59Z",
-   "c": "empresas"
-  },
-  {
-   "t": "El Ibex 35 abre con un alza del 0,5% y roza los 19.300 puntos, con el petróleo cayendo a 105 dólares",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/bolsa-00348/noticia-ibex-35-abre-alza-05-roza-19300-puntos-petroleo-cayendo-105-dolares-20261016091550.html",
-   "f": "2026-10-16T07:15:50Z",
-   "c": "energia"
-  },
-  {
-   "t": "Las ventas de la industria disparan su crecimiento en agosto al 10,8% y suman seis meses de alzas",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/macroeconomia-00338/noticia-ventas-industria-disparan-crecimiento-agosto-108-suman-seis-meses-alzas-20261016091228.html",
-   "f": "2026-10-16T07:12:28Z",
-   "c": "economia"
-  },
-  {
-   "t": "El CEO de Ithaca Energy dejará el cargo el 31 de marzo de 2027",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/energia-00341/noticia-ceo-ithaca-energy-dejara-cargo-31-marzo-2027-20261016090231.html",
-   "f": "2026-10-16T07:02:31Z",
-   "c": "energia"
-  },
-  {
-   "t": "Las Bolsas se animan tras relajar Warsh las perspectivas de alzas de tipos",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-16/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-10-16T07:02:14Z",
-   "c": "tipos"
-  },
-  {
-   "t": "El Banco Mundial cree que no habrá trabajo para 800 millones de jóvenes, “de aquí a 10 o 15 años”",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261016/11660344/banco-mundial-cree-habra-trabajo-800-millones-jovenes-proxima-decada.html",
-   "f": "2026-10-16T06:58:45Z",
-   "c": "bancos"
   }
  ]
 }
