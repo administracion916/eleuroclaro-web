@@ -1,6 +1,48 @@
 {
- "actualizado": "2026-10-16T13:09:56Z",
+ "actualizado": "2026-10-16T14:00:29Z",
  "items": [
+  {
+   "t": "Las Bolsas se animan tras relajar Warsh las perspectivas de alzas de tipos",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-16/la-bolsa-y-el-ibex-35.html",
+   "f": "2026-10-16T13:35:53Z",
+   "c": "tipos"
+  },
+  {
+   "t": "Amber Capital baja del 5% en Indra, pero mantiene su asiento en el consejo",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-16/amber-capital-baja-del-5-en-indra-pero-mantiene-su-asiento-en-el-consejo.html",
+   "f": "2026-10-16T13:27:23Z",
+   "c": "empresas"
+  },
+  {
+   "t": "El Gobierno defiende que el descuento fiscal a los carburantes se ha trasladado con rapidez a los surtidores",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-16/el-gobierno-defiende-que-el-descuento-fiscal-a-los-carburantes-se-ha-trasladado-con-rapidez-a-los-surtidores.html",
+   "f": "2026-10-16T13:26:29Z",
+   "c": "energia"
+  },
+  {
+   "t": "El lujo reivindica la autenticidad y la creatividad frente al avance de la IA",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/10/16/6ad2129afdddff746f8b458a.html",
+   "f": "2026-10-16T13:25:55Z",
+   "c": "tecnologia"
+  },
+  {
+   "t": "Lucena confirma que la ampliación de El Prat estará lista para el 2036",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261016/11660825/lucena-confirma-ampliacion-prat-estara-lista-2036.html",
+   "f": "2026-10-16T13:13:21Z",
+   "c": "general"
+  },
+  {
+   "t": "Leapmotor inicia la producción de su primer coche eléctrico en España con el B10",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261016/11660799/leapmotor-inicia-produccion-primer-coche-electrico-espana-b10.html",
+   "f": "2026-10-16T12:43:37Z",
+   "c": "transporte"
+  },
   {
    "t": "Kepler discrepa de Bank of America sobre Ferrovial y tilda de \"innecesariamente alta\" su puja en Georgia",
    "m": "Europa Press",
@@ -14,48 +56,6 @@
    "u": "https://www.elmundo.es/economia/2026/10/16/6ad21709fdddffa8658b4587.html",
    "f": "2026-10-16T12:23:32Z",
    "c": "bancos"
-  },
-  {
-   "t": "El Gobierno logra convalidar el decreto anticrisis con 12.000 millones para paliar la subida de precios",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261016/11660777/gobierno-logra-convalidar-decreto-anticrisis-12-000-millones-paliar-subida-precios.html",
-   "f": "2026-10-16T12:14:37Z",
-   "c": "precios"
-  },
-  {
-   "t": "El Congreso refrenda las ayudas fiscales al combustible con el voto en contra de Vox y la abstención de Junts",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/macroeconomia-00338/noticia-congreso-refrenda-ayudas-fiscales-combustible-voto-contra-vox-abstencion-junts-20261016141143.html",
-   "f": "2026-10-16T12:11:43Z",
-   "c": "energia"
-  },
-  {
-   "t": "El FMI recomienda a España aumentar la oferta para abordar la crisis del precio de la vivienda",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/macroeconomia-00338/noticia-fmi-recomienda-espana-aumentar-oferta-abordar-crisis-precio-vivienda-20261016135440.html",
-   "f": "2026-10-16T11:54:40Z",
-   "c": "vivienda"
-  },
-  {
-   "t": "Telefónica sopesa financiar la compra de su filial mexicana a Melissa",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-16/telefonica-sopesa-financiar-la-compra-de-su-filial-mexicana-a-melissa.html",
-   "f": "2026-10-16T11:43:48Z",
-   "c": "general"
-  },
-  {
-   "t": "Las Bolsas se animan tras relajar Warsh las perspectivas de alzas de tipos",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-16/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-10-16T11:34:31Z",
-   "c": "tipos"
-  },
-  {
-   "t": "El Parlamento de Alemania aprueba un plan de pensiones infantil de 10 euros al mes",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261016/11660697/alemania-bundestag-pension-infantil-10-euros-mes-merz-reforma-jubilacion.html",
-   "f": "2026-10-16T11:30:58Z",
-   "c": "pensiones"
   }
  ]
 }
