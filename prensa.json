@@ -1,61 +1,61 @@
 {
- "actualizado": "2026-10-15T22:50:17Z",
+ "actualizado": "2026-10-16T05:09:01Z",
  "items": [
   {
-   "t": "Los Ángeles, una crisis de vivienda entre alquileres por las nubes y el sinhogarismo",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/vivienda/2026/10/16/6ad0bc2a21efa03e758b4592.html",
-   "f": "2026-10-15T22:00:50Z",
+   "t": "Mentiras y falsas verdades",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261016/11660039/mentiras-falsas-verdades.html",
+   "f": "2026-10-16T04:00:00Z",
+   "c": "general"
+  },
+  {
+   "t": "La filantropía según Elon Musk: opaca, tacaña y sirviendo a sus propios intereses",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261016/11659681/filantropia-musk-opaca-tacana-sirviendo-propios-intereses.html",
+   "f": "2026-10-16T04:00:00Z",
+   "c": "general"
+  },
+  {
+   "t": "Si a partir de este sábado te llaman para venderte algo, el número empezará por 400",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-16/si-a-partir-de-este-sabado-te-llaman-para-venderte-algo-el-numero-empezara-por-400.html",
+   "f": "2026-10-16T03:45:00Z",
+   "c": "general"
+  },
+  {
+   "t": "Trabajo prepara una subida del salario mínimo antes de las elecciones que rondará el 5%",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-16/trabajo-prepara-una-subida-del-salario-minimo-antes-de-las-elecciones-que-rondara-el-5.html",
+   "f": "2026-10-16T03:30:01Z",
+   "c": "empleo"
+  },
+  {
+   "t": "Canarias pide al Gobierno que solo puedan comprar vivienda quienes lleven 10 años residiendo en las islas",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-16/canarias-pide-al-gobierno-que-solo-puedan-comprar-vivienda-quienes-lleven-10-anos-residiendo-en-las-islas.html",
+   "f": "2026-10-16T03:30:01Z",
    "c": "vivienda"
   },
   {
-   "t": "La herencia económica del sanchismo",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/macroeconomia/2026/10/16/6ad105a4e4d4d8960a8b4581.html",
-   "f": "2026-10-15T22:00:49Z",
-   "c": "general"
-  },
-  {
-   "t": "El consenso de la UE sobre su respuesta a la crisis energética salta por los aires",
-   "m": "Expansión",
-   "u": "https://www.expansion.com/economia/2026/10/15/consenso-ue-sobre-respuesta-crisis-energetica-salta-aires.html",
-   "f": "2026-10-15T20:34:04Z",
-   "c": "energia"
-  },
-  {
-   "t": "Las medidas frente a los precios de la energía dividen a los líderes europeos",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261015/11660126/medidas-frente-precios-energia-dividen-lideres-europeos.html",
-   "f": "2026-10-15T20:25:48Z",
-   "c": "energia"
-  },
-  {
-   "t": "Bruselas negociará con China aplicar cuotas a nuevos sectores",
-   "m": "Expansión",
-   "u": "https://www.expansion.com/economia/2026/10/15/bruselas-negociara-china-aplicar-cuotas-nuevos-sectores.html",
-   "f": "2026-10-15T20:20:27Z",
-   "c": "comercio"
-  },
-  {
-   "t": "Crónica de una decepción anunciada: la primera reunión para negociar el presupuesto europeo acaba en fracaso",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/10/15/6ad129b1fc6c83fe588b4585.html",
-   "f": "2026-10-15T20:01:33Z",
-   "c": "general"
-  },
-  {
-   "t": "El difícil aterrizaje en el bolsillo de los hogares de una economía que vuela",
+   "t": "La nueva vida de Galería Canalejas sin Mohari: reducir la dependencia del turista de EE UU y atraer al nacional",
    "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/economia/foro-creo-creando-oportunidades/2026-10-15/el-dificil-aterrizaje-en-el-bolsillo-de-los-hogares-de-una-economia-que-vuela.html",
-   "f": "2026-10-15T18:32:21Z",
-   "c": "general"
+   "u": "https://cincodias.elpais.com/companias/2026-10-16/la-nueva-vida-de-galeria-canalejas-sin-mohari-reducir-la-dependencia-del-turista-de-ee-uu-y-atraer-al-nacional.html",
+   "f": "2026-10-16T03:15:00Z",
+   "c": "transporte"
   },
   {
-   "t": "Garamendi carga contra el Gobierno por querer subir el SMI en campaña electoral",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261015/11660071/garamendi-carga-gobierno-querer-subir-smi-campana-electoral.html",
-   "f": "2026-10-15T18:19:28Z",
-   "c": "empleo"
+   "t": "El gigante estatal Energy China hace gira por el Ibex para atar socios y acelerar su expansión en España",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/empresas/gigante-estatal-energy-china-hace-gira-por-ibex-para-atar-socios-acelerar-su-expansion-espana_7049219_0.html",
+   "f": "2026-10-16T03:00:00Z",
+   "c": "energia"
+  },
+  {
+   "t": "Las represalias de EEUU contra España comprometen casi 2.800 millones en exportaciones",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/represalias-comerciales-propuestas-estados-unidos-contra-espana-comprometen-casi-2-800-millones-exportaciones_7049247_0.html",
+   "f": "2026-10-16T03:00:00Z",
+   "c": "comercio"
   }
  ]
 }
