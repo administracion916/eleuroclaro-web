@@ -1,6 +1,48 @@
 {
- "actualizado": "2026-10-16T07:10:09Z",
+ "actualizado": "2026-10-16T07:59:16Z",
  "items": [
+  {
+   "t": "El BOE lo confirma: los autobuses con pasajeros de pie o sin cinturón no podrán superar los 80 km/h",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/10/16/6ad1d1dcfdddff84598b456e.html",
+   "f": "2026-10-16T07:56:56Z",
+   "c": "transporte"
+  },
+  {
+   "t": "Las ventas del sector servicios aceleran su crecimiento en agosto al 6% y las de la industria al 10,8%",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/2026/10/16/ventas-sector-servicios-aceleran-crecimiento-agosto-6-industria-10-8.html",
+   "f": "2026-10-16T07:48:23Z",
+   "c": "economia"
+  },
+  {
+   "t": "Letterone coloca a su consejero delegado como presidente del consejo de Dia",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-16/letterone-coloca-a-su-consejero-delegado-como-presidente-del-consejo-de-dia.html",
+   "f": "2026-10-16T07:29:59Z",
+   "c": "empresas"
+  },
+  {
+   "t": "El Ibex 35 abre con un alza del 0,5% y roza los 19.300 puntos, con el petróleo cayendo a 105 dólares",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/bolsa-00348/noticia-ibex-35-abre-alza-05-roza-19300-puntos-petroleo-cayendo-105-dolares-20261016091550.html",
+   "f": "2026-10-16T07:15:50Z",
+   "c": "energia"
+  },
+  {
+   "t": "Las ventas de la industria disparan su crecimiento en agosto al 10,8% y suman seis meses de alzas",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/macroeconomia-00338/noticia-ventas-industria-disparan-crecimiento-agosto-108-suman-seis-meses-alzas-20261016091228.html",
+   "f": "2026-10-16T07:12:28Z",
+   "c": "economia"
+  },
+  {
+   "t": "El CEO de Ithaca Energy dejará el cargo el 31 de marzo de 2027",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/energia-00341/noticia-ceo-ithaca-energy-dejara-cargo-31-marzo-2027-20261016090231.html",
+   "f": "2026-10-16T07:02:31Z",
+   "c": "energia"
+  },
   {
    "t": "Las Bolsas se animan tras relajar Warsh las perspectivas de alzas de tipos",
    "m": "Cinco Días",
@@ -9,53 +51,11 @@
    "c": "tipos"
   },
   {
-   "t": "La Bolsa de Indonesia se desploma más del 10% ante el riesgo de exclusión del proveedor de índices MSCI",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-16/la-bolsa-de-indonesia-se-desploma-mas-del-10-ante-el-riesgo-de-exclusion-del-proveedor-de-indices-msci.html",
-   "f": "2026-10-16T06:48:53Z",
-   "c": "empresas"
-  },
-  {
-   "t": "Italia quiere impulsar en Europa el horario de verano permanente para no volver a cambiar la hora",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/10/16/6ad1c629e4d4d897598b4597.html",
-   "f": "2026-10-16T06:37:34Z",
-   "c": "general"
-  },
-  {
-   "t": "Consumo abre expediente a una empresa de telecomunicaciones por cláusulas abusivas",
+   "t": "El Banco Mundial cree que no habrá trabajo para 800 millones de jóvenes, “de aquí a 10 o 15 años”",
    "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261016/11660383/consumo-abre-expediente-empresa-telecomunicaciones-clausulas-abusivas.html",
-   "f": "2026-10-16T06:22:21Z",
-   "c": "tecnologia"
-  },
-  {
-   "t": "Consumo abre expediente a una empresa de telecomunicaciones por prácticas abusivas y blinda al usuario con el prefijo 400",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/10/16/6ad1c14921efa029108b45b0.html",
-   "f": "2026-10-16T06:19:46Z",
-   "c": "tecnologia"
-  },
-  {
-   "t": "Mentiras y falsas verdades",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261016/11660039/mentiras-falsas-verdades.html",
-   "f": "2026-10-16T04:00:00Z",
-   "c": "general"
-  },
-  {
-   "t": "La filantropía según Elon Musk: opaca, tacaña y sirviendo a sus propios intereses",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261016/11659681/filantropia-musk-opaca-tacana-sirviendo-propios-intereses.html",
-   "f": "2026-10-16T04:00:00Z",
-   "c": "general"
-  },
-  {
-   "t": "Si a partir de este sábado te llaman para venderte algo, el número empezará por 400",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-16/si-a-partir-de-este-sabado-te-llaman-para-venderte-algo-el-numero-empezara-por-400.html",
-   "f": "2026-10-16T03:45:00Z",
-   "c": "general"
+   "u": "https://www.lavanguardia.com/economia/20261016/11660344/banco-mundial-cree-habra-trabajo-800-millones-jovenes-proxima-decada.html",
+   "f": "2026-10-16T06:58:45Z",
+   "c": "bancos"
   }
  ]
 }
