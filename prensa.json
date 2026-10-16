@@ -1,11 +1,39 @@
 {
- "actualizado": "2026-10-16T15:56:09Z",
+ "actualizado": "2026-10-16T16:56:37Z",
  "items": [
+  {
+   "t": "Los maquinistas convocan una huelga de 24 horas en Renfe el 29 de octubre",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/empresas/2026/10/16/6ad25287e4d4d8c5018b4570.html",
+   "f": "2026-10-16T16:40:54Z",
+   "c": "transporte"
+  },
+  {
+   "t": "Francia y Alemania se alían para alargar la vida al coche de combustión",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261016/11660997/francia-alemania-alian-alargar-vida-coche-combustion.html",
+   "f": "2026-10-16T16:37:23Z",
+   "c": "transporte"
+  },
+  {
+   "t": "Francia y Alemania presionan para permitir la venta de coches de combustión en la UE después de 2035",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-16/francia-y-alemania-presionan-para-permitir-la-venta-de-coches-de-combustion-en-la-ue-despues-de-2035.html",
+   "f": "2026-10-16T16:13:01Z",
+   "c": "transporte"
+  },
+  {
+   "t": "El Ibex 35 sube un 1,54% en la semana y se aferra a los 19.300 puntos",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/bolsa-00348/noticia-ibex-35-sube-154-semana-aferra-19300-puntos-20261016180834.html",
+   "f": "2026-10-16T16:08:34Z",
+   "c": "empresas"
+  },
   {
    "t": "Las Bolsas europeas esquivan el castigo tecnológico y cierran al alza una semana de sobresaltos",
    "m": "Cinco Días",
    "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-16/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-10-16T15:50:18Z",
+   "f": "2026-10-16T15:56:39Z",
    "c": "tecnologia"
   },
   {
@@ -27,34 +55,6 @@
    "m": "Expansión",
    "u": "https://www.expansion.com/economia/2026/10/16/cuerpo-dice-gasolineras-han-trasladado-rebaja-fiscal-precios-combustible.html",
    "f": "2026-10-16T14:49:24Z",
-   "c": "energia"
-  },
-  {
-   "t": "¿Qué pasará con la ley para jubilarse anticipadamente sin penalización con 40 años cotizados tras las elecciones del 29 de noviembre?",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/que-pasara-ley-jubilarse-anticipadamente-sin-penalizacion-40-anos-cotizados-tras-elecciones-29-noviembre_7049758_0.html",
-   "f": "2026-10-16T14:45:37Z",
-   "c": "empresas"
-  },
-  {
-   "t": "Las cinco ofertas por Tubos Reunidos incluyen reducción de plantilla",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-16/las-cinco-ofertas-por-tubos-reunidos-incluyen-reduccion-de-plantilla.html",
-   "f": "2026-10-16T14:32:11Z",
-   "c": "empresas"
-  },
-  {
-   "t": "Feijóo promete al campo reducir sus impuestos y burocracia y facilitar el relevo generacional",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/10/16/6ad22a9421efa028398b456f.html",
-   "f": "2026-10-16T14:18:34Z",
-   "c": "impuestos"
-  },
-  {
-   "t": "El Gobierno defiende que el descuento fiscal a los carburantes se ha trasladado con rapidez a los surtidores",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-16/el-gobierno-defiende-que-el-descuento-fiscal-a-los-carburantes-se-ha-trasladado-con-rapidez-a-los-surtidores.html",
-   "f": "2026-10-16T13:26:29Z",
    "c": "energia"
   }
  ]
