@@ -1,19 +1,40 @@
 {
- "actualizado": "2026-10-16T14:00:29Z",
+ "actualizado": "2026-10-16T14:57:15Z",
  "items": [
+  {
+   "t": "Anthropic, con el rating de ‘bono basura’ más alto a las puertas de la salida a Bolsa",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-16/anthropic-con-el-rating-de-bono-basura-mas-alto-a-las-puertas-de-la-salida-a-bolsa.html",
+   "f": "2026-10-16T14:56:00Z",
+   "c": "empresas"
+  },
+  {
+   "t": "Cuerpo dice que las gasolineras han trasladado la rebaja fiscal a los precios del combustible",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/2026/10/16/cuerpo-dice-gasolineras-han-trasladado-rebaja-fiscal-precios-combustible.html",
+   "f": "2026-10-16T14:49:24Z",
+   "c": "energia"
+  },
+  {
+   "t": "Las cinco ofertas por Tubos Reunidos incluyen reducción de plantilla",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-16/las-cinco-ofertas-por-tubos-reunidos-incluyen-reduccion-de-plantilla.html",
+   "f": "2026-10-16T14:32:11Z",
+   "c": "empresas"
+  },
+  {
+   "t": "Feijóo promete al campo reducir sus impuestos y burocracia y facilitar el relevo generacional",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/10/16/6ad22a9421efa028398b456f.html",
+   "f": "2026-10-16T14:18:34Z",
+   "c": "impuestos"
+  },
   {
    "t": "Las Bolsas se animan tras relajar Warsh las perspectivas de alzas de tipos",
    "m": "Cinco Días",
    "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-16/la-bolsa-y-el-ibex-35.html",
    "f": "2026-10-16T13:35:53Z",
    "c": "tipos"
-  },
-  {
-   "t": "Amber Capital baja del 5% en Indra, pero mantiene su asiento en el consejo",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-16/amber-capital-baja-del-5-en-indra-pero-mantiene-su-asiento-en-el-consejo.html",
-   "f": "2026-10-16T13:27:23Z",
-   "c": "empresas"
   },
   {
    "t": "El Gobierno defiende que el descuento fiscal a los carburantes se ha trasladado con rapidez a los surtidores",
@@ -35,27 +56,6 @@
    "u": "https://www.lavanguardia.com/economia/20261016/11660825/lucena-confirma-ampliacion-prat-estara-lista-2036.html",
    "f": "2026-10-16T13:13:21Z",
    "c": "general"
-  },
-  {
-   "t": "Leapmotor inicia la producción de su primer coche eléctrico en España con el B10",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261016/11660799/leapmotor-inicia-produccion-primer-coche-electrico-espana-b10.html",
-   "f": "2026-10-16T12:43:37Z",
-   "c": "transporte"
-  },
-  {
-   "t": "Kepler discrepa de Bank of America sobre Ferrovial y tilda de \"innecesariamente alta\" su puja en Georgia",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/transportes-00343/noticia-kepler-discrepa-bank-of-america-ferrovial-tilda-innecesariamente-alta-puja-georgia-20261016142840.html",
-   "f": "2026-10-16T12:28:40Z",
-   "c": "general"
-  },
-  {
-   "t": "Dos jóvenes devuelven en Austria 108.000 euros que recibieron de más y su banco se lo agradece con una bolsita de gominolas",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/10/16/6ad21709fdddffa8658b4587.html",
-   "f": "2026-10-16T12:23:32Z",
-   "c": "bancos"
   }
  ]
 }
