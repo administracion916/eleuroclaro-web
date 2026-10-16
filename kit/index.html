@@ -2,16 +2,192 @@
 <html lang="es">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="robots" content="noindex">
-<title>El Euro Claro</title>
-<!-- Dirección corta: reenvía a otra página. No sale en el sitemap ni en Google. -->
-<noscript><meta http-equiv="refresh" content="0; url=https://eleuroclaro.gumroad.com/l/kit"></noscript>
-<!-- Hasta el fin de la oferta CLARO5 lleva al enlace con el descuento ya puesto. -->
-<script>location.replace(new Date() < new Date("2026-10-12T23:59:59+02:00") ? "https://eleuroclaro.gumroad.com/l/kit/CLARO5" : "https://eleuroclaro.gumroad.com/l/kit");</script>
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Kit de cuentas de casa · El Euro Claro</title>
+<meta name="description" content="Un Excel en español con tu presupuesto 50/30/20, la cuota de tu hipoteca con cualquier Euríbor y tu plan de ahorro. Solo rellenas las celdas amarillas. Para Excel, Google Sheets y Numbers.">
+<meta name="theme-color" content="#0e2a47">
+<meta property="og:site_name" content="El Euro Claro">
+<meta property="og:title" content="Kit de cuentas de casa: presupuesto, hipoteca y ahorro en un Excel">
+<meta property="og:description" content="Tu presupuesto 50/30/20, tu cuota con cualquier Euríbor y tu colchón de ahorro, en una hoja. Solo rellenas las celdas amarillas.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://eleuroclaro.es/kit/">
+<meta property="og:locale" content="es_ES">
+<meta property="og:image" content="https://eleuroclaro.es/img/kit-portada.png">
+<meta property="og:image:type" content="image/png">
+<meta property="og:image:width" content="1280">
+<meta property="og:image:height" content="720">
+<meta property="og:image:alt" content="Kit de cuentas de casa de El Euro Claro, en Excel.">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="canonical" href="https://eleuroclaro.es/kit/">
+<!-- Página en una subcarpeta: todas las rutas son absolutas (empiezan por /). -->
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="stylesheet" href="/fonts.css">
+<link rel="stylesheet" href="/style.css?v=20261011n">
+<style>
+  .kit-head { padding-block: 3rem 3.5rem; }
+  .kit-head h1 { font-size: clamp(2.1rem, 5vw, 3.2rem); margin-block: .6rem 1rem; }
+  .kit-head .btn-primary { font-size: 1.1rem; padding: .95rem 1.6rem; }
+  .kit-compat { margin-top: 1rem; font-weight: 600; }
+  .kit-partes { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.2rem; margin-top: 1.6rem; }
+  .kit-partes > div { background: var(--surface); border: 1px solid var(--line); border-radius: .7rem; padding: 1.2rem 1.3rem; }
+  .kit-partes h3 { font-size: 1.3rem; margin-bottom: .4rem; }
+  .kit-partes p { margin: 0; color: var(--muted); }
+  .kit-pasos { margin: 1.2rem 0 0; padding-left: 1.4rem; display: grid; gap: .7rem; max-width: 40rem; }
+  .kit-pasos li::marker { font-weight: 700; color: var(--gold-text); }
+  .kit-garantia { margin-top: 1.6rem; max-width: 40rem; padding: .9rem 1.1rem; border-radius: .5rem; background: var(--gold-soft); }
+  .kit-autor { display: flex; align-items: center; gap: .9rem; margin-top: 1.6rem; }
+  .kit-autor img { width: 56px; height: 56px; border-radius: 50%; flex: none; }
+  .kit-autor p { margin: 0; }
+  .kit-final { margin-top: 1.8rem; }
+  @media (max-width: 760px) {
+    .kit-partes { grid-template-columns: 1fr; }
+    .kit-head .actions .btn { width: 100%; text-align: center; }
+  }
+</style>
 </head>
 <body>
-<p>Te llevamos a <a href="https://eleuroclaro.gumroad.com/l/kit">El Euro Claro</a>…</p>
+
+<header class="top">
+  <div class="wrap">
+    <a class="brand" href="/" aria-label="El Euro Claro, inicio">
+      <svg class="coin" viewBox="0 0 40 40" aria-hidden="true"><circle cx="20" cy="20" r="18" fill="#f4c51a"/><circle cx="20" cy="20" r="14.5" fill="none" stroke="#0e2a47" stroke-width="1.2" opacity=".45"/><text x="20" y="26.5" text-anchor="middle" font-family="Georgia, serif" font-size="19" font-weight="700" fill="#10294a">€</text></svg>
+      El Euro Claro
+    </a>
+    <nav class="nav" aria-label="Secciones">
+      <a class="nav-nl" href="/domingo/?src=web-cabecera"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><rect x="2.5" y="5" width="19" height="14" rx="2.5"/><path d="M3 6.5l9 6.5 9-6.5"/></svg>Newsletter gratis</a>
+      <a href="/#noticias">Noticias</a>
+      <a href="/#videos">Vídeos</a>
+      <a href="/inflacion/">Calculadora</a>
+      <a href="/kit/">Kit</a>
+      <a href="/empresas/">Empresas</a>
+      <a href="/libros/">Libros</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <section class="section kit-band kit-head">
+    <div class="wrap kit">
+      <div>
+        <p class="eyebrow">Herramienta · Excel</p>
+        <h1>Kit de cuentas de casa</h1>
+        <p class="intro">Tu presupuesto, tu hipoteca y tu ahorro en una hoja de Excel. Solo rellenas las celdas amarillas.</p>
+        <ul class="checks">
+          <li>Presupuesto 50/30/20: ves si gastas de más y cuánto apartar</li>
+          <li>Hipoteca: tu cuota, y cuánto cambia si el Euríbor sube o baja</li>
+          <li>Ahorro: tu colchón de 3 a 6 meses y cuánto apartar para una meta</li>
+        </ul>
+        <p class="kit-compat">Funciona en Excel, Google Sheets y Numbers.</p>
+        <p class="kit-precio"><strong>19&nbsp;€</strong> IVA incluido, precio en España.</p>
+        <!-- OFERTA: aquí pone oferta.py el bloque con fecha (data-hasta). -->
+        <div class="actions">
+          <a class="btn btn-primary" data-gumroad href="https://eleuroclaro.gumroad.com/l/kit" rel="noopener">Comprar el kit</a>
+        </div>
+      </div>
+      <img class="kit-img-solo" src="/img/kit-portada.png" width="1280" height="720" alt="Portada del Kit de cuentas de casa, en Excel." decoding="async" style="display:block;width:100%;height:auto;border-radius:.7rem;border:1px solid var(--line);box-shadow:0 26px 50px -30px rgba(14,42,71,.6)">
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="wrap">
+      <h2>Qué trae</h2>
+      <p class="intro">Cuatro hojas: Empieza aquí, Presupuesto, Hipoteca y Ahorro. Lo demás sale solo.</p>
+      <div class="kit-partes">
+        <div>
+          <h3>Presupuesto 50/30/20</h3>
+          <p>Pones lo que entra y lo que sale, y te dice si gastas de más y cuánto apartar.</p>
+        </div>
+        <div>
+          <h3>Hipoteca</h3>
+          <p>Tu cuota, y cuánto cambia si el Euríbor sube o baja.</p>
+        </div>
+        <div>
+          <h3>Ahorro</h3>
+          <p>Tu colchón de 3 a 6 meses y cuánto apartar para una meta.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section alt">
+    <div class="wrap">
+      <h2>Cómo se paga, en 1 minuto</h2>
+      <ol class="kit-pasos">
+        <li>Pulsa el botón: vas a Gumroad, la tienda que cobra y se encarga del IVA. Su página está en inglés.</li>
+        <li>Pulsa «I want this!» y escribe tu correo y tu tarjeta. Allí verás primero el precio sin IVA: el IVA aparece como «VAT» antes de pagar. Si compras desde fuera de España, el total cambia según los impuestos de tu país.</li>
+        <!-- PASO-OFERTA: aquí pone oferta.py el paso del código (data-hasta). -->
+        <li>El Excel te llega al correo al momento.</li>
+      </ol>
+      <p class="kit-garantia">Si no te sirve, tienes 14 días para pedir que te devolvamos el dinero, sin dar explicaciones: <span class="mail">hola@eleuroclaro.es</span>.</p>
+      <div class="actions kit-final">
+        <a class="btn btn-primary" data-gumroad href="https://eleuroclaro.gumroad.com/l/kit" rel="noopener">Comprar el kit</a>
+      </div>
+      <div class="kit-autor">
+        <img src="/img/pere-jaume-avatar.jpg" width="56" height="56" alt="">
+        <p>Lo ha hecho Pere Jaume, de El Euro Claro.</p>
+      </div>
+      <p class="small" style="margin-top:1rem">Los cálculos son orientativos: no es asesoramiento financiero.</p>
+    </div>
+  </section>
+</main>
+
+<footer class="foot">
+  <div class="wrap">
+    <p class="lema">La economía de tu bolsillo, en euros claros.</p>
+    <nav aria-label="Legal">
+      <a href="/aviso-legal.html">Aviso legal</a>
+      <a href="/privacidad.html">Privacidad</a>
+      <a href="/cookies.html">Cookies</a>
+      <span>Contacto: <span class="mail">hola@eleuroclaro.es</span></span>
+    </nav>
+    <p class="disclaimer">El Euro Claro es un medio divulgativo. La información es general y no constituye asesoramiento financiero ni una recomendación de comprar o vender ningún producto.</p>
+  </div>
+</footer>
+<script>
+// Ofertas con fecha (hora de Madrid): data-hasta se ve hasta esa fecha; data-desde se esconde hasta esa fecha.
+// Sin JavaScript no se ve ninguna oferta y sí el precio normal.
+(function () {
+  var ahora = Date.now();
+  document.querySelectorAll("[data-hasta]").forEach(function (el) {
+    var fin = Date.parse(el.getAttribute("data-hasta"));
+    if (!isNaN(fin) && ahora <= fin) el.hidden = false;
+  });
+  document.querySelectorAll("[data-desde]").forEach(function (el) {
+    var desde = Date.parse(el.getAttribute("data-desde"));
+    if (!isNaN(desde) && ahora < desde) el.hidden = true;
+  });
+})();
+// De dónde viene la visita: ?src= (enlaces de la web, ManyChat, newsletter) o, si no hay, la página anterior.
+// Se pasa a Gumroad como utm. El enlace nunca lleva el código: Gumroad tacharía el precio en la ficha.
+(function () {
+  try {
+    var q = new URLSearchParams(location.search);
+    var src = q.get("src") || q.get("utm_source");
+    if (!src || !/^[a-z0-9-]{2,30}$/.test(src)) {
+      var ref = "";
+      try { ref = document.referrer ? new URL(document.referrer).hostname : ""; } catch (e) {}
+      if (!ref) src = "directo";
+      else if (/instagram\./.test(ref)) src = "instagram";
+      else if (/tiktok\./.test(ref)) src = "tiktok";
+      else if (/(^|\.)facebook\.|(^|\.)fb\.|messenger\./.test(ref)) src = "facebook";
+      else if (/youtube\.|youtu\.be/.test(ref)) src = "youtube";
+      else if (/(^|\.)eleuroclaro\.es$/.test(ref)) src = "web";
+      else if (/(^|\.)google\./.test(ref)) src = "google";
+      else src = "otros";
+    }
+    var oferta = document.querySelector(".kit-oferta:not([hidden])");
+    var links = document.querySelectorAll("a[data-gumroad]");
+    for (var i = 0; i < links.length; i++) {
+      var u = new URL(links[i].href);
+      u.searchParams.set("utm_source", src);
+      u.searchParams.set("utm_medium", "web");
+      u.searchParams.set("utm_campaign", oferta ? oferta.getAttribute("data-campana") || "oferta" : "kit");
+      links[i].href = u.toString();
+    }
+  } catch (e) {}
+})();
+</script>
 <!-- Cloudflare Web Analytics --><script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "e81aecc33a6b40ccab86c1fbc9fa801c"}'></script><!-- End Cloudflare Web Analytics -->
 </body>
 </html>

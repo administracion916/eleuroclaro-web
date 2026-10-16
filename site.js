@@ -46,6 +46,11 @@ var NEWSLETTER_URL = "https://eleuroclaro.substack.com/subscribe";
     var fin = Date.parse(el.getAttribute("data-hasta"));
     if (!isNaN(fin) && ahora <= fin) el.hidden = false;
   });
+  // Y lo contrario: data-desde se esconde hasta esa fecha (el precio normal mientras dura una oferta).
+  document.querySelectorAll("[data-desde]").forEach(function (el) {
+    var desde = Date.parse(el.getAttribute("data-desde"));
+    if (!isNaN(desde) && ahora < desde) el.hidden = true;
+  });
 })();
 
 // Titulares de prensa económica: los guarda cada hora una tarea de GitHub en prensa.json (misma web, sin llamadas a terceros).
