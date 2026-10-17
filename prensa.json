@@ -1,12 +1,26 @@
 {
- "actualizado": "2026-10-17T08:51:36Z",
+ "actualizado": "2026-10-17T09:50:44Z",
  "items": [
+  {
+   "t": "El sindicato de maquinistas Semaf llama a una huelga de 24 horas en Renfe para el día 29",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-17/el-sindicato-de-maquinistas-semaf-llama-a-una-huelga-de-24-horas-en-renfe-para-el-dia-29.html",
+   "f": "2026-10-17T09:03:26Z",
+   "c": "transporte"
+  },
   {
    "t": "Trump suspende temporalmente las sanciones del Congreso contra Rusia por \"interés nacional\"",
    "m": "Expansión",
    "u": "https://www.expansion.com/economia/2026/10/17/trump-suspende-temporalmente-sanciones-congreso-rusia-interes-nacional.html",
    "f": "2026-10-17T08:29:12Z",
    "c": "comercio"
+  },
+  {
+   "t": "Llamadas comerciales: qué significa el nuevo prefijo 400 y qué hacer si te llaman desde otro número",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/noticia-llamadas-comerciales-significa-nuevo-prefijo-400-hacer-si-te-llaman-otro-numero-20261017095950.html",
+   "f": "2026-10-17T07:59:50Z",
+   "c": "general"
   },
   {
    "t": "Baja por maternidad y ayudas para empleadas del hogar: prestaciones y derechos de la nueva ley",
@@ -42,20 +56,6 @@
    "u": "https://elpais.com/economia/2026-10-17/las-empresas-del-ibex-lideran-la-creacion-de-empleo-entre-las-grandes-cotizadas-europeas.html",
    "f": "2026-10-17T03:45:01Z",
    "c": "empleo"
-  },
-  {
-   "t": "Marina Echebarría, consejera de Competencia: “Me ha tocado ser un símbolo de que las barreras se rompen”",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-17/marina-echebarria-consejera-de-competencia-me-ha-tocado-ser-un-simbolo-de-que-las-barreras-se-rompen.html",
-   "f": "2026-10-17T03:45:01Z",
-   "c": "general"
-  },
-  {
-   "t": "El disparate económico francés",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-17/el-disparate-economico-frances.html",
-   "f": "2026-10-17T03:45:01Z",
-   "c": "general"
   }
  ]
 }
