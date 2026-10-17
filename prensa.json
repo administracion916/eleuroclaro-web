@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-17T13:50:05Z",
+ "actualizado": "2026-10-17T14:48:28Z",
  "items": [
   {
    "t": "José Elías, tras probar una IA en su compañía de electricidad: \"Si tenéis una empresa, empezad a pensar qué parte de vuestro trabajo podría hacer una máquina\"",
@@ -37,6 +37,13 @@
    "c": "comercio"
   },
   {
+   "t": "Llamadas comerciales: qué significa el nuevo prefijo 400 y qué hacer si te llaman desde otro número",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/noticia-llamadas-comerciales-significa-nuevo-prefijo-400-hacer-si-te-llaman-otro-numero-20261017095950.html",
+   "f": "2026-10-17T07:59:50Z",
+   "c": "general"
+  },
+  {
    "t": "Baja por maternidad y ayudas para empleadas del hogar: prestaciones y derechos de la nueva ley",
    "m": "20minutos",
    "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/baja-maternidad-ayudas-empleadas-hogar-prestaciones-derechos-nueva-ley_7046936_0.html",
@@ -49,13 +56,6 @@
    "u": "https://www.lavanguardia.com/economia/20261017/11661047/bbva-sabadell-suben-fuerza-bolsa-ano-opa.html",
    "f": "2026-10-17T04:00:00Z",
    "c": "bancos"
-  },
-  {
-   "t": "Las empresas del Ibex lideran la creación de empleo entre las grandes cotizadas europeas",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-17/las-empresas-del-ibex-lideran-la-creacion-de-empleo-entre-las-grandes-cotizadas-europeas.html",
-   "f": "2026-10-17T03:45:01Z",
-   "c": "empleo"
   }
  ]
 }
