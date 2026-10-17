@@ -1,12 +1,12 @@
 {
- "actualizado": "2026-10-17T10:49:11Z",
+ "actualizado": "2026-10-17T11:47:21Z",
  "items": [
   {
-   "t": "El FMI alerta de la necesidad de cuadrar las cuentas ante la incertidumbre mundial",
+   "t": "El FMI llama a rellenar el colchón fiscal y energético ante la incertidumbre mundial",
    "m": "La Vanguardia",
    "u": "https://www.lavanguardia.com/economia/20261017/11661324/fmi-alerta-necesidad-cuadrar-cuentas-incertidumbre-mundial.html",
    "f": "2026-10-17T10:33:19Z",
-   "c": "economia"
+   "c": "energia"
   },
   {
    "t": "Christie’s International Real Estate se presenta en Barcelona",
@@ -30,6 +30,13 @@
    "c": "comercio"
   },
   {
+   "t": "Llamadas comerciales: qué significa el nuevo prefijo 400 y qué hacer si te llaman desde otro número",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/noticia-llamadas-comerciales-significa-nuevo-prefijo-400-hacer-si-te-llaman-otro-numero-20261017095950.html",
+   "f": "2026-10-17T07:59:50Z",
+   "c": "general"
+  },
+  {
    "t": "Baja por maternidad y ayudas para empleadas del hogar: prestaciones y derechos de la nueva ley",
    "m": "20minutos",
    "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/baja-maternidad-ayudas-empleadas-hogar-prestaciones-derechos-nueva-ley_7046936_0.html",
@@ -49,13 +56,6 @@
    "u": "https://elpais.com/economia/2026-10-17/las-empresas-del-ibex-lideran-la-creacion-de-empleo-entre-las-grandes-cotizadas-europeas.html",
    "f": "2026-10-17T03:45:01Z",
    "c": "empleo"
-  },
-  {
-   "t": "Marina Echebarría, consejera de Competencia: “Me ha tocado ser un símbolo de que las barreras se rompen”",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-17/marina-echebarria-consejera-de-competencia-me-ha-tocado-ser-un-simbolo-de-que-las-barreras-se-rompen.html",
-   "f": "2026-10-17T03:45:01Z",
-   "c": "general"
   }
  ]
 }
