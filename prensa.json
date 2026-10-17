@@ -1,61 +1,61 @@
 {
- "actualizado": "2026-10-16T22:52:11Z",
+ "actualizado": "2026-10-17T05:09:19Z",
  "items": [
   {
-   "t": "Carácter nada discreto y estilo urbano sobre ruedas",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/empresas/2026/10/17/6ac92bed21efa0903c8b45b9.html",
-   "f": "2026-10-16T22:03:05Z",
-   "c": "general"
-  },
-  {
-   "t": "Italia mira a España para reclamar soluciones a la crisis de la vivienda",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/vivienda/2026/10/17/6ad24c58e85eceac3a8b45b2.html",
-   "f": "2026-10-16T22:03:04Z",
-   "c": "vivienda"
-  },
-  {
-   "t": "La subida del petróleo deja al Ejército sin proveedores interesados en vender combustible para la aviación en Canarias",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/empresas/2026/10/17/6ad105effdddff60468b4586.html",
-   "f": "2026-10-16T22:03:00Z",
-   "c": "energia"
-  },
-  {
-   "t": "La Cámara Alemana reúne a empresas y centros educativos para reivindicar la FP Dual como respuesta a la escasez de talento",
+   "t": "Baja por maternidad y ayudas para empleadas del hogar: prestaciones y derechos de la nueva ley",
    "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/camara-alemana-reune-empresas-centros-educativos-para-reivindicar-fp-dual-como-respuesta-escasez-talento_7049901_0.html",
-   "f": "2026-10-16T20:47:06Z",
-   "c": "empresas"
-  },
-  {
-   "t": "Pimec tiene vía libre para entrar en el CES dos años después",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261016/11661051/pimec-libre-entrar-ces-dos-anos.html",
-   "f": "2026-10-16T18:06:43Z",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/baja-maternidad-ayudas-empleadas-hogar-prestaciones-derechos-nueva-ley_7046936_0.html",
+   "f": "2026-10-17T05:00:00Z",
    "c": "general"
   },
   {
-   "t": "La multinacional Mahle plantea un nuevo ERE para 170 trabajadores en su fábrica de Cuenca",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-16/la-multinacional-mahle-plantea-un-nuevo-ere-para-170-trabajadores-en-su-fabrica-de-cuenca.html",
-   "f": "2026-10-16T17:21:43Z",
+   "t": "BBVA y Sabadell suben con fuerza en bolsa un año después de la opa",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261017/11661047/bbva-sabadell-suben-fuerza-bolsa-ano-opa.html",
+   "f": "2026-10-17T04:00:00Z",
+   "c": "bancos"
+  },
+  {
+   "t": "Duralex renace y piensa en verde",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261017/11660966/duralex-renace-piensa-verde.html",
+   "f": "2026-10-17T04:00:00Z",
+   "c": "general"
+  },
+  {
+   "t": "La nueva economía ya está aquí: las tecnologías que cambian el mundo se dan cita en Barcelona",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261017/11657822/nueva-economia-esta-tecnologias-cambian-mundo-dan-cita-barcelona-brl.html",
+   "f": "2026-10-17T03:55:00Z",
+   "c": "tecnologia"
+  },
+  {
+   "t": "Las empresas del Ibex lideran la creación de empleo entre las grandes cotizadas europeas",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-17/las-empresas-del-ibex-lideran-la-creacion-de-empleo-entre-las-grandes-cotizadas-europeas.html",
+   "f": "2026-10-17T03:45:01Z",
    "c": "empleo"
   },
   {
-   "t": "Apple llama a sus máximos históricos en Bolsa tras agotar las reservas de su nuevo iPhone plegable",
+   "t": "Marina Echebarría, consejera de Competencia: “Me ha tocado ser un símbolo de que las barreras se rompen”",
    "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-16/apple-llama-a-sus-maximos-historicos-en-bolsa-tras-agotar-las-reservas-de-su-nuevo-iphone-plegable.html",
-   "f": "2026-10-16T16:58:34Z",
-   "c": "empresas"
+   "u": "https://elpais.com/economia/2026-10-17/marina-echebarria-consejera-de-competencia-me-ha-tocado-ser-un-simbolo-de-que-las-barreras-se-rompen.html",
+   "f": "2026-10-17T03:45:01Z",
+   "c": "general"
   },
   {
-   "t": "Francia y Alemania se alían para alargar la vida al coche de combustión",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261016/11660997/francia-alemania-alian-alargar-vida-coche-combustion.html",
-   "f": "2026-10-16T16:37:23Z",
-   "c": "transporte"
+   "t": "El disparate económico francés",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-17/el-disparate-economico-frances.html",
+   "f": "2026-10-17T03:45:01Z",
+   "c": "general"
+  },
+  {
+   "t": "El adelanto electoral tumba de nuevo la Autoridad en Defensa del Cliente Financiero tras casi cinco años",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-17/el-adelanto-electoral-tumba-de-nuevo-la-autoridad-en-defensa-del-cliente-financiero-tras-casi-cinco-anos.html",
+   "f": "2026-10-17T03:15:00Z",
+   "c": "empresas"
   }
  ]
 }
