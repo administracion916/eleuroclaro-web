@@ -109,11 +109,14 @@
   }
 
   // Imagen para compartir (1080×1350, la medida de Instagram y WhatsApp) dibujada en el navegador.
+  var logo = new Image();
+  var logoListo = new Promise(function (ok) { logo.onload = logo.onerror = ok; });
+  logo.src = "/img/logo/icono-512.png";
   function compartir(extra, tasa) {
     var texto = (extra >= 0 ? "A mí la subida de precios me cuesta " + euros(extra) + " más al año." : "A mí la subida de precios no me afecta: pago " + euros(-extra) + " menos al año.") +
       " ¿Y a ti? Calcúlalo en 1 minuto con los datos del INE: https://" + WEB + "/";
     document.getElementById("b-whatsapp").href = "https://wa.me/?text=" + encodeURIComponent(texto);
-    (document.fonts ? document.fonts.ready : Promise.resolve()).then(function () {
+    Promise.all([document.fonts ? document.fonts.ready : null, logoListo]).then(function () {
       var c = document.createElement("canvas");
       c.width = 1080; c.height = 1350;
       var x = c.getContext("2d");
@@ -121,9 +124,8 @@
       var grad = x.createRadialGradient(1080, 0, 50, 1080, 0, 900);
       grad.addColorStop(0, "rgba(245,197,26,.28)"); grad.addColorStop(1, "rgba(245,197,26,0)");
       x.fillStyle = grad; x.fillRect(0, 0, 1080, 1350);
-      // moneda y marca
-      x.fillStyle = "#f5c518"; x.beginPath(); x.arc(130, 140, 48, 0, Math.PI * 2); x.fill();
-      x.fillStyle = "#0e2a47"; x.font = "700 52px Fraunces, Georgia, serif"; x.textAlign = "center"; x.fillText("€", 130, 158);
+      // logo y marca
+      if (logo.naturalWidth) x.drawImage(logo, 80, 90, 100, 100);
       x.textAlign = "left"; x.fillStyle = "#f5c518"; x.font = "700 56px Fraunces, Georgia, serif"; x.fillText("El Euro Claro", 200, 160);
       x.fillStyle = "#ffffff"; x.font = "600 66px Fraunces, Georgia, serif";
       lineas(x, extra >= 0 ? "A mí la subida de precios me cuesta" : "Con lo que yo compro, los precios me han bajado", 90, 420, 900, 80);

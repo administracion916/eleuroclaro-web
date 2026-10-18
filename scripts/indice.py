@@ -320,6 +320,7 @@ PLANTILLA = """<!doctype html>
 <meta property="og:image:type" content="image/png">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="¿Cuánto te cuesta a ti la subida de precios? Calculadora de El Euro Claro con datos del INE.">
 <meta name="twitter:card" content="summary_large_image">
 <link rel="canonical" href="https://eleuroclaro.es/indice-del-bolsillo/">
 <!-- Página generada por scripts/indice.py: no editar a mano. -->
@@ -452,6 +453,7 @@ PLANTILLA = """<!doctype html>
       <a href="/aviso-legal.html">Aviso legal</a>
       <a href="/privacidad.html">Privacidad</a>
       <a href="/cookies.html">Cookies</a>
+      <a href="/correcciones/">Correcciones</a>
       <span>Contacto: <span class="mail">hola@eleuroclaro.es</span></span>
     </nav>
     <p class="disclaimer">El Euro Claro es un medio divulgativo. La información es general y no constituye asesoramiento financiero ni una recomendación de comprar o vender ningún producto. Algunos enlaces pueden ser de afiliado y se indica cuando lo son.</p>
