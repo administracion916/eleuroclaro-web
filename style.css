@@ -206,7 +206,7 @@ img.presenta-avatar { object-fit: cover; box-shadow: 0 0 0 4px var(--sol), 0 16p
 .news > * { min-width: 0; }
 .checks { list-style: none; padding: 0; margin: 1.2rem 0 0; display: grid; gap: .5rem; }
 .checks li { position: relative; padding-left: 2rem; }
-.checks li::before { content: "€"; position: absolute; left: 0; top: .15rem; display: grid; place-items: center; width: 1.4rem; height: 1.4rem; border-radius: 50%; background: var(--sol); color: var(--navy); font-weight: 700; font-size: .8rem; }
+.checks li::before { content: ""; position: absolute; left: 0; top: .15rem; width: 1.4rem; height: 1.4rem; border-radius: 50%; background: #1fbf6a url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M6.5 12.5l3.8 3.8 7.2-8.3' fill='none' stroke='%23fff' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E") center / 80% no-repeat; box-shadow: 0 0 0 2px var(--navy); }
 .signup { background: var(--surface); border: 1px solid var(--line); border-radius: .7rem; padding: 1.5rem; display: grid; gap: .8rem; box-shadow: 0 18px 40px -30px rgba(15, 31, 61, .45); }
 .signup label { font-weight: 600; font-size: .95rem; }
 .signup input[type="email"] { width: 100%; padding: .8rem .9rem; border: 1px solid var(--muted); border-radius: .45rem; background: var(--bg); color: var(--ink); font: inherit; }
