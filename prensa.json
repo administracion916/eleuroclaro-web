@@ -1,6 +1,20 @@
 {
- "actualizado": "2026-10-18T21:48:28Z",
+ "actualizado": "2026-10-18T22:46:38Z",
  "items": [
+  {
+   "t": "Viaje al centro de la ciencia española donde se crea hoy la tecnología para vivir en la Luna",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/10/19/6acfab5efdddfff6248b4594.html",
+   "f": "2026-10-18T22:03:22Z",
+   "c": "transporte"
+  },
+  {
+   "t": "Las renuncias a las ayudas para proyectos empresariales en regiones \"desfavorecidas\" se dispararon un 150% en la última legislatura",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/empresas/2026/10/19/6ad24ff7fdddff1d148b45ac.html",
+   "f": "2026-10-18T22:03:21Z",
+   "c": "empresas"
+  },
   {
    "t": "CEOE pide a los partidos un ahorro en costes energéticos de 25.000 millones",
    "m": "Expansión",
@@ -14,6 +28,13 @@
    "u": "https://www.expansion.com/economia/2026/10/18/macron-prohibe-reuniones-francia-estallido-violento.html",
    "f": "2026-10-18T21:33:28Z",
    "c": "general"
+  },
+  {
+   "t": "El Gobierno entierra el dato de fijos discontinuos 'parados' y retrasa la estadística clave del INE tras más de un año atascada",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/10/18/6ad24cb721efa0ea438b45ab.html",
+   "f": "2026-10-18T20:42:33Z",
+   "c": "empleo"
   },
   {
    "t": "Pablo Gil, economista, alerta de una \"asfixia lenta\" por la deuda y pide no confiar toda la jubilación al sistema público: \"Es un problema gordo\"",
@@ -35,27 +56,6 @@
    "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/banador-turron-navidad-se-adelanta-por-motivos-logisticos-consumo_7050212_0.html",
    "f": "2026-10-18T16:37:34Z",
    "c": "general"
-  },
-  {
-   "t": "El último guiño 'oculto' de Sánchez al mercado: una cuenta para invertir y pagar menos impuestos",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/dinero-inversion/2026/10/18/6acf7753e9cf4a970f8b4581.html",
-   "f": "2026-10-18T15:52:08Z",
-   "c": "impuestos"
-  },
-  {
-   "t": "Adif reabrirá mañana al completo la vía afectada por el incendio del AVE en Zaragoza",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/empresas/2026/10/18/6ad4e86fe4d4d80d138b4578.html",
-   "f": "2026-10-18T15:52:04Z",
-   "c": "general"
-  },
-  {
-   "t": "Viviendas no principales y oferta de alquiler, la maldición de una propiedad dispersa",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/macroeconomia/2026/10/18/6ad11036fc6c83bf178b45a5.html",
-   "f": "2026-10-18T15:36:24Z",
-   "c": "vivienda"
   }
  ]
 }
