@@ -1,0 +1,342 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Dicho vs. Dato: frases de políticos frente a los datos oficiales · El Euro Claro</title>
+<meta name="description" content="Lo que dicen los políticos de todos los partidos sobre tu dinero, comprobado con datos oficiales: cita literal, dato con su fuente y veredicto.">
+<meta name="robots" content="noindex">
+<meta name="theme-color" content="#0e2a47">
+<meta property="og:site_name" content="El Euro Claro">
+<meta property="og:title" content="Dicho vs. Dato · ¿Verdad o no?">
+<meta property="og:description" content="Frases de políticos de todos los partidos sobre tu dinero, frente a los datos oficiales. Cita literal, fuente y veredicto.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://eleuroclaro.es/dicho-vs-dato/">
+<meta property="og:locale" content="es_ES">
+<meta property="og:image" content="https://eleuroclaro.es/img/og-eleuroclaro.png">
+<meta property="og:image:type" content="image/png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Moneda de euro y el texto: El Euro Claro, la noticia económica del día en euros de tu bolsillo.">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="canonical" href="https://eleuroclaro.es/dicho-vs-dato/">
+<!-- Página en una subcarpeta: todas las rutas son absolutas (empiezan por /). -->
+<!-- Dicho vs. Dato (pedida por Pere el 18-10): oculta hasta que Pere la vea (noindex, fuera de sitemap.xml y del menú).
+     Cada frase es un <article class="dvd-ficha">: data-tema (uno o varios, separados por espacios), data-veredicto
+     (cierto | contexto | enganoso | falso), data-partido y data-desde (fecha en que sale la pieza en redes).
+     Sin data-desde es un borrador. Antes de su fecha, y los borradores, solo se ven con ?previa.
+     Reglas de la sección: /mnt/project-files/canal-economia/contradicciones/plan-seccion.md -->
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="stylesheet" href="/fonts.css">
+<link rel="stylesheet" href="/style.css?v=20261011n">
+<style>
+/* Solo /dicho-vs-dato/ */
+.dvd .section { padding-block: 3rem; }
+.dvd-reglas { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 1rem; margin-top: 1.8rem; }
+.dvd-reglas div { background: var(--surface); border: 1px solid var(--line); border-radius: .6rem; padding: 1rem 1.1rem; font-size: .92rem; color: var(--muted); }
+.dvd-reglas strong { display: block; color: var(--ink); font-size: 1rem; margin-bottom: .25rem; }
+.dvd-leyenda { display: flex; flex-wrap: wrap; gap: .5rem 1.2rem; margin-top: 1.6rem; font-size: .92rem; color: var(--muted); }
+.dvd-leyenda span { display: inline-flex; align-items: center; gap: .45rem; }
+.dvd-sello { display: inline-flex; align-items: center; gap: .4rem; padding: .3rem .75rem; border-radius: 2rem; font-weight: 800; font-size: .82rem; letter-spacing: .05em; text-transform: uppercase; color: #fff; line-height: 1.2; white-space: nowrap; }
+.dvd-sello::before { content: ""; width: .55rem; height: .55rem; border-radius: 50%; background: currentColor; opacity: .85; }
+.dvd-cierto { background: #1f7a3d; }
+.dvd-contexto { background: #f4c51a; color: #10294a; }
+.dvd-enganoso { background: #d9620f; }
+.dvd-falso { background: #c0262d; }
+.dvd-filtros { display: grid; gap: .8rem; margin-bottom: 1.6rem; }
+.dvd-fila { display: flex; flex-wrap: wrap; align-items: center; gap: .45rem; }
+.dvd-fila > span { font-weight: 700; font-size: .9rem; margin-right: .3rem; min-width: 5.5rem; }
+.dvd-fila button { font: inherit; font-size: .88rem; font-weight: 600; padding: .4rem .9rem; border-radius: 2rem; border: 1px solid var(--line); background: var(--surface); color: var(--ink); cursor: pointer; }
+.dvd-fila button[aria-pressed="true"] { background: var(--blue); border-color: var(--blue); color: var(--bg); }
+.dvd-fila button:focus-visible { outline: 3px solid var(--focus, var(--gold)); outline-offset: 2px; }
+.dvd-cuenta { font-size: .9rem; color: var(--muted); margin-bottom: 1.2rem; }
+.dvd-lista { display: grid; gap: 1.4rem; }
+.dvd-ficha { background: var(--surface); border: 1px solid var(--line); border-radius: .8rem; padding: 1.4rem 1.5rem 1.2rem; display: grid; gap: 1rem; scroll-margin-top: 1rem; max-width: 52rem; }
+.dvd-ficha[hidden] { display: none; }
+.dvd-cab { display: flex; flex-wrap: wrap; align-items: center; gap: .5rem .8rem; }
+.dvd-tema { font-size: .8rem; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; color: var(--gold-text); }
+.dvd-previa { font-size: .78rem; font-weight: 700; padding: .2rem .6rem; border-radius: .3rem; border: 1px dashed var(--muted); color: var(--muted); }
+.dvd-quien { font-size: 1.05rem; }
+.dvd-quien strong { font-family: var(--font-display); font-size: 1.3rem; }
+.dvd-cuando { font-size: .88rem; color: var(--muted); margin-top: .15rem; }
+.dvd-et { font-size: .78rem; font-weight: 800; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); margin-bottom: .4rem; }
+.dvd-dicho blockquote { margin: 0; padding: .2rem 0 .2rem 1rem; border-left: 4px solid var(--line); font-family: var(--font-display); font-size: clamp(1.15rem, 2.4vw, 1.35rem); line-height: 1.4; }
+.dvd-dicho blockquote p + p { margin-top: .5rem; }
+.dvd-dato ul { margin: 0; padding-left: 1.2rem; display: grid; gap: .45rem; }
+.dvd-veredicto { border-radius: .5rem; padding: .9rem 1rem; background: var(--bg); border-left: 6px solid var(--line); }
+.dvd-ficha[data-veredicto="cierto"] .dvd-veredicto { border-left-color: #1f7a3d; }
+.dvd-ficha[data-veredicto="contexto"] .dvd-veredicto { border-left-color: #f4c51a; }
+.dvd-ficha[data-veredicto="enganoso"] .dvd-veredicto { border-left-color: #d9620f; }
+.dvd-ficha[data-veredicto="falso"] .dvd-veredicto { border-left-color: #c0262d; }
+.dvd-veredicto p + p { margin-top: .4rem; }
+.dvd-pie { font-size: .85rem; color: var(--muted); border-top: 1px solid var(--line); padding-top: .8rem; }
+.dvd-vacio { background: var(--surface); border: 1px dashed var(--line); border-radius: .8rem; padding: 1.4rem 1.5rem; max-width: 52rem; }
+.dvd-vacio[hidden] { display: none; }
+@media (max-width: 52rem) {
+  .dvd .section { padding-block: 2.4rem; }
+  .dvd-reglas { grid-template-columns: 1fr 1fr; gap: .7rem; }
+}
+@media (max-width: 34rem) {
+  .dvd-reglas { grid-template-columns: 1fr; }
+  .dvd-ficha { padding: 1.1rem 1.1rem 1rem; }
+  .dvd-fila > span { min-width: 0; width: 100%; }
+}
+</style>
+</head>
+<body>
+
+<header class="top">
+  <div class="wrap">
+    <a class="brand" href="/" aria-label="El Euro Claro, inicio">
+      <svg class="coin" viewBox="0 0 40 40" aria-hidden="true"><circle cx="20" cy="20" r="18" fill="#f4c51a"/><circle cx="20" cy="20" r="14.5" fill="none" stroke="#0e2a47" stroke-width="1.2" opacity=".45"/><text x="20" y="26.5" text-anchor="middle" font-family="Georgia, serif" font-size="19" font-weight="700" fill="#10294a">€</text></svg>
+      El Euro Claro
+    </a>
+    <nav class="nav" aria-label="Secciones">
+      <a class="nav-nl" href="/domingo/?src=web-cabecera"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><rect x="2.5" y="5" width="19" height="14" rx="2.5"/><path d="M3 6.5l9 6.5 9-6.5"/></svg>Newsletter gratis</a>
+      <a href="/#noticias">Noticias</a>
+      <a href="/#videos">Vídeos</a>
+      <a href="/inflacion/">Calculadora</a>
+      <a href="/#kit">Kit</a>
+      <a href="/empresas/">Empresas</a>
+      <a href="/libros/">Libros</a>
+    </nav>
+  </div>
+</header>
+
+<main class="dvd">
+  <section class="section page-head">
+    <div class="wrap">
+      <p class="eyebrow">Dicho vs. Dato</p>
+      <h1>¿Verdad o no? Lo que dicen los políticos, frente a <em>los datos</em></h1>
+      <p class="prose-p">Frases de políticos de todos los partidos sobre tu dinero: paro, sueldos, alquiler, precios, pensiones e impuestos. Ponemos la frase tal cual, el dato oficial al lado y un veredicto. Se juzga la frase, no a la persona.</p>
+      <div class="dvd-reglas">
+        <div><strong>Todos los partidos</strong>Gobierno y oposición, derecha e izquierda. Llevamos la cuenta de cuántas frases salen de cada partido.</div>
+        <div><strong>La frase, literal</strong>Con fecha, lugar y enlace a donde se dijo. Si no hay una fuente seria que la recoja, no sale.</div>
+        <div><strong>Solo datos oficiales</strong>INE, Banco de España, Eurostat, Seguridad Social, SEPE, Agencia Tributaria, AIReF y BOE, con cifra, periodo y enlace.</div>
+        <div><strong>Si fallamos, lo decimos</strong>Si alguien demuestra un error, lo corregimos en <a href="/correcciones/">correcciones</a> y en el siguiente vídeo.</div>
+      </div>
+      <div class="dvd-leyenda" aria-label="Qué significa cada veredicto">
+        <span><span class="dvd-sello dvd-cierto">Cierto</span> La cifra cuadra con los datos.</span>
+        <span><span class="dvd-sello dvd-contexto">Le falta contexto</span> Cuadra a medias o deja fuera algo clave.</span>
+        <span><span class="dvd-sello dvd-enganoso">Engañoso</span> Parte de algo real, pero lleva a una idea equivocada.</span>
+        <span><span class="dvd-sello dvd-falso">Falso</span> Los datos dicen otra cosa.</span>
+      </div>
+    </div>
+  </section>
+
+  <section class="section alt" aria-labelledby="frases">
+    <div class="wrap">
+      <h2 id="frases" class="sr">Frases comprobadas</h2>
+      <div class="dvd-filtros" id="filtros" hidden>
+        <div class="dvd-fila" role="group" aria-label="Filtrar por tema" id="f-tema"><span>Tema</span></div>
+        <div class="dvd-fila" role="group" aria-label="Filtrar por veredicto" id="f-veredicto">
+          <span>Veredicto</span>
+          <button type="button" data-v="" aria-pressed="true">Todos</button>
+          <button type="button" data-v="cierto" aria-pressed="false">Cierto</button>
+          <button type="button" data-v="contexto" aria-pressed="false">Le falta contexto</button>
+          <button type="button" data-v="enganoso" aria-pressed="false">Engañoso</button>
+          <button type="button" data-v="falso" aria-pressed="false">Falso</button>
+        </div>
+      </div>
+      <p class="dvd-cuenta" id="cuenta" role="status"></p>
+
+      <div class="dvd-lista" id="lista">
+
+        <article class="dvd-ficha" id="sanchez-hucha-pensiones" data-tema="pensiones" data-veredicto="enganoso" data-partido="PSOE" data-desde="2026-10-20T00:00:00+02:00">
+          <div class="dvd-cab"><span class="dvd-sello dvd-enganoso">Engañoso</span><span class="dvd-tema">Pensiones</span></div>
+          <div>
+            <p class="dvd-quien"><strong>Pedro Sánchez</strong> · PSOE · presidente del Gobierno</p>
+            <p class="dvd-cuando">15 de octubre de 2026 · Bruselas, al llegar al Consejo Europeo</p>
+          </div>
+          <div class="dvd-dicho">
+            <p class="dvd-et">Lo que dijo</p>
+            <blockquote>
+              <p>«Además, vamos a acabar esta legislatura con más de 20.000 millones de euros en la hucha de las pensiones. Para que nos hagamos una idea, en 2018, cuando gobernaba el PP, eran 5.000 millones».</p>
+            </blockquote>
+            <p class="small">Fuente: <a href="https://www.elplural.com/politica/espana/sanchez-denuncia-el-plan-pp-vox-pensiones-mentir-jubilados-hasta-29-noviembre_801445102" rel="noopener">El Plural</a>, 15-10-2026, con vídeo. Europa Press (en <a href="https://www.diariodeleon.es/nacional/261015/2100305/video-sanchez-asegura-sistema-pensiones-sostenible-gobierno-pretende-subirlas-final-ano.html" rel="noopener">Diario de León</a>) y <a href="https://www.publico.es/politica/gobierno/sanchez-plan-derecha-ultraderecha-mentir-pensionistas-29n.html" rel="noopener">Público</a> recogen las mismas declaraciones.</p>
+          </div>
+          <div class="dvd-dato">
+            <p class="dvd-et">Lo que dicen los datos</p>
+            <ul>
+              <li>A final de 2017, el último cierre de año con el PP, el Fondo de Reserva tenía <strong>8.085&nbsp;millones</strong> (<a href="https://www.inclusion.gob.es/w/el-fondo-de-reserva-de-la-seguridad-social-acabo-2017-con-8.085-millones-de-euros" rel="noopener">Ministerio de Inclusión</a>). En 2011 tenía 66.815&nbsp;millones (<a href="https://www.inclusion.gob.es/w/el-fondo-de-reserva-de-la-seguridad-social-alcanzo-66.814-99-millones-de-euros-en-2011" rel="noopener">Ministerio de Inclusión</a>).</li>
+              <li>Los <strong>5.043&nbsp;millones</strong> son del 30 de noviembre de 2018, después de sacar 3.000&nbsp;millones para pagar la extra de diciembre (<a href="https://revista.seg-social.es/-/3.000-millones-del-fondo-de-reserva-a-pagar-la-extra-de-las-pensiones" rel="noopener">Seguridad Social</a>). Sánchez gobernaba desde junio de 2018.</li>
+              <li>En diciembre de 2019, ya con Sánchez, se sacaron otros 2.900&nbsp;millones y la hucha cerró el año en <strong>2.153&nbsp;millones</strong>, su mínimo (<a href="https://www.seg-social.es/descarga/es/15072026" rel="noopener">informe del Fondo de Reserva a las Cortes, 2026</a>). Desde 2020 no ha habido más retiradas.</li>
+              <li>Último saldo oficial: <strong>15.267&nbsp;millones</strong> a 31 de marzo de 2026 (<a href="https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/inclusion/Paginas/2026/130426-fondo-reserva-seguridad-social-abril.aspx" rel="noopener">La Moncloa</a>). Los «más de 20.000» son una previsión: todavía no se pueden comprobar.</li>
+            </ul>
+            <p class="small" style="margin-top:.5rem">Los 8.085&nbsp;millones de 2017 están a precio de mercado y los 5.043 de 2018, a precio de compra. Con el mismo criterio, la diferencia cambia en menos de 20&nbsp;millones y la conclusión es la misma.</p>
+          </div>
+          <div class="dvd-veredicto">
+            <p class="dvd-et">Veredicto: Engañoso</p>
+            <p>Los 5.000&nbsp;millones existieron, pero no con el PP: son de noviembre de 2018, con Sánchez ya en el Gobierno y después de una retirada que hizo su propio Gobierno. Con el PP, el último cierre de año fue de 8.085&nbsp;millones.</p>
+            <p>El contexto completo: con el PP la hucha bajó mucho, de 66.815&nbsp;millones en 2011 a 8.085 a final de 2017. Y con Sánchez siguió bajando hasta 2019, antes de volver a crecer.</p>
+          </div>
+          <p><strong>Para tu bolsillo:</strong> el Fondo de Reserva es un colchón para pagar las pensiones cuando no llegan las cotizaciones. Ahora crece sobre todo con el MEI, una cotización extra que sale de cada nómina.</p>
+          <p class="dvd-pie"><a href="#sanchez-hucha-pensiones">Enlace a esta frase</a> · ¿Ves un error? Escríbenos a <span class="mail">hola@eleuroclaro.es</span></p>
+        </article>
+
+        <article class="dvd-ficha" id="nadal-cesta-compra" data-tema="precios" data-veredicto="cierto" data-partido="PP" data-desde="2026-10-23T00:00:00+02:00">
+          <div class="dvd-cab"><span class="dvd-sello dvd-cierto">Cierto</span><span class="dvd-tema">Precios</span></div>
+          <div>
+            <p class="dvd-quien"><strong>Alberto Nadal</strong> · PP · vicesecretario de Economía y Desarrollo Sostenible</p>
+            <p class="dvd-cuando">14 de octubre de 2026 · Jaén</p>
+          </div>
+          <div class="dvd-dicho">
+            <p class="dvd-et">Lo que dijo</p>
+            <blockquote>
+              <p>«La cesta de la compra desde que gobierna Sánchez se ha elevado más de un 40%».</p>
+            </blockquote>
+            <p class="small">Fuente: <a href="https://www.pp.es/actualidad/articulos/nadal-senala-que-espana-lleva-17-meses-con-una-inflacion-superior-a-la-europea-algo-estaremos-haciendo-muy-mal/" rel="noopener">nota del Partido Popular</a>, 14-10-2026. La frase literal la publica su partido, en una nota sobre la inflación; <a href="https://www.canariasdiario.com/noticia/152212/economia/la-alta-inflacion-en-espana-supera-a-la-europea-desde-hace-17-meses.html" rel="noopener">Canarias Diario</a> recoge la misma cifra.</p>
+          </div>
+          <div class="dvd-dato">
+            <p class="dvd-et">Lo que dicen los datos</p>
+            <ul>
+              <li>Alimentos y bebidas sin alcohol: <strong>+41,2&nbsp;%</strong> de junio de 2018, el mes en que llegó Sánchez al Gobierno, a septiembre de 2026 (de 104,95 a 148,18 puntos en el índice de precios armonizado de España, <a href="https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_minr/default/table?lang=es" rel="noopener">Eurostat</a>). Cálculo propio.</li>
+              <li>Todos los precios juntos: <strong>+27,7&nbsp;%</strong> en el mismo tiempo (de 104,56 a 133,48 puntos, <a href="https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_minr/default/table?lang=es" rel="noopener">Eurostat</a>). Cálculo propio.</li>
+            </ul>
+          </div>
+          <div class="dvd-veredicto">
+            <p class="dvd-et">Veredicto: Cierto</p>
+            <p>La comida ha subido un 41,2&nbsp;% desde que gobierna Sánchez: más de un 40&nbsp;%, como dijo. Y bastante más que el resto de precios.</p>
+          </div>
+          <p><strong>Para tu bolsillo:</strong> lo que en junio de 2018 te costaba 100&nbsp;€ en el súper, hoy te cuesta unos 141&nbsp;€.</p>
+          <p class="dvd-pie"><a href="#nadal-cesta-compra">Enlace a esta frase</a> · ¿Ves un error? Escríbenos a <span class="mail">hola@eleuroclaro.es</span></p>
+        </article>
+
+      </div>
+
+      <div class="dvd-vacio" id="vacio" hidden>
+        <p><strong id="vacio-tit">Muy pronto, la primera frase comprobada.</strong></p>
+        <p class="small" style="margin-top:.4rem">Mientras tanto, cada domingo te contamos en la newsletter lo que cambia en tu bolsillo.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="section" id="newsletter" aria-labelledby="nl-tit">
+    <div class="wrap news">
+      <div>
+        <p class="eyebrow">Newsletter · domingos · gratis</p>
+        <h2 id="nl-tit">Las frases de la semana, con sus datos</h2>
+        <p class="intro">Cada domingo, en 3 minutos: lo que cambia en tu bolsillo y las frases que hemos comprobado, con ejemplos en euros.</p>
+        <div class="nl-autor">
+          <img src="/img/pere-jaume-avatar.jpg" width="56" height="56" alt="" loading="lazy">
+          <p>Cada domingo te lo cuento yo, con datos oficiales y ejemplos en euros.<span class="firma">Pere Jaume</span></p>
+        </div>
+      </div>
+      <form class="signup" data-campana="dicho-vs-dato" novalidate>
+        <label for="email">Tu correo electrónico</label>
+        <input type="email" id="email" name="email" placeholder="nombre@correo.es" autocomplete="email" required>
+        <label class="consent" for="consent">
+          <input type="checkbox" id="consent" name="consent" required>
+          <span>Quiero recibir la newsletter y he leído la <a href="/privacidad.html">política de privacidad</a>.</span>
+        </label>
+        <button class="btn btn-primary" type="submit">Apuntarme gratis</button>
+        <p class="msg" role="status"></p>
+        <p class="fine">Odana Ingeniería SL usará tu correo para enviarte la newsletter semanal, que puede incluir publicidad marcada y ofertas de nuestros productos, con tu consentimiento. Lo guarda nuestra plataforma de envíos, Substack (EE. UU.). Puedes darte de baja cuando quieras y ejercer tus derechos en hola@eleuroclaro.es. Más información en la <a href="/privacidad.html">política de privacidad</a>.</p>
+      </form>
+    </div>
+  </section>
+
+  <section class="section alt" aria-labelledby="error">
+    <div class="wrap prose">
+      <h2 id="error">¿Hemos fallado?</h2>
+      <p>Si ves un error en una cita o en un dato, escríbenos a <span class="mail">hola@eleuroclaro.es</span> con la fuente oficial. Si tienes razón, lo corregimos aquí, lo apuntamos en <a href="/correcciones/">correcciones</a> y lo decimos en el siguiente vídeo. Así es como <a href="/correcciones/">comprobamos cada cifra</a>.</p>
+      <p class="small">El Euro Claro es un medio divulgativo e independiente: no pide el voto para nadie ni recomienda comprar o vender ningún producto financiero.</p>
+    </div>
+  </section>
+</main>
+
+<footer class="foot">
+  <div class="wrap">
+    <p class="lema">La economía de tu bolsillo, en euros claros.</p>
+    <nav aria-label="Legal">
+      <a href="/aviso-legal.html">Aviso legal</a>
+      <a href="/privacidad.html">Privacidad</a>
+      <a href="/cookies.html">Cookies</a>
+      <a href="/correcciones/">Correcciones</a>
+      <span>Contacto: <span class="mail">hola@eleuroclaro.es</span></span>
+    </nav>
+    <p class="disclaimer">El Euro Claro es un medio divulgativo. La información es general y no constituye asesoramiento financiero ni una recomendación de comprar o vender ningún producto. Algunos enlaces pueden ser de afiliado y se indica cuando lo son.</p>
+    <p>© 2026 El Euro Claro</p>
+  </div>
+</footer>
+<script>
+// Fichas de Dicho vs. Dato: oculta las que aún no han salido (data-desde futuro o vacío) salvo con ?previa,
+// pinta los filtros de tema con los temas que hay y la cuenta por partido.
+(function () {
+  "use strict";
+  var previa = new URLSearchParams(location.search).has("previa");
+  var ahora = Date.now();
+  var NOMBRES = { pensiones: "Pensiones", vivienda: "Vivienda", precios: "Precios", deuda: "Deuda", empleo: "Empleo", impuestos: "Impuestos", sueldos: "Sueldos", paro: "Paro" };
+  var MESES = ["enero", "febrero", "marzo", "abril", "mayo", "junio", "julio", "agosto", "septiembre", "octubre", "noviembre", "diciembre"];
+  var DIAS = ["domingo", "lunes", "martes", "miércoles", "jueves", "viernes", "sábado"];
+  var fichas = Array.prototype.slice.call(document.querySelectorAll(".dvd-ficha"));
+  var proxima = null;
+  var activas = fichas.filter(function (f) {
+    var d = Date.parse(f.getAttribute("data-desde") || "");
+    var sale = !isNaN(d) && d <= ahora;
+    if (!isNaN(d) && d > ahora && (proxima === null || d < proxima)) proxima = d;
+    if (!sale && previa) {
+      var et = document.createElement("span");
+      et.className = "dvd-previa";
+      et.textContent = isNaN(d) ? "Borrador: sin fecha" : "Vista previa: sale el " + new Date(d).toLocaleDateString("es-ES", { day: "numeric", month: "numeric", timeZone: "Europe/Madrid" });
+      f.querySelector(".dvd-cab").appendChild(et);
+    }
+    if (!sale && !previa) { f.remove(); return false; }
+    return true;
+  });
+  var vacio = document.getElementById("vacio");
+  if (!activas.length) {
+    if (proxima !== null) {
+      var p = new Date(proxima + 3 * 36e5); // mediodía en Madrid, para no cambiar de día por la zona horaria
+      document.getElementById("vacio-tit").textContent = "La primera frase comprobada sale el " + DIAS[p.getUTCDay()] + " " + p.getUTCDate() + " de " + MESES[p.getUTCMonth()] + ".";
+    }
+    vacio.hidden = false;
+    return;
+  }
+  var temas = [];
+  activas.forEach(function (f) {
+    (f.getAttribute("data-tema") || "").split(/\s+/).forEach(function (t) { if (t && temas.indexOf(t) < 0) temas.push(t); });
+  });
+  var fTema = document.getElementById("f-tema");
+  [""].concat(temas).forEach(function (t, i) {
+    var b = document.createElement("button");
+    b.type = "button";
+    b.setAttribute("data-t", t);
+    b.setAttribute("aria-pressed", i === 0 ? "true" : "false");
+    b.textContent = t ? (NOMBRES[t] || t) : "Todos";
+    fTema.appendChild(b);
+  });
+  var filtroT = "", filtroV = "";
+  var cuenta = document.getElementById("cuenta");
+  function pintar() {
+    var n = 0, partidos = {};
+    activas.forEach(function (f) {
+      var ok = (!filtroT || (" " + f.getAttribute("data-tema") + " ").indexOf(" " + filtroT + " ") >= 0) &&
+               (!filtroV || f.getAttribute("data-veredicto") === filtroV);
+      f.hidden = !ok;
+      if (ok) { n++; var pa = f.getAttribute("data-partido"); partidos[pa] = (partidos[pa] || 0) + 1; }
+    });
+    var reparto = Object.keys(partidos).map(function (k) { return k + " " + partidos[k]; }).join(" · ");
+    cuenta.textContent = n === 0 ? "Ninguna frase con ese filtro todavía." :
+      (n === 1 ? "1 frase" : n + " frases") + (reparto ? ". Por partido: " + reparto + "." : ".");
+  }
+  function grupo(el, attr, set) {
+    el.addEventListener("click", function (e) {
+      var b = e.target.closest("button");
+      if (!b) return;
+      Array.prototype.forEach.call(el.querySelectorAll("button"), function (x) { x.setAttribute("aria-pressed", x === b ? "true" : "false"); });
+      set(b.getAttribute(attr));
+      pintar();
+    });
+  }
+  grupo(fTema, "data-t", function (v) { filtroT = v; });
+  grupo(document.getElementById("f-veredicto"), "data-v", function (v) { filtroV = v; });
+  document.getElementById("filtros").hidden = activas.length < 2;
+  pintar();
+})();
+</script>
+<script src="/suscribir.js?v=20261011n" defer></script>
+<!-- Cloudflare Web Analytics --><script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "e81aecc33a6b40ccab86c1fbc9fa801c"}'></script><!-- End Cloudflare Web Analytics -->
+</body>
+</html>
