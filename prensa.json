@@ -1,6 +1,20 @@
 {
- "actualizado": "2026-10-18T12:58:52Z",
+ "actualizado": "2026-10-18T15:48:18Z",
  "items": [
+  {
+   "t": "Viviendas no principales y oferta de alquiler, la maldición de una propiedad dispersa",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/macroeconomia/2026/10/18/6ad11036fc6c83bf178b45a5.html",
+   "f": "2026-10-18T15:36:24Z",
+   "c": "vivienda"
+  },
+  {
+   "t": "Foment avisa del riesgo de cierres en la industria por la subida de los precios energéticos",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261018/11662065/foment-avisa-riesgo-cierres-industria-subida-precios-energeticos.html",
+   "f": "2026-10-18T15:28:32Z",
+   "c": "energia"
+  },
   {
    "t": "La sicav del fundador de Pronovias roza los 1.800 millones y lidera por patrimonio gestionado hasta septiembre",
    "m": "Cinco Días",
@@ -42,20 +56,6 @@
    "u": "https://www.lavanguardia.com/economia/20261018/11661551/amparo-moraleda-airbus-mujer-vuela-alto.html",
    "f": "2026-10-18T04:00:00Z",
    "c": "general"
-  },
-  {
-   "t": "El motor europeo tira de legado histórico para plantar cara a China",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261018/11661549/motor-europeo-tira-legado-historico-plantar-cara-china.html",
-   "f": "2026-10-18T04:00:00Z",
-   "c": "comercio"
-  },
-  {
-   "t": "La inflación que se diluye y la que persiste",
-   "m": "El País",
-   "u": "https://elpais.com/economia/negocios/2026-10-18/la-inflacion-que-se-diluye-y-la-que-persiste.html",
-   "f": "2026-10-18T03:40:00Z",
-   "c": "precios"
   }
  ]
 }
