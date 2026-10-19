@@ -1,61 +1,61 @@
 {
- "actualizado": "2026-10-19T10:56:55Z",
+ "actualizado": "2026-10-19T11:59:19Z",
  "items": [
   {
-   "t": "Hacienda lo confirma: los mayores de 65 años pueden donar el 50% de su vivienda habitual a su cónyuge sin pagar IRPF",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/10/19/6ad5e031fdddff7b198b4570.html",
-   "f": "2026-10-19T10:55:37Z",
+   "t": "Marriott redobla su apuesta por la vivienda en España y firma su segundo proyecto con Impar Capital",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-19/marriott-redobla-su-apuesta-por-la-vivienda-en-espana-y-firma-su-segundo-proyecto-con-impar-capital.html",
+   "f": "2026-10-19T11:47:53Z",
    "c": "vivienda"
   },
   {
-   "t": "Pesimismo en las Bolsas europeas por la incertidumbre política en Francia",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-19/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-10-19T10:46:45Z",
-   "c": "general"
-  },
-  {
-   "t": "La prima de riesgo se dispara en Francia en plena oleada de disturbios",
-   "m": "Expansión",
-   "u": "https://www.expansion.com/economia/2026/10/19/prima-riesgo-dispara-francia-plena-oleada-disturbios.html",
-   "f": "2026-10-19T10:43:26Z",
-   "c": "general"
-  },
-  {
-   "t": "El mapa de rentas de España: el norte es más rico y el sur, más pobre",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261019/11662590/mapa-rentas-espana-norte-mas-rico-sur-mas-pobre.html",
-   "f": "2026-10-19T10:39:22Z",
-   "c": "general"
-  },
-  {
-   "t": "Pozuelo (Madrid) y Matadepera (Barcelona) encabezan el podio de municipios con mayor renta de España y triplican al de menor",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/pozuelo-madrid-matadepera-barcelona-encabezan-podio-municipios-con-mayor-renta-espana-triplican-menor_7050446_0.html",
-   "f": "2026-10-19T10:32:59Z",
-   "c": "general"
-  },
-  {
-   "t": "BME ve en la cuenta de ahorro una palanca para impulsar la participación del inversor minorista en los mercados",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/bme-destaca-cuenta-ahorro-promovera-participacion-minorista_7050405_0.html",
-   "f": "2026-10-19T10:19:18Z",
-   "c": "general"
-  },
-  {
-   "t": "Elon Musk regalará una acción de SpaceX a cada niño estadounidense: la donación superaría los 9.000 millones",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-19/elon-musk-regalara-una-accion-de-spacex-a-cada-nino-estadounidense-la-donacion-superaria-los-9000-millones.html",
-   "f": "2026-10-19T10:16:45Z",
-   "c": "general"
-  },
-  {
-   "t": "Ryanair abandona 13 aeropuertos de Europa: estas son las rutas afectadas",
+   "t": "La sede central de Correos se encamina a una huelga indefinida en pleno proceso electoral por el fin del teletrabajo impuesto por Saura: \"Se puede liar la…",
    "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/10/19/6ad5dd5de9cf4a2d698b458f.html",
-   "f": "2026-10-19T10:14:34Z",
-   "c": "transporte"
+   "u": "https://www.elmundo.es/economia/empresas/2026/10/19/6ad5f1eee9cf4a2e2d8b4584.html",
+   "f": "2026-10-19T11:34:33Z",
+   "c": "empleo"
+  },
+  {
+   "t": "La dana Adam afecta a 8.000 hectáreas de cultivo valenciano en la Safor y la Marina, según las primeras estimaciones",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/noticia-dana-adam-afecta-8000-hectareas-cultivo-valenciano-safor-marina-primeras-estimaciones-20261019132230.html",
+   "f": "2026-10-19T11:22:30Z",
+   "c": "general"
+  },
+  {
+   "t": "Anthropic transferirá el 5% de sus acciones a un fondo para donaciones con el que busca mitigar el impacto laboral de la IA",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-19/anthropic-transferira-el-5-de-sus-acciones-a-un-fondo-para-donaciones-con-el-que-busca-mitigar-el-impacto-laboral-de-la-ia.html",
+   "f": "2026-10-19T11:15:40Z",
+   "c": "tecnologia"
+  },
+  {
+   "t": "Amor (ATA) carga contra el Gobierno y considera \"nefasta\" la legislatura: \"Hay más autónomos, pero son más pobres\"",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/lorenzo-amor-ata-carga-contra-gobierno-considera-nefasta-legislatura-hay-mas-autonomos-pero-son-mas-pobres_7050459_0.html",
+   "f": "2026-10-19T11:06:56Z",
+   "c": "empleo"
+  },
+  {
+   "t": "Amor (ATA) tacha de \"nefasta\" la legislatura de Sánchez para los autónomos: \"Hay más, pero más pobres\"",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/laboral-00346/noticia-amor-ata-tacha-nefasta-legislatura-sanchez-autonomos-hay-mas-mas-pobres-20261019130625.html",
+   "f": "2026-10-19T11:06:25Z",
+   "c": "empleo"
+  },
+  {
+   "t": "Euríbor hoy, lunes 19 de octubre: la tasa diaria arranca la semana con una subida",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/vivienda/2026/10/19/6ad5f0dde85ece69448b4589.html",
+   "f": "2026-10-19T10:59:52Z",
+   "c": "tipos"
+  },
+  {
+   "t": "Los sindicatos registran la convocatoria del 11-N y crean una web para coordinar la movilización",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/sindicatos-registran-convocatoria-11-n-crean-web-coordinar-movilizacion_7050439_0.html",
+   "f": "2026-10-19T10:58:59Z",
+   "c": "empleo"
   }
  ]
 }
