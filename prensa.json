@@ -1,6 +1,41 @@
 {
- "actualizado": "2026-10-19T13:11:39Z",
+ "actualizado": "2026-10-19T14:06:30Z",
  "items": [
+  {
+   "t": "¿Cómo de ricos son tus vecinos? El mapa de la renta de los españoles, calle a calle",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-19/como-de-ricos-son-tus-vecinos-el-mapa-de-la-renta-de-los-espanoles-calle-a-calle.html",
+   "f": "2026-10-19T13:47:45Z",
+   "c": "general"
+  },
+  {
+   "t": "El Ibex acelera las caídas y se deja casi un 2% ante la inestabilidad en Francia",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-19/la-bolsa-y-el-ibex-35.html",
+   "f": "2026-10-19T13:45:13Z",
+   "c": "empresas"
+  },
+  {
+   "t": "Los Veintisiete piden reforzar la protección frente a los desahucios y facilitar ayudas al alquiler",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/construccion-y-vivienda-00342/noticia-veintisiete-piden-reforzar-proteccion-frente-desahucios-facilitar-ayudas-alquiler-20261019152423.html",
+   "f": "2026-10-19T13:24:23Z",
+   "c": "vivienda"
+  },
+  {
+   "t": "La CNMV multa con un millón de euros a la sociedad de valores del exCEO del Banco Popular",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-19/la-cnmv-multa-con-un-millon-de-euros-a-la-sociedad-de-valores-del-exceo-del-banco-popular.html",
+   "f": "2026-10-19T13:18:25Z",
+   "c": "bancos"
+  },
+  {
+   "t": "La prima de riesgo de Francia se amplía a 146 puntos básicos con el bono a 10 años al borde del 5%",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/finanzas-00340/noticia-prima-riesgo-francia-amplia-146-puntos-basicos-bono-10-anos-borde-20261019151803.html",
+   "f": "2026-10-19T13:18:03Z",
+   "c": "general"
+  },
   {
    "t": "Actualidad Económica premia a las 100 Mejores Empresas para Trabajar en España: \"Hay pocas cosas que reflejen mejor la evolución y la modernización de un…",
    "m": "El Mundo",
@@ -20,41 +55,6 @@
    "m": "El País",
    "u": "https://elpais.com/economia/2026-10-19/los-sindicatos-registran-el-paro-por-la-vivienda-del-11-n-esta-huelga-general-es-de-la-calle.html",
    "f": "2026-10-19T12:34:53Z",
-   "c": "vivienda"
-  },
-  {
-   "t": "El principal inquilino de Merlin, la tecnológica CoreWeave, entra en riesgo de impago",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-19/el-principal-inquilino-de-merlin-la-tecnologica-coreweave-entra-en-riesgo-de-impago.html",
-   "f": "2026-10-19T12:25:33Z",
-   "c": "vivienda"
-  },
-  {
-   "t": "Gobierno y sindicatos abordarán este martes la subida salarial de los funcionarios acordada para 2027",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/laboral-00346/noticia-gobierno-sindicatos-abordaran-martes-subida-salarial-funcionarios-acordada-2027-20261019142141.html",
-   "f": "2026-10-19T12:21:41Z",
-   "c": "empleo"
-  },
-  {
-   "t": "La oferta de alquiler crece pese a la incertidumbre regulatoria",
-   "m": "El País",
-   "u": "https://elpais.com/economia/vivienda/2026-10-19/la-oferta-de-alquiler-crece-pese-a-la-incertidumbre-regulatoria.html",
-   "f": "2026-10-19T12:15:45Z",
-   "c": "vivienda"
-  },
-  {
-   "t": "Bruselas abre cargos a KKR por aportar información engañosa en la compra de la red de Telecom Italia",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-19/bruselas-abre-cargos-a-kkr-por-aportar-informacion-enganosa-en-la-compra-de-la-red-de-telecom-italia.html",
-   "f": "2026-10-19T12:14:19Z",
-   "c": "comercio"
-  },
-  {
-   "t": "Garamendi impugnará la huelga por la vivienda: \"Es una huelga electoral, no general\"",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/garamendi-impugnara-huelga-por-vivienda-es-una-huelga-electoral-no-general_7050531_0.html",
-   "f": "2026-10-19T12:09:35Z",
    "c": "vivienda"
   }
  ]
