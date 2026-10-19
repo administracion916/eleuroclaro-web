@@ -1,12 +1,47 @@
 {
- "actualizado": "2026-10-19T15:56:03Z",
+ "actualizado": "2026-10-19T16:59:37Z",
  "items": [
   {
-   "t": "El Ibex acelera las caídas y pierde un 1,49% ante la inestabilidad en Francia",
+   "t": "Los disturbios inflaman la prima de riesgo de Francia, en máximos desde 2012",
    "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-19/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-10-19T15:42:58Z",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-19/la-prima-de-riesgo-de-francia-repunta-tras-el-fin-de-semana-de-disturbios.html",
+   "f": "2026-10-19T16:37:51Z",
+   "c": "general"
+  },
+  {
+   "t": "Atresmedia lanza una nueva división de publicidad exterior tras la compra de Clear Channel España",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-19/atresmedia-lanza-una-nueva-division-de-publicidad-exterior-tras-la-compra-de-clear-channel-espana.html",
+   "f": "2026-10-19T16:16:13Z",
    "c": "empresas"
+  },
+  {
+   "t": "Las parejas con hijos tendrán derecho a la pensión de viudedad si acreditan dos años de convivencia",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-19/las-parejas-con-hijos-tendran-derecho-a-la-pension-de-viudedad-si-acreditan-dos-anos-de-convivencia.html",
+   "f": "2026-10-19T16:15:26Z",
+   "c": "pensiones"
+  },
+  {
+   "t": "Volkswagen plantea congelar salarios en Alemania hasta 2030 en el marco de su plan de ajuste",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-19/volkswagen-plantea-congelar-salarios-en-alemania-hasta-2030-en-el-marco-de-su-plan-de-ajuste.html",
+   "f": "2026-10-19T16:04:27Z",
+   "c": "empleo"
+  },
+  {
+   "t": "El Ibex 35 sostiene los 19.000 puntos pese a caer un 1,49% por las tensiones en Francia",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/bolsa-00348/noticia-ibex-35-sostiene-19000-puntos-pese-caer-149-tensiones-francia-20261019180311.html",
+   "f": "2026-10-19T16:03:11Z",
+   "c": "empresas"
+  },
+  {
+   "t": "Volkswagen planea congelar el sueldo de más de 600.000 empleados para seguir reduciendo costes",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/empresas/volkswagen-congelar-sueldo-empleados-reduciendo-costes_7050506_0.html",
+   "f": "2026-10-19T15:30:18Z",
+   "c": "empleo"
   },
   {
    "t": "Así es el 'contrato con España' de Feijóo: vivienda, pensiones e impuestos como protagonistas",
@@ -21,41 +56,6 @@
    "u": "https://www.elmundo.es/economia/dinero-inversion/2026/10/19/6ad602c0fdddff26068b45ac.html",
    "f": "2026-10-19T14:25:43Z",
    "c": "tipos"
-  },
-  {
-   "t": "‘Financial Times’ vuelve a distinguir a la Zona Especial Canaria como la mejor zona económica especial de Europa",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-19/financial-times-vuelve-a-distinguir-a-la-zona-especial-canaria-como-la-mejor-zona-economica-especial-de-europa.html",
-   "f": "2026-10-19T14:06:06Z",
-   "c": "empresas"
-  },
-  {
-   "t": "¿Cómo de ricos son tus vecinos? El mapa de la renta de los españoles, calle a calle",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-19/como-de-ricos-son-tus-vecinos-el-mapa-de-la-renta-de-los-espanoles-calle-a-calle.html",
-   "f": "2026-10-19T13:47:45Z",
-   "c": "general"
-  },
-  {
-   "t": "Los Veintisiete piden reforzar la protección frente a los desahucios y facilitar ayudas al alquiler",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/construccion-y-vivienda-00342/noticia-veintisiete-piden-reforzar-proteccion-frente-desahucios-facilitar-ayudas-alquiler-20261019152423.html",
-   "f": "2026-10-19T13:24:23Z",
-   "c": "vivienda"
-  },
-  {
-   "t": "La CNMV multa con un millón de euros a la sociedad de valores del exCEO del Banco Popular",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-19/la-cnmv-multa-con-un-millon-de-euros-a-la-sociedad-de-valores-del-exceo-del-banco-popular.html",
-   "f": "2026-10-19T13:18:25Z",
-   "c": "bancos"
-  },
-  {
-   "t": "La prima de riesgo de Francia se amplía a 146 puntos básicos con el bono a 10 años al borde del 5%",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/finanzas-00340/noticia-prima-riesgo-francia-amplia-146-puntos-basicos-bono-10-anos-borde-20261019151803.html",
-   "f": "2026-10-19T13:18:03Z",
-   "c": "general"
   }
  ]
 }
