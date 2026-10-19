@@ -551,33 +551,32 @@ img.presenta-avatar { object-fit: cover; box-shadow: 0 0 0 4px var(--sol), 0 16p
 .hero-calc.hc-blanco { background: #fff; margin-top: .9rem; }
 .hero-calc.hc-blanco .hc-ico { background: var(--sol); color: var(--navy); }
 
-/* Portada: bloque de Fintonic, marcado como enlace de afiliado (arriba, junto al botón y en la nota). */
+/* Bloque de Fintonic (portada y /recursos/), en el rosa de Fintonic. Va marcado como publicidad y enlace de afiliado. */
 .destacado-sec { padding-top: 0; }
-.destacado { --dest-bg: #fff4c7; display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 2.5rem; align-items: center; background: var(--dest-bg); border: 2px solid var(--sol); border-radius: 1rem; padding: 2.2rem 2.6rem; box-shadow: 0 24px 50px -32px rgba(14, 42, 71, .55); }
-.destacado-tag { display: inline-block; background: var(--navy); color: var(--sol); font-weight: 800; font-size: .78rem; letter-spacing: .08em; text-transform: uppercase; padding: .35rem .8rem; border-radius: 2rem; }
+.books-head .destacado { margin-top: 2rem; }
+.destacado { --fin: #ec6c9c; --fin-fuerte: #c2255e; --fin-txt: #c2255e; --dest-bg: #fdeef4; display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 2.5rem; align-items: center; background: var(--dest-bg); border: 2px solid var(--fin); border-top-width: 8px; border-radius: 1rem; padding: 2.2rem 2.6rem; box-shadow: 0 24px 50px -32px rgba(122, 20, 60, .55); }
+.destacado-tag { display: inline-block; background: var(--fin-fuerte); color: #fff; font-weight: 800; font-size: .78rem; letter-spacing: .08em; text-transform: uppercase; padding: .35rem .8rem; border-radius: 2rem; }
 .destacado h2 { font-size: clamp(1.8rem, 3.6vw, 2.6rem); margin-block: .9rem .5rem; }
 .destacado-marca { font-size: 1.1rem; color: var(--muted); }
-.destacado-marca strong { color: var(--ink); }
+.destacado-marca strong { color: var(--fin-txt); font-size: 1.2em; }
 .destacado-lista { list-style: none; padding: 0; margin: 1.2rem 0 1.6rem; display: grid; gap: .6rem; }
 .destacado-lista li { position: relative; padding-left: 2.1rem; font-size: 1.06rem; }
-.destacado-lista li::before { content: "✓"; position: absolute; left: 0; top: .1rem; width: 1.45rem; height: 1.45rem; border-radius: 50%; background: #1f8a4c; color: #fff; font-weight: 800; font-size: .85rem; line-height: 1; display: grid; place-items: center; }
+.destacado-lista li::before { content: "✓"; position: absolute; left: 0; top: .1rem; width: 1.45rem; height: 1.45rem; border-radius: 50%; background: var(--fin-fuerte); color: #fff; font-weight: 800; font-size: .85rem; line-height: 1; display: grid; place-items: center; }
 .destacado-cta { display: flex; flex-wrap: wrap; align-items: center; gap: .7rem 1rem; }
-.destacado .btn-grande { font-size: 1.2rem; padding: 1rem 1.8rem; border-radius: .75rem; background: var(--navy); border-color: var(--navy); color: #fff; box-shadow: 0 6px 0 rgba(14, 42, 71, .25); }
-.destacado .btn-grande:hover { filter: brightness(1.2); }
+.destacado .btn-grande { font-size: 1.2rem; padding: 1rem 1.8rem; border-radius: .75rem; background: var(--fin-fuerte); border-color: var(--fin-fuerte); color: #fff; box-shadow: 0 6px 0 rgba(122, 20, 60, .3); }
+.destacado .btn-grande:hover { filter: brightness(1.12); }
 .destacado-nota { margin-top: 1.2rem; max-width: 46rem; font-size: .86rem; line-height: 1.5; color: var(--muted); }
 .afil { display: inline-block; font-size: .72rem; font-weight: 700; letter-spacing: .03em; color: var(--muted); background: var(--surface); border: 1px solid var(--line); border-radius: .3rem; padding: .05rem .4rem; white-space: nowrap; }
 .destacado-dibujo { width: 10.5rem; height: auto; }
-.dd-cuerpo { fill: var(--surface); stroke: var(--ink); }
+.dd-cuerpo { fill: var(--surface); stroke: var(--fin-fuerte); }
 .dd-linea { fill: var(--line); }
-.dd-c1 { fill: var(--sol); } .dd-c2 { fill: var(--blue); } .dd-c3 { fill: var(--gold); } .dd-c4 { fill: #1f8a4c; } .dd-ok { fill: #1f8a4c; }
+.dd-c1 { fill: var(--fin); } .dd-c2 { fill: var(--fin-fuerte); } .dd-c3 { fill: #f4a6c3; } .dd-c4 { fill: #7a1d42; } .dd-ok { fill: var(--fin-fuerte); }
 @media (prefers-color-scheme: dark) {
-  :root:not([data-theme="light"]) .destacado { --dest-bg: var(--gold-soft); }
-  :root:not([data-theme="light"]) .destacado .btn-grande { background: var(--sol); border-color: var(--sol); color: var(--navy); }
-  :root:not([data-theme="light"]) .destacado-tag { background: var(--sol); color: var(--navy); }
+  :root:not([data-theme="light"]) .destacado { --dest-bg: #2a1520; --fin-txt: #f49bbd; }
+  :root:not([data-theme="light"]) .dd-c4 { fill: #f9cfe0; }
 }
-:root[data-theme="dark"] .destacado { --dest-bg: var(--gold-soft); }
-:root[data-theme="dark"] .destacado .btn-grande { background: var(--sol); border-color: var(--sol); color: var(--navy); }
-:root[data-theme="dark"] .destacado-tag { background: var(--sol); color: var(--navy); }
+:root[data-theme="dark"] .destacado { --dest-bg: #2a1520; --fin-txt: #f49bbd; }
+:root[data-theme="dark"] .dd-c4 { fill: #f9cfe0; }
 @media (max-width: 52rem) {
   .destacado { grid-template-columns: 1fr; gap: 1rem; padding: 1.6rem 1.3rem; }
   .destacado-dibujo { display: none; }

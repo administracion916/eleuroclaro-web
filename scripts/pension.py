@@ -164,7 +164,7 @@ PLANTILLA = """<!doctype html>
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="/apple-touch-icon.png">
 <link rel="stylesheet" href="/fonts.css">
-<link rel="stylesheet" href="/style.css?v=20261018a">
+<link rel="stylesheet" href="/style.css?v=20261019a">
 <script type="application/ld+json">{faq}</script>
 </head>
 <body>
@@ -181,6 +181,7 @@ PLANTILLA = """<!doctype html>
       <a href="/#videos">Vídeos</a>
       <a href="/inflacion/">Calculadora</a>
       <a href="/#kit">Kit</a>
+      <a href="/recursos/">Recursos</a>
       <a href="/empresas/">Empresas</a>
       <a href="/libros/">Libros</a>
     </nav>
