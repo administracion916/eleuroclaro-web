@@ -1,12 +1,19 @@
 {
- "actualizado": "2026-10-19T15:02:08Z",
+ "actualizado": "2026-10-19T15:56:03Z",
  "items": [
   {
-   "t": "El Ibex acelera las caídas y pierde un 2%, ante la inestabilidad en Francia",
+   "t": "El Ibex acelera las caídas y pierde un 1,49% ante la inestabilidad en Francia",
    "m": "Cinco Días",
    "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-19/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-10-19T14:58:22Z",
+   "f": "2026-10-19T15:42:58Z",
    "c": "empresas"
+  },
+  {
+   "t": "Así es el 'contrato con España' de Feijóo: vivienda, pensiones e impuestos como protagonistas",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/2026/10/19/asi-contrato-espana-feijoo-vivienda-pensiones-e-impuestos-protagonistas.html",
+   "f": "2026-10-19T14:58:45Z",
+   "c": "pensiones"
   },
   {
    "t": "Francia pone nerviosos a los mercados que se preguntan si el BCE intervendrá y cuándo",
@@ -49,13 +56,6 @@
    "u": "https://www.europapress.es/economia/finanzas-00340/noticia-prima-riesgo-francia-amplia-146-puntos-basicos-bono-10-anos-borde-20261019151803.html",
    "f": "2026-10-19T13:18:03Z",
    "c": "general"
-  },
-  {
-   "t": "Actualidad Económica premia a las 100 Mejores Empresas para Trabajar en España: \"Hay pocas cosas que reflejen mejor la evolución y la modernización de un…",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/10/19/6ad5ca26fc6c8317068b45aa.html",
-   "f": "2026-10-19T13:08:52Z",
-   "c": "empresas"
   }
  ]
 }
