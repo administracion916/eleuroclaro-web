@@ -52,8 +52,10 @@ p { margin: 0; }
 .brand { display: flex; align-items: center; gap: .28em; text-decoration: none; color: var(--sol); font-family: var(--font-display); font-weight: 700; font-size: clamp(2.1rem, 10.6vw, 2.75rem); letter-spacing: -.01em; line-height: 1.1; }
 .coin { width: 1.28em; height: 1.28em; flex: none; }
 @media (min-width: 60.01rem) { .brand { font-size: 3rem; } }
-@media (min-width: 70rem) { .brand { font-size: 3.4rem; } .nav { gap: 1.1rem; } }
 .nav { display: flex; gap: 1.3rem; flex-wrap: wrap; font-size: .95rem; margin-left: auto; }
+/* Ordenador: desde 70rem el nombre y los 8 enlaces del menú caben en una sola fila; entre 60 y 70rem el menú baja a una segunda fila y la cabecera es más alta */
+@media (min-width: 70rem) { .top .wrap { column-gap: 1.2rem; } .nav { gap: .85rem; } }
+@media (min-width: 60.01rem) and (max-width: 69.99rem) { html { scroll-padding-top: 9.5rem; } }
 .nav a { color: #c3cfe0; text-decoration: none; font-weight: 600; }
 .nav a:hover { color: #fff; }
 .nav a[aria-current="page"] { color: #fff; box-shadow: inset 0 -2px 0 var(--sol); }
@@ -561,7 +563,7 @@ img.presenta-avatar { object-fit: cover; box-shadow: 0 0 0 4px var(--sol), 0 16p
 .destacado-marca strong { color: var(--fin-txt); font-size: 1.2em; }
 .destacado-lista { list-style: none; padding: 0; margin: 1.2rem 0 1.6rem; display: grid; gap: .6rem; }
 .destacado-lista li { position: relative; padding-left: 2.1rem; font-size: 1.06rem; }
-.destacado-lista li::before { content: "✓"; position: absolute; left: 0; top: .1rem; width: 1.45rem; height: 1.45rem; border-radius: 50%; background: var(--fin-fuerte); color: #fff; font-weight: 800; font-size: .85rem; line-height: 1; display: grid; place-items: center; }
+.destacado-lista li::before { content: "✓"; content: "✓" / ""; position: absolute; left: 0; top: .1rem; width: 1.45rem; height: 1.45rem; border-radius: 50%; background: var(--fin-fuerte); color: #fff; font-weight: 800; font-size: .85rem; line-height: 1; display: grid; place-items: center; }
 .destacado-cta { display: flex; flex-wrap: wrap; align-items: center; gap: .7rem 1rem; }
 .destacado .btn-grande { font-size: 1.2rem; padding: 1rem 1.8rem; border-radius: .75rem; background: var(--fin-fuerte); border-color: var(--fin-fuerte); color: #fff; box-shadow: 0 6px 0 rgba(122, 20, 60, .3); }
 .destacado .btn-grande:hover { filter: brightness(1.12); }
@@ -580,5 +582,11 @@ img.presenta-avatar { object-fit: cover; box-shadow: 0 0 0 4px var(--sol), 0 16p
 @media (max-width: 52rem) {
   .destacado { grid-template-columns: 1fr; gap: 1rem; padding: 1.6rem 1.3rem; }
   .destacado-dibujo { display: none; }
-  .destacado .btn-grande { width: 100%; text-align: center; }
+  .destacado .btn-grande { width: 100%; text-align: center; padding-inline: 1rem; }
+}
+/* Móviles pequeños (320-384 px): botón y etiqueta en una sola línea */
+@media (max-width: 24rem) {
+  .destacado { padding-inline: 1rem; }
+  .destacado .btn-grande { font-size: 1.05rem; }
+  .destacado-tag { letter-spacing: .04em; font-size: .72rem; }
 }
