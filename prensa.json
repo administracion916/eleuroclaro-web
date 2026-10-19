@@ -1,6 +1,41 @@
 {
- "actualizado": "2026-10-19T20:56:28Z",
+ "actualizado": "2026-10-19T22:52:56Z",
  "items": [
+  {
+   "t": "Subida salarial del 5% para los funcionarios: pendiente de las elecciones",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/2026/10/20/subida-salarial-5-funcionarios-pendiente-elecciones.html",
+   "f": "2026-10-19T22:14:51Z",
+   "c": "empleo"
+  },
+  {
+   "t": "Google suspende una inversión milmillonaria en centros de datos en España a la espera del decreto del Gobierno",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/empresas/2026/10/20/6ad602a7fc6c8390178b45b5.html",
+   "f": "2026-10-19T22:02:33Z",
+   "c": "general"
+  },
+  {
+   "t": "Economía advierte de una \"intensificación de la deriva salarial\" mientras Díaz impulsa otra subida del SMI de hasta el 5%",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/10/20/6ad63c4efc6c83a8088b459b.html",
+   "f": "2026-10-19T22:02:26Z",
+   "c": "empleo"
+  },
+  {
+   "t": "La única luz de un edificio fantasma: los chinos que viven entre las ruinas de la crisis inmobiliaria",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/10/20/6ad625c2e4d4d8302a8b458e.html",
+   "f": "2026-10-19T22:02:25Z",
+   "c": "vivienda"
+  },
+  {
+   "t": "El coste de la vivienda empuja a 770.000 trabajadores a la pobreza, según Oxfam Intermón",
+   "m": "El País",
+   "u": "https://elpais.com/economia/vivienda/2026-10-20/el-coste-de-la-vivienda-empuja-a-770000-trabajadores-a-la-pobreza-segun-oxfam-intermon.html",
+   "f": "2026-10-19T22:01:00Z",
+   "c": "vivienda"
+  },
   {
    "t": "Andorra firma el acuerdo de Asociación con la Unión Europea",
    "m": "La Vanguardia",
@@ -21,41 +56,6 @@
    "u": "https://www.lavanguardia.com/economia/20261019/11663044/prima-riesgo-dispara-francia-tension-politica.html",
    "f": "2026-10-19T18:24:54Z",
    "c": "general"
-  },
-  {
-   "t": "El Gobierno aprobará que las parejas con hijos puedan acceder a la pensión de viudedad aunque no estén registradas",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/gobierno-aprobara-que-las-parejas-con-hijos-puedan-acceder-pension-viudedad-aunque-no-esten-registradas_7050703_0.html",
-   "f": "2026-10-19T17:35:22Z",
-   "c": "pensiones"
-  },
-  {
-   "t": "La minera española Abenójar Tungsten debutará en la Bolsa británica valorada en hasta 730 millones",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-19/la-minera-abenojar-tungsten-debutara-en-la-bolsa-britanica-valorada-en-hasta-730-millones.html",
-   "f": "2026-10-19T17:12:15Z",
-   "c": "empresas"
-  },
-  {
-   "t": "Virgin compra 12 trenes a Alstom para cruzar el Canal de la Mancha en alta velocidad en 2030",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-19/virgin-compra-12-trenes-a-alstom-para-cruzar-el-canal-de-la-mancha-en-alta-velocidad-en-2030.html",
-   "f": "2026-10-19T16:59:18Z",
-   "c": "transporte"
-  },
-  {
-   "t": "Los disturbios inflaman la prima de riesgo de Francia, en máximos desde 2012",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-19/la-prima-de-riesgo-de-francia-repunta-tras-el-fin-de-semana-de-disturbios.html",
-   "f": "2026-10-19T16:37:51Z",
-   "c": "general"
-  },
-  {
-   "t": "Las parejas con hijos tendrán derecho a la pensión de viudedad si acreditan dos años de convivencia",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-19/las-parejas-con-hijos-tendran-derecho-a-la-pension-de-viudedad-si-acreditan-dos-anos-de-convivencia.html",
-   "f": "2026-10-19T16:15:26Z",
-   "c": "pensiones"
   }
  ]
 }
