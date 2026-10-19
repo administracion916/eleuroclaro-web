@@ -1,61 +1,61 @@
 {
- "actualizado": "2026-10-19T05:56:07Z",
+ "actualizado": "2026-10-19T07:18:47Z",
  "items": [
   {
-   "t": "El Santander se alía con Nvidia para desplegar la IA en todo el banco",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-19/el-santander-se-alia-con-nvidia-para-desplegar-la-ia-en-todo-el-banco.html",
-   "f": "2026-10-19T05:00:00Z",
-   "c": "bancos"
-  },
-  {
-   "t": "Cautela en las Bolsas ante una semana clave de resultados de las grandes tecnológicas",
+   "t": "Pesimismo en las Bolsas ante una semana clave de resultados de las grandes tecnológicas",
    "m": "Cinco Días",
    "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-19/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-10-19T04:34:07Z",
+   "f": "2026-10-19T07:08:39Z",
    "c": "tecnologia"
   },
   {
-   "t": "Nuevo choque entre Govern y Foment, ahora por el CTESC // Protocolo empresarial para la campaña electoral",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261019/11662150/nuevo-choque-govern-foment-ctesc-protocolo-empresarial-campana-electoral.html",
-   "f": "2026-10-19T04:00:00Z",
-   "c": "empresas"
+   "t": "El PIB de China creció en el tercer trimestre un 1,2%, tres décimas más que entre abril y junio",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/macroeconomia-00338/noticia-pib-china-crecio-tercer-trimestre-12-tres-decimas-mas-abril-junio-20261019085241.html",
+   "f": "2026-10-19T06:52:41Z",
+   "c": "economia"
   },
   {
-   "t": "Las cuentas para invertir el ahorro en bolsa mueven 350.000 millones en la UE",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261019/11662087/cuentas-invertir-ahorro-bolsa-mueven-350-000-millones-ue.html",
-   "f": "2026-10-19T04:00:00Z",
-   "c": "comercio"
+   "t": "Anthropic transferirá el 5% de sus acciones a un fondo para donaciones con el que busca mitigar el impacto laboral de la IA",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-19/anthropic-transferira-el-5-de-sus-acciones-a-un-fondo-para-donaciones-con-el-que-busca-mitigar-el-impacto-laboral-de-la-ia.html",
+   "f": "2026-10-19T06:49:56Z",
+   "c": "tecnologia"
   },
   {
-   "t": "La lista de espera para acceder a un piso protegido roza máximos históricos",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261019/11662083/lista-espera-acceder-piso-protegido-roza-maximos-historicos.html",
-   "f": "2026-10-19T04:00:00Z",
-   "c": "vivienda"
-  },
-  {
-   "t": "Los grandes destinos turísticos tratan de combatir la saturación con nuevas tasas y herramientas de IA",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-19/los-grandes-destinos-turisticos-tratan-de-combatir-la-saturacion-con-nuevas-tasas-y-herramientas-de-ia.html",
-   "f": "2026-10-19T03:30:01Z",
+   "t": "Retrasos en los trenes AVE Madrid-Málaga por falta de tensión en una catenaria en Antequera",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/10/19/6ad5bcc3fc6c83e1668b4577.html",
+   "f": "2026-10-19T06:46:29Z",
    "c": "transporte"
   },
   {
-   "t": "Castilla-La Mancha destinará edificios y parcelas públicas en desuso para vivienda protegida",
-   "m": "El País",
-   "u": "https://elpais.com/economia/vivienda/2026-10-19/castilla-la-mancha-destinara-edificios-y-parcelas-publicas-en-desuso-para-vivienda-protegida.html",
-   "f": "2026-10-19T03:30:01Z",
-   "c": "vivienda"
+   "t": "Técnicas Reunidas consolida su presencia en Norteamérica con un contrato en Canadá de más de 200 millones",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/noticia-tecnicas-reunidas-consolida-presencia-norteamerica-contrato-canada-mas-200-millones-20261019084036.html",
+   "f": "2026-10-19T06:40:36Z",
+   "c": "general"
   },
   {
-   "t": "Los inversores huyen de los centros de datos: la deuda se hunde y las salidas a Bolsa se cancelan",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-19/los-inversores-huyen-de-los-centros-de-datos-la-deuda-se-hunde-y-las-salidas-a-bolsa-se-cancelan.html",
-   "f": "2026-10-19T03:30:00Z",
-   "c": "empresas"
+   "t": "Santander y Nvidia firman un nuevo marco de colaboración por tres años para aplicaciones bancarias de IA",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/finanzas-00340/noticia-santander-nvidia-firman-nuevo-marco-colaboracion-tres-anos-aplicaciones-bancarias-ia-20261019075452.html",
+   "f": "2026-10-19T05:54:52Z",
+   "c": "bancos"
+  },
+  {
+   "t": "La economía china acelera su crecimiento al 4,5% en el tercer trimestre",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-19/la-economia-china-acelera-su-crecimiento-al-45-en-el-tercer-trimestre.html",
+   "f": "2026-10-19T05:52:32Z",
+   "c": "economia"
+  },
+  {
+   "t": "El controvertido impuesto 'otoñal' encargado de sostener las arcas municipales",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/controvertido-impuesto-otonal-encargado-sostener-las-arcas-municipales_7040258_0.html",
+   "f": "2026-10-19T05:47:34Z",
+   "c": "impuestos"
   }
  ]
 }
