@@ -1,19 +1,54 @@
 {
- "actualizado": "2026-10-19T07:18:47Z",
+ "actualizado": "2026-10-19T08:08:41Z",
  "items": [
   {
-   "t": "Pesimismo en las Bolsas ante una semana clave de resultados de las grandes tecnológicas",
+   "t": "Pesimismo en las Bolsas europeas por la incertidumbre política en Francia",
    "m": "Cinco Días",
    "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-19/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-10-19T07:08:39Z",
-   "c": "tecnologia"
+   "f": "2026-10-19T07:56:45Z",
+   "c": "general"
   },
   {
-   "t": "El PIB de China creció en el tercer trimestre un 1,2%, tres décimas más que entre abril y junio",
+   "t": "Precio de los huevos desde hoy, lunes, 19 de octubre de 2026, en los supermercados: cuánto cuestan en Mercadona, Carrefour o Alcampo",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/10/19/6ad5bb4ffdddff12038b456e.html",
+   "f": "2026-10-19T07:46:39Z",
+   "c": "precios"
+  },
+  {
+   "t": "El Ibex 35 cae un 0,8% en la apertura, hasta los 19.169 puntos, con el petróleo bajando a 107 dólares",
    "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/macroeconomia-00338/noticia-pib-china-crecio-tercer-trimestre-12-tres-decimas-mas-abril-junio-20261019085241.html",
-   "f": "2026-10-19T06:52:41Z",
+   "u": "https://www.europapress.es/economia/bolsa-00348/noticia-ibex-35-cae-08-apertura-19169-puntos-petroleo-bajando-107-dolares-20261019094210.html",
+   "f": "2026-10-19T07:42:10Z",
+   "c": "energia"
+  },
+  {
+   "t": "Técnicas Reunidas consolida su presencia en Norteamérica con un contrato en Canadá de más de 200 millones",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-19/tecnicas-reunidas-consolida-su-presencia-en-norteamerica-con-un-contrato-en-canada-de-mas-de-200-millones.html",
+   "f": "2026-10-19T07:22:05Z",
+   "c": "empresas"
+  },
+  {
+   "t": "El PIB chino crece más de lo esperado, un 4,5%, por las exportaciones y la industria",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261019/11662384/china-pib-crecimiento-tercer-trimestre-economia.html",
+   "f": "2026-10-19T07:21:01Z",
    "c": "economia"
+  },
+  {
+   "t": "Lindt & Sprüngli nombra a Dieter Weisskopf consejero delegado interino tras la salida de Adalbert Lechner",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/noticia-lindt-sprungli-nombra-dieter-weisskopf-consejero-delegado-interino-salida-adalbert-lechner-20261019091832.html",
+   "f": "2026-10-19T07:18:32Z",
+   "c": "empresas"
+  },
+  {
+   "t": "España supera los 11 millones de pasajeros aéreos internacionales en septiembre, un 5,1% más",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/noticia-espana-supera-11-millones-pasajeros-aereos-internacionales-septiembre-51-mas-20261019091626.html",
+   "f": "2026-10-19T07:16:26Z",
+   "c": "general"
   },
   {
    "t": "Anthropic transferirá el 5% de sus acciones a un fondo para donaciones con el que busca mitigar el impacto laboral de la IA",
@@ -21,41 +56,6 @@
    "u": "https://cincodias.elpais.com/companias/2026-10-19/anthropic-transferira-el-5-de-sus-acciones-a-un-fondo-para-donaciones-con-el-que-busca-mitigar-el-impacto-laboral-de-la-ia.html",
    "f": "2026-10-19T06:49:56Z",
    "c": "tecnologia"
-  },
-  {
-   "t": "Retrasos en los trenes AVE Madrid-Málaga por falta de tensión en una catenaria en Antequera",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/10/19/6ad5bcc3fc6c83e1668b4577.html",
-   "f": "2026-10-19T06:46:29Z",
-   "c": "transporte"
-  },
-  {
-   "t": "Técnicas Reunidas consolida su presencia en Norteamérica con un contrato en Canadá de más de 200 millones",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/noticia-tecnicas-reunidas-consolida-presencia-norteamerica-contrato-canada-mas-200-millones-20261019084036.html",
-   "f": "2026-10-19T06:40:36Z",
-   "c": "general"
-  },
-  {
-   "t": "Santander y Nvidia firman un nuevo marco de colaboración por tres años para aplicaciones bancarias de IA",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/finanzas-00340/noticia-santander-nvidia-firman-nuevo-marco-colaboracion-tres-anos-aplicaciones-bancarias-ia-20261019075452.html",
-   "f": "2026-10-19T05:54:52Z",
-   "c": "bancos"
-  },
-  {
-   "t": "La economía china acelera su crecimiento al 4,5% en el tercer trimestre",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-19/la-economia-china-acelera-su-crecimiento-al-45-en-el-tercer-trimestre.html",
-   "f": "2026-10-19T05:52:32Z",
-   "c": "economia"
-  },
-  {
-   "t": "El controvertido impuesto 'otoñal' encargado de sostener las arcas municipales",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/controvertido-impuesto-otonal-encargado-sostener-las-arcas-municipales_7040258_0.html",
-   "f": "2026-10-19T05:47:34Z",
-   "c": "impuestos"
   }
  ]
 }
