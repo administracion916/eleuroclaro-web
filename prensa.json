@@ -1,19 +1,33 @@
 {
- "actualizado": "2026-10-19T14:06:30Z",
+ "actualizado": "2026-10-19T15:02:08Z",
  "items": [
+  {
+   "t": "El Ibex acelera las caídas y pierde un 2%, ante la inestabilidad en Francia",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-19/la-bolsa-y-el-ibex-35.html",
+   "f": "2026-10-19T14:58:22Z",
+   "c": "empresas"
+  },
+  {
+   "t": "Francia pone nerviosos a los mercados que se preguntan si el BCE intervendrá y cuándo",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/dinero-inversion/2026/10/19/6ad602c0fdddff26068b45ac.html",
+   "f": "2026-10-19T14:25:43Z",
+   "c": "tipos"
+  },
+  {
+   "t": "‘Financial Times’ vuelve a distinguir a la Zona Especial Canaria como la mejor zona económica especial de Europa",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-19/financial-times-vuelve-a-distinguir-a-la-zona-especial-canaria-como-la-mejor-zona-economica-especial-de-europa.html",
+   "f": "2026-10-19T14:06:06Z",
+   "c": "empresas"
+  },
   {
    "t": "¿Cómo de ricos son tus vecinos? El mapa de la renta de los españoles, calle a calle",
    "m": "El País",
    "u": "https://elpais.com/economia/2026-10-19/como-de-ricos-son-tus-vecinos-el-mapa-de-la-renta-de-los-espanoles-calle-a-calle.html",
    "f": "2026-10-19T13:47:45Z",
    "c": "general"
-  },
-  {
-   "t": "El Ibex acelera las caídas y se deja casi un 2% ante la inestabilidad en Francia",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-19/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-10-19T13:45:13Z",
-   "c": "empresas"
   },
   {
    "t": "Los Veintisiete piden reforzar la protección frente a los desahucios y facilitar ayudas al alquiler",
@@ -42,20 +56,6 @@
    "u": "https://www.elmundo.es/economia/2026/10/19/6ad5ca26fc6c8317068b45aa.html",
    "f": "2026-10-19T13:08:52Z",
    "c": "empresas"
-  },
-  {
-   "t": "El mapa de la renta en España: Pozuelo repite como el municipio más rico y triplica la renta de Iznalloz, el más pobre",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/10/19/6ad610b7e4d4d850288b4589.html",
-   "f": "2026-10-19T13:00:55Z",
-   "c": "general"
-  },
-  {
-   "t": "Los sindicatos registran el paro por la vivienda del 11-N: “Esta huelga general es de la calle”",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-19/los-sindicatos-registran-el-paro-por-la-vivienda-del-11-n-esta-huelga-general-es-de-la-calle.html",
-   "f": "2026-10-19T12:34:53Z",
-   "c": "vivienda"
   }
  ]
 }
