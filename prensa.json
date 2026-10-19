@@ -1,6 +1,13 @@
 {
- "actualizado": "2026-10-19T05:11:02Z",
+ "actualizado": "2026-10-19T05:56:07Z",
  "items": [
+  {
+   "t": "El Santander se alía con Nvidia para desplegar la IA en todo el banco",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-19/el-santander-se-alia-con-nvidia-para-desplegar-la-ia-en-todo-el-banco.html",
+   "f": "2026-10-19T05:00:00Z",
+   "c": "bancos"
+  },
   {
    "t": "Cautela en las Bolsas ante una semana clave de resultados de las grandes tecnológicas",
    "m": "Cinco Días",
@@ -9,7 +16,7 @@
    "c": "tecnologia"
   },
   {
-   "t": "Nuevo choque entre Govern y Foment, ahora por el CTESC Protocolo empresarial para la campaña electoral",
+   "t": "Nuevo choque entre Govern y Foment, ahora por el CTESC // Protocolo empresarial para la campaña electoral",
    "m": "La Vanguardia",
    "u": "https://www.lavanguardia.com/economia/20261019/11662150/nuevo-choque-govern-foment-ctesc-protocolo-empresarial-campana-electoral.html",
    "f": "2026-10-19T04:00:00Z",
@@ -49,13 +56,6 @@
    "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-19/los-inversores-huyen-de-los-centros-de-datos-la-deuda-se-hunde-y-las-salidas-a-bolsa-se-cancelan.html",
    "f": "2026-10-19T03:30:00Z",
    "c": "empresas"
-  },
-  {
-   "t": "Llegó la hora de los avatares en las aulas: Harvard clona a sus docentes",
-   "m": "El País",
-   "u": "https://elpais.com/economia/negocios/2026-10-19/llego-la-hora-de-los-avatares-harvard-clona-a-sus-docentes.html",
-   "f": "2026-10-19T03:30:00Z",
-   "c": "general"
   }
  ]
 }
