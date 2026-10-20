@@ -1,12 +1,19 @@
 {
- "actualizado": "2026-10-20T14:02:48Z",
+ "actualizado": "2026-10-20T14:59:48Z",
  "items": [
   {
-   "t": "El Ibex lucha por mantener los 19.000 puntos penalizado por las dudas sobre la IA y el alza del petróleo",
+   "t": "El mercado levanta el castigo a la deuda soberana y catapulta al Ibex sobre los 19.200 puntos",
    "m": "Cinco Días",
    "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-20/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-10-20T13:56:27Z",
-   "c": "energia"
+   "f": "2026-10-20T14:42:49Z",
+   "c": "empresas"
+  },
+  {
+   "t": "Banca March abrirá una oficina en Portugal y creará una filial en Luxemburgo",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-20/banca-march-abrira-una-oficina-en-portugal-y-creara-una-filial-en-luxemburgo.html",
+   "f": "2026-10-20T14:19:02Z",
+   "c": "bancos"
   },
   {
    "t": "Quienes podrán cobrar la pensión de viudedad aunque no estén registrados: así es la nueva ampliación del Gobierno",
@@ -49,13 +56,6 @@
    "u": "https://www.europapress.es/economia/noticia-airbus-entrega-tercer-avion-multimision-a330-mrtt-defensa-pesar-impacto-huelga-20261020143409.html",
    "f": "2026-10-20T12:34:09Z",
    "c": "transporte"
-  },
-  {
-   "t": "Revolut sufre una caída que impide a sus clientes hacer pagos, transferencias y acceder a sus cuentas",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-20/revolut-sufre-una-caida-que-impide-a-sus-clientes-hacer-pagos-transferencias-y-acceder-a-sus-cuentas.html",
-   "f": "2026-10-20T12:12:01Z",
-   "c": "general"
   }
  ]
 }
