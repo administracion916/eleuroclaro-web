@@ -1,6 +1,34 @@
 {
- "actualizado": "2026-10-20T17:53:49Z",
+ "actualizado": "2026-10-20T19:05:39Z",
  "items": [
+  {
+   "t": "Merz busca recuperar el atractivo inversor de Alemania con una cumbre al estilo de Macron",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-20/merz-busca-recuperar-el-atractivo-inversor-de-alemania-con-una-cumbre-al-estilo-de-macron.html",
+   "f": "2026-10-20T18:37:20Z",
+   "c": "general"
+  },
+  {
+   "t": "Revolut restablece sus servicios tras la caída de Google Cloud que ha impedido a los clientes acceder a sus cuentas",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-20/revolut-sufre-una-caida-que-impide-a-sus-clientes-hacer-pagos-transferencias-y-acceder-a-sus-cuentas.html",
+   "f": "2026-10-20T18:22:25Z",
+   "c": "general"
+  },
+  {
+   "t": "El Gobierno asegura que subirá el sueldo a los funcionarios un 4,5% pero sin fecha concreta de aprobación",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261020/11663963/gobierno-asegura-subira-sueldo-funcionarios-4-5-fecha.html",
+   "f": "2026-10-20T18:02:35Z",
+   "c": "empleo"
+  },
+  {
+   "t": "Inditex supera los 176.000 millones y arrebata a Santander el trono del Ibex cuatro meses después",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/inditex-supera-los-176-000-millones-arrebata-santander-trono-ibex-cuatro-meses-despues_7051237_0.html",
+   "f": "2026-10-20T17:47:40Z",
+   "c": "bancos"
+  },
   {
    "t": "El Gobierno garantiza a los sindicatos que el sueldo de los funcionarios subirá un 4,5% desde el 1 de enero",
    "m": "Europa Press",
@@ -27,34 +55,6 @@
    "m": "Expansión",
    "u": "https://www.expansion.com/economia/2026/10/20/gobierno-aprobara-ano-subida-sueldo-funcionarios-5.html",
    "f": "2026-10-20T17:33:35Z",
-   "c": "empleo"
-  },
-  {
-   "t": "Carrefour empeora sus previsiones anuales por los disturbios en Francia: “Es una situación sin precedentes”",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-20/carrefour-empeora-sus-previsiones-anuales-por-los-disturbios-en-francia-es-una-situacion-sin-precedentes.html",
-   "f": "2026-10-20T17:29:42Z",
-   "c": "economia"
-  },
-  {
-   "t": "López garantiza que subirá el sueldo de los funcionarios un 4,5%, pero los sindicatos le urgen a hacerlo antes de las elecciones",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/gobierno-garantiza-que-subira-sueldo-los-funcionarios-un-4-5-pero-los-sindicatos-le-urgen-que-haga-antes-las-elecciones_7051220_0.html",
-   "f": "2026-10-20T17:18:04Z",
-   "c": "empleo"
-  },
-  {
-   "t": "Google da por solucionado el fallo que ha provocado la caída de los pagos de Revolut durante seis horas y asegura que el neobanco se recuperará…",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/dinero-inversion/2026/10/20/6ad737fcfc6c8327518b45b1.html",
-   "f": "2026-10-20T17:09:01Z",
-   "c": "general"
-  },
-  {
-   "t": "El Tribunal Supremo declara nulo el despido de una mujer tras una denuncia por violencia machista",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/tribunal-supremo-declara-nulo-despido-una-mujer-tras-una-denuncia-por-violencia-machista_7051194_0.html",
-   "f": "2026-10-20T16:42:10Z",
    "c": "empleo"
   }
  ]
