@@ -1,6 +1,41 @@
 {
- "actualizado": "2026-10-20T09:00:15Z",
+ "actualizado": "2026-10-20T09:56:50Z",
  "items": [
+  {
+   "t": "El Supremo corrige a Hacienda: los padres con custodia compartida sí pueden deducirse el IRPF de la pensión de alimentos",
+   "m": "El País",
+   "u": "https://elpais.com/economia/mis-derechos/2026-10-20/el-supremo-corrige-a-hacienda-los-padres-con-custodia-compartida-si-pueden-deducirse-el-irpf-de-la-pension-de-alimentos.html",
+   "f": "2026-10-20T09:45:25Z",
+   "c": "pensiones"
+  },
+  {
+   "t": "Recortes en las Bolsas por la incertidumbre política y en torno a la IA",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-20/la-bolsa-y-el-ibex-35.html",
+   "f": "2026-10-20T09:45:18Z",
+   "c": "tecnologia"
+  },
+  {
+   "t": "OpenAI acelera su ronda antes de la salida a Bolsa de Anthropic y en plena crisis financiera de la IA",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-20/openai-acelera-su-ronda-antes-de-la-salida-a-bolsa-de-anthropic-y-en-plena-crisis-financiera-de-la-ia.html",
+   "f": "2026-10-20T09:13:12Z",
+   "c": "tecnologia"
+  },
+  {
+   "t": "Arquia relanza su depósito a 12 meses para dinero nuevo con una rentabilidad del 3% TAE",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-20/arquia-relanza-su-deposito-a-12-meses-para-dinero-nuevo-con-una-rentabilidad-del-3-tae.html",
+   "f": "2026-10-20T09:13:06Z",
+   "c": "general"
+  },
+  {
+   "t": "Inverco pide incorporar renta fija a la cuenta de ahorro europea y mejorar la fiscalidad de los planes de pensiones",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/inverco-incorporar-renta-fija-cuenta-ahorro-europea_7050871_0.html",
+   "f": "2026-10-20T09:08:00Z",
+   "c": "pensiones"
+  },
   {
    "t": "UGT denuncia a Idealista y Fotocasa ante Consumo por \"publicidad engañosa\" de viviendas \"ocupadas\"",
    "m": "Europa Press",
@@ -9,53 +44,18 @@
    "c": "vivienda"
   },
   {
+   "t": "El Supremo rechaza que Hacienda tase inmuebles con el catastro o Google Maps y sin verlos",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261020/11663423/supremo-hacienda-inmuebles-catastro-google-maps-impuestos.html",
+   "f": "2026-10-20T08:41:29Z",
+   "c": "impuestos"
+  },
+  {
    "t": "Así se reparte la pobreza en España: el mapa del riesgo de exclusión social por comunidades autónomas",
    "m": "20minutos",
    "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/asi-se-reparte-pobreza-espana-mapa-riesgo-exclusion-social-por-comunidades-autonomas_7050843_0.html",
    "f": "2026-10-20T08:36:19Z",
    "c": "general"
-  },
-  {
-   "t": "El déficit comercial se dispara más de un 30%, a 45.818,2 millones de euros hasta agosto",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/macroeconomia-00338/noticia-deficit-comercial-dispara-mas-30-458182-millones-euros-agosto-20261020103432.html",
-   "f": "2026-10-20T08:34:32Z",
-   "c": "impuestos"
-  },
-  {
-   "t": "Telefónica firma un acuerdo con la lusa NOS para desarrollar soluciones digitales de Defensa y Seguridad",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/noticia-telefonica-firma-acuerdo-lusa-nos-desarrollar-soluciones-digitales-defensa-seguridad-20261020103050.html",
-   "f": "2026-10-20T08:30:50Z",
-   "c": "tecnologia"
-  },
-  {
-   "t": "Telefónica y la portuguesa NOS se alían para optar a contratos de la OTAN",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-20/telefonica-y-la-portuguesa-nos-se-alian-para-optar-a-contratos-de-la-otan.html",
-   "f": "2026-10-20T08:26:34Z",
-   "c": "empresas"
-  },
-  {
-   "t": "La confianza empresarial desciende en el último trimestre del año",
-   "m": "Expansión",
-   "u": "https://www.expansion.com/economia/2026/10/20/confianza-empresarial-desciende-ultimo-trimestre-ano.html",
-   "f": "2026-10-20T08:16:13Z",
-   "c": "empresas"
-  },
-  {
-   "t": "Garamendi confirma que CEOE impugnará la huelga general por la vivienda y la cataloga como “electoral”",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-20/garamendi-confirma-que-ceoe-impugnara-la-huelga-general-por-la-vivienda-y-la-cataloga-como-electoral.html",
-   "f": "2026-10-20T08:02:46Z",
-   "c": "vivienda"
-  },
-  {
-   "t": "Es oficial: llega una nueva deducción por alquiler de hasta 1.163 euros para quienes cumplan estos requisitos",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/10/20/6ad7172d21efa0e04c8b458b.html",
-   "f": "2026-10-20T08:00:21Z",
-   "c": "vivienda"
   }
  ]
 }
