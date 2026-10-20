@@ -1,6 +1,13 @@
 {
- "actualizado": "2026-10-20T19:05:39Z",
+ "actualizado": "2026-10-20T19:54:31Z",
  "items": [
+  {
+   "t": "¿Sabías que los seguros existen desde hace miles de años? Te lo contamos en un minuto",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/sabias-seguros-existen-hace-miles-anos_7051201_0.html",
+   "f": "2026-10-20T19:10:33Z",
+   "c": "general"
+  },
   {
    "t": "Merz busca recuperar el atractivo inversor de Alemania con una cumbre al estilo de Macron",
    "m": "El País",
@@ -49,13 +56,6 @@
    "u": "https://www.elmundo.es/economia/2026/10/20/6ad7866ce4d4d84f338b457f.html",
    "f": "2026-10-20T17:37:29Z",
    "c": "empresas"
-  },
-  {
-   "t": "El Gobierno aprobará antes de fin de año la subida de sueldo a los funcionarios del 5%",
-   "m": "Expansión",
-   "u": "https://www.expansion.com/economia/2026/10/20/gobierno-aprobara-ano-subida-sueldo-funcionarios-5.html",
-   "f": "2026-10-20T17:33:35Z",
-   "c": "empleo"
   }
  ]
 }
