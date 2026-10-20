@@ -1,6 +1,34 @@
 {
- "actualizado": "2026-10-20T15:58:13Z",
+ "actualizado": "2026-10-20T16:58:27Z",
  "items": [
+  {
+   "t": "La prima de riesgo francesa rompe la barrera de los 150 puntos tras las protestas",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-20/la-prima-de-riesgo-francesa-rompe-la-barrera-de-los-150-puntos-tras-las-protestas.html",
+   "f": "2026-10-20T16:26:21Z",
+   "c": "general"
+  },
+  {
+   "t": "El Ibex 35 recupera los 19.000 tras remontar un 0,28% ante el alivio del crudo y los rendimientos de los bonos",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/bolsa-00348/noticia-ibex-35-recupera-19000-remontar-028-alivio-crudo-rendimientos-bonos-20261020180653.html",
+   "f": "2026-10-20T16:06:53Z",
+   "c": "empresas"
+  },
+  {
+   "t": "Renfe recurrirá a la Audiencia Nacional la decisión de la CNMC para evitar que Iryo y Ouigo le \"parasiten\"",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/transportes-00343/noticia-renfe-recurrira-audiencia-nacional-decision-cnmc-evitar-iryo-ouigo-le-parasiten-20261020175501.html",
+   "f": "2026-10-20T15:55:01Z",
+   "c": "transporte"
+  },
+  {
+   "t": "La vivienda empuja a la pobreza a 770.000 trabajadores más en España, hasta casi 3 millones, según Oxfam",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/construccion-y-vivienda-00342/noticia-vivienda-empuja-pobreza-770000-trabajadores-mas-espana-casi-millones-oxfam-20261020175225.html",
+   "f": "2026-10-20T15:52:25Z",
+   "c": "vivienda"
+  },
   {
    "t": "La moderación del petróleo levanta la presión sobre la deuda soberana e impulsa las Bolsas",
    "m": "Cinco Días",
@@ -28,34 +56,6 @@
    "u": "https://cincodias.elpais.com/companias/2026-10-20/banca-march-abrira-una-oficina-en-portugal-y-creara-una-filial-en-luxemburgo.html",
    "f": "2026-10-20T14:19:02Z",
    "c": "bancos"
-  },
-  {
-   "t": "Quienes podrán cobrar la pensión de viudedad aunque no estén registrados: así es la nueva ampliación del Gobierno",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/quienes-podran-cobrar-pension-viudedad-aunque-no-esten-registrados-asi-es-nueva-ampliacion-gobierno_7051050_0.html",
-   "f": "2026-10-20T13:16:55Z",
-   "c": "pensiones"
-  },
-  {
-   "t": "Ford construirá en Almussafes una planta para ensamblar las baterías de sus coches eléctricos",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/empresas/ford-almussafes-planta-baterias-coches-electricos_7051091_0.html",
-   "f": "2026-10-20T13:02:36Z",
-   "c": "transporte"
-  },
-  {
-   "t": "Vivienda aprueba una subvención de 180 millones a las comunidades con zonas tensionadas",
-   "m": "El País",
-   "u": "https://elpais.com/economia/vivienda/2026-10-20/vivienda-aprueba-una-subvencion-de-180-millones-a-las-comunidades-con-zonas-tensionadas.html",
-   "f": "2026-10-20T12:58:58Z",
-   "c": "vivienda"
-  },
-  {
-   "t": "Los billetes de avión sufrirán la mayor subida de la historia en el 2027, según Ryanair",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261020/11663691/billetes-avion-volar-2027-combustible-subida-precio-ryanair.html",
-   "f": "2026-10-20T12:51:28Z",
-   "c": "transporte"
   }
  ]
 }
