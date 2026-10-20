@@ -1,12 +1,47 @@
 {
- "actualizado": "2026-10-20T21:55:10Z",
+ "actualizado": "2026-10-20T22:53:09Z",
  "items": [
+  {
+   "t": "Europa en llamas, España a lo suyo",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261021/11663807/europa-llamas-espana-suyo.html",
+   "f": "2026-10-20T22:30:00Z",
+   "c": "general"
+  },
+  {
+   "t": "Anthropic registra unas pérdidas históricas de 80.000 millones de dólares antes de su salida a Bolsa",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-20/anthropic-registra-unas-perdidas-historicas-de-80000-millones-de-dolares-antes-de-su-salida-a-bolsa.html",
+   "f": "2026-10-20T22:23:27Z",
+   "c": "empresas"
+  },
+  {
+   "t": "Ilunion Hotels desafía al sector con su 'todos incluidos': \"Las personas primero y después el cliente\"",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/10/21/6ac3a077fdddff1e5b8b4585.html",
+   "f": "2026-10-20T22:02:35Z",
+   "c": "transporte"
+  },
   {
    "t": "SpaceX bate previsiones con un beneficio de 3.926 millones en el tercer trimestre gracias a Starlink y la IA",
    "m": "Europa Press",
    "u": "https://www.europapress.es/economia/noticia-spacex-bate-previsiones-beneficio-3926-millones-tercer-trimestre-gracias-starlink-ia-20261020232259.html",
    "f": "2026-10-20T21:22:59Z",
    "c": "economia"
+  },
+  {
+   "t": "La factura millonaria de las riadas: concentran casi el 80% de las indemnizaciones por catástrofes naturales y ya han costado 11.100 millones al bolsillo de…",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/10/20/6ad7aaa5e85ece22068b45c6.html",
+   "f": "2026-10-20T20:45:17Z",
+   "c": "empresas"
+  },
+  {
+   "t": "Sánchez carga a la factura del próximo Gobierno subidas a pensionistas y funcionarios que costarán más de 17.600 millones",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/10/20/6ad7938b21efa09b7d8b45a0.html",
+   "f": "2026-10-20T20:44:45Z",
+   "c": "pensiones"
   },
   {
    "t": "¿Sabías que los seguros existen desde hace miles de años? Te lo contamos en un minuto",
@@ -21,41 +56,6 @@
    "u": "https://elpais.com/economia/2026-10-20/merz-busca-recuperar-el-atractivo-inversor-de-alemania-con-una-cumbre-al-estilo-de-macron.html",
    "f": "2026-10-20T18:37:20Z",
    "c": "general"
-  },
-  {
-   "t": "Revolut restablece sus servicios tras la caída de Google Cloud que ha impedido a los clientes acceder a sus cuentas",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-20/revolut-sufre-una-caida-que-impide-a-sus-clientes-hacer-pagos-transferencias-y-acceder-a-sus-cuentas.html",
-   "f": "2026-10-20T18:22:25Z",
-   "c": "general"
-  },
-  {
-   "t": "El Gobierno asegura que subirá el sueldo a los funcionarios un 4,5% pero sin fecha concreta de aprobación",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261020/11663963/gobierno-asegura-subira-sueldo-funcionarios-4-5-fecha.html",
-   "f": "2026-10-20T18:02:35Z",
-   "c": "empleo"
-  },
-  {
-   "t": "Inditex supera los 176.000 millones y arrebata a Santander el trono del Ibex cuatro meses después",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/inditex-supera-los-176-000-millones-arrebata-santander-trono-ibex-cuatro-meses-despues_7051237_0.html",
-   "f": "2026-10-20T17:47:40Z",
-   "c": "bancos"
-  },
-  {
-   "t": "El Gobierno garantiza a los sindicatos que el sueldo de los funcionarios subirá un 4,5% desde el 1 de enero",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/laboral-00346/noticia-gobierno-garantiza-sindicatos-sueldo-funcionarios-subira-45-enero-20261020194527.html",
-   "f": "2026-10-20T17:45:27Z",
-   "c": "empleo"
-  },
-  {
-   "t": "El Gobierno garantiza a los sindicatos que subirá el sueldo a los funcionarios un 5% en 2027",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-20/el-gobierno-garantiza-a-los-sindicatos-que-subira-el-sueldo-a-los-funcionarios-un-5-en-2027.html",
-   "f": "2026-10-20T17:44:46Z",
-   "c": "empleo"
   }
  ]
 }
