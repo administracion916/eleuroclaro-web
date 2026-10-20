@@ -1,6 +1,27 @@
 {
- "actualizado": "2026-10-20T11:55:57Z",
+ "actualizado": "2026-10-20T13:11:26Z",
  "items": [
+  {
+   "t": "Vivienda aprueba una subvención de 180 millones a las comunidades con zonas tensionadas",
+   "m": "El País",
+   "u": "https://elpais.com/economia/vivienda/2026-10-20/vivienda-aprueba-una-subvencion-de-180-millones-a-las-comunidades-con-zonas-tensionadas.html",
+   "f": "2026-10-20T12:58:58Z",
+   "c": "vivienda"
+  },
+  {
+   "t": "Los billetes de avión sufrirán la mayor subida de la historia en el 2027, según Ryanair",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261020/11663691/billetes-avion-volar-2027-combustible-subida-precio-ryanair.html",
+   "f": "2026-10-20T12:51:28Z",
+   "c": "transporte"
+  },
+  {
+   "t": "Revolut sufre una caída que impide a sus clientes hacer pagos, transferencias y acceder a sus cuentas",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-20/revolut-sufre-una-caida-que-impide-a-sus-clientes-hacer-pagos-transferencias-y-acceder-a-sus-cuentas.html",
+   "f": "2026-10-20T12:12:01Z",
+   "c": "general"
+  },
   {
    "t": "Mundi Ventures nombra ‘Senior Advisor’ a Mateo Valeo, fundador del Barcelona Supercomputing Center",
    "m": "Cinco Días",
@@ -14,13 +35,6 @@
    "u": "https://cincodias.elpais.com/companias/2026-10-20/la-cnmc-exige-a-renfe-que-abra-sus-talleres-de-mantenimiento-ligero-a-ouigo.html",
    "f": "2026-10-20T11:40:30Z",
    "c": "transporte"
-  },
-  {
-   "t": "El Sabadell acelera el despliegue de Bizum Pay en 340.000 comercios y suma a Eroski y Burger King",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-20/el-sabadell-acelera-el-despliegue-de-bizum-pay-en-340000-comercios-y-suma-a-eroski-y-burger-king.html",
-   "f": "2026-10-20T11:30:00Z",
-   "c": "bancos"
   },
   {
    "t": "El Gobierno aprueba ampliar la pensión de viudedad a parejas no registradas con hijos y mejora las bajas para los afectados por catástrofes",
@@ -37,25 +51,11 @@
    "c": "general"
   },
   {
-   "t": "Vivienda aprueba una subvención de 180 millones a las comunidades con zonas tensionadas",
-   "m": "El País",
-   "u": "https://elpais.com/economia/vivienda/2026-10-20/vivienda-aprueba-una-subvencion-de-180-millones-a-las-comunidades-con-zonas-tensionadas.html",
-   "f": "2026-10-20T11:15:54Z",
-   "c": "vivienda"
-  },
-  {
    "t": "El Gobierno rescata reformas de ayudas atascadas desde hace más de dos años a las puertas del 29-N y sin acuerdo en el diálogo social",
    "m": "El Mundo",
    "u": "https://www.elmundo.es/economia/2026/10/20/6ad730a0e85ecece7f8b458c.html",
    "f": "2026-10-20T11:02:45Z",
    "c": "general"
-  },
-  {
-   "t": "Euríbor hoy, martes 20 de octubre: nueva subida que frena la tendencia a la baja del mes",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/10/20/6ad742b2fdddff01188b459b.html",
-   "f": "2026-10-20T11:00:21Z",
-   "c": "tipos"
   }
  ]
 }
