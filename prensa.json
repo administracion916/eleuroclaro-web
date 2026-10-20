@@ -1,12 +1,26 @@
 {
- "actualizado": "2026-10-20T14:59:48Z",
+ "actualizado": "2026-10-20T15:58:13Z",
  "items": [
   {
-   "t": "El mercado levanta el castigo a la deuda soberana y catapulta al Ibex sobre los 19.200 puntos",
+   "t": "La moderación del petróleo levanta la presión sobre la deuda soberana e impulsa las Bolsas",
    "m": "Cinco Días",
    "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-20/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-10-20T14:42:49Z",
-   "c": "empresas"
+   "f": "2026-10-20T15:40:01Z",
+   "c": "energia"
+  },
+  {
+   "t": "El campo urge a Agricultura a intervenir el mercado del aceite ante la caída en picado del precio en origen",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-20/el-campo-urge-a-agricultura-a-intervenir-el-mercado-del-aceite-ante-la-caida-en-picado-del-precio-en-origen.html",
+   "f": "2026-10-20T15:02:46Z",
+   "c": "precios"
+  },
+  {
+   "t": "El Supremo rechaza que Hacienda pueda tasar una vivienda solo con el Catastro y Google Maps sin visitarla",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/supremo-rechaza-que-hacienda-pueda-tasar-una-vivienda-solo-con-catastro-google-maps-sin-visitarla_7051139_0.html",
+   "f": "2026-10-20T15:02:07Z",
+   "c": "vivienda"
   },
   {
    "t": "Banca March abrirá una oficina en Portugal y creará una filial en Luxemburgo",
@@ -41,20 +55,6 @@
    "m": "La Vanguardia",
    "u": "https://www.lavanguardia.com/economia/20261020/11663691/billetes-avion-volar-2027-combustible-subida-precio-ryanair.html",
    "f": "2026-10-20T12:51:28Z",
-   "c": "transporte"
-  },
-  {
-   "t": "El 90% de consumidores compara precios antes de comprar y logra ahorrar hasta un 10%",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/90-consumidores-compara-precios-antes-comprar-logra-ahorrar-hasta-un-10_7051077_0.html",
-   "f": "2026-10-20T12:36:26Z",
-   "c": "precios"
-  },
-  {
-   "t": "Airbus entrega el tercer avión multimisión A330 MRTT a Defensa a pesar del \"impacto de la huelga\"",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/noticia-airbus-entrega-tercer-avion-multimision-a330-mrtt-defensa-pesar-impacto-huelga-20261020143409.html",
-   "f": "2026-10-20T12:34:09Z",
    "c": "transporte"
   }
  ]
