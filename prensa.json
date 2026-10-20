@@ -1,60 +1,60 @@
 {
- "actualizado": "2026-10-19T22:52:56Z",
+ "actualizado": "2026-10-20T05:10:54Z",
  "items": [
   {
-   "t": "Subida salarial del 5% para los funcionarios: pendiente de las elecciones",
-   "m": "Expansión",
-   "u": "https://www.expansion.com/economia/2026/10/20/subida-salarial-5-funcionarios-pendiente-elecciones.html",
-   "f": "2026-10-19T22:14:51Z",
-   "c": "empleo"
+   "t": "Nerviosismo en los mercados por la incertidumbre política y en torno a la IA",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-20/la-bolsa-y-el-ibex-35.html",
+   "f": "2026-10-20T04:53:38Z",
+   "c": "tecnologia"
   },
   {
-   "t": "Google suspende una inversión milmillonaria en centros de datos en España a la espera del decreto del Gobierno",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/empresas/2026/10/20/6ad602a7fc6c8390178b45b5.html",
-   "f": "2026-10-19T22:02:33Z",
-   "c": "general"
-  },
-  {
-   "t": "Economía advierte de una \"intensificación de la deriva salarial\" mientras Díaz impulsa otra subida del SMI de hasta el 5%",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/10/20/6ad63c4efc6c83a8088b459b.html",
-   "f": "2026-10-19T22:02:26Z",
-   "c": "empleo"
-  },
-  {
-   "t": "La única luz de un edificio fantasma: los chinos que viven entre las ruinas de la crisis inmobiliaria",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/10/20/6ad625c2e4d4d8302a8b458e.html",
-   "f": "2026-10-19T22:02:25Z",
-   "c": "vivienda"
-  },
-  {
-   "t": "El coste de la vivienda empuja a 770.000 trabajadores a la pobreza, según Oxfam Intermón",
-   "m": "El País",
-   "u": "https://elpais.com/economia/vivienda/2026-10-20/el-coste-de-la-vivienda-empuja-a-770000-trabajadores-a-la-pobreza-segun-oxfam-intermon.html",
-   "f": "2026-10-19T22:01:00Z",
-   "c": "vivienda"
-  },
-  {
-   "t": "Andorra firma el acuerdo de Asociación con la Unión Europea",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261019/11663049/andorra-firma-acuerdo-asociacion-union-europea.html",
-   "f": "2026-10-19T18:34:07Z",
+   "t": "Multiópticas acelera su expansión para abrir tiendas en seis países de Latinoamérica",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-20/multiopticas-acelera-su-expansion-para-abrir-tiendas-en-seis-paises-de-latinoamerica.html",
+   "f": "2026-10-20T04:00:00Z",
    "c": "comercio"
   },
   {
-   "t": "Los Veintisiete piden reforzar la protección frente a los desahucios",
+   "t": "Grupo Constant entra en concurso y Eurofirms presenta una oferta para salvar 4.000 empleos",
    "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261019/11663050/veintisiete-piden-reforzar-proteccion-frente-desahucios.html",
-   "f": "2026-10-19T18:33:05Z",
-   "c": "vivienda"
+   "u": "https://www.lavanguardia.com/economia/20261020/11663047/grupo-constant-entra-concurso-eurofirms-presenta-oferta-salvar-4-000-empleos.html",
+   "f": "2026-10-20T04:00:00Z",
+   "c": "empleo"
   },
   {
-   "t": "La prima de riesgo se dispara en Francia ante la tensión política",
+   "t": "El ICF incorpora a nuevos consejeros del sector bancario y empresarial",
    "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261019/11663044/prima-riesgo-dispara-francia-tension-politica.html",
-   "f": "2026-10-19T18:24:54Z",
+   "u": "https://www.lavanguardia.com/economia/20261020/11663043/icf-incorpora-nuevos-consejeros-sector-bancario-empresarial.html",
+   "f": "2026-10-20T04:00:00Z",
+   "c": "bancos"
+  },
+  {
+   "t": "¿Por qué el Gobierno de EE.UU. paga solo un dólar por la IA más avanzada?",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261020/11662885/gobierno-eeuu-ia-pablo-foncillas-pf-video-seo-lv.html",
+   "f": "2026-10-20T04:00:00Z",
+   "c": "tecnologia"
+  },
+  {
+   "t": "Adam golpea al campo valenciano y se ceba con cítricos, caquis, aguacates y hortalizas",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/adam-golpea-campo-valenciano-se-ceba-con-citricos-caquis-aguacates-hortalizas_7050548_0.html",
+   "f": "2026-10-20T03:43:00Z",
+   "c": "general"
+  },
+  {
+   "t": "La negociación de Ferrovial en EE UU se duplica desde su salto al Nasdaq 100",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-20/la-negociacion-de-ferrovial-en-ee-uu-se-duplica-desde-su-salto-al-nasdaq-100.html",
+   "f": "2026-10-20T03:30:01Z",
+   "c": "general"
+  },
+  {
+   "t": "Los barrios ricos de Madrid tienen la desigualdad más alta y duradera frente a la mejora general en España",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-20/los-barrios-ricos-de-madrid-tienen-la-desigualdad-mas-alta-y-duradera-frente-a-la-mejora-general-en-espana.html",
+   "f": "2026-10-20T03:30:01Z",
    "c": "general"
   }
  ]
