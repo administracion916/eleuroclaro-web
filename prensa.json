@@ -1,12 +1,40 @@
 {
- "actualizado": "2026-10-20T07:11:13Z",
+ "actualizado": "2026-10-20T08:00:18Z",
  "items": [
   {
-   "t": "Nerviosismo en los mercados por la incertidumbre política y en torno a la IA",
+   "t": "La Seguridad Social no puede pagar solo la mitad del complemento por hijos a los jubilados en activo",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/2026/10/20/seguridad-social-pagar-mitad-complemento-hijos-jubilados-activo.html",
+   "f": "2026-10-20T07:55:04Z",
+   "c": "pensiones"
+  },
+  {
+   "t": "Recortes en las Bolsas por la incertidumbre política y en torno a la IA",
    "m": "Cinco Días",
    "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-20/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-10-20T07:04:28Z",
+   "f": "2026-10-20T07:52:20Z",
    "c": "tecnologia"
+  },
+  {
+   "t": "Tubos Reunidos liquidará la sociedad holding que cotiza en Bolsa",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-20/tubos-reunidos-liquidara-la-sociedad-holding-que-cotiza-en-bolsa.html",
+   "f": "2026-10-20T07:52:12Z",
+   "c": "empresas"
+  },
+  {
+   "t": "Las parejas con hijos en común podrán acceder a la pensión de viudedad tras dos años de convivencia sin estar casadas",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/10/20/6ad718cefc6c83f51d8b4586.html",
+   "f": "2026-10-20T07:42:25Z",
+   "c": "pensiones"
+  },
+  {
+   "t": "El Ibex 35 cotiza plano tras la apertura",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/bolsa-00348/noticia-ibex-35-cotiza-plano-apertura-20261020093056.html",
+   "f": "2026-10-20T07:30:56Z",
+   "c": "empresas"
   },
   {
    "t": "El banco australiano NAB recortará 2.500 empleos",
@@ -28,34 +56,6 @@
    "u": "https://cincodias.elpais.com/companias/2026-10-20/los-auditores-internos-reivindican-su-papel-de-garantes-de-la-confianza-institucional.html",
    "f": "2026-10-20T06:50:29Z",
    "c": "empresas"
-  },
-  {
-   "t": "Enagás ganó 204 millones hasta septiembre y mantiene sus objetivos para el ejercicio",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-20/enagas-gano-204-millones-hasta-septiembre-y-mantiene-sus-objetivos-para-el-ejercicio.html",
-   "f": "2026-10-20T06:38:37Z",
-   "c": "empresas"
-  },
-  {
-   "t": "Enagás gana un 22% menos hasta septiembre ante las menores plusvalías y reitera sus objetivos anuales",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/empresas/enagas-gana-22-menos-plusvalias-reitera-objetivos_7050801_0.html",
-   "f": "2026-10-20T06:34:15Z",
-   "c": "general"
-  },
-  {
-   "t": "Enagás gana 204 millones a septiembre y avanza hacia sus objetivos anuales",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/noticia-enagas-gana-204-millones-septiembre-avanza-objetivos-anuales-20261020082308.html",
-   "f": "2026-10-20T06:23:08Z",
-   "c": "general"
-  },
-  {
-   "t": "Cuánto dinero gana un profesor en la Comunidad de Madrid en 2026: sueldo de Infantil, Primaria y Secundaria con complementos",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/10/20/6ad6fb79e9cf4a34368b4577.html",
-   "f": "2026-10-20T05:58:21Z",
-   "c": "empleo"
   }
  ]
 }
