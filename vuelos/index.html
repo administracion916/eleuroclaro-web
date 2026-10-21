@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Vuelo con retraso: cuánto te deben y cómo reclamar · El Euro Claro</title>
+<meta name="description" content="Si tu vuelo llega con 3 horas o más de retraso, la aerolínea puede deberte 250, 400 o 600 € según la distancia. Cómo reclamar paso a paso y un texto para copiar.">
+<meta name="theme-color" content="#0e2a47">
+<meta property="og:site_name" content="El Euro Claro">
+<meta property="og:title" content="Tu vuelo llegó 3 horas tarde: hasta 600 €">
+<meta property="og:description" content="Cuánto te deben, cómo reclamar a la aerolínea y a AESA, y un texto listo para copiar.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://eleuroclaro.es/vuelos/">
+<meta property="og:locale" content="es_ES">
+<meta name="twitter:card" content="summary">
+<link rel="canonical" href="https://eleuroclaro.es/vuelos/">
+<!-- Página en una subcarpeta: todas las rutas son absolutas (empiezan por /). -->
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="stylesheet" href="/fonts.css">
+<link rel="stylesheet" href="/style.css?v=20261019c">
+</head>
+<body>
+
+<header class="top">
+  <div class="wrap">
+    <a class="brand" href="/" aria-label="El Euro Claro, inicio">
+      <img class="coin" src="/favicon.svg" alt="" width="40" height="40">
+      El Euro Claro
+    </a>
+    <nav class="nav" aria-label="Secciones">
+      <a class="nav-nl" href="/domingo/?src=web-cabecera"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><rect x="2.5" y="5" width="19" height="14" rx="2.5"/><path d="M3 6.5l9 6.5 9-6.5"/></svg>Newsletter gratis</a>
+      <a href="/#noticias">Noticias</a>
+      <a href="/#videos">Vídeos</a>
+      <a href="/inflacion/">Calculadora</a>
+      <a href="/#kit">Kit</a>
+      <a href="/recursos/">Recursos</a>
+      <a href="/empresas/">Empresas</a>
+      <a href="/libros/">Libros</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <section class="section">
+    <div class="wrap prose">
+      <p class="eyebrow">Tus derechos · guía práctica</p>
+      <h1>Tu vuelo llegó 3 horas tarde: <em>hasta 600&nbsp;€</em></h1>
+      <p class="intro">Si llegas a tu destino con 3 horas o más de retraso, la aerolínea puede tener que pagarte una compensación fija, además de devolverte lo que gastaste por esperar.</p>
+
+      <h2>Cuánto te deben</h2>
+      <ul>
+        <li><strong>250&nbsp;€</strong> en vuelos de hasta 1.500&nbsp;km (por ejemplo, Madrid–Barcelona o Madrid–París).</li>
+        <li><strong>400&nbsp;€</strong> en vuelos dentro de la UE de más de 1.500&nbsp;km, y en el resto de vuelos de 1.500 a 3.500&nbsp;km.</li>
+        <li><strong>600&nbsp;€</strong> en vuelos de más de 3.500&nbsp;km que no sean dentro de la UE.</li>
+      </ul>
+      <p>Vale para vuelos que salen de un aeropuerto de la UE, con cualquier aerolínea, y para los que llegan a la UE con una aerolínea europea. Cuenta la hora a la que se abre la puerta del avión al llegar.</p>
+      <p><strong>Cuándo no pagan:</strong> si demuestran que hubo circunstancias extraordinarias, como una tormenta fuerte, un cierre del espacio aéreo o una huelga de controladores. Una avería del avión, por lo general, no les libra.</p>
+
+      <h2>Cómo reclamar, en 3 pasos</h2>
+      <ol>
+        <li>Guarda la tarjeta de embarque, el billete y los tiques de lo que gastaste esperando (comida, hotel, taxi).</li>
+        <li>Reclama primero a la aerolínea, en su web o por correo. Puedes copiar el texto de abajo.</li>
+        <li>Si en un mes no te contestan o no te convence la respuesta, reclama gratis a AESA (Agencia Estatal de Seguridad Aérea) en su sede electrónica. Tienes un año desde tu reclamación a la aerolínea. Para vuelos desde el 2 de junio de 2023, lo que decide AESA es obligatorio para la aerolínea.</li>
+      </ol>
+
+      <h2>Texto para copiar</h2>
+      <pre id="modelo" style="white-space:pre-wrap;font-family:inherit;font-size:1rem;background:#f3f5f8;color:#10294a;padding:14px;border-radius:10px">Reclamo la compensación prevista en el artículo 7 del Reglamento (CE) n.º 261/2004 por el retraso del vuelo [número de vuelo] del [fecha], de [origen] a [destino], que llegó con [horas] horas de retraso.
+Solicito el pago de [250 / 400 / 600] € y el reembolso de los gastos que adjunto.
+Datos de la reserva: [código de reserva].
+Nombre y apellidos:
+DNI/NIE o pasaporte:
+Cuenta bancaria (IBAN) para el pago:</pre>
+      <p><button class="btn btn-primary" type="button" id="copiar">Copiar el texto</button> <span id="copiado" class="small" role="status"></span></p>
+
+      <h2>Fuentes oficiales</h2>
+      <ul class="small">
+        <li>Reglamento (CE) n.º 261/2004, artículo 7 (importes de la compensación), y sentencia del Tribunal de Justicia de la UE en el caso Sturgeon (2009), que aplica la compensación a los retrasos de 3 horas o más.</li>
+        <li>AESA, <a href="https://www.seguridadaerea.gob.es/en/ambitos/derechos-de-los-pasajeros/competencia-en-derechos-de-los-pasajeros/normativa-aplicable-a-derechos-de-pasajeros-en-el-transporte-aereo/procedimiento-para-reclamar/ral" rel="noopener">procedimiento para reclamar</a>.</li>
+      </ul>
+      <p>Cada domingo te contamos lo que cambia en tu bolsillo, gratis: <a href="/domingo/?src=vuelos">apúntate a la newsletter</a>.</p>
+      <p class="small note-legal">Contenido divulgativo: no es asesoramiento jurídico. No recomendamos ninguna aerolínea ni empresa de reclamaciones.</p>
+    </div>
+  </section>
+</main>
+
+<footer class="foot">
+  <div class="wrap">
+    <p class="lema">La economía de tu bolsillo, en euros claros.</p>
+    <nav aria-label="Legal">
+      <a href="/aviso-legal.html">Aviso legal</a>
+      <a href="/privacidad.html">Privacidad</a>
+      <a href="/cookies.html">Cookies</a>
+      <a href="/correcciones/">Correcciones</a>
+      <span>Contacto: <span class="mail">hola@eleuroclaro.es</span></span>
+    </nav>
+    <p class="disclaimer">El Euro Claro es un medio divulgativo. La información es general y no constituye asesoramiento financiero ni una recomendación de comprar o vender ningún producto. Algunos enlaces pueden ser de afiliado y se indica cuando lo son.</p>
+    <p>© 2026 El Euro Claro · Odana Ingeniería SL</p>
+  </div>
+</footer>
+<script>
+document.getElementById('copiar').addEventListener('click',function(){
+  var t=document.getElementById('modelo').textContent, s=document.getElementById('copiado');
+  (navigator.clipboard?navigator.clipboard.writeText(t):Promise.reject()).then(function(){s.textContent='Copiado.';},function(){s.textContent='Selecciona el texto y cópialo.';});
+});
+</script>
+<!-- Cloudflare Web Analytics --><script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "e81aecc33a6b40ccab86c1fbc9fa801c"}'></script><!-- End Cloudflare Web Analytics -->
+</body>
+</html>
