@@ -1,6 +1,34 @@
 {
- "actualizado": "2026-10-21T07:14:31Z",
+ "actualizado": "2026-10-21T08:03:37Z",
  "items": [
+  {
+   "t": "Dudas en las Bolsas pese a los buenos resultados de las tecnológicas",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-21/la-bolsa-y-el-ibex-35.html",
+   "f": "2026-10-21T07:57:12Z",
+   "c": "tecnologia"
+  },
+  {
+   "t": "Fedea avisa: los decretos de vivienda benefician a los actuales inquilinos \"a costa\" de los propietarios",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/construccion-y-vivienda-00342/noticia-fedea-avisa-decretos-vivienda-benefician-actuales-inquilinos-costa-propietarios-20261021092643.html",
+   "f": "2026-10-21T07:26:43Z",
+   "c": "vivienda"
+  },
+  {
+   "t": "La CNMC abre una investigación contra Exolum por tres posibles abusos de posición dominante",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/noticia-cnmc-abre-investigacion-contra-exolum-tres-posibles-abusos-posicion-dominante-20261021092426.html",
+   "f": "2026-10-21T07:24:26Z",
+   "c": "general"
+  },
+  {
+   "t": "El Ibex 35 baja un 0,1% en la apertura pero mantiene los 19.000 puntos, con el petróleo en 110 dólares",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/bolsa-00348/noticia-ibex-35-baja-01-apertura-mantiene-19000-puntos-petroleo-110-dolares-20261021092345.html",
+   "f": "2026-10-21T07:23:45Z",
+   "c": "energia"
+  },
   {
    "t": "Iberdrola gana 5.816 millones hasta septiembre, un 9,6 % más, y mejora su previsión anual",
    "m": "El Mundo",
@@ -9,32 +37,11 @@
    "c": "economia"
   },
   {
-   "t": "Dudas en las Bolsas pese a los buenos resultados de las tecnológicas",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-21/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-10-21T07:08:28Z",
-   "c": "tecnologia"
-  },
-  {
-   "t": "Iberdrola gana 5.816 millones hasta septiembre, un 9,6% más y refuerza sus activos en redes",
+   "t": "Iberdrola gana 5.816 millones hasta septiembre, un 10% más, y refuerza sus activos en redes",
    "m": "Cinco Días",
    "u": "https://cincodias.elpais.com/companias/2026-10-21/iberdrola-gana-5816-millones-hasta-septiembre-un-96-mas-y-refuerza-sus-activos-en-redes.html",
    "f": "2026-10-21T07:01:58Z",
    "c": "empresas"
-  },
-  {
-   "t": "Iberdrola eleva sus ganancias un 10% a septiembre, a 5,816 millones, y apunta a ganancias récord en 2026",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/energia-medio-ambiente-00183/noticia-iberdrola-eleva-ganancias-10-septiembre-5816-millones-apunta-ganancias-record-2026-20261021084646.html",
-   "f": "2026-10-21T06:46:46Z",
-   "c": "general"
-  },
-  {
-   "t": "SpaceX y Tesla estudian su fusión para crear un gigante tecnológico con el respaldo de Elon Musk",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/noticia-spacex-tesla-estudian-fusion-crear-gigante-tecnologico-respaldo-elon-musk-20261021084225.html",
-   "f": "2026-10-21T06:42:25Z",
-   "c": "tecnologia"
   },
   {
    "t": "Iberdrola mejora su previsión para 2026 tras elevar un 10% su beneficio hasta septiembre",
@@ -42,13 +49,6 @@
    "u": "https://www.20minutos.es/lainformacion/empresas/iberdrola-mejora-su-prevision-para-2026-tras-elevar-un-10-su-beneficio-hasta-septiembre_7051343_0.html",
    "f": "2026-10-21T06:36:22Z",
    "c": "economia"
-  },
-  {
-   "t": "El precio del petróleo supera los 110 dólares ante las dudas sobre los avances diplomáticos entre EEUU e Irán",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/energia-00341/noticia-precio-petroleo-supera-110-dolares-dudas-avances-diplomaticos-eeuu-iran-20261021075547.html",
-   "f": "2026-10-21T05:55:47Z",
-   "c": "energia"
   },
   {
    "t": "Sánchez Llibre pilotará de nuevo las relaciones de la CEOE con las Cortes",
