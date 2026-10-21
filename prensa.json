@@ -1,6 +1,13 @@
 {
- "actualizado": "2026-10-21T13:10:35Z",
+ "actualizado": "2026-10-21T14:02:23Z",
  "items": [
+  {
+   "t": "La deuda pública en la UE sube a su máximo nivel desde la pandemia",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-21/la-deuda-publica-en-la-ue-sube-a-su-maximo-nivel-desde-la-pandemia.html",
+   "f": "2026-10-21T13:55:44Z",
+   "c": "impuestos"
+  },
   {
    "t": "Bolt se une al desembarco de vehículos autónomos en Madrid para 2027 de la mano de Nvidia y la estadounidense Lucid",
    "m": "El Mundo",
@@ -49,13 +56,6 @@
    "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/bruselas-expedienta-booking-por-no-combatir-phishing-los-anuncios-fraudulentos_7051524_0.html",
    "f": "2026-10-21T12:17:15Z",
    "c": "comercio"
-  },
-  {
-   "t": "Bolt se suma al desembarco de los robotaxis en Madrid y anuncia su llegada de la mano de Nvidia y Lucid",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/empresas/bolt-se-suma-carrera-los-robotaxis-madrid-mano-nvidia-lucid_7051597_0.html",
-   "f": "2026-10-21T12:12:17Z",
-   "c": "tecnologia"
   }
  ]
 }
