@@ -1,6 +1,27 @@
 {
- "actualizado": "2026-10-22T05:10:39Z",
+ "actualizado": "2026-10-22T05:56:04Z",
  "items": [
+  {
+   "t": "Meta dispara un 39% su beneficio hasta septiembre gracias al negocio publicitario y la inteligencia artificial",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-22/meta-dispara-un-39-su-beneficio-hasta-septiembre-gracias-al-negocio-publicitario-y-la-inteligencia-artificial.html",
+   "f": "2026-10-22T05:33:30Z",
+   "c": "tecnologia"
+  },
+  {
+   "t": "Así es PHP2Shell, el fallo que amenaza a siete de cada diez webs",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/10/21/6ad92780fc6c83a57e8b45a4.html",
+   "f": "2026-10-22T05:19:07Z",
+   "c": "general"
+  },
+  {
+   "t": "Tesla gana un 19,5% menos hasta septiembre por el aumento de las inversiones en inteligencia artificial",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-22/tesla-gana-un-195-menos-hasta-septiembre-por-el-aumento-de-las-inversiones-en-inteligencia-artificial.html",
+   "f": "2026-10-22T05:06:07Z",
+   "c": "tecnologia"
+  },
   {
    "t": "Las Bolsas sufren por las dudas sobre la IA y el avance del petróleo",
    "m": "Cinco Días",
@@ -35,27 +56,6 @@
    "u": "https://elpais.com/economia/vivienda/2026-10-22/buscador-madrid-copa-los-barrios-mas-caros-para-comprar-o-alquilar-casa-en-las-grandes-ciudades.html",
    "f": "2026-10-22T03:45:01Z",
    "c": "vivienda"
-  },
-  {
-   "t": "Cinco gráficos para explicar la posible fusión Tesla y SpaceX, la mayor de la historia",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-22/cinco-graficos-para-explicar-la-posible-fusion-tesla-y-spacex-la-mayor-de-la-historia.html",
-   "f": "2026-10-22T03:30:01Z",
-   "c": "empresas"
-  },
-  {
-   "t": "Hipotecas verdes con rebaja del interés por reformar la vivienda: el plan que Asufin lleva a los partidos",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-22/hipotecas-verdes-con-rebaja-del-interes-por-reformar-la-vivienda-el-plan-que-asufin-lleva-a-los-partidos.html",
-   "f": "2026-10-22T03:30:01Z",
-   "c": "tipos"
-  },
-  {
-   "t": "Bandejas para un mundo sin cocinas",
-   "m": "El País",
-   "u": "https://elpais.com/economia/negocios/2026-10-22/bandejas-para-un-mundo-sin-cocinas.html",
-   "f": "2026-10-22T03:30:00Z",
-   "c": "general"
   }
  ]
 }
