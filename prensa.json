@@ -1,61 +1,61 @@
 {
- "actualizado": "2026-10-22T11:57:25Z",
+ "actualizado": "2026-10-22T13:13:44Z",
  "items": [
   {
-   "t": "El coste de atender mal al cliente",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/empresas/2026/10/22/6ad9f52cfdddfff9448b457b.html",
-   "f": "2026-10-22T11:47:35Z",
+   "t": "La prima de riesgo de Francia alcanza los 170 puntos y marca un nuevo máximo desde 2011",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/prima-riesgo-francia-nuevo-record-maximo-quince-anos_7052134_0.html",
+   "f": "2026-10-22T13:09:15Z",
    "c": "general"
   },
   {
-   "t": "Euríbor hoy, jueves 22 de octubre: mínima bajada de la tasa diaria que no afloja la tendencia al alza",
+   "t": "Bankinter cae en Bolsa más del 5% pese a marcar récord de beneficios",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-22/bankinter-dispara-el-beneficio-un-11-en-los-nueve-primeros-meses-del-ano-hasta-los-900-millones.html",
+   "f": "2026-10-22T13:08:57Z",
+   "c": "bancos"
+  },
+  {
+   "t": "El PP propone segregar pisos de gran tamaño como remedio ante la falta de vivienda",
+   "m": "El País",
+   "u": "https://elpais.com/economia/vivienda/2026-10-22/el-pp-propone-segregar-pisos-de-gran-tamano-como-remedio-ante-la-falta-de-vivienda.html",
+   "f": "2026-10-22T13:02:45Z",
+   "c": "vivienda"
+  },
+  {
+   "t": "El precio del petróleo crece hasta superar los 111 dólares por barril y arrastra a las bolsas mundiales",
    "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/10/22/6ad9f37d21efa0e7508b4598.html",
-   "f": "2026-10-22T11:36:50Z",
-   "c": "tipos"
+   "u": "https://www.elmundo.es/economia/dinero-inversion/2026/10/22/6ad9fdc6e85ece692e8b45bd.html",
+   "f": "2026-10-22T12:42:21Z",
+   "c": "energia"
+  },
+  {
+   "t": "El salario medio en el sector tecnológico sube un 3,1%, hasta los 47.300 euros",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-22/el-salario-medio-en-el-sector-tecnologico-sube-un-31-hasta-los-47300-euros.html",
+   "f": "2026-10-22T12:39:25Z",
+   "c": "empleo"
+  },
+  {
+   "t": "CCOO y UGT piden pactar con Puente los servicios mínimos del transporte para la huelga general",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/transportes-00343/noticia-ccoo-ugt-piden-pactar-puente-servicios-minimos-transporte-huelga-general-20261022143322.html",
+   "f": "2026-10-22T12:33:22Z",
+   "c": "empleo"
   },
   {
    "t": "El petróleo marca máximos desde mayo ante el riesgo de nuevos ataques en el Golfo Pérsico",
    "m": "Cinco Días",
    "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-22/el-petroleo-marca-maximos-desde-mayo-ante-el-riesgo-de-nuevos-ataques-en-el-golfo-persico.html",
-   "f": "2026-10-22T11:34:45Z",
+   "f": "2026-10-22T12:25:51Z",
    "c": "energia"
   },
   {
-   "t": "Osborne aspira a mejorar ventas en 2026 pese al impacto de la peste porcina sobre Cinco Jotas",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-22/osborne-aspira-a-mejorar-ventas-en-2026-pese-al-impacto-de-la-peste-porcina-sobre-cinco-jotas.html",
-   "f": "2026-10-22T11:33:59Z",
-   "c": "empresas"
-  },
-  {
-   "t": "¿En qué consisten las nuevas prestaciones sociales aprobadas por el Gobierno?",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261022/11665344/nuevas-prestaciones-sociales-gobierno.html",
-   "f": "2026-10-22T11:24:43Z",
-   "c": "general"
-  },
-  {
-   "t": "Otros inesperados ganadores del ‘efecto Ozempic’ en Estados Unidos: los sastres y tiendas de segunda mano",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-22/otros-inesperados-ganadores-del-efecto-ozempic-en-estados-unidos-los-sastres-y-tiendas-de-segunda-mano.html",
-   "f": "2026-10-22T11:23:13Z",
-   "c": "comercio"
-  },
-  {
-   "t": "Sordo y Álvarez auguran que PP y Vox aprobarán “el despido libre y gratuito” si gobiernan",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-22/sordo-y-alvarez-auguran-que-pp-y-vox-aprobaran-el-despido-libre-y-gratuito-si-gobiernan.html",
-   "f": "2026-10-22T11:13:02Z",
-   "c": "empleo"
-  },
-  {
-   "t": "El precio de las gasolinas cae en la última semana pero llenar el depósito de diésel sigue costando más de 100 euros",
+   "t": "La promoción Paradores para este otoño: habitaciones disponibles desde 80 euros",
    "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/precio-gasolinas-cae-llenar-diesel-mas-100-euros_7052059_0.html",
-   "f": "2026-10-22T11:07:02Z",
-   "c": "energia"
+   "u": "https://www.20minutos.es/lainformacion/empresas/promocion-paradores-para-este-otono-habitaciones-disponibles-desde-80-euros_7052126_0.html",
+   "f": "2026-10-22T12:23:04Z",
+   "c": "general"
   }
  ]
 }
