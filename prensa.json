@@ -1,6 +1,34 @@
 {
- "actualizado": "2026-10-22T13:13:44Z",
+ "actualizado": "2026-10-22T14:02:16Z",
  "items": [
+  {
+   "t": "El precio del petróleo crece hasta superar los 111 dólares por barril y arrastra a las bolsas mundiales",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/dinero-inversion/2026/10/22/6ad9fdc6e85ece692e8b45bd.html",
+   "f": "2026-10-22T13:58:24Z",
+   "c": "energia"
+  },
+  {
+   "t": "Necesitamos construir mejor el futuro",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/10/22/6ada0fda21efa021558b45ca.html",
+   "f": "2026-10-22T13:39:03Z",
+   "c": "general"
+  },
+  {
+   "t": "La prima de riesgo francesa se dispara hasta 175 puntos y acelera las caídas de las Bolsas",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-22/la-bolsa-y-el-ibex-35.html",
+   "f": "2026-10-22T13:38:09Z",
+   "c": "general"
+  },
+  {
+   "t": "Es oficial: pedir una excedencia voluntaria no garantiza volver a tu puesto",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/10/22/6ad9bf51e9cf4a040b8b4589.html",
+   "f": "2026-10-22T13:25:19Z",
+   "c": "general"
+  },
   {
    "t": "La prima de riesgo de Francia alcanza los 170 puntos y marca un nuevo máximo desde 2011",
    "m": "20minutos",
@@ -23,39 +51,11 @@
    "c": "vivienda"
   },
   {
-   "t": "El precio del petróleo crece hasta superar los 111 dólares por barril y arrastra a las bolsas mundiales",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/dinero-inversion/2026/10/22/6ad9fdc6e85ece692e8b45bd.html",
-   "f": "2026-10-22T12:42:21Z",
-   "c": "energia"
-  },
-  {
-   "t": "El salario medio en el sector tecnológico sube un 3,1%, hasta los 47.300 euros",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-22/el-salario-medio-en-el-sector-tecnologico-sube-un-31-hasta-los-47300-euros.html",
-   "f": "2026-10-22T12:39:25Z",
+   "t": "CC.OO. y UGT aspiran a un 11-N de movilizaciones masivas",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261022/11665533/cc-oo-ugt-aspiran-11-n-movilizaciones-masivas.html",
+   "f": "2026-10-22T12:50:10Z",
    "c": "empleo"
-  },
-  {
-   "t": "CCOO y UGT piden pactar con Puente los servicios mínimos del transporte para la huelga general",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/transportes-00343/noticia-ccoo-ugt-piden-pactar-puente-servicios-minimos-transporte-huelga-general-20261022143322.html",
-   "f": "2026-10-22T12:33:22Z",
-   "c": "empleo"
-  },
-  {
-   "t": "El petróleo marca máximos desde mayo ante el riesgo de nuevos ataques en el Golfo Pérsico",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-22/el-petroleo-marca-maximos-desde-mayo-ante-el-riesgo-de-nuevos-ataques-en-el-golfo-persico.html",
-   "f": "2026-10-22T12:25:51Z",
-   "c": "energia"
-  },
-  {
-   "t": "La promoción Paradores para este otoño: habitaciones disponibles desde 80 euros",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/empresas/promocion-paradores-para-este-otono-habitaciones-disponibles-desde-80-euros_7052126_0.html",
-   "f": "2026-10-22T12:23:04Z",
-   "c": "general"
   }
  ]
 }
