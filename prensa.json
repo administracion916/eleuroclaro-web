@@ -1,6 +1,20 @@
 {
- "actualizado": "2026-10-22T14:02:16Z",
+ "actualizado": "2026-10-22T14:59:13Z",
  "items": [
+  {
+   "t": "El Supremo avala tributar por IRPF aunque no se haya aceptado o rechazado una herencia",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261022/11665615/supremo-irpf-aceptar-rechazar-herencia.html",
+   "f": "2026-10-22T14:28:51Z",
+   "c": "impuestos"
+  },
+  {
+   "t": "Estafas bancarias: cuándo tienen que devolver el dinero los bancos, qué plazos hay y cómo reclamar",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-22/estafas-bancarias-cuando-tienen-que-devolver-el-dinero-los-bancos-que-plazos-hay-y-como-reclamar.html",
+   "f": "2026-10-22T14:19:04Z",
+   "c": "bancos"
+  },
   {
    "t": "El precio del petróleo crece hasta superar los 111 dólares por barril y arrastra a las bolsas mundiales",
    "m": "El Mundo",
@@ -23,6 +37,13 @@
    "c": "general"
   },
   {
+   "t": "La ayuda pública que puedes solicitar si tu expareja no paga la pensión de alimentos: requisitos y cuantía",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/ayuda-publica-que-puedes-solicitar-si-tu-expareja-no-paga-pension-alimentos-requisitos-cuantia_7052152_0.html",
+   "f": "2026-10-22T13:31:47Z",
+   "c": "pensiones"
+  },
+  {
    "t": "Es oficial: pedir una excedencia voluntaria no garantiza volver a tu puesto",
    "m": "El Mundo",
    "u": "https://www.elmundo.es/economia/2026/10/22/6ad9bf51e9cf4a040b8b4589.html",
@@ -35,27 +56,6 @@
    "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/prima-riesgo-francia-nuevo-record-maximo-quince-anos_7052134_0.html",
    "f": "2026-10-22T13:09:15Z",
    "c": "general"
-  },
-  {
-   "t": "Bankinter cae en Bolsa más del 5% pese a marcar récord de beneficios",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-22/bankinter-dispara-el-beneficio-un-11-en-los-nueve-primeros-meses-del-ano-hasta-los-900-millones.html",
-   "f": "2026-10-22T13:08:57Z",
-   "c": "bancos"
-  },
-  {
-   "t": "El PP propone segregar pisos de gran tamaño como remedio ante la falta de vivienda",
-   "m": "El País",
-   "u": "https://elpais.com/economia/vivienda/2026-10-22/el-pp-propone-segregar-pisos-de-gran-tamano-como-remedio-ante-la-falta-de-vivienda.html",
-   "f": "2026-10-22T13:02:45Z",
-   "c": "vivienda"
-  },
-  {
-   "t": "CC.OO. y UGT aspiran a un 11-N de movilizaciones masivas",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261022/11665533/cc-oo-ugt-aspiran-11-n-movilizaciones-masivas.html",
-   "f": "2026-10-22T12:50:10Z",
-   "c": "empleo"
   }
  ]
 }
