@@ -1,6 +1,34 @@
 {
- "actualizado": "2026-10-22T15:58:07Z",
+ "actualizado": "2026-10-22T16:58:55Z",
  "items": [
+  {
+   "t": "Bankinter eleva su beneficio un 11%, hasta los 901 millones",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-22/bankinter-dispara-el-beneficio-un-11-en-los-nueve-primeros-meses-del-ano-hasta-los-900-millones.html",
+   "f": "2026-10-22T16:13:20Z",
+   "c": "bancos"
+  },
+  {
+   "t": "El petróleo y el miedo a la burbuja en la IA arrastran a las bolsas mundiales a una jornada negra",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/dinero-inversion/2026/10/22/6ad9fdc6e85ece692e8b45bd.html",
+   "f": "2026-10-22T16:12:26Z",
+   "c": "energia"
+  },
+  {
+   "t": "El Ibex se hunde un 2,12% y pierde los 19.000 puntos lastrado por Bankinter y prima de riesgo francesa",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/bolsa-00348/noticia-ibex-hunde-212-pierde-19000-puntos-lastrado-bankinter-prima-riesgo-francesa-20261022180439.html",
+   "f": "2026-10-22T16:04:39Z",
+   "c": "bancos"
+  },
+  {
+   "t": "CC OO y UGT piden evitar el teletrabajo como forma de “esquirolaje tecnológico” en la huelga del 11-N",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-22/cc-oo-y-ugt-piden-evitar-el-teletrabajo-como-forma-de-esquirolaje-tecnologico-en-la-huelga-del-11-n.html",
+   "f": "2026-10-22T15:53:35Z",
+   "c": "empleo"
+  },
   {
    "t": "Mutua pide medidas para aliviar la presión sobre el sistema de pensiones",
    "m": "Cinco Días",
@@ -23,39 +51,11 @@
    "c": "tecnologia"
   },
   {
-   "t": "El petróleo y el miedo a la burbuja en la IA arrastran a las bolsas mundiales a una jornada negra",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/dinero-inversion/2026/10/22/6ad9fdc6e85ece692e8b45bd.html",
-   "f": "2026-10-22T15:34:30Z",
-   "c": "energia"
-  },
-  {
    "t": "Meta acuerda con Mark Zuckerberg que permanezca en California pese a que amenazaba con trasladarse por el impuesto a la riqueza",
    "m": "El País",
    "u": "https://elpais.com/economia/2026-10-22/meta-acuerda-con-mark-zuckerberg-que-permanezca-en-california-pese-a-que-amenazaba-con-trasladarse-por-el-impuesto-a-la-riqueza.html",
    "f": "2026-10-22T15:29:09Z",
    "c": "impuestos"
-  },
-  {
-   "t": "Hacienda mantendrá los módulos del IRPF para 2027 con la reducción del 5% e incluirá rebajas fiscales al campo",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/fiscal-00347/noticia-hacienda-mantendra-modulos-irpf-2027-reduccion-incluira-rebajas-fiscales-campo-20261022172241.html",
-   "f": "2026-10-22T15:22:41Z",
-   "c": "impuestos"
-  },
-  {
-   "t": "No habrá guerras ni inflación: ¿Ha cumplido Donald Trump sus grandes promesas?",
-   "m": "Expansión",
-   "u": "https://www.expansion.com/economia/financial-times/2026/10/22/habra-guerras-inflacion-cumplido-donald-trump-grandes-promesas.html",
-   "f": "2026-10-22T15:10:11Z",
-   "c": "precios"
-  },
-  {
-   "t": "Renfe elimina el suplemento de bicicleta y la reserva de asiento en algunos Media Distancia",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/transportes-00343/noticia-renfe-elimina-suplemento-bicicleta-reserva-asiento-algunos-media-distancia-20261022170138.html",
-   "f": "2026-10-22T15:01:38Z",
-   "c": "transporte"
   }
  ]
 }
