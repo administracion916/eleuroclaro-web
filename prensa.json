@@ -1,61 +1,61 @@
 {
- "actualizado": "2026-10-22T10:00:41Z",
+ "actualizado": "2026-10-22T10:57:31Z",
  "items": [
-  {
-   "t": "Los planes de pensiones de empleo no despegan y apenas llegan a uno de cada siete trabajadores",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/los-planes-pensiones-empleo-no-despegan-apenas-llegan-uno-cada-siete-trabajadores_7051970_0.html",
-   "f": "2026-10-22T09:44:23Z",
-   "c": "pensiones"
-  },
-  {
-   "t": "Seaya lanza su primer megafondo con un nuevo vehículo inversor de 600 millones para tecnología",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-22/seaya-lanza-su-primer-megafondo-con-un-nuevo-vehiculo-inversor-de-600-millones-para-tecnologia.html",
-   "f": "2026-10-22T09:39:31Z",
-   "c": "transporte"
-  },
-  {
-   "t": "La preocupación por la vivienda escala 12 puntos en un año y alcanza en 2026 al 54% de los españoles",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/construccion-y-vivienda-00342/noticia-preocupacion-vivienda-escala-12-puntos-ano-alcanza-2026-54-espanoles-20261022113544.html",
-   "f": "2026-10-22T09:35:44Z",
-   "c": "vivienda"
-  },
-  {
-   "t": "Bankinter dispara el beneficio un 11% en los nueve primeros meses del año, hasta los 900 millones",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-22/bankinter-dispara-el-beneficio-un-11-en-los-nueve-primeros-meses-del-ano-hasta-los-900-millones.html",
-   "f": "2026-10-22T09:33:24Z",
-   "c": "bancos"
-  },
-  {
-   "t": "El Abogado de la UE ve “legítimos” los topes a beneficios extraordinarios de las energéticas de 2022",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261022/11665315/abogado-ue-ve-legitimos-topes-beneficios-extraordinarios-energeticas-2022.html",
-   "f": "2026-10-22T09:32:09Z",
-   "c": "energia"
-  },
   {
    "t": "El petróleo en máximos de mayo y la prima de riesgo francesa en niveles de 2011 aceleran las caídas de las Bolsas",
    "m": "Cinco Días",
    "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-22/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-10-22T09:22:14Z",
+   "f": "2026-10-22T10:54:15Z",
    "c": "energia"
   },
   {
-   "t": "UGT y CC OO defienden que el 11-N servirá para que los salarios y la vivienda ganen protagonismo en los debates electorales",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/ugt-cc-oo-defienden-que-huelga-general-11-n-servira-para-que-los-salarios-vivienda-ganen-protagonismo-los-debates-electorales_7051946_0.html",
-   "f": "2026-10-22T09:09:11Z",
+   "t": "Adiós a la vuelta garantizada al mismo puesto: lo que debes saber si pides una excedencia voluntaria",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/10/22/6ad9bf51e9cf4a040b8b4589.html",
+   "f": "2026-10-22T10:47:27Z",
+   "c": "general"
+  },
+  {
+   "t": "Los multipropietarios suben el alquiler casi el doble que los caseros con un solo piso",
+   "m": "El País",
+   "u": "https://elpais.com/economia/vivienda/2026-10-22/los-multipropietarios-suben-el-alquiler-casi-el-doble-que-los-caseros-con-un-solo-piso.html",
+   "f": "2026-10-22T10:39:19Z",
    "c": "vivienda"
   },
   {
-   "t": "Los carburantes encadenan tres semanas de caídas y la gasolina acumula un abaratamiento de más del 8%",
+   "t": "Barclays recortará 5.000 empleos, el 5% de su fuerza laboral, para reducir costes por la IA",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-22/barclays-recortara-5000-empleos-el-5-de-su-fuerza-laboral-para-reducir-costes-por-la-ia.html",
+   "f": "2026-10-22T10:29:14Z",
+   "c": "empleo"
+  },
+  {
+   "t": "El Ibex pierde los 19.000 puntos en la media sesión lastrado por Bankinter (-6,15%) y los demás bancos",
    "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/energia-00341/noticia-carburantes-encadenan-tres-semanas-caidas-gasolina-acumula-abaratamiento-mas-20261022110642.html",
-   "f": "2026-10-22T09:06:42Z",
+   "u": "https://www.europapress.es/economia/bolsa-00348/noticia-ibex-pierde-19000-puntos-media-sesion-lastrado-bankinter-615-demas-bancos-20261022122839.html",
+   "f": "2026-10-22T10:28:39Z",
+   "c": "bancos"
+  },
+  {
+   "t": "El Consorcio de Seguros gestiona ya más de 6.500 solicitudes de indemnización por la dana Adam de Valencia",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/macroeconomia/2026/10/22/6ad9e37dfdddff015f8b45b0.html",
+   "f": "2026-10-22T10:26:44Z",
+   "c": "general"
+  },
+  {
+   "t": "Marco Rubio quiere que Mukesh Ambani refine todavía más petróleo venezolano en India",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261022/11665254/marco-rubio-quiere-mukesh-ambani-refine-todavia-mas-petroleo-venezolano-india.html",
+   "f": "2026-10-22T10:25:07Z",
    "c": "energia"
+  },
+  {
+   "t": "Barclays suprimirá alrededor de 5.000 puestos de trabajo debido al desarrollo de la IA",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/empresas/2026/10/22/6ad9e182fc6c835e6f8b457e.html",
+   "f": "2026-10-22T10:12:28Z",
+   "c": "tecnologia"
   }
  ]
 }
