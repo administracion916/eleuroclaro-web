@@ -1,12 +1,40 @@
 {
- "actualizado": "2026-10-22T19:06:38Z",
+ "actualizado": "2026-10-22T19:57:11Z",
  "items": [
+  {
+   "t": "Las acciones de Moderna y Merck se desploman tras la filtración de datos sobre la vacuna contra el melanoma",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-22/las-acciones-de-moderna-y-merck-se-desploman-tras-la-filtracion-de-datos-sobre-la-vacuna-contra-el-melanoma.html",
+   "f": "2026-10-22T19:41:54Z",
+   "c": "general"
+  },
+  {
+   "t": "La CEOE renuncia a recurrir la convocatoria de huelga general del 11 de noviembre",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261022/11665857/ceoe-renuncia-recurrir-convocatoria-huelga-general-11-noviembre.html",
+   "f": "2026-10-22T19:32:00Z",
+   "c": "empleo"
+  },
+  {
+   "t": "CEOE rectifica y no impugnará finalmente la huelga general por la vivienda antes del 11 de noviembre",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-22/ceoe-rectifica-y-no-impugnara-finalmente-la-huelga-general-por-la-vivienda-antes-del-11-de-noviembre.html",
+   "f": "2026-10-22T19:07:59Z",
+   "c": "vivienda"
+  },
   {
    "t": "Elon Musk invierte 89.000 millones en Skydance, la nueva compañía surgida de la fusión entre Paramount y Warner",
    "m": "Europa Press",
    "u": "https://www.europapress.es/economia/noticia-elon-musk-invierte-89000-millones-skydance-nueva-compania-surgida-fusion-paramount-warner-20261022204347.html",
    "f": "2026-10-22T18:43:47Z",
    "c": "empresas"
+  },
+  {
+   "t": "Las grandes empresas pagan de media un 7% de impuesto sobre beneficios",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261022/11665831/grandes-empresas-pagan-media-7-impuesto-sobre-beneficios.html",
+   "f": "2026-10-22T18:37:12Z",
+   "c": "impuestos"
   },
   {
    "t": "Room00 Hostels & Hotels, Pyme del Año 2026 de Madrid",
@@ -23,39 +51,11 @@
    "c": "comercio"
   },
   {
-   "t": "El administrador de la crisis de Tubos Reunidos plantea la deuda de SEPI como subordinada para sacarla del concurso",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-22/el-administrador-de-la-crisis-de-tubos-reunidos-plantea-la-deuda-de-sepi-como-subordinada-para-sacarla-del-concurso.html",
-   "f": "2026-10-22T18:07:30Z",
-   "c": "empresas"
-  },
-  {
-   "t": "Las grandes empresas de España tributan solo un 8,9% de sus beneficios",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-22/las-grandes-empresas-de-espana-tributan-solo-un-89-de-sus-beneficios.html",
-   "f": "2026-10-22T17:59:19Z",
-   "c": "impuestos"
-  },
-  {
    "t": "Segurma se alía con Grupo SNB para crecer en el ámbito de la seguridad personal",
    "m": "Cinco Días",
    "u": "https://cincodias.elpais.com/companias/2026-10-22/segurma-se-alia-con-grupo-snb-para-crecer-en-el-ambito-de-la-seguridad-personal.html",
    "f": "2026-10-22T17:42:32Z",
    "c": "empresas"
-  },
-  {
-   "t": "El gran consumo alerta de las tensiones en las cadenas de suministro",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261022/11665799/gran-consumo-alerta-tensiones-cadenas-suministro.html",
-   "f": "2026-10-22T17:36:32Z",
-   "c": "general"
-  },
-  {
-   "t": "Barclays recortará 5.000 empleos por la implantación de la inteligencia artificial",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/empresas/barclays-recortara-5-000-empleos-por-implantacion-inteligencia-artificial_7052303_0.html",
-   "f": "2026-10-22T17:29:48Z",
-   "c": "empleo"
   }
  ]
 }
