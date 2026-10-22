@@ -1,6 +1,41 @@
 {
- "actualizado": "2026-10-22T16:58:55Z",
+ "actualizado": "2026-10-22T17:53:41Z",
  "items": [
+  {
+   "t": "Segurma se alía con Grupo SNB para crecer en el ámbito de la seguridad personal",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-22/segurma-se-alia-con-grupo-snb-para-crecer-en-el-ambito-de-la-seguridad-personal.html",
+   "f": "2026-10-22T17:42:32Z",
+   "c": "empresas"
+  },
+  {
+   "t": "El gran consumo alerta de las tensiones en las cadenas de suministro",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261022/11665799/gran-consumo-alerta-tensiones-cadenas-suministro.html",
+   "f": "2026-10-22T17:36:32Z",
+   "c": "general"
+  },
+  {
+   "t": "Luz verde a la ley de Ayuso que agiliza las gestiones tributarias y garantiza la seguridad jurídica",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/2026/10/22/luz-verde-ley-ayuso-agiliza-gestiones-tributarias-garantiza-seguridad-juridica.html",
+   "f": "2026-10-22T17:18:36Z",
+   "c": "energia"
+  },
+  {
+   "t": "La española Arquimea lanza una emisión de bonos de 40 millones para impulsar su plan de negocio en espacio y defensa",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-22/la-espanola-arquimea-lanza-una-emision-de-bonos-de-40-millones-para-impulsar-su-plan-de-negocio-en-espacio-y-defensa.html",
+   "f": "2026-10-22T17:00:26Z",
+   "c": "empresas"
+  },
+  {
+   "t": "El Ibex cae un 2,1% por el alza del petróleo y las dudas sobre las tecnológicas",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261022/11665745/ibex-cae-2-1-pierde-19-000-puntos-repunte-petroleo-dudas-tecnologicas.html",
+   "f": "2026-10-22T16:19:47Z",
+   "c": "energia"
+  },
   {
    "t": "Bankinter eleva su beneficio un 11%, hasta los 901 millones",
    "m": "Cinco Días",
@@ -21,41 +56,6 @@
    "u": "https://www.europapress.es/economia/bolsa-00348/noticia-ibex-hunde-212-pierde-19000-puntos-lastrado-bankinter-prima-riesgo-francesa-20261022180439.html",
    "f": "2026-10-22T16:04:39Z",
    "c": "bancos"
-  },
-  {
-   "t": "CC OO y UGT piden evitar el teletrabajo como forma de “esquirolaje tecnológico” en la huelga del 11-N",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-22/cc-oo-y-ugt-piden-evitar-el-teletrabajo-como-forma-de-esquirolaje-tecnologico-en-la-huelga-del-11-n.html",
-   "f": "2026-10-22T15:53:35Z",
-   "c": "empleo"
-  },
-  {
-   "t": "Mutua pide medidas para aliviar la presión sobre el sistema de pensiones",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-22/mutua-pide-medidas-para-aliviar-la-presion-sobre-el-sistema-de-pensiones.html",
-   "f": "2026-10-22T15:51:14Z",
-   "c": "pensiones"
-  },
-  {
-   "t": "Meta se desploma un 7% en Bolsa tras presentar resultados y ser objeto de una multa de 22.300 millones",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/finanzas-00340/noticia-meta-desploma-bolsa-presentar-resultados-ser-objeto-multa-22300-millones-20261022174204.html",
-   "f": "2026-10-22T15:42:04Z",
-   "c": "empresas"
-  },
-  {
-   "t": "Tensión en los mercados: la prima de riesgo francesa se dispara, la tecnología cae con fuerza y el Ibex baja el 2%",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-22/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-10-22T15:41:05Z",
-   "c": "tecnologia"
-  },
-  {
-   "t": "Meta acuerda con Mark Zuckerberg que permanezca en California pese a que amenazaba con trasladarse por el impuesto a la riqueza",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-22/meta-acuerda-con-mark-zuckerberg-que-permanezca-en-california-pese-a-que-amenazaba-con-trasladarse-por-el-impuesto-a-la-riqueza.html",
-   "f": "2026-10-22T15:29:09Z",
-   "c": "impuestos"
   }
  ]
 }
