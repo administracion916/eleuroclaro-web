@@ -1,6 +1,41 @@
 {
- "actualizado": "2026-10-22T17:53:41Z",
+ "actualizado": "2026-10-22T19:06:38Z",
  "items": [
+  {
+   "t": "Elon Musk invierte 89.000 millones en Skydance, la nueva compañía surgida de la fusión entre Paramount y Warner",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/noticia-elon-musk-invierte-89000-millones-skydance-nueva-compania-surgida-fusion-paramount-warner-20261022204347.html",
+   "f": "2026-10-22T18:43:47Z",
+   "c": "empresas"
+  },
+  {
+   "t": "Room00 Hostels & Hotels, Pyme del Año 2026 de Madrid",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-22/room00-hostels-hotels-pyme-del-ano-2026-de-madrid.html",
+   "f": "2026-10-22T18:14:18Z",
+   "c": "transporte"
+  },
+  {
+   "t": "Los editores europeos reclaman \"medidas urgentes\" a la Comisión Europea para frenar las nuevas condiciones comerciales de Meta sobre el uso del contenido de…",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/empresas/2026/10/22/6ada4da6fdddff52248b45ad.html",
+   "f": "2026-10-22T18:10:21Z",
+   "c": "comercio"
+  },
+  {
+   "t": "El administrador de la crisis de Tubos Reunidos plantea la deuda de SEPI como subordinada para sacarla del concurso",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-22/el-administrador-de-la-crisis-de-tubos-reunidos-plantea-la-deuda-de-sepi-como-subordinada-para-sacarla-del-concurso.html",
+   "f": "2026-10-22T18:07:30Z",
+   "c": "empresas"
+  },
+  {
+   "t": "Las grandes empresas de España tributan solo un 8,9% de sus beneficios",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-22/las-grandes-empresas-de-espana-tributan-solo-un-89-de-sus-beneficios.html",
+   "f": "2026-10-22T17:59:19Z",
+   "c": "impuestos"
+  },
   {
    "t": "Segurma se alía con Grupo SNB para crecer en el ámbito de la seguridad personal",
    "m": "Cinco Días",
@@ -16,46 +51,11 @@
    "c": "general"
   },
   {
-   "t": "Luz verde a la ley de Ayuso que agiliza las gestiones tributarias y garantiza la seguridad jurídica",
-   "m": "Expansión",
-   "u": "https://www.expansion.com/economia/2026/10/22/luz-verde-ley-ayuso-agiliza-gestiones-tributarias-garantiza-seguridad-juridica.html",
-   "f": "2026-10-22T17:18:36Z",
-   "c": "energia"
-  },
-  {
-   "t": "La española Arquimea lanza una emisión de bonos de 40 millones para impulsar su plan de negocio en espacio y defensa",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-22/la-espanola-arquimea-lanza-una-emision-de-bonos-de-40-millones-para-impulsar-su-plan-de-negocio-en-espacio-y-defensa.html",
-   "f": "2026-10-22T17:00:26Z",
-   "c": "empresas"
-  },
-  {
-   "t": "El Ibex cae un 2,1% por el alza del petróleo y las dudas sobre las tecnológicas",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261022/11665745/ibex-cae-2-1-pierde-19-000-puntos-repunte-petroleo-dudas-tecnologicas.html",
-   "f": "2026-10-22T16:19:47Z",
-   "c": "energia"
-  },
-  {
-   "t": "Bankinter eleva su beneficio un 11%, hasta los 901 millones",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-22/bankinter-dispara-el-beneficio-un-11-en-los-nueve-primeros-meses-del-ano-hasta-los-900-millones.html",
-   "f": "2026-10-22T16:13:20Z",
-   "c": "bancos"
-  },
-  {
-   "t": "El petróleo y el miedo a la burbuja en la IA arrastran a las bolsas mundiales a una jornada negra",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/dinero-inversion/2026/10/22/6ad9fdc6e85ece692e8b45bd.html",
-   "f": "2026-10-22T16:12:26Z",
-   "c": "energia"
-  },
-  {
-   "t": "El Ibex se hunde un 2,12% y pierde los 19.000 puntos lastrado por Bankinter y prima de riesgo francesa",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/bolsa-00348/noticia-ibex-hunde-212-pierde-19000-puntos-lastrado-bankinter-prima-riesgo-francesa-20261022180439.html",
-   "f": "2026-10-22T16:04:39Z",
-   "c": "bancos"
+   "t": "Barclays recortará 5.000 empleos por la implantación de la inteligencia artificial",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/empresas/barclays-recortara-5-000-empleos-por-implantacion-inteligencia-artificial_7052303_0.html",
+   "f": "2026-10-22T17:29:48Z",
+   "c": "empleo"
   }
  ]
 }
