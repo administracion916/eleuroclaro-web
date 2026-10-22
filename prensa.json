@@ -1,61 +1,61 @@
 {
- "actualizado": "2026-10-22T05:56:04Z",
+ "actualizado": "2026-10-22T07:16:34Z",
  "items": [
-  {
-   "t": "Meta dispara un 39% su beneficio hasta septiembre gracias al negocio publicitario y la inteligencia artificial",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-22/meta-dispara-un-39-su-beneficio-hasta-septiembre-gracias-al-negocio-publicitario-y-la-inteligencia-artificial.html",
-   "f": "2026-10-22T05:33:30Z",
-   "c": "tecnologia"
-  },
-  {
-   "t": "Así es PHP2Shell, el fallo que amenaza a siete de cada diez webs",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/10/21/6ad92780fc6c83a57e8b45a4.html",
-   "f": "2026-10-22T05:19:07Z",
-   "c": "general"
-  },
-  {
-   "t": "Tesla gana un 19,5% menos hasta septiembre por el aumento de las inversiones en inteligencia artificial",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-22/tesla-gana-un-195-menos-hasta-septiembre-por-el-aumento-de-las-inversiones-en-inteligencia-artificial.html",
-   "f": "2026-10-22T05:06:07Z",
-   "c": "tecnologia"
-  },
   {
    "t": "Las Bolsas sufren por las dudas sobre la IA y el avance del petróleo",
    "m": "Cinco Días",
    "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-22/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-10-22T04:34:30Z",
+   "f": "2026-10-22T07:08:38Z",
    "c": "energia"
   },
   {
-   "t": "El gran propietario de pisos cobra un 7% más de alquiler que el pequeño",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261022/11664897/gran-propietario-pisos-cobra-7-mas-alquiler-pequeno.html",
-   "f": "2026-10-22T04:00:00Z",
+   "t": "Bankinter eleva un 11% su beneficio, hasta 901 millones de euros, apoyado en el avance de su actividad comercial",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/empresas/2026/10/22/6ad9ae9bfdddff2c0c8b4589.html",
+   "f": "2026-10-22T06:49:09Z",
+   "c": "bancos"
+  },
+  {
+   "t": "Atresmedia eleva sus ingresos un 4% con los nuevos negocios y la producción de contenidos",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-22/atresmedia-eleva-sus-ingresos-un-4-con-los-nuevos-negocios-y-la-produccion-de-contenidos.html",
+   "f": "2026-10-22T06:39:38Z",
+   "c": "empresas"
+  },
+  {
+   "t": "Bankinter dispara el beneficio un 11% en los nueve primeros meses del año, hasta los 900 millones",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-22/bankinter-dispara-el-beneficio-un-11-en-los-nueve-primeros-meses-del-ano-hasta-los-900-millones.html",
+   "f": "2026-10-22T06:10:08Z",
+   "c": "bancos"
+  },
+  {
+   "t": "Bankinter dispara el beneficio un 11% y gana más de 900 millones hasta septiembre",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/empresas/bankinter-beneficios-tercer-trimestre-nuevo-record_7051850_0.html",
+   "f": "2026-10-22T06:05:25Z",
+   "c": "bancos"
+  },
+  {
+   "t": "Los caseros con varias viviendas concentran el 18% de la subida del alquiler entre 2019 y 2023, según Esade",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/construccion-y-vivienda-00342/noticia-caseros-varias-viviendas-concentran-18-subida-alquiler-2019-2023-esade-20261022080153.html",
+   "f": "2026-10-22T06:01:53Z",
    "c": "vivienda"
   },
   {
-   "t": "Más pelotazos y más fracasos: la cara oculta de los incentivos fiscales",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261022/11664666/pelotazos-fracasos-fiscalidad-pablo-foncillas-pf-video-seo-lv.html",
-   "f": "2026-10-22T04:00:00Z",
-   "c": "impuestos"
+   "t": "El 'Black Friday' generará 124.300 empleos en España, un 5,3% más, impulsado por el comercio y la logística",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/laboral-00346/noticia-black-friday-generara-124300-empleos-espana-53-mas-impulsado-comercio-logistica-20261022080057.html",
+   "f": "2026-10-22T06:00:57Z",
+   "c": "empleo"
   },
   {
-   "t": "¿Cuántas casas más puede construir España?",
-   "m": "El País",
-   "u": "https://elpais.com/economia/vivienda/2026-10-22/cuantas-casas-mas-puede-construir-espana.html",
-   "f": "2026-10-22T03:45:01Z",
-   "c": "general"
-  },
-  {
-   "t": "Madrid copa los barrios más caros para comprar o alquilar casa en las grandes ciudades",
-   "m": "El País",
-   "u": "https://elpais.com/economia/vivienda/2026-10-22/buscador-madrid-copa-los-barrios-mas-caros-para-comprar-o-alquilar-casa-en-las-grandes-ciudades.html",
-   "f": "2026-10-22T03:45:01Z",
-   "c": "vivienda"
+   "t": "Bankinter gana 900 millones de euros hasta septiembre, un 11% más",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/finanzas-00340/noticia-bankinter-gana-900-millones-euros-septiembre-11-mas-20261022074301.html",
+   "f": "2026-10-22T05:43:01Z",
+   "c": "bancos"
   }
  ]
 }
