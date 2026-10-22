@@ -1,6 +1,27 @@
 {
- "actualizado": "2026-10-22T21:56:12Z",
+ "actualizado": "2026-10-22T22:54:13Z",
  "items": [
+  {
+   "t": "La UE avala a España para endurecer el perdón de deudas con Hacienda",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/2026/10/23/ue-avala-espana-endurecer-perdon-deudas-hacienda.html",
+   "f": "2026-10-22T22:39:29Z",
+   "c": "impuestos"
+  },
+  {
+   "t": "Hacienda lanzó un plan de venta de miles de viviendas en 2023 para aprovechar \"el momento del ciclo inmobiliario más favorable\"",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/10/23/6ada4e24fc6c8386278b4584.html",
+   "f": "2026-10-22T22:01:35Z",
+   "c": "vivienda"
+  },
+  {
+   "t": "Cómo poner el 'cascabel' a los 'finfluencers': la CNMV busca profesionalizar la labor de los creadores de contenido en la gestión del dinero",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/dinero-inversion/2026/10/23/6ada08b421efa0e17c8b458c.html",
+   "f": "2026-10-22T22:01:34Z",
+   "c": "general"
+  },
   {
    "t": "CEOE descarta impugnar la convocatoria de huelga general",
    "m": "Europa Press",
@@ -35,27 +56,6 @@
    "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/ceoe-da-marcha-atras-renuncia-recurrir-huelga-general-11-noviembre_7052337_0.html",
    "f": "2026-10-22T19:16:57Z",
    "c": "empleo"
-  },
-  {
-   "t": "CEOE rectifica y no impugnará finalmente la huelga general por la vivienda antes del 11 de noviembre",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-22/ceoe-rectifica-y-no-impugnara-finalmente-la-huelga-general-por-la-vivienda-antes-del-11-de-noviembre.html",
-   "f": "2026-10-22T19:07:59Z",
-   "c": "vivienda"
-  },
-  {
-   "t": "Las grandes empresas pagan de media un 7% de impuesto sobre beneficios",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261022/11665831/grandes-empresas-pagan-media-7-impuesto-sobre-beneficios.html",
-   "f": "2026-10-22T18:37:12Z",
-   "c": "impuestos"
-  },
-  {
-   "t": "Los editores europeos reclaman \"medidas urgentes\" a la Comisión Europea para frenar las nuevas condiciones comerciales de Meta sobre el uso del contenido de…",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/empresas/2026/10/22/6ada4da6fdddff52248b45ad.html",
-   "f": "2026-10-22T18:10:21Z",
-   "c": "comercio"
   }
  ]
 }
