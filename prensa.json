@@ -1,12 +1,33 @@
 {
- "actualizado": "2026-10-23T16:01:52Z",
+ "actualizado": "2026-10-23T17:00:02Z",
  "items": [
   {
-   "t": "El petróleo y el temor a una burbuja de la IA dejan una semana de pérdidas en las Bolsas pese al rebote final",
+   "t": "El petróleo y el temor a una burbuja de la IA dejan una semana de pérdidas en las Bolsas",
    "m": "Cinco Días",
    "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-23/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-10-23T15:55:52Z",
+   "f": "2026-10-23T16:25:29Z",
    "c": "energia"
+  },
+  {
+   "t": "El Ibex 35 cede un 1,74% en una semana marcada por el alza del petróleo y de la deuda francesa",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/bolsa-00348/noticia-ibex-35-cede-174-semana-marcada-alza-petroleo-deuda-francesa-20261023180934.html",
+   "f": "2026-10-23T16:09:34Z",
+   "c": "energia"
+  },
+  {
+   "t": "La subida de precios en el turismo estanca la demanda nacional en verano",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261023/11666671/subida-precios-turismo-estanca-demanda-nacional-verano.html",
+   "f": "2026-10-23T16:04:53Z",
+   "c": "transporte"
+  },
+  {
+   "t": "Volkswagen y el sindicato IG Metall negociarán el ajuste en Alemania con la sombra de huelgas",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261023/11666637/volkswagen-sindicato-ig-metall-negociaran-ajuste-sombra-huelgas.html",
+   "f": "2026-10-23T15:53:48Z",
+   "c": "empleo"
   },
   {
    "t": "El lujo cotiza a mínimos de una década mientras se aleja el esperado rebote",
@@ -35,27 +56,6 @@
    "u": "https://www.elmundo.es/economia/empresas/2026/10/23/6adb7fa6e85ece2b228b45c8.html",
    "f": "2026-10-23T15:39:23Z",
    "c": "tecnologia"
-  },
-  {
-   "t": "Cuánto cobra al mes un dependiente de El Corte Inglés en 2026: sueldo y complementos",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/10/23/6adb2195fc6c8328368b4579.html",
-   "f": "2026-10-23T15:35:46Z",
-   "c": "empleo"
-  },
-  {
-   "t": "El Gobierno propone adjudicar 17,45 millones a Orange España y Telefónica para llevar 5G a zonas muy rurales",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/noticia-gobierno-propone-adjudicar-1745-millones-orange-espana-telefonica-llevar-5g-zonas-muy-rurales-20261023171736.html",
-   "f": "2026-10-23T15:17:36Z",
-   "c": "general"
-  },
-  {
-   "t": "La Generalitat elige al grupo alemán T-Systems para gestionar la nube pública de Catalunya",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261023/11666622/generalitat-elige-grupo-aleman-t-systems-gestionar-nube-publica-catalunya.html",
-   "f": "2026-10-23T14:52:39Z",
-   "c": "general"
   }
  ]
 }
