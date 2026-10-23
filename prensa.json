@@ -1,6 +1,20 @@
 {
- "actualizado": "2026-10-23T14:03:09Z",
+ "actualizado": "2026-10-23T15:01:45Z",
  "items": [
+  {
+   "t": "Telefónica e Indra exploran la creación de una filial conjunta para impulsar la nube soberana",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-23/telefonica-e-indra-exploran-la-creacion-de-una-filial-conjunta-para-impulsar-la-nube-soberana.html",
+   "f": "2026-10-23T14:54:37Z",
+   "c": "empresas"
+  },
+  {
+   "t": "Orange se lleva el 70% de las ayudas para desplegar 5G en zonas rurales, frente al 30% de Telefónica",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-23/orange-se-lleva-el-70-de-las-ayudas-para-desplegar-5g-en-zonas-rurales-frente-al-30-de-telefonica.html",
+   "f": "2026-10-23T14:45:00Z",
+   "c": "empresas"
+  },
   {
    "t": "El petróleo roza los 116 dólares y arrastra a las Bolsas a una nueva jornada de caídas",
    "m": "Cinco Días",
@@ -9,25 +23,11 @@
    "c": "energia"
   },
   {
-   "t": "La IA impulsa a los ‘solopreneurs’, que ya representan el 25,6% del ecosistema de ‘start-ups’ españolas",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-23/la-ia-impulsa-a-los-solopreneurs-que-ya-representan-el-256-del-ecosistema-de-start-ups-espanolas.html",
-   "f": "2026-10-23T13:42:33Z",
-   "c": "tecnologia"
-  },
-  {
-   "t": "El dueño de 'The Telegraph' recortará la plantilla del diario británico",
+   "t": "El oro ve peligrar los 4.000 dólares por el repunte del crudo y de la deuda francesa",
    "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/noticia-dueno-the-telegraph-recortara-plantilla-diario-britanico-20261023144235.html",
-   "f": "2026-10-23T12:42:35Z",
-   "c": "empresas"
-  },
-  {
-   "t": "Cosentino aterriza en Kazajistán y Kirguistán con un ‘showroom’ de 150 metros cuadrados",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-23/cosentino-aterriza-en-kazajistan-y-kirguistan-con-un-showroom-de-150-metros-cuadrados.html",
-   "f": "2026-10-23T12:09:02Z",
-   "c": "empresas"
+   "u": "https://www.europapress.es/economia/finanzas-00340/noticia-oro-ve-peligrar-4000-dolares-repunte-crudo-deuda-francesa-20261023143748.html",
+   "f": "2026-10-23T12:37:48Z",
+   "c": "general"
   },
   {
    "t": "El precio de la vivienda en propiedad ha crecido casi cuatro veces más que los salarios en los últimos 13 años",
