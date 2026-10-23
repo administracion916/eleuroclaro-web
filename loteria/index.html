@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Lotería de Navidad: cuánto se queda Hacienda de tu premio · El Euro Claro</title>
+<meta name="description" content="Calcula cuánto cobras de verdad si te toca la Lotería de Navidad: los primeros 40.000 € de cada décimo no pagan y del resto se retiene un 20 %. Con décimos compartidos.">
+<meta name="theme-color" content="#0e2a47">
+<meta property="og:site_name" content="El Euro Claro">
+<meta property="og:title" content="Si te toca el Gordo, ¿cuánto cobras de verdad?">
+<meta property="og:description" content="Calculadora gratis con las reglas de la Agencia Tributaria. También para décimos compartidos.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://eleuroclaro.es/loteria/">
+<meta property="og:locale" content="es_ES">
+<meta name="twitter:card" content="summary">
+<link rel="canonical" href="https://eleuroclaro.es/loteria/">
+<!-- Página en una subcarpeta: todas las rutas son absolutas (empiezan por /). -->
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="stylesheet" href="/fonts.css">
+<link rel="stylesheet" href="/style.css?v=20261019c">
+</head>
+<body>
+
+<header class="top">
+  <div class="wrap">
+    <a class="brand" href="/" aria-label="El Euro Claro, inicio">
+      <img class="coin" src="/favicon.svg" alt="" width="40" height="40">
+      El Euro Claro
+    </a>
+    <nav class="nav" aria-label="Secciones">
+      <a class="nav-nl" href="/domingo/?src=web-cabecera"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><rect x="2.5" y="5" width="19" height="14" rx="2.5"/><path d="M3 6.5l9 6.5 9-6.5"/></svg>Newsletter gratis</a>
+      <a href="/#noticias">Noticias</a>
+      <a href="/#videos">Vídeos</a>
+      <a href="/inflacion/">Calculadora</a>
+      <a href="/#kit">Kit</a>
+      <a href="/recursos/">Recursos</a>
+      <a href="/empresas/">Empresas</a>
+      <a href="/libros/">Libros</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <section class="section page-head calc-head">
+    <div class="wrap">
+      <p class="eyebrow">Calculadora · reglas de la Agencia Tributaria</p>
+      <h1>Si te toca, ¿cuánto <em>cobras de verdad</em>?</h1>
+      <p class="intro">De cada décimo, los primeros 40.000&nbsp;€ no pagan impuestos. De lo que pase de ahí, Hacienda se queda el 20&nbsp;% al cobrarlo.</p>
+      <form class="calc" id="calc" novalidate>
+        <label style="font-weight:700">Premio del décimo (€)<br><small style="font-weight:400">El Gordo de Navidad: 400.000 € por décimo. El segundo: 125.000 €. El tercero: 50.000 €.</small>
+          <input style="display:block;width:100%;margin-top:.35rem;padding:.7rem .8rem;font-size:1.15rem;border:1px solid #c9d2de;border-radius:.5rem" type="number" id="premio" inputmode="decimal" min="0" step="1" value="400000"></label>
+        <label style="font-weight:700">¿Entre cuántas personas lo compartís, a partes iguales?
+          <input style="display:block;width:100%;margin-top:.35rem;padding:.7rem .8rem;font-size:1.15rem;border:1px solid #c9d2de;border-radius:.5rem" type="number" id="personas" inputmode="numeric" min="1" step="1" value="1"></label>
+        <button class="btn btn-primary calc-boton" type="submit">Calcular</button>
+        <div id="res" aria-live="polite"></div>
+      </form>
+    </div>
+  </section>
+
+  <section class="section alt" aria-labelledby="como">
+    <div class="wrap prose">
+      <h2 id="como">Cómo se calcula</h2>
+      <ul>
+        <li><strong>Exento:</strong> hasta 40.000&nbsp;€ por décimo. La pedrea y los reintegros no pagan nada.</li>
+        <li><strong>Retención:</strong> el 20&nbsp;% de lo que pase de 40.000&nbsp;€. Ejemplo de la Agencia Tributaria: de 100.000&nbsp;€ se retienen 12.000&nbsp;€ y cobras 88.000&nbsp;€.</li>
+        <li><strong>Décimo compartido:</strong> los 40.000&nbsp;€ exentos se reparten entre todos según lo que haya puesto cada uno. Quien lo cobre debe poder demostrar quién juega y con cuánto, así que apuntadlo por escrito.</li>
+        <li><strong>En la renta:</strong> con la retención ya está pagado. No tienes que volver a declararlo.</li>
+      </ul>
+      <p>Fuente: Agencia Tributaria, <a href="https://sede.agenciatributaria.gob.es/Sede/todas-noticias/2025/diciembre/15/premios-sorteo-loteria-navidad.html" rel="noopener">premios del sorteo de la Lotería de Navidad</a>.</p>
+      <p>Y si no te toca, que es lo normal: cada domingo te contamos lo que cambia en tu bolsillo, gratis. <a href="/domingo/?src=loteria">Apúntate a la newsletter</a>.</p>
+      <p class="small note-legal">Contenido divulgativo: no es asesoramiento fiscal. No animamos a jugar: la lotería es un juego, no una forma de ahorrar.</p>
+    </div>
+  </section>
+</main>
+
+<footer class="foot">
+  <div class="wrap">
+    <p class="lema">La economía de tu bolsillo, en euros claros.</p>
+    <nav aria-label="Legal">
+      <a href="/aviso-legal.html">Aviso legal</a>
+      <a href="/privacidad.html">Privacidad</a>
+      <a href="/cookies.html">Cookies</a>
+      <a href="/correcciones/">Correcciones</a>
+      <span>Contacto: <span class="mail">hola@eleuroclaro.es</span></span>
+    </nav>
+    <p class="disclaimer">El Euro Claro es un medio divulgativo. La información es general y no constituye asesoramiento financiero ni una recomendación de comprar o vender ningún producto. Algunos enlaces pueden ser de afiliado y se indica cuando lo son.</p>
+    <p>© 2026 El Euro Claro · Odana Ingeniería SL</p>
+  </div>
+</footer>
+<script>
+(function(){
+  var f=document.getElementById('calc'), r=document.getElementById('res');
+  var eur=function(x){return x.toLocaleString('es-ES',{minimumFractionDigits:2,maximumFractionDigits:2})+' €';};
+  function calc(e){
+    if(e)e.preventDefault();
+    var p=parseFloat(document.getElementById('premio').value)||0, n=Math.max(1,Math.floor(parseFloat(document.getElementById('personas').value)||1));
+    var imp=0.2*Math.max(0,p-40000), neto=p-imp;
+    var txt='<p style="margin:.4rem 0 .2rem">Hacienda retiene <strong>'+eur(imp)+'</strong> y el décimo cobra <strong>'+eur(neto)+'</strong>.</p>';
+    if(n>1) txt+='<p style="font-size:1.15rem;margin:0">A cada uno de los '+n+' os tocan <strong>'+eur(neto/n)+'</strong> limpios.</p>';
+    else txt+='<p style="font-size:1.15rem;margin:0">Te quedan <strong>'+eur(neto)+'</strong> limpios.</p>';
+    r.innerHTML=txt;
+  }
+  f.addEventListener('submit',calc); calc();
+})();
+</script>
+<!-- Cloudflare Web Analytics --><script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "e81aecc33a6b40ccab86c1fbc9fa801c"}'></script><!-- End Cloudflare Web Analytics -->
+</body>
+</html>
