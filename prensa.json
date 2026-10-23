@@ -1,12 +1,26 @@
 {
- "actualizado": "2026-10-23T13:08:20Z",
+ "actualizado": "2026-10-23T14:03:09Z",
  "items": [
   {
-   "t": "El petróleo roza los 115 dólares y arrastra a las Bolsas a una nueva jornada de caídas",
+   "t": "El petróleo roza los 116 dólares y arrastra a las Bolsas a una nueva jornada de caídas",
    "m": "Cinco Días",
    "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-23/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-10-23T12:41:34Z",
+   "f": "2026-10-23T13:44:49Z",
    "c": "energia"
+  },
+  {
+   "t": "La IA impulsa a los ‘solopreneurs’, que ya representan el 25,6% del ecosistema de ‘start-ups’ españolas",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-23/la-ia-impulsa-a-los-solopreneurs-que-ya-representan-el-256-del-ecosistema-de-start-ups-espanolas.html",
+   "f": "2026-10-23T13:42:33Z",
+   "c": "tecnologia"
+  },
+  {
+   "t": "El dueño de 'The Telegraph' recortará la plantilla del diario británico",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/noticia-dueno-the-telegraph-recortara-plantilla-diario-britanico-20261023144235.html",
+   "f": "2026-10-23T12:42:35Z",
+   "c": "empresas"
   },
   {
    "t": "Cosentino aterriza en Kazajistán y Kirguistán con un ‘showroom’ de 150 metros cuadrados",
@@ -21,13 +35,6 @@
    "u": "https://elpais.com/economia/vivienda/2026-10-23/el-precio-de-la-vivienda-en-propiedad-ha-crecido-casi-cuatro-veces-mas-que-los-salarios-en-los-ultimos-13-anos.html",
    "f": "2026-10-23T11:22:02Z",
    "c": "vivienda"
-  },
-  {
-   "t": "Mahou renueva su acuerdo de patrocinio con el Real Madrid hasta 2033",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-23/mahou-renueva-su-acuerdo-de-patrocinio-con-el-real-madrid-hasta-2033.html",
-   "f": "2026-10-23T11:20:18Z",
-   "c": "empresas"
   },
   {
    "t": "El dueño de Gucci se desploma un 12% en la Bolsa de París tras publicar resultados",
@@ -49,13 +56,6 @@
    "u": "https://www.elmundo.es/economia/2026/10/23/6adb3e1721efa0675c8b45c2.html",
    "f": "2026-10-23T11:06:11Z",
    "c": "tipos"
-  },
-  {
-   "t": "Batacazo de Volvo: la firma sueca recortará 2.500 empleos tras registrar importantes pérdidas por la escasa demanda del mercado chino",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/empresas/volvo-2-500-despidos-perdidas-mercado-chino_7052600_0.html",
-   "f": "2026-10-23T11:01:51Z",
-   "c": "empleo"
   }
  ]
 }
