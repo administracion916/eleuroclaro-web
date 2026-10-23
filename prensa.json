@@ -1,6 +1,13 @@
 {
- "actualizado": "2026-10-23T19:05:03Z",
+ "actualizado": "2026-10-23T21:55:08Z",
  "items": [
+  {
+   "t": "Moody’s mantiene la calificación de la deuda soberana de Francia en medio de la crisis política y el malestar social",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-23/moodys-mantiene-la-calificacion-de-la-deuda-soberana-de-francia-en-medio-de-la-crisis-politica-y-el-malestar-social.html",
+   "f": "2026-10-23T21:18:25Z",
+   "c": "general"
+  },
   {
    "t": "Deutsche Telekom gana a Telefónica el megacontrato de 400 millones para la nube soberana de Cataluña",
    "m": "Cinco Días",
@@ -49,13 +56,6 @@
    "u": "https://www.lavanguardia.com/economia/20261023/11666637/volkswagen-sindicato-ig-metall-negociaran-ajuste-sombra-huelgas.html",
    "f": "2026-10-23T15:53:48Z",
    "c": "empleo"
-  },
-  {
-   "t": "El Brent roza los 117 dólares y toca niveles no vistos desde abril",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/noticia-brent-roza-117-dolares-toca-niveles-no-vistos-abril-20261023174628.html",
-   "f": "2026-10-23T15:46:28Z",
-   "c": "energia"
   }
  ]
 }
