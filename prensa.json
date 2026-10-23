@@ -1,6 +1,20 @@
 {
- "actualizado": "2026-10-23T11:56:45Z",
+ "actualizado": "2026-10-23T13:08:20Z",
  "items": [
+  {
+   "t": "El petróleo roza los 115 dólares y arrastra a las Bolsas a una nueva jornada de caídas",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-23/la-bolsa-y-el-ibex-35.html",
+   "f": "2026-10-23T12:41:34Z",
+   "c": "energia"
+  },
+  {
+   "t": "Cosentino aterriza en Kazajistán y Kirguistán con un ‘showroom’ de 150 metros cuadrados",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-23/cosentino-aterriza-en-kazajistan-y-kirguistan-con-un-showroom-de-150-metros-cuadrados.html",
+   "f": "2026-10-23T12:09:02Z",
+   "c": "empresas"
+  },
   {
    "t": "El precio de la vivienda en propiedad ha crecido casi cuatro veces más que los salarios en los últimos 13 años",
    "m": "El País",
@@ -41,20 +55,6 @@
    "m": "20minutos",
    "u": "https://www.20minutos.es/lainformacion/empresas/volvo-2-500-despidos-perdidas-mercado-chino_7052600_0.html",
    "f": "2026-10-23T11:01:51Z",
-   "c": "empleo"
-  },
-  {
-   "t": "Euríbor hoy, viernes 23 de octubre: la tasa diaria cierra la semana con una pequeña subida",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/10/23/6adb3732e4d4d8e0338b4599.html",
-   "f": "2026-10-23T10:52:28Z",
-   "c": "tipos"
-  },
-  {
-   "t": "Volvo Cars se desploma en bolsa un 30% tras anunciar el despido de 2.500 trabajadores y confirmar la dominancia absoluta de China en su mercado",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/dinero-inversion/2026/10/23/6adb3a9ae9cf4a583f8b4596.html",
-   "f": "2026-10-23T10:49:26Z",
    "c": "empleo"
   }
  ]
