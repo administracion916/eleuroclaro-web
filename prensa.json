@@ -1,33 +1,47 @@
 {
- "actualizado": "2026-10-23T07:13:33Z",
+ "actualizado": "2026-10-23T08:02:29Z",
  "items": [
+  {
+   "t": "Telefónica e IQM instalarán el primer ordenador cuántico de Madrid",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-23/telefonica-e-iqm-instalaran-el-primer-ordenador-cuantico-de-madrid.html",
+   "f": "2026-10-23T07:53:55Z",
+   "c": "empresas"
+  },
+  {
+   "t": "Las pernoctaciones hoteleras en España superan los 40 millones en septiembre, un 1,7% más",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/noticia-pernoctaciones-hoteleras-espana-superan-40-millones-septiembre-17-mas-20261023093743.html",
+   "f": "2026-10-23T07:37:43Z",
+   "c": "transporte"
+  },
   {
    "t": "Contención en las Bolsas europeas por el repliegue de la tecnología y el alza del petróleo",
    "m": "Cinco Días",
    "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-23/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-10-23T07:05:28Z",
+   "f": "2026-10-23T07:32:29Z",
    "c": "energia"
   },
   {
-   "t": "Uatae se suma a la huelga general para \"frenar la especulación\" con la vivienda y los locales comerciales",
+   "t": "CCOO denuncia que el precio de la vivienda ha crecido 3,6 veces más rápido que los salarios desde 2013",
    "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/laboral-00346/noticia-uatae-suma-huelga-general-frenar-especulacion-vivienda-locales-comerciales-20261023084404.html",
-   "f": "2026-10-23T06:44:04Z",
+   "u": "https://www.europapress.es/economia/laboral-00346/noticia-ccoo-denuncia-precio-vivienda-crecido-36-veces-mas-rapido-salarios-2013-20261023092825.html",
+   "f": "2026-10-23T07:28:25Z",
    "c": "vivienda"
   },
   {
-   "t": "El petróleo perfora los 114 dólares tras nuevos ataques de la insurgencia hutí contra objetivos saudíes",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/energia-00341/noticia-petroleo-perfora-114-dolares-nuevos-ataques-insurgencia-huti-contra-objetivos-saudies-20261023080605.html",
-   "f": "2026-10-23T06:06:05Z",
+   "t": "Las dudas se mantienen en las bolsas europeas mientras el petróleo sigue al alza",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261023/11666168/bolsa-mercados-ibex-35-viernes-petroleo-iran.html",
+   "f": "2026-10-23T07:21:31Z",
    "c": "energia"
   },
   {
-   "t": "Consumo exige a plataformas la retirada de 8.300 anuncios de alojamientos turísticos ilegales tras el decreto",
+   "t": "El Ibex 35 abre con un alza del 0,4% y acecha los 19.000 puntos, con el petróleo a más de 114 dólares",
    "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/construccion-y-vivienda-00342/noticia-consumo-exige-plataformas-retirada-8300-anuncios-alojamientos-turisticos-ilegales-decreto-20261023080049.html",
-   "f": "2026-10-23T06:00:49Z",
-   "c": "transporte"
+   "u": "https://www.europapress.es/economia/bolsa-00348/noticia-ibex-35-abre-alza-04-acecha-19000-puntos-petroleo-mas-114-dolares-20261023091347.html",
+   "f": "2026-10-23T07:13:47Z",
+   "c": "energia"
   },
   {
    "t": "Consumo ordena retirar 8.300 anuncios irregulares de alquiler de temporada, la mayoría en Madrid",
@@ -42,20 +56,6 @@
    "u": "https://www.lavanguardia.com/economia/20261023/11665779/consumo-exige-retirada-8-300-anuncios-fraudulentos-pisos-turisticos.html",
    "f": "2026-10-23T06:00:00Z",
    "c": "vivienda"
-  },
-  {
-   "t": "Las renovables dejan el precio de la luz en España por debajo de la media de la UE",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261023/11665866/renovables-dejan-precio-luz-espana-debajo-media-ue.html",
-   "f": "2026-10-23T04:00:00Z",
-   "c": "energia"
-  },
-  {
-   "t": "La SEPI renegocia 500 millones en la fase más sensible de los rescates",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261023/11665802/sepi-renegocia-500-millones-fase-mas-sensible-rescates.html",
-   "f": "2026-10-23T04:00:00Z",
-   "c": "general"
   }
  ]
 }
