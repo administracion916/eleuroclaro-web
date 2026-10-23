@@ -1,12 +1,47 @@
 {
- "actualizado": "2026-10-23T05:11:09Z",
+ "actualizado": "2026-10-23T07:13:33Z",
  "items": [
   {
    "t": "Contención en las Bolsas europeas por el repliegue de la tecnología y el alza del petróleo",
    "m": "Cinco Días",
    "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-23/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-10-23T04:30:17Z",
+   "f": "2026-10-23T07:05:28Z",
    "c": "energia"
+  },
+  {
+   "t": "Uatae se suma a la huelga general para \"frenar la especulación\" con la vivienda y los locales comerciales",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/laboral-00346/noticia-uatae-suma-huelga-general-frenar-especulacion-vivienda-locales-comerciales-20261023084404.html",
+   "f": "2026-10-23T06:44:04Z",
+   "c": "vivienda"
+  },
+  {
+   "t": "El petróleo perfora los 114 dólares tras nuevos ataques de la insurgencia hutí contra objetivos saudíes",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/energia-00341/noticia-petroleo-perfora-114-dolares-nuevos-ataques-insurgencia-huti-contra-objetivos-saudies-20261023080605.html",
+   "f": "2026-10-23T06:06:05Z",
+   "c": "energia"
+  },
+  {
+   "t": "Consumo exige a plataformas la retirada de 8.300 anuncios de alojamientos turísticos ilegales tras el decreto",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/construccion-y-vivienda-00342/noticia-consumo-exige-plataformas-retirada-8300-anuncios-alojamientos-turisticos-ilegales-decreto-20261023080049.html",
+   "f": "2026-10-23T06:00:49Z",
+   "c": "transporte"
+  },
+  {
+   "t": "Consumo ordena retirar 8.300 anuncios irregulares de alquiler de temporada, la mayoría en Madrid",
+   "m": "El País",
+   "u": "https://elpais.com/economia/vivienda/2026-10-23/consumo-ordena-retirar-8300-anuncios-irregulares-de-alquiler-de-temporada-la-mayoria-en-madrid.html",
+   "f": "2026-10-23T06:00:00Z",
+   "c": "vivienda"
+  },
+  {
+   "t": "Consumo exige la retirada de 8.300 anuncios fraudulentos de pisos turísticos",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261023/11665779/consumo-exige-retirada-8-300-anuncios-fraudulentos-pisos-turisticos.html",
+   "f": "2026-10-23T06:00:00Z",
+   "c": "vivienda"
   },
   {
    "t": "Las renovables dejan el precio de la luz en España por debajo de la media de la UE",
@@ -21,41 +56,6 @@
    "u": "https://www.lavanguardia.com/economia/20261023/11665802/sepi-renegocia-500-millones-fase-mas-sensible-rescates.html",
    "f": "2026-10-23T04:00:00Z",
    "c": "general"
-  },
-  {
-   "t": "El arte de recibir críticas y consejos",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261023/11661620/arte-recibir-criticas-consejos.html",
-   "f": "2026-10-23T04:00:00Z",
-   "c": "general"
-  },
-  {
-   "t": "El nuevo impuesto complementario a las multinacionales solo recauda 46 millones en su primer ejercicio",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-23/el-nuevo-impuesto-complementario-a-las-multinacionales-solo-recauda-46-millones-en-su-primer-ejercicio.html",
-   "f": "2026-10-23T03:45:01Z",
-   "c": "impuestos"
-  },
-  {
-   "t": "España sufre más muertes en el trabajo que la media de la UE y se aleja de los países más seguros",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-23/espana-sufre-mas-muertes-en-el-trabajo-que-la-media-de-la-ue-y-se-aleja-de-los-paises-mas-seguros.html",
-   "f": "2026-10-23T03:45:01Z",
-   "c": "comercio"
-  },
-  {
-   "t": "El auge de los ‘fininfluencers’ activa las alarmas: “El objetivo de muchos es dar recomendaciones en Telegram”",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-23/el-auge-de-los-fininfluencers-activa-las-alarmas-el-objetivo-de-muchos-es-dar-recomendaciones-en-telegram.html",
-   "f": "2026-10-23T03:30:01Z",
-   "c": "general"
-  },
-  {
-   "t": "Alquilé mi vivienda en 2019 y el contrato se prorrogó tres años más. ¿Podrá el casero echarme en 2027?",
-   "m": "El País",
-   "u": "https://elpais.com/economia/vivienda/consultorio/2026-10-23/alquile-mi-vivienda-en-2019-y-el-contrato-se-prorrogo-tres-anos-mas-podra-el-casero-echarme-en-2027.html",
-   "f": "2026-10-23T03:30:00Z",
-   "c": "vivienda"
   }
  ]
 }
