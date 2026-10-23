@@ -1,15 +1,43 @@
 {
- "actualizado": "2026-10-23T08:59:47Z",
+ "actualizado": "2026-10-23T09:58:38Z",
  "items": [
   {
-   "t": "Las palabras de Feijóo sobre el salario mínimo agitan la campaña electoral",
+   "t": "Kering cae con fuerza en Bolsa ante los malos datos de ventas de Gucci",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-23/kering-cae-con-fuerza-en-bolsa-ante-los-malos-datos-de-ventas-de-gucci.html",
+   "f": "2026-10-23T09:44:29Z",
+   "c": "empresas"
+  },
+  {
+   "t": "Cuánto dinero cobran los galardonados con el Premio Princesa de Asturias 2026",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/cuanto-dinero-cobran-galardonados-premios-princesa-asturias-2026_7052486_0.html",
+   "f": "2026-10-23T09:16:52Z",
+   "c": "general"
+  },
+  {
+   "t": "El Gobierno prevé aprobar el real decreto de los centros de datos antes de las elecciones",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/noticia-gobierno-preve-aprobar-real-decreto-centros-datos-antes-elecciones-20261023111016.html",
+   "f": "2026-10-23T09:10:16Z",
+   "c": "general"
+  },
+  {
+   "t": "Díaz no da por perdido el registro horario y la reforma de pluses, que siguen los trámites reglamentarios",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/laboral-00346/noticia-diaz-no-da-perdido-registro-horario-reforma-pluses-siguen-tramites-reglamentarios-20261023110240.html",
+   "f": "2026-10-23T09:02:40Z",
+   "c": "general"
+  },
+  {
+   "t": "El lapsus de Feijóo sobre el salario mínimo y el IRPF agita la campaña",
    "m": "El País",
    "u": "https://elpais.com/economia/2026-10-23/las-palabras-de-feijoo-sobre-el-salario-minimo-agitan-la-campana-electoral.html",
    "f": "2026-10-23T08:53:53Z",
    "c": "empleo"
   },
   {
-   "t": "El petróleo supera los 114 dólares con las Bolsas europeas navegando sin rumbo fijo",
+   "t": "El petróleo supera los 114 dólares y arrastra a las Bolsas a una nueva jornada de caídas",
    "m": "Cinco Días",
    "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-23/la-bolsa-y-el-ibex-35.html",
    "f": "2026-10-23T08:46:15Z",
@@ -28,34 +56,6 @@
    "u": "https://www.europapress.es/economia/laboral-00346/noticia-feijoo-dice-no-solo-subira-smi-sueldo-medio-smi-estara-exento-irpf-ley-20261023104128.html",
    "f": "2026-10-23T08:41:28Z",
    "c": "empleo"
-  },
-  {
-   "t": "Consumo ordena retirar 8.300 anuncios irregulares de alquiler de temporada, la mayoría en Madrid",
-   "m": "El País",
-   "u": "https://elpais.com/economia/vivienda/2026-10-23/consumo-ordena-retirar-8300-anuncios-irregulares-de-alquiler-de-temporada-la-mayoria-en-madrid.html",
-   "f": "2026-10-23T08:41:26Z",
-   "c": "vivienda"
-  },
-  {
-   "t": "Self Bank oferta un nuevo depósito a tres meses con una rentabilidad del 3,05%",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/self-bank-oferta-un-nuevo-deposito-tres-meses-con-una-rentabilidad-3-05_7052477_0.html",
-   "f": "2026-10-23T08:31:57Z",
-   "c": "general"
-  },
-  {
-   "t": "Self Bank eleva su apuesta por el ahorro con un depósito a tres meses al 3,05% TAE",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-23/self-bank-eleva-su-apuesta-por-el-ahorro-con-un-deposito-a-tres-meses-al-305-tae.html",
-   "f": "2026-10-23T08:27:16Z",
-   "c": "general"
-  },
-  {
-   "t": "La Seguridad Social lo confirma: estos trabajadores podrán recuperar años para su jubilación a partir de Navidad",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/10/23/6adb1191e9cf4a427e8b458a.html",
-   "f": "2026-10-23T08:25:59Z",
-   "c": "pensiones"
   }
  ]
 }
