@@ -1,6 +1,27 @@
 {
- "actualizado": "2026-10-23T17:00:02Z",
+ "actualizado": "2026-10-23T17:54:46Z",
  "items": [
+  {
+   "t": "Deutsche Telekom arrebata a Telefónica el megacontrato de 400 millones para la nube soberana de Cataluña",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-23/deutsche-telekom-arrebata-a-telefonica-el-megacontrato-de-400-millones-para-la-nube-soberana-de-cataluna.html",
+   "f": "2026-10-23T17:42:20Z",
+   "c": "empresas"
+  },
+  {
+   "t": "Los sindicatos amenazan a Volkswagen con “un conflicto laboral sin precedentes” si anula los convenios colectivos en Alemania",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-23/los-sindicatos-amenazan-a-volkswagen-con-un-conflicto-laboral-sin-precedentes-si-anula-los-convenios-colectivos-en-alemania.html",
+   "f": "2026-10-23T17:25:50Z",
+   "c": "empleo"
+  },
+  {
+   "t": "Los economistas ven a De Cos liderando la carrera para sustituir a Lagarde al frente del BCE",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-23/los-economistas-ven-a-de-cos-liderando-la-carrera-para-sustituir-a-lagarde-al-frente-del-bce.html",
+   "f": "2026-10-23T17:17:21Z",
+   "c": "tipos"
+  },
   {
    "t": "El petróleo y el temor a una burbuja de la IA dejan una semana de pérdidas en las Bolsas",
    "m": "Cinco Días",
@@ -30,32 +51,11 @@
    "c": "empleo"
   },
   {
-   "t": "El lujo cotiza a mínimos de una década mientras se aleja el esperado rebote",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-23/kering-cae-con-fuerza-en-bolsa-ante-los-malos-datos-de-ventas-de-gucci.html",
-   "f": "2026-10-23T15:53:00Z",
-   "c": "empresas"
-  },
-  {
    "t": "El Brent roza los 117 dólares y toca niveles no vistos desde abril",
    "m": "Europa Press",
    "u": "https://www.europapress.es/economia/noticia-brent-roza-117-dolares-toca-niveles-no-vistos-abril-20261023174628.html",
    "f": "2026-10-23T15:46:28Z",
    "c": "energia"
-  },
-  {
-   "t": "Carrefour pierde 2.000 millones en Bolsa en su peor semana desde la crisis financiera",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-23/carrefour-pierde-2000-millones-en-bolsa-en-su-peor-semana-desde-la-crisis-financiera.html",
-   "f": "2026-10-23T15:45:55Z",
-   "c": "empresas"
-  },
-  {
-   "t": "Telefónica e Indra estudian la creación de una filial conjunta para aprovechar el apetito de Europa por la soberanía tecnológica",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/empresas/2026/10/23/6adb7fa6e85ece2b228b45c8.html",
-   "f": "2026-10-23T15:39:23Z",
-   "c": "tecnologia"
   }
  ]
 }
