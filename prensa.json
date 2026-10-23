@@ -1,61 +1,61 @@
 {
- "actualizado": "2026-10-23T08:02:29Z",
+ "actualizado": "2026-10-23T08:59:47Z",
  "items": [
   {
-   "t": "Telefónica e IQM instalarán el primer ordenador cuántico de Madrid",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-23/telefonica-e-iqm-instalaran-el-primer-ordenador-cuantico-de-madrid.html",
-   "f": "2026-10-23T07:53:55Z",
-   "c": "empresas"
+   "t": "Las palabras de Feijóo sobre el salario mínimo agitan la campaña electoral",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-23/las-palabras-de-feijoo-sobre-el-salario-minimo-agitan-la-campana-electoral.html",
+   "f": "2026-10-23T08:53:53Z",
+   "c": "empleo"
   },
   {
-   "t": "Las pernoctaciones hoteleras en España superan los 40 millones en septiembre, un 1,7% más",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/noticia-pernoctaciones-hoteleras-espana-superan-40-millones-septiembre-17-mas-20261023093743.html",
-   "f": "2026-10-23T07:37:43Z",
+   "t": "El petróleo supera los 114 dólares con las Bolsas europeas navegando sin rumbo fijo",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-23/la-bolsa-y-el-ibex-35.html",
+   "f": "2026-10-23T08:46:15Z",
+   "c": "energia"
+  },
+  {
+   "t": "La estancia en hoteles alcanza un máximo de 172 millones de pernoctaciones entre junio y septiembre",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-23/la-estancia-en-hoteles-alcanza-un-maximo-de-172-millones-de-pernoctaciones-entre-junio-y-septiembre.html",
+   "f": "2026-10-23T08:43:43Z",
    "c": "transporte"
   },
   {
-   "t": "Contención en las Bolsas europeas por el repliegue de la tecnología y el alza del petróleo",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-23/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-10-23T07:32:29Z",
-   "c": "energia"
-  },
-  {
-   "t": "CCOO denuncia que el precio de la vivienda ha crecido 3,6 veces más rápido que los salarios desde 2013",
+   "t": "Feijóo dice que no sólo subirá el SMI, sino el sueldo medio, y que el SMI estará exento del IRPF por ley",
    "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/laboral-00346/noticia-ccoo-denuncia-precio-vivienda-crecido-36-veces-mas-rapido-salarios-2013-20261023092825.html",
-   "f": "2026-10-23T07:28:25Z",
-   "c": "vivienda"
-  },
-  {
-   "t": "Las dudas se mantienen en las bolsas europeas mientras el petróleo sigue al alza",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261023/11666168/bolsa-mercados-ibex-35-viernes-petroleo-iran.html",
-   "f": "2026-10-23T07:21:31Z",
-   "c": "energia"
-  },
-  {
-   "t": "El Ibex 35 abre con un alza del 0,4% y acecha los 19.000 puntos, con el petróleo a más de 114 dólares",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/bolsa-00348/noticia-ibex-35-abre-alza-04-acecha-19000-puntos-petroleo-mas-114-dolares-20261023091347.html",
-   "f": "2026-10-23T07:13:47Z",
-   "c": "energia"
+   "u": "https://www.europapress.es/economia/laboral-00346/noticia-feijoo-dice-no-solo-subira-smi-sueldo-medio-smi-estara-exento-irpf-ley-20261023104128.html",
+   "f": "2026-10-23T08:41:28Z",
+   "c": "empleo"
   },
   {
    "t": "Consumo ordena retirar 8.300 anuncios irregulares de alquiler de temporada, la mayoría en Madrid",
    "m": "El País",
    "u": "https://elpais.com/economia/vivienda/2026-10-23/consumo-ordena-retirar-8300-anuncios-irregulares-de-alquiler-de-temporada-la-mayoria-en-madrid.html",
-   "f": "2026-10-23T06:00:00Z",
+   "f": "2026-10-23T08:41:26Z",
    "c": "vivienda"
   },
   {
-   "t": "Consumo exige la retirada de 8.300 anuncios fraudulentos de pisos turísticos",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261023/11665779/consumo-exige-retirada-8-300-anuncios-fraudulentos-pisos-turisticos.html",
-   "f": "2026-10-23T06:00:00Z",
-   "c": "vivienda"
+   "t": "Self Bank oferta un nuevo depósito a tres meses con una rentabilidad del 3,05%",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/self-bank-oferta-un-nuevo-deposito-tres-meses-con-una-rentabilidad-3-05_7052477_0.html",
+   "f": "2026-10-23T08:31:57Z",
+   "c": "general"
+  },
+  {
+   "t": "Self Bank eleva su apuesta por el ahorro con un depósito a tres meses al 3,05% TAE",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-23/self-bank-eleva-su-apuesta-por-el-ahorro-con-un-deposito-a-tres-meses-al-305-tae.html",
+   "f": "2026-10-23T08:27:16Z",
+   "c": "general"
+  },
+  {
+   "t": "La Seguridad Social lo confirma: estos trabajadores podrán recuperar años para su jubilación a partir de Navidad",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/10/23/6adb1191e9cf4a427e8b458a.html",
+   "f": "2026-10-23T08:25:59Z",
+   "c": "pensiones"
   }
  ]
 }
