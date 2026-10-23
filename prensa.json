@@ -1,6 +1,48 @@
 {
- "actualizado": "2026-10-23T10:56:14Z",
+ "actualizado": "2026-10-23T11:56:45Z",
  "items": [
+  {
+   "t": "El precio de la vivienda en propiedad ha crecido casi cuatro veces más que los salarios en los últimos 13 años",
+   "m": "El País",
+   "u": "https://elpais.com/economia/vivienda/2026-10-23/el-precio-de-la-vivienda-en-propiedad-ha-crecido-casi-cuatro-veces-mas-que-los-salarios-en-los-ultimos-13-anos.html",
+   "f": "2026-10-23T11:22:02Z",
+   "c": "vivienda"
+  },
+  {
+   "t": "Mahou renueva su acuerdo de patrocinio con el Real Madrid hasta 2033",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-23/mahou-renueva-su-acuerdo-de-patrocinio-con-el-real-madrid-hasta-2033.html",
+   "f": "2026-10-23T11:20:18Z",
+   "c": "empresas"
+  },
+  {
+   "t": "El dueño de Gucci se desploma un 12% en la Bolsa de París tras publicar resultados",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/noticia-dueno-gucci-desploma-12-bolsa-paris-publicar-resultados-20261023131747.html",
+   "f": "2026-10-23T11:17:47Z",
+   "c": "empresas"
+  },
+  {
+   "t": "De Cos parte como favorito entre los economistas para suceder a Lagarde al frente del BCE",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/hernandez-cos-favorito-presidir-bce_7052603_0.html",
+   "f": "2026-10-23T11:12:17Z",
+   "c": "tipos"
+  },
+  {
+   "t": "El español Hernández de Cos, favorito entre los economistas para suceder a Lagarde en el BCE",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/10/23/6adb3e1721efa0675c8b45c2.html",
+   "f": "2026-10-23T11:06:11Z",
+   "c": "tipos"
+  },
+  {
+   "t": "Batacazo de Volvo: la firma sueca recortará 2.500 empleos tras registrar importantes pérdidas por la escasa demanda del mercado chino",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/empresas/volvo-2-500-despidos-perdidas-mercado-chino_7052600_0.html",
+   "f": "2026-10-23T11:01:51Z",
+   "c": "empleo"
+  },
   {
    "t": "Euríbor hoy, viernes 23 de octubre: la tasa diaria cierra la semana con una pequeña subida",
    "m": "El Mundo",
@@ -9,53 +51,11 @@
    "c": "tipos"
   },
   {
-   "t": "Volvo Car se desploma en bolsa un 30% tras anunciar el despido de 2.500 trabajadores y confirmar el desplome de sus ventas en China",
+   "t": "Volvo Cars se desploma en bolsa un 30% tras anunciar el despido de 2.500 trabajadores y confirmar la dominancia absoluta de China en su mercado",
    "m": "El Mundo",
    "u": "https://www.elmundo.es/economia/dinero-inversion/2026/10/23/6adb3a9ae9cf4a583f8b4596.html",
    "f": "2026-10-23T10:49:26Z",
    "c": "empleo"
-  },
-  {
-   "t": "Consumo ordena retirar 8.300 anuncios irregulares de alquiler de temporada, la mayoría en Madrid",
-   "m": "El País",
-   "u": "https://elpais.com/economia/vivienda/2026-10-23/consumo-ordena-retirar-8300-anuncios-irregulares-de-alquiler-de-temporada-la-mayoria-en-madrid.html",
-   "f": "2026-10-23T10:27:15Z",
-   "c": "vivienda"
-  },
-  {
-   "t": "El español Hernández de Cos, favorito entre los economistas para suceder a Lagarde en el BCE",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/finanzas-00340/noticia-espanol-hernandez-cos-favorito-economistas-suceder-lagarde-bce-20261023121941.html",
-   "f": "2026-10-23T10:19:41Z",
-   "c": "tipos"
-  },
-  {
-   "t": "Las pensiones no contributivas cambian a partir de hoy: así funciona el nuevo cálculo para acceder o conservar estas prestaciones",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/las-pensiones-no-contributivas-cambian-partir-hoy-asi-funciona-nuevo-calculo-para-acceder-conservar-estas-prestaciones_7052438_0.html",
-   "f": "2026-10-23T10:14:10Z",
-   "c": "pensiones"
-  },
-  {
-   "t": "El Ibex 35 cede un 0,4% en la media sesión y pierde los 18.900 puntos, con el crudo en más de 114 dólares",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/bolsa-00348/noticia-ibex-35-cede-04-media-sesion-pierde-18900-puntos-crudo-mas-114-dolares-20261023121401.html",
-   "f": "2026-10-23T10:14:01Z",
-   "c": "empresas"
-  },
-  {
-   "t": "Cuánto dinero cobra un vendedor de El Corte Inglés en 2026: sueldo medio en España y complementos mensuales",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/10/23/6adb2195fc6c8328368b4579.html",
-   "f": "2026-10-23T10:04:15Z",
-   "c": "empleo"
-  },
-  {
-   "t": "Kering cae con fuerza en Bolsa ante los malos datos de ventas de Gucci",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-23/kering-cae-con-fuerza-en-bolsa-ante-los-malos-datos-de-ventas-de-gucci.html",
-   "f": "2026-10-23T09:44:29Z",
-   "c": "empresas"
   }
  ]
 }
