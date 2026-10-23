@@ -1,6 +1,27 @@
 {
- "actualizado": "2026-10-23T21:55:08Z",
+ "actualizado": "2026-10-23T22:53:27Z",
  "items": [
+  {
+   "t": "La CEOE moviliza a todas sus patronales para vigilar la huelga general sin descartar acciones legales tras el 11-N",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/10/23/6adb4e95e4d4d802238b4595.html",
+   "f": "2026-10-23T21:59:18Z",
+   "c": "empleo"
+  },
+  {
+   "t": "Uber financiará la compra de Glovo al fondo estadounidense SSW Partners y complica el análisis de su OPA a las autoridades de competencia",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/empresas/2026/10/23/6adb410b21efa08f028b459c.html",
+   "f": "2026-10-23T21:59:17Z",
+   "c": "empresas"
+  },
+  {
+   "t": "El lujo crece entre viñas",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/empresas/2026/10/23/6ad10caefc6c837c488b45d0.html",
+   "f": "2026-10-23T21:59:16Z",
+   "c": "general"
+  },
   {
    "t": "Moody’s mantiene la calificación de la deuda soberana de Francia en medio de la crisis política y el malestar social",
    "m": "El País",
@@ -35,27 +56,6 @@
    "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-23/la-bolsa-y-el-ibex-35.html",
    "f": "2026-10-23T16:25:29Z",
    "c": "energia"
-  },
-  {
-   "t": "El Ibex 35 cede un 1,74% en una semana marcada por el alza del petróleo y de la deuda francesa",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/bolsa-00348/noticia-ibex-35-cede-174-semana-marcada-alza-petroleo-deuda-francesa-20261023180934.html",
-   "f": "2026-10-23T16:09:34Z",
-   "c": "energia"
-  },
-  {
-   "t": "La subida de precios en el turismo estanca la demanda nacional en verano",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261023/11666671/subida-precios-turismo-estanca-demanda-nacional-verano.html",
-   "f": "2026-10-23T16:04:53Z",
-   "c": "transporte"
-  },
-  {
-   "t": "Volkswagen y el sindicato IG Metall negociarán el ajuste en Alemania con la sombra de huelgas",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261023/11666637/volkswagen-sindicato-ig-metall-negociaran-ajuste-sombra-huelgas.html",
-   "f": "2026-10-23T15:53:48Z",
-   "c": "empleo"
   }
  ]
 }
