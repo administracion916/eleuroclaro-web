@@ -1,6 +1,20 @@
 {
- "actualizado": "2026-10-24T07:08:33Z",
+ "actualizado": "2026-10-24T08:55:34Z",
  "items": [
+  {
+   "t": "¿Puede España acabar como Francia? Las claves para entender la deuda, el déficit y el crecimiento",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/macroeconomia-00338/noticia-puede-espana-acabar-francia-claves-entender-deuda-deficit-crecimiento-20261024095949.html",
+   "f": "2026-10-24T07:59:49Z",
+   "c": "impuestos"
+  },
+  {
+   "t": "Santiago Niño Becerra, economista, sobre la vivienda en España: \"El problema nace el 2 de mayo de 1956\"",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/santiago-nino-becerra-economista-sobre-vivienda-espana-problema-mayo_7052864_0.html",
+   "f": "2026-10-24T07:57:52Z",
+   "c": "vivienda"
+  },
   {
    "t": "Moody's mantiene el 'rating' de Francia pese a la crisis de deuda pero pone condiciones en plena escalada de tensión en las calles",
    "m": "El Mundo",
@@ -23,13 +37,6 @@
    "c": "energia"
   },
   {
-   "t": "Cómo pedir el pago anticipado de la deducción por familia numerosa o monoparental",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/como-pedir-pago-anticipado-deduccion-familia-numerosa-monoparental_7045290_0.html",
-   "f": "2026-10-24T05:00:00Z",
-   "c": "general"
-  },
-  {
    "t": "España cierra la legislatura como el país de la UE con más directivas sin trasponer",
    "m": "La Vanguardia",
    "u": "https://www.lavanguardia.com/economia/20261024/11666750/espana-cierra-legislatura-pais-ue-mas-directivas-trasponer.html",
@@ -49,13 +56,6 @@
    "u": "https://www.lavanguardia.com/economia/20261024/11666715/francia-trabaja-poco.html",
    "f": "2026-10-24T04:00:00Z",
    "c": "general"
-  },
-  {
-   "t": "¿Dónde viven los caseros? Barrios de renta alta y zonas turísticas concentran a quienes declaran ingresos de alquiler",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-24/donde-viven-los-caseros-barrios-de-renta-alta-y-zonas-turisticas-concentran-a-quienes-declaran-ingresos-de-alquiler.html",
-   "f": "2026-10-24T03:45:01Z",
-   "c": "vivienda"
   }
  ]
 }
