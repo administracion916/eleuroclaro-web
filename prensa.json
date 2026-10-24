@@ -1,6 +1,27 @@
 {
- "actualizado": "2026-10-24T05:10:22Z",
+ "actualizado": "2026-10-24T07:08:33Z",
  "items": [
+  {
+   "t": "Moody's mantiene el 'rating' de Francia pese a la crisis de deuda pero pone condiciones en plena escalada de tensión en las calles",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/10/24/6adc547821efa0516d8b459e.html",
+   "f": "2026-10-24T06:57:11Z",
+   "c": "general"
+  },
+  {
+   "t": "Gonzalo Bernardos, economista, sobre el impacto de la IA en el trabajo: \"El que hace tareas administrativas ya se puede buscar otro trabajo\"",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/gonzalo-bernardos-economista-sobre-impacto-ia-trabajo-que-hace-tareas-administrativas-ya-se-puede-buscar-otro-trabajo_7052802_0.html",
+   "f": "2026-10-24T06:23:39Z",
+   "c": "tecnologia"
+  },
+  {
+   "t": "Pequeños gestos recomendados por expertos para ahorrar en la factura de la luz con el cambio de hora",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/pequenos-gestos-recomendados-por-expertos-para-ahorrar-factura-luz-con-cambio-hora_7051006_0.html",
+   "f": "2026-10-24T06:16:31Z",
+   "c": "energia"
+  },
   {
    "t": "Cómo pedir el pago anticipado de la deducción por familia numerosa o monoparental",
    "m": "20minutos",
@@ -35,27 +56,6 @@
    "u": "https://elpais.com/economia/2026-10-24/donde-viven-los-caseros-barrios-de-renta-alta-y-zonas-turisticas-concentran-a-quienes-declaran-ingresos-de-alquiler.html",
    "f": "2026-10-24T03:45:01Z",
    "c": "vivienda"
-  },
-  {
-   "t": "Cuando rejuvenecer las plantillas no es barato: las empresas se gastan 27.000 millones al año en reemplazar a los trabajadores séniors",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-24/cuando-rejuvenecer-las-plantillas-no-es-barato-las-empresas-se-gastan-27000-millones-al-ano-en-reemplazar-a-los-trabajadores-seniors.html",
-   "f": "2026-10-24T03:45:01Z",
-   "c": "empleo"
-  },
-  {
-   "t": "Hacia un BCE ¿aperturista o halcón?",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-24/hacia-un-bce-aperturista-o-halcon.html",
-   "f": "2026-10-24T03:45:01Z",
-   "c": "tipos"
-  },
-  {
-   "t": "Nueva política industrial",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/economia/2026-10-24/nueva-politica-industrial.html",
-   "f": "2026-10-24T03:45:01Z",
-   "c": "general"
   }
  ]
 }
