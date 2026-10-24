@@ -1,61 +1,61 @@
 {
- "actualizado": "2026-10-23T22:53:27Z",
+ "actualizado": "2026-10-24T05:10:22Z",
  "items": [
   {
-   "t": "La CEOE moviliza a todas sus patronales para vigilar la huelga general sin descartar acciones legales tras el 11-N",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/10/23/6adb4e95e4d4d802238b4595.html",
-   "f": "2026-10-23T21:59:18Z",
-   "c": "empleo"
-  },
-  {
-   "t": "Uber financiará la compra de Glovo al fondo estadounidense SSW Partners y complica el análisis de su OPA a las autoridades de competencia",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/empresas/2026/10/23/6adb410b21efa08f028b459c.html",
-   "f": "2026-10-23T21:59:17Z",
-   "c": "empresas"
-  },
-  {
-   "t": "El lujo crece entre viñas",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/empresas/2026/10/23/6ad10caefc6c837c488b45d0.html",
-   "f": "2026-10-23T21:59:16Z",
+   "t": "Cómo pedir el pago anticipado de la deducción por familia numerosa o monoparental",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/como-pedir-pago-anticipado-deduccion-familia-numerosa-monoparental_7045290_0.html",
+   "f": "2026-10-24T05:00:00Z",
    "c": "general"
   },
   {
-   "t": "Moody’s mantiene la calificación de la deuda soberana de Francia en medio de la crisis política y el malestar social",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-23/moodys-mantiene-la-calificacion-de-la-deuda-soberana-de-francia-en-medio-de-la-crisis-politica-y-el-malestar-social.html",
-   "f": "2026-10-23T21:18:25Z",
-   "c": "general"
+   "t": "España cierra la legislatura como el país de la UE con más directivas sin trasponer",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261024/11666750/espana-cierra-legislatura-pais-ue-mas-directivas-trasponer.html",
+   "f": "2026-10-24T04:00:00Z",
+   "c": "comercio"
   },
   {
-   "t": "Deutsche Telekom gana a Telefónica el megacontrato de 400 millones para la nube soberana de Cataluña",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-23/deutsche-telekom-arrebata-a-telefonica-el-megacontrato-de-400-millones-para-la-nube-soberana-de-cataluna.html",
-   "f": "2026-10-23T17:42:20Z",
-   "c": "empresas"
-  },
-  {
-   "t": "Los sindicatos amenazan a Volkswagen con “un conflicto laboral sin precedentes” si anula los convenios colectivos en Alemania",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-23/los-sindicatos-amenazan-a-volkswagen-con-un-conflicto-laboral-sin-precedentes-si-anula-los-convenios-colectivos-en-alemania.html",
-   "f": "2026-10-23T17:25:50Z",
-   "c": "empleo"
-  },
-  {
-   "t": "Los economistas ven a De Cos liderando la carrera para sustituir a Lagarde al frente del BCE",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-23/los-economistas-ven-a-de-cos-liderando-la-carrera-para-sustituir-a-lagarde-al-frente-del-bce.html",
-   "f": "2026-10-23T17:17:21Z",
+   "t": "Los bancos ultiman sus planes ante el BCE frente a la amenaza de la IA",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261024/11666716/bancos-ultiman-planes-bce-frente-amenaza-ia.html",
+   "f": "2026-10-24T04:00:00Z",
    "c": "tipos"
   },
   {
-   "t": "El petróleo y el temor a una burbuja de la IA dejan una semana de pérdidas en las Bolsas",
+   "t": "En Francia se trabaja poco",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261024/11666715/francia-trabaja-poco.html",
+   "f": "2026-10-24T04:00:00Z",
+   "c": "general"
+  },
+  {
+   "t": "¿Dónde viven los caseros? Barrios de renta alta y zonas turísticas concentran a quienes declaran ingresos de alquiler",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-24/donde-viven-los-caseros-barrios-de-renta-alta-y-zonas-turisticas-concentran-a-quienes-declaran-ingresos-de-alquiler.html",
+   "f": "2026-10-24T03:45:01Z",
+   "c": "vivienda"
+  },
+  {
+   "t": "Cuando rejuvenecer las plantillas no es barato: las empresas se gastan 27.000 millones al año en reemplazar a los trabajadores séniors",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-24/cuando-rejuvenecer-las-plantillas-no-es-barato-las-empresas-se-gastan-27000-millones-al-ano-en-reemplazar-a-los-trabajadores-seniors.html",
+   "f": "2026-10-24T03:45:01Z",
+   "c": "empleo"
+  },
+  {
+   "t": "Hacia un BCE ¿aperturista o halcón?",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-24/hacia-un-bce-aperturista-o-halcon.html",
+   "f": "2026-10-24T03:45:01Z",
+   "c": "tipos"
+  },
+  {
+   "t": "Nueva política industrial",
    "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-23/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-10-23T16:25:29Z",
-   "c": "energia"
+   "u": "https://cincodias.elpais.com/economia/2026-10-24/nueva-politica-industrial.html",
+   "f": "2026-10-24T03:45:01Z",
+   "c": "general"
   }
  ]
 }
