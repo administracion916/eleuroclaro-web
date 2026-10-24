@@ -1,6 +1,27 @@
 {
- "actualizado": "2026-10-24T17:48:32Z",
+ "actualizado": "2026-10-24T19:46:26Z",
  "items": [
+  {
+   "t": "Digitalizar con sentido común",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261024/11667350/digitalizar-sentido-comun.html",
+   "f": "2026-10-24T19:10:15Z",
+   "c": "tecnologia"
+  },
+  {
+   "t": "IA: del algoritmo al hormigón",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261024/11667345/ia-algoritmo-hormigon.html",
+   "f": "2026-10-24T19:09:57Z",
+   "c": "tecnologia"
+  },
+  {
+   "t": "Cuando la IA se pone de pie",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261024/11667335/ia-pone-pie.html",
+   "f": "2026-10-24T19:09:27Z",
+   "c": "tecnologia"
+  },
   {
    "t": "Los ‘milquini’, los nuevos mileuristas en la economía de 2026: “El ocio lo reducimos al mínimo”",
    "m": "El País",
@@ -34,27 +55,6 @@
    "m": "El Mundo",
    "u": "https://www.elmundo.es/economia/2026/10/24/6adc99a921efa0f1298b4572.html",
    "f": "2026-10-24T11:48:02Z",
-   "c": "transporte"
-  },
-  {
-   "t": "Miles de personas se manifiestan en Madrid en defensa del sistema de pensiones: “¡No se venden!”",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-24/miles-de-personas-se-manifiestan-en-madrid-en-defensa-del-sistema-de-pensiones-no-se-venden.html",
-   "f": "2026-10-24T11:09:15Z",
-   "c": "pensiones"
-  },
-  {
-   "t": "De Rolex a Louis Vuitton: las tiendas de lujo francesas tapian sus escaparates y refuerzan la seguridad ante las protestas",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/10/24/6adc8345e9cf4aaa048b4576.html",
-   "f": "2026-10-24T10:18:52Z",
-   "c": "general"
-  },
-  {
-   "t": "Las agencias de viajes piden que se exima de las mesas electorales a quienes tengan vacaciones contratadas",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/noticia-agencias-viajes-piden-exima-mesas-electorales-quienes-tengan-vacaciones-contratadas-20261024115950.html",
-   "f": "2026-10-24T09:59:50Z",
    "c": "transporte"
   }
  ]
