@@ -1,0 +1,121 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Despido: calcula tus 20 días hábiles para reclamar · El Euro Claro</title>
+<meta name="description" content="Si te despiden, tienes 20 días hábiles para reclamar. Pon la fecha del despido y te decimos el último día, sin contar sábados, domingos ni festivos nacionales. Con los pasos y las fuentes oficiales.">
+<meta name="theme-color" content="#0e2a47">
+<meta property="og:site_name" content="El Euro Claro">
+<meta property="og:title" content="Despido: ¿hasta qué día puedes reclamar?">
+<meta property="og:description" content="20 días hábiles. Pon la fecha y te decimos el último día.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://eleuroclaro.es/despido/">
+<meta property="og:locale" content="es_ES">
+<meta name="twitter:card" content="summary">
+<link rel="canonical" href="https://eleuroclaro.es/despido/">
+<!-- Página en una subcarpeta: todas las rutas son absolutas (empiezan por /). -->
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="stylesheet" href="/fonts.css">
+<link rel="stylesheet" href="/style.css?v=20261019c">
+</head>
+<body>
+
+<header class="top">
+  <div class="wrap">
+    <a class="brand" href="/" aria-label="El Euro Claro, inicio">
+      <img class="coin" src="/favicon.svg" alt="" width="40" height="40">
+      El Euro Claro
+    </a>
+    <nav class="nav" aria-label="Secciones">
+      <a class="nav-nl" href="/domingo/?src=web-cabecera"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><rect x="2.5" y="5" width="19" height="14" rx="2.5"/><path d="M3 6.5l9 6.5 9-6.5"/></svg>Newsletter gratis</a>
+      <a href="/#noticias">Noticias</a>
+      <a href="/#videos">Vídeos</a>
+      <a href="/inflacion/">Calculadora</a>
+      <a href="/#kit">Kit</a>
+      <a href="/recursos/">Recursos</a>
+      <a href="/empresas/">Empresas</a>
+      <a href="/libros/">Libros</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <section class="section page-head calc-head">
+    <div class="wrap">
+      <p class="eyebrow">Calculadora · Estatuto de los Trabajadores</p>
+      <h1>Despido: ¿hasta qué día <em>puedes reclamar</em>?</h1>
+      <p class="intro">Tienes <strong>20 días hábiles</strong> desde el día siguiente al despido. Si se pasan, ya no puedes. Pon la fecha en que te despidieron.</p>
+      <p class="small calc-privado">🔒 Tus datos no salen de tu móvil: el cálculo se hace aquí mismo y no guardamos nada.</p>
+      <form class="calc" id="calc" novalidate>
+        <label style="font-weight:700">Fecha del despido<br><small style="font-weight:400">La que pone la carta como fecha de efectos.</small>
+          <input style="display:block;width:100%;margin-top:.35rem;padding:.7rem .8rem;font-size:1.15rem;border:1px solid #c9d2de;border-radius:.5rem" type="date" id="fecha"></label>
+        <button class="btn btn-primary calc-boton" type="submit">Calcular</button>
+        <div id="res" aria-live="polite"></div>
+      </form>
+    </div>
+  </section>
+
+  <section class="section alt">
+    <div class="wrap prose">
+      <h2>Cómo se cuentan</h2>
+      <p>No cuentan los sábados, los domingos, los festivos ni los días 24 y 31 de diciembre. La calculadora quita los festivos nacionales; <strong>si en medio hay un festivo de tu comunidad o de tu pueblo, el plazo acaba un día más tarde por cada uno</strong>. Ante la duda, no apures: reclama antes.</p>
+
+      <h2>Qué hacer, en 3 pasos</h2>
+      <ol>
+        <li><strong>Firma la carta con «no conforme»</strong> y la fecha. Firmar solo dice que la has recibido.</li>
+        <li><strong>Presenta la papeleta de conciliación</strong> en el servicio de mediación de tu comunidad autónoma (en muchas se puede por internet). Al presentarla, el plazo se para.</li>
+        <li>Si en la conciliación no hay acuerdo, el siguiente paso es la <strong>demanda en el Juzgado de lo Social</strong>, y el plazo sigue corriendo desde donde se paró.</li>
+      </ol>
+      <p>Para que te ayuden gratis o casi: los sindicatos tienen asesoría laboral, y si tus ingresos son bajos puedes pedir abogado de oficio con justicia gratuita.</p>
+
+      <h2>Fuentes oficiales</h2>
+      <ul class="small">
+        <li>Estatuto de los Trabajadores, art. 59.3: 20 días hábiles para reclamar contra el despido.</li>
+        <li>Ley 36/2011, reguladora de la jurisdicción social, arts. 63, 65 y 103: conciliación previa, suspensión del plazo y demanda.</li>
+        <li>Ley Orgánica del Poder Judicial, art. 182: días inhábiles (sábados, domingos, 24 y 31 de diciembre y festivos).</li>
+      </ul>
+      <p>Cada domingo te contamos lo que cambia en tu bolsillo, gratis: <a href="/domingo/?src=despido">apúntate a la newsletter</a>. Y si sigues trabajando, mira <a href="/permisos/?src=despido">tus permisos pagados</a>.</p>
+      <p class="small note-legal">Contenido divulgativo: no es asesoramiento jurídico. Si te despiden, consulta tu caso con un profesional cuanto antes.</p>
+    </div>
+  </section>
+</main>
+
+<footer class="foot">
+  <div class="wrap">
+    <p class="lema">La economía de tu bolsillo, en euros claros.</p>
+    <nav aria-label="Legal">
+      <a href="/aviso-legal.html">Aviso legal</a>
+      <a href="/privacidad.html">Privacidad</a>
+      <a href="/cookies.html">Cookies</a>
+      <a href="/correcciones/">Correcciones</a>
+      <span>Contacto: <span class="mail">hola@eleuroclaro.es</span></span>
+    </nav>
+    <p class="disclaimer">El Euro Claro es un medio divulgativo. La información es general y no constituye asesoramiento financiero ni una recomendación de comprar o vender ningún producto. Algunos enlaces pueden ser de afiliado y se indica cuando lo son.</p>
+    <p>© 2026 El Euro Claro · Odana Ingeniería SL</p>
+  </div>
+</footer>
+<script>
+(function(){
+  // Festivos nacionales y 24/31 de diciembre (inhábiles). Los autonómicos y locales no están.
+  var fest={'2026-01-01':1,'2026-01-06':1,'2026-04-03':1,'2026-05-01':1,'2026-08-15':1,'2026-10-12':1,'2026-12-08':1,'2026-12-24':1,'2026-12-25':1,'2026-12-31':1,
+    '2027-01-01':1,'2027-01-06':1,'2027-03-26':1,'2027-10-12':1,'2027-11-01':1,'2027-12-06':1,'2027-12-08':1,'2027-12-24':1,'2027-12-31':1};
+  var f=document.getElementById('calc'), r=document.getElementById('res'), fe=document.getElementById('fecha');
+  var iso=function(d){return d.getFullYear()+'-'+String(d.getMonth()+1).padStart(2,'0')+'-'+String(d.getDate()).padStart(2,'0');};
+  fe.value=iso(new Date());
+  function calc(e){
+    if(e)e.preventDefault();
+    var p=fe.value.split('-'); if(p.length<3){r.textContent='Pon una fecha.';return;}
+    var d=new Date(+p[0],+p[1]-1,+p[2]), n=0, fuera=+p[0]<2026||+p[0]>2027;
+    while(n<20){d.setDate(d.getDate()+1); var w=d.getDay(); if(w!==0&&w!==6&&!fest[iso(d)])n++;}
+    var txt=d.toLocaleDateString('es-ES',{weekday:'long',day:'numeric',month:'long',year:'numeric'});
+    r.innerHTML='<p style="margin:.6rem 0 .2rem">Último día para presentar la papeleta:</p><p style="font-size:1.5rem;font-weight:800;margin:.1rem 0 .4rem">'+txt+'</p>'+
+      '<p class="small" style="margin:0">Suma un día por cada festivo de tu comunidad o tu pueblo que caiga en medio.'+(fuera?' Para fechas fuera de 2026 y 2027 no se quitan los festivos nacionales.':'')+'</p>';
+  }
+  f.addEventListener('submit',calc); calc();
+})();
+</script>
+<!-- Cloudflare Web Analytics --><script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "e81aecc33a6b40ccab86c1fbc9fa801c"}'></script><!-- End Cloudflare Web Analytics -->
+</body>
+</html>
