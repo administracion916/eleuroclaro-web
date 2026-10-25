@@ -1,12 +1,33 @@
 {
- "actualizado": "2026-10-25T11:51:20Z",
+ "actualizado": "2026-10-25T13:03:36Z",
  "items": [
   {
-   "t": "El campo español lleva los tractores a Madrid este miércoles ante los graves problemas que afronta sector",
+   "t": "Nvidia teje una red de alianzas estratégicas en banca, 'telecos' y automoción para impulsar su IA",
    "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/noticia-campo-espanol-lleva-tractores-madrid-miercoles-graves-problemas-afronta-sector-20261025122950.html",
-   "f": "2026-10-25T11:29:50Z",
-   "c": "general"
+   "u": "https://www.europapress.es/economia/noticia-nvidia-teje-red-alianzas-estrategicas-banca-telecos-automocion-impulsar-ia-20261025133004.html",
+   "f": "2026-10-25T12:30:04Z",
+   "c": "transporte"
+  },
+  {
+   "t": "Audi abrirá su primera fábrica en EE UU para esquivar los aranceles de Trump",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-25/audi-abrira-su-primera-fabrica-en-ee-uu-para-esquivar-los-aranceles-de-trump.html",
+   "f": "2026-10-25T11:48:21Z",
+   "c": "comercio"
+  },
+  {
+   "t": "Niño Becerra, economista, señala el error que afecta al sistema de pensiones: \"Bruselas ha dicho que no es sostenible\"",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/nino-becerra-economista-senala-error-que-afecta-sistema-pensiones-bruselas-ha-dicho-que-no-es-sostenible_7050058_0.html",
+   "f": "2026-10-25T11:27:22Z",
+   "c": "pensiones"
+  },
+  {
+   "t": "Grandes diferencias salariales: un peón del sector metalúrgico de Guipúzcoa cobra por hora un 30% más que un ingeniero de Cuenca",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/grandes-diferencias-salariales-un-peon-sector-metalurgico-guipuzcoa-cobra-por-hora-un-30-mas-que-un-ingeniero-cuenca_7053081_0.html",
+   "f": "2026-10-25T11:14:24Z",
+   "c": "empleo"
   },
   {
    "t": "Un peón del sector metalúrgico de Guipúzcoa cobra por hora un 30% más que un ingeniero de Cuenca",
@@ -35,27 +56,6 @@
    "u": "https://www.europapress.es/economia/laboral-00346/noticia-exencion-fiscal-subida-smi-pendiente-cambio-legal-diputacion-permanente-nuevo-congreso-20261025102649.html",
    "f": "2026-10-25T09:26:49Z",
    "c": "empleo"
-  },
-  {
-   "t": "Gonzalo Bernardos, economista, sobre las pensiones: \"Deberíamos retrasar la edad de jubilación\"",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/gonzalo-bernardos-economista-sobre-las-pensiones-deberiamos-retrasar-edad-jubilacion_7053045_0.html",
-   "f": "2026-10-25T08:41:04Z",
-   "c": "pensiones"
-  },
-  {
-   "t": "Audi invertirá 4.000 millones de dólares en su primera fábrica en EEUU tras el impacto de los aranceles de Trump",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/10/25/6addbbbafc6c83935c8b4583.html",
-   "f": "2026-10-25T08:35:58Z",
-   "c": "comercio"
-  },
-  {
-   "t": "El alza de la inflación ahuyenta a las empresas de la contratación pública",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261025/11667287/alza-inflacion-ahuyenta-empresas-contratacion-publica.html",
-   "f": "2026-10-25T05:00:00Z",
-   "c": "precios"
   }
  ]
 }
