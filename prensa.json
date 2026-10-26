@@ -1,61 +1,61 @@
 {
- "actualizado": "2026-10-26T07:21:23Z",
+ "actualizado": "2026-10-26T08:15:34Z",
  "items": [
   {
-   "t": "Moeve y Galp rompen las negociaciones para fusionar sus negocios en la Península",
+   "t": "El Ibex abre a la baja tras el resultado electoral en Brasil",
    "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-26/moeve-y-galp-rompen-las-negociaciones-para-fusionar-sus-negocios-en-la-peninsula.html",
-   "f": "2026-10-26T07:09:11Z",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-26/la-bolsa-y-el-ibex-35.html",
+   "f": "2026-10-26T08:12:02Z",
    "c": "empresas"
   },
   {
-   "t": "Moeve y Galp ponen fin a sus negociaciones para crear un 'campeón energético' ibérico",
+   "t": "La CNMC da luz verde a la compra de Contigo Energía por Iberdrola, que sumará una cartera de 100.000 clientes",
    "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/noticia-moeve-galp-ponen-fin-negociaciones-crear-campeon-energetico-iberico-20261026080629.html",
-   "f": "2026-10-26T07:06:29Z",
+   "u": "https://www.europapress.es/economia/energia-medio-ambiente-00183/noticia-cnmc-da-luz-verde-compra-contigo-energia-iberdrola-sumara-cartera-100000-clientes-20261026090706.html",
+   "f": "2026-10-26T08:07:06Z",
    "c": "energia"
   },
   {
-   "t": "Consumo abre expediente a una plataforma por no retirar anuncios de alojamientos en la Palestina ocupada",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/construccion-y-vivienda-00342/noticia-consumo-abre-expediente-plataforma-no-retirar-anuncios-alojamientos-palestina-ocupada-20261026080049.html",
-   "f": "2026-10-26T07:00:49Z",
-   "c": "general"
-  },
-  {
-   "t": "Las Bolsas europeas apuntan a ganancias con el petróleo a la baja",
+   "t": "Inveready levanta 20 millones en el cierre inicial de su primer fondo de búsqueda para ‘private equity’",
    "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-26/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-10-26T05:35:22Z",
+   "u": "https://cincodias.elpais.com/companias/2026-10-26/inveready-levanta-20-millones-en-el-cierre-inicial-de-su-primer-fondo-de-busqueda-para-private-equity.html",
+   "f": "2026-10-26T08:06:52Z",
+   "c": "empresas"
+  },
+  {
+   "t": "SpaceX cierra un acuerdo de 40.000 millones de dólares en deuda para adquirir chips para IA",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/noticia-spacex-cierra-acuerdo-40000-millones-dolares-deuda-adquirir-chips-ia-20261026090404.html",
+   "f": "2026-10-26T08:04:04Z",
+   "c": "tecnologia"
+  },
+  {
+   "t": "La compraventa de viviendas retoma los ascensos tras subir un 3,4% en agosto, con 49.319 operaciones",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/construccion-y-vivienda-00342/noticia-compraventa-viviendas-retoma-ascensos-subir-34-agosto-49319-operaciones-20261026090110.html",
+   "f": "2026-10-26T08:01:10Z",
+   "c": "vivienda"
+  },
+  {
+   "t": "Dia eleva sus ventas un 12% hasta septiembre y acelera las aperturas en España",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-26/dia-eleva-sus-ventas-un-12-hasta-septiembre-y-acelera-las-aperturas-en-espana.html",
+   "f": "2026-10-26T07:56:31Z",
+   "c": "empresas"
+  },
+  {
+   "t": "Moeve y Galp rompen negociaciones y frustran la creación de un 'gigante energético' ibérico",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/empresas/moeve-galp-rompen-negociaciones-frustran-creacion-un-gigante-energetico-iberico_7053257_0.html",
+   "f": "2026-10-26T07:31:59Z",
    "c": "energia"
   },
   {
-   "t": "La IA ya empieza a afectar al empleo en las actividades más expuestas",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261026/11667750/ia-empieza-afectar-empleo-actividades-mas-expuestas.html",
-   "f": "2026-10-26T05:00:00Z",
-   "c": "empleo"
-  },
-  {
-   "t": "Sabadell crea un nuevo consejo “territorial” en Catalunya // Chips avanzados de Nvidia para la gigafactoría de Móra",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261026/11667741/sabadell-nuevo-consejo-territorial-catalunya-chips-avanzados-nvidia-gigafactoria-mora.html",
-   "f": "2026-10-26T05:00:00Z",
-   "c": "bancos"
-  },
-  {
-   "t": "La falta de buques encarece el transporte del petróleo a máximos históricos",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261026/11667730/falta-buques-encarece-transporte-petroleo-maximos-historicos.html",
-   "f": "2026-10-26T05:00:00Z",
-   "c": "energia"
-  },
-  {
-   "t": "Las pensiones privadas se estancan pese al debate sobre la sostenibilidad del sistema público",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-26/las-pensiones-privadas-se-estancan-pese-al-debate-sobre-la-sostenibilidad-del-sistema-publico.html",
-   "f": "2026-10-26T04:45:01Z",
-   "c": "pensiones"
+   "t": "Las petroleras Moeve y Galp cancelan su fusión tras nueve meses de negociaciones",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/empresas/2026/10/26/6adefecfe85ece8b078b45aa.html",
+   "f": "2026-10-26T07:21:27Z",
+   "c": "empresas"
   }
  ]
 }
