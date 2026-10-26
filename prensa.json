@@ -1,6 +1,48 @@
 {
- "actualizado": "2026-10-26T09:09:06Z",
+ "actualizado": "2026-10-26T10:08:29Z",
  "items": [
+  {
+   "t": "Díaz asegura que la victoria de Lula \"es una victoria de los trabajadores de Brasil y del mundo entero\"",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/laboral-00346/noticia-diaz-asegura-victoria-lula-victoria-trabajadores-brasil-mundo-entero-20261026104738.html",
+   "f": "2026-10-26T09:47:38Z",
+   "c": "empleo"
+  },
+  {
+   "t": "El 'efecto Brasil' castiga a Telefónica y Santander en bolsa y arrastra al Ibex 35",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/mercados-y-bolsa/efecto-brasil-castiga-telefonica-santander-bolsa-que-arrastran-ibex-35_7053316_0.html",
+   "f": "2026-10-26T09:30:20Z",
+   "c": "bancos"
+  },
+  {
+   "t": "Riyadh Air, la \"mayor empresa emergente de aviación moderna\": financiación saudí, retrasos y los efectos de una guerra",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/10/26/6adf1cbde85ece5b178b457f.html",
+   "f": "2026-10-26T09:26:26Z",
+   "c": "comercio"
+  },
+  {
+   "t": "Telefónica y Santander se desploman en Bolsa tras la victoria electoral de Lula da Silva en Brasil",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/bolsa-00348/noticia-telefonica-santander-desploman-bolsa-victoria-electoral-lula-da-silva-brasil-20261026101559.html",
+   "f": "2026-10-26T09:15:59Z",
+   "c": "bancos"
+  },
+  {
+   "t": "Saiz confirma que el Gobierno subirá el SMI en 2027 y mantendrá su exención en el IRPF",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/laboral-00346/noticia-saiz-confirma-gobierno-subira-smi-2027-mantendra-exencion-irpf-20261026100909.html",
+   "f": "2026-10-26T09:09:09Z",
+   "c": "empleo"
+  },
+  {
+   "t": "Las marcas chinas de coches desbancan a las japonesas por primera vez en Europa",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261026/11668059/china-marca-coches-matriculaciones-europa.html",
+   "f": "2026-10-26T08:43:54Z",
+   "c": "transporte"
+  },
   {
    "t": "La victoria de Lula en Brasil resuena en el Ibex con fuertes caídas del Santander y Telefónica",
    "m": "Cinco Días",
@@ -14,48 +56,6 @@
    "u": "https://elpais.com/economia/vivienda/2026-10-26/la-compra-de-vivienda-vuelve-a-crecer-en-agosto-pero-acumula-una-caida-anual-del-23.html",
    "f": "2026-10-26T08:30:57Z",
    "c": "vivienda"
-  },
-  {
-   "t": "Saiz descarta ampliar el periodo de cálculo de la pensión o los años cotizados para cobrarla",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/laboral-00346/noticia-saiz-descarta-ampliar-periodo-calculo-pension-anos-cotizados-cobrarla-20261026092738.html",
-   "f": "2026-10-26T08:27:38Z",
-   "c": "pensiones"
-  },
-  {
-   "t": "Seat se reúne con Aggity para explorar colaboraciones en la industria de defensa",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261026/11668063/seat-reune-aggity-explorar-colaboraciones-industria-defensa.html",
-   "f": "2026-10-26T08:26:44Z",
-   "c": "general"
-  },
-  {
-   "t": "El Ibex 35 cae un 0,9% en la apertura, hasta los 18.815 puntos, con el petróleo bajando a 115 dólares",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/bolsa-00348/noticia-ibex-35-cae-09-apertura-18815-puntos-petroleo-bajando-115-dolares-20261026092343.html",
-   "f": "2026-10-26T08:23:43Z",
-   "c": "energia"
-  },
-  {
-   "t": "Elma Saiz asegura que el Gobierno aprobará otra deducción para que el salario mínimo no tribute en el IRPF",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-26/elma-saiz-asegura-que-el-gobierno-aprobara-otra-deduccion-para-que-el-salario-minimo-no-tribute-en-el-irpf.html",
-   "f": "2026-10-26T08:23:18Z",
-   "c": "empleo"
-  },
-  {
-   "t": "Telefónica se desploma un 7% en la bolsa tras la victoria de Lula en Brasil y Santander pierde un 4%",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/dinero-inversion/2026/10/26/6adf0b5bfdddff98418b458f.html",
-   "f": "2026-10-26T08:17:42Z",
-   "c": "bancos"
-  },
-  {
-   "t": "La CNMC da luz verde a la compra de Contigo Energía por Iberdrola, que sumará una cartera de 100.000 clientes",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/energia-medio-ambiente-00183/noticia-cnmc-da-luz-verde-compra-contigo-energia-iberdrola-sumara-cartera-100000-clientes-20261026090706.html",
-   "f": "2026-10-26T08:07:06Z",
-   "c": "energia"
   }
  ]
 }
