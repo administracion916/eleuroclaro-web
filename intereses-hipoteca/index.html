@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>¿Cuánto de tu cuota de hipoteca son intereses? Calculadora · El Euro Claro</title>
+<meta name="description" content="Pon lo que debes, tu tipo de interés y los años que te quedan: te decimos tu cuota, cuánto son intereses este mes, cuánta deuda bajas y cuántos intereses pagas en 12 meses.">
+<meta name="theme-color" content="#0e2a47">
+<meta property="og:site_name" content="El Euro Claro">
+<meta property="og:title" content="¿Cuánto de tu cuota de hipoteca son intereses?">
+<meta property="og:description" content="Calculadora gratis: intereses y deuda que bajas, mes a mes.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://eleuroclaro.es/intereses-hipoteca/">
+<meta property="og:locale" content="es_ES">
+<meta name="twitter:card" content="summary">
+<link rel="canonical" href="https://eleuroclaro.es/intereses-hipoteca/">
+<!-- Página en una subcarpeta: todas las rutas son absolutas (empiezan por /). -->
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="stylesheet" href="/fonts.css">
+<link rel="stylesheet" href="/style.css?v=20261019c">
+</head>
+<body>
+
+<header class="top">
+  <div class="wrap">
+    <a class="brand" href="/" aria-label="El Euro Claro, inicio">
+      <img class="coin" src="/favicon.svg" alt="" width="40" height="40">
+      El Euro Claro
+    </a>
+    <nav class="nav" aria-label="Secciones">
+      <a class="nav-nl" href="/domingo/?src=web-cabecera"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><rect x="2.5" y="5" width="19" height="14" rx="2.5"/><path d="M3 6.5l9 6.5 9-6.5"/></svg>Newsletter gratis</a>
+      <a href="/#noticias">Noticias</a>
+      <a href="/#videos">Vídeos</a>
+      <a href="/inflacion/">Calculadora</a>
+      <a href="/#kit">Kit</a>
+      <a href="/recursos/">Recursos</a>
+      <a href="/empresas/">Empresas</a>
+      <a href="/libros/">Libros</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <section class="section page-head calc-head">
+    <div class="wrap">
+      <p class="eyebrow">Calculadora · tu recibo de hipoteca</p>
+      <h1>¿Cuánto de tu cuota <em>son intereses</em>?</h1>
+      <p class="intro">Al principio de una hipoteca, la mayor parte de lo que pagas cada mes son intereses y tu deuda baja poco. Mira cuánto en tu caso.</p>
+      <p class="small calc-privado">🔒 Tus cifras no salen de tu móvil: el cálculo se hace aquí mismo y no guardamos nada.</p>
+      <form class="calc" id="calc" novalidate>
+        <label style="font-weight:700">Lo que te queda por pagar (€)<br><small style="font-weight:400">En tu recibo: «capital pendiente».</small>
+          <input style="display:block;width:100%;margin-top:.35rem;padding:.7rem .8rem;font-size:1.15rem;border:1px solid #c9d2de;border-radius:.5rem" type="number" id="deuda" inputmode="decimal" min="0" step="100" value="150000"></label>
+        <label style="font-weight:700">Tu tipo de interés (%)<br><small style="font-weight:400">Si es variable: Euríbor + diferencial. En el ejemplo, 3,247 + 1.</small>
+          <input style="display:block;width:100%;margin-top:.35rem;padding:.7rem .8rem;font-size:1.15rem;border:1px solid #c9d2de;border-radius:.5rem" type="number" id="tipo" inputmode="decimal" min="0" max="20" step="0.001" value="4.247"></label>
+        <label style="font-weight:700">Años que te quedan
+          <input style="display:block;width:100%;margin-top:.35rem;padding:.7rem .8rem;font-size:1.15rem;border:1px solid #c9d2de;border-radius:.5rem" type="number" id="anos" inputmode="numeric" min="1" max="40" step="1" value="25"></label>
+        <button class="btn btn-primary calc-boton" type="submit">Calcular</button>
+        <div id="res" aria-live="polite"></div>
+      </form>
+    </div>
+  </section>
+
+  <section class="section alt">
+    <div class="wrap prose">
+      <h2>Por qué pasa</h2>
+      <p>Cada mes, el banco te cobra intereses sobre lo que todavía debes. Al principio debes mucho, así que los intereses se comen casi toda la cuota. Con los años la deuda baja, los intereses también y cada vez más parte de la cuota va a devolver el préstamo.</p>
+      <p>Es un cálculo con cuota fija (sistema francés), el más habitual en España. Si tu hipoteca es variable, la cuota cambia en cada revisión. Tu recibo manda: si no coincide, mira tu tipo y la fecha de revisión.</p>
+      <p>¿Quieres entender cada línea del recibo? <a href="/hipoteca/?src=intereses-hipoteca">Descarga gratis la guía «Cómo leer tu recibo de hipoteca»</a>. Y el último Euríbor oficial, en <a href="/euribor/?src=intereses-hipoteca">Euríbor hoy</a>.</p>
+
+      <h2>Fuentes</h2>
+      <ul class="small">
+        <li>Banco de España: Euríbor a 12 meses de septiembre de 2026, 3,247 %.</li>
+        <li>Cuota con el sistema francés: cálculo propio. El diferencial del ejemplo no es una oferta.</li>
+      </ul>
+      <p>Cada domingo te contamos lo que cambia en tu bolsillo, gratis: <a href="/domingo/?src=intereses-hipoteca">apúntate a la newsletter</a>.</p>
+      <p class="small note-legal">Contenido divulgativo: no es asesoramiento financiero.</p>
+    </div>
+  </section>
+</main>
+
+<footer class="foot">
+  <div class="wrap">
+    <p class="lema">La economía de tu bolsillo, en euros claros.</p>
+    <nav aria-label="Legal">
+      <a href="/aviso-legal.html">Aviso legal</a>
+      <a href="/privacidad.html">Privacidad</a>
+      <a href="/cookies.html">Cookies</a>
+      <a href="/correcciones/">Correcciones</a>
+      <span>Contacto: <span class="mail">hola@eleuroclaro.es</span></span>
+    </nav>
+    <p class="disclaimer">El Euro Claro es un medio divulgativo. La información es general y no constituye asesoramiento financiero ni una recomendación de comprar o vender ningún producto. Algunos enlaces pueden ser de afiliado y se indica cuando lo son.</p>
+    <p>© 2026 El Euro Claro · Odana Ingeniería SL</p>
+  </div>
+</footer>
+<script>
+(function(){
+  var f=document.getElementById('calc'), r=document.getElementById('res');
+  var eur=function(x){return String(Math.round(x)).replace(/\B(?=(\d{3})+(?!\d))/g,'.')+' €';};
+  function calc(e){
+    if(e)e.preventDefault();
+    var P=parseFloat(document.getElementById('deuda').value)||0, t=parseFloat(String(document.getElementById('tipo').value).replace(',','.'))||0, n=Math.round((parseFloat(document.getElementById('anos').value)||0)*12);
+    if(P<=0||n<=0){r.textContent='Pon lo que debes y los años que te quedan.';return;}
+    var i=t/1200, c=i>0?P*i/(1-Math.pow(1+i,-n)):P/n, b=P, I=0;
+    for(var m=0;m<Math.min(12,n);m++){var it=b*i;I+=it;b-=c-it;}
+    var i1=P*i, k1=c-i1;
+    r.innerHTML='<p style="margin:.6rem 0 .2rem">Tu cuota: <strong style="font-size:1.4rem">'+eur(c)+' al mes</strong></p>'+
+      '<ul style="margin:.2rem 0 .6rem;padding-left:1.1rem">'+
+      '<li>Este mes, intereses: <strong>'+eur(i1)+'</strong> ('+Math.round(i1/c*100)+' % de la cuota)</li>'+
+      '<li>Este mes, deuda que bajas: <strong>'+eur(k1)+'</strong></li>'+
+      '<li>En los próximos 12 meses: <strong>'+eur(I)+'</strong> de intereses y tu deuda baja <strong>'+eur(P-b)+'</strong></li>'+
+      '<li>Hasta el final, en intereses: <strong>'+eur(c*n-P)+'</strong></li></ul>';
+  }
+  f.addEventListener('submit',calc); calc();
+})();
+</script>
+<!-- Cloudflare Web Analytics --><script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "e81aecc33a6b40ccab86c1fbc9fa801c"}'></script><!-- End Cloudflare Web Analytics -->
+</body>
+</html>
