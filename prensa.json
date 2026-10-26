@@ -1,61 +1,61 @@
 {
- "actualizado": "2026-10-26T13:42:18Z",
+ "actualizado": "2026-10-26T15:49:14Z",
  "items": [
   {
-   "t": "Huelga general del 11 de noviembre: qué pueden hacer las empresas y qué no está permitido",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/noticia-huelga-general-11-noviembre-pueden-hacer-empresas-no-permitido-20261026143509.html",
-   "f": "2026-10-26T13:35:09Z",
-   "c": "empleo"
-  },
-  {
-   "t": "El Ibex cotiza en tablas pese a los fuertes recortes del Santander y Telefónica",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-26/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-10-26T13:32:19Z",
-   "c": "bancos"
-  },
-  {
-   "t": "Tubos Reunidos baraja un ERE para una planta con 60 trabajadores",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-26/tubos-reunidos-baraja-un-ere-para-una-planta-con-60-trabajadores.html",
-   "f": "2026-10-26T13:31:54Z",
-   "c": "empleo"
-  },
-  {
-   "t": "Anthropic registra el folleto para protagonizar una de las mayores salidas a Bolsa de la historia",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-26/anthropic-registra-el-folleto-para-protagonizar-una-de-las-mayores-salidas-a-bolsa-de-la-historia.html",
-   "f": "2026-10-26T13:27:35Z",
-   "c": "empresas"
-  },
-  {
-   "t": "Iberdrola baraja la venta de su negocio en Polonia por hasta 400 millones",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-26/iberdrola-baraja-la-venta-de-su-negocio-en-polonia-por-hasta-400-millones.html",
-   "f": "2026-10-26T13:15:04Z",
-   "c": "empresas"
-  },
-  {
-   "t": "Críticas al grupo Volkswagen por la participación del presidente de Audi en la campaña de Trump",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-26/criticas-al-grupo-volkswagen-por-la-participacion-del-presidente-de-audi-en-la-campana-de-trump.html",
-   "f": "2026-10-26T13:10:20Z",
-   "c": "comercio"
-  },
-  {
-   "t": "El real brasileño registra su peor sesión en más de tres décadas tras la inesperada victoria de Lula",
+   "t": "Los mercados brasileños viven su peor sesión en casi tres décadas tras la inesperada victoria de Lula",
    "m": "El País",
    "u": "https://elpais.com/economia/2026-10-26/los-mercados-brasilenos-afrontan-una-caida-historica-tras-la-inesperada-victoria-de-lula.html",
-   "f": "2026-10-26T13:08:52Z",
+   "f": "2026-10-26T15:33:49Z",
    "c": "general"
   },
   {
-   "t": "Meta se lanza a captar inversiones de 85.000 millones de dólares para financiar su gasto en IA",
+   "t": "Anthropic formaliza su inminente debut bursátil: cotizará en el Nasdaq como ANT y reconoce que riesgos catastróficos de la IA podrían dañar a la empresa",
    "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/empresas/2026/10/26/6adf4d8ee9cf4aed668b4578.html",
-   "f": "2026-10-26T13:03:52Z",
+   "u": "https://www.elmundo.es/economia/empresas/2026/10/26/6adf66d7e4d4d896318b4596.html",
+   "f": "2026-10-26T15:24:06Z",
    "c": "tecnologia"
+  },
+  {
+   "t": "Meta busca obtener hasta 95.000 millones de dólares para seguir financiando la carrera por la IA",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-26/meta-busca-obtener-hasta-95000-millones-de-dolares-para-seguir-financiando-la-carrera-por-la-ia.html",
+   "f": "2026-10-26T15:02:51Z",
+   "c": "tecnologia"
+  },
+  {
+   "t": "Tras una victoria espectacular, Lula afrontará una profunda resaca política",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/financial-times/2026/10/26/victoria-espectacular-lula-afrontara-profunda-resaca-politica.html",
+   "f": "2026-10-26T14:55:21Z",
+   "c": "general"
+  },
+  {
+   "t": "Precio del aceite de oliva virgen extra desde hoy, lunes, 26 de octubre de 2026, en los supermercados: cuánto cuesta en Mercadona, Carrefour o Alcampo",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/10/26/6adf03e6e9cf4ab36f8b4571.html",
+   "f": "2026-10-26T14:47:28Z",
+   "c": "precios"
+  },
+  {
+   "t": "Bruselas acepta el plan de Temu para frenar la venta de productos ilegales en su plataforma",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-26/bruselas-acepta-el-plan-de-temu-para-frenar-la-venta-productos-ilegales-en-su-plataforma.html",
+   "f": "2026-10-26T14:40:25Z",
+   "c": "comercio"
+  },
+  {
+   "t": "Anthropic formaliza su inminente debut bursátil ante la SEC: cotizará en el Nasdaq bajo el nombre ANT",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/noticia-anthropic-formaliza-inminente-debut-bursatil-sec-cotizara-nasdaq-nombre-ant-20261026153141.html",
+   "f": "2026-10-26T14:31:41Z",
+   "c": "empresas"
+  },
+  {
+   "t": "Cuándo empieza el Black Friday 2026 en España: la fecha oficial y las tiendas que amplían los días con descuentos",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/consumo/cuando-empieza-black-friday-espana-fecha-oficial-las-tiendas-que-amplian-los-dias-con-descuentos_7053530_0.html",
+   "f": "2026-10-26T14:11:59Z",
+   "c": "general"
   }
  ]
 }
