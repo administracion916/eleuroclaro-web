@@ -1,6 +1,20 @@
 {
- "actualizado": "2026-10-26T21:00:00Z",
+ "actualizado": "2026-10-26T22:58:59Z",
  "items": [
+  {
+   "t": "El Gobierno da cinco años a los centros de datos para cumplir con las exigencias más duras",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-26/el-gobierno-da-cinco-anos-a-los-centros-de-datos-para-cumplir-con-las-exigencias-mas-duras.html",
+   "f": "2026-10-26T22:00:00Z",
+   "c": "general"
+  },
+  {
+   "t": "El Gobierno rebaja los requisitos para instalar nuevos centros de datos",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261026/11666800/gobierno-rebaja-requisitos-instalar-nuevos-centros-datos.html",
+   "f": "2026-10-26T22:00:00Z",
+   "c": "general"
+  },
   {
    "t": "Los mercados brasileños viven una de las peores sesiones en casi tres décadas tras la inesperada victoria de Lula",
    "m": "El País",
@@ -37,25 +51,11 @@
    "c": "empleo"
   },
   {
-   "t": "Temu recula y acepta las medidas de Bruselas para reducir la venta de productos ilegales",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261026/11668655/temu-recula-acepta-medidas-bruselas-reducir-venta-productos-ilegales.html",
-   "f": "2026-10-26T18:34:23Z",
-   "c": "comercio"
-  },
-  {
    "t": "El jefe de Audi incendia Alemania al hacer campaña con Trump con la promesa de una fábrica",
    "m": "El Mundo",
    "u": "https://www.elmundo.es/economia/2026/10/26/6adf9a44fdddff1d4c8b4589.html",
    "f": "2026-10-26T18:28:18Z",
    "c": "comercio"
-  },
-  {
-   "t": "Inmocemento presta 320 millones a su filial Realia para cancelar un préstamo de 2017",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-26/inmocemento-presta-320-millones-a-su-filial-realia-para-cancelar-un-prestamo-de-2017.html",
-   "f": "2026-10-26T18:16:16Z",
-   "c": "bancos"
   }
  ]
 }
