@@ -1,6 +1,27 @@
 {
- "actualizado": "2026-10-26T05:59:08Z",
+ "actualizado": "2026-10-26T07:21:23Z",
  "items": [
+  {
+   "t": "Moeve y Galp rompen las negociaciones para fusionar sus negocios en la Península",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-26/moeve-y-galp-rompen-las-negociaciones-para-fusionar-sus-negocios-en-la-peninsula.html",
+   "f": "2026-10-26T07:09:11Z",
+   "c": "empresas"
+  },
+  {
+   "t": "Moeve y Galp ponen fin a sus negociaciones para crear un 'campeón energético' ibérico",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/noticia-moeve-galp-ponen-fin-negociaciones-crear-campeon-energetico-iberico-20261026080629.html",
+   "f": "2026-10-26T07:06:29Z",
+   "c": "energia"
+  },
+  {
+   "t": "Consumo abre expediente a una plataforma por no retirar anuncios de alojamientos en la Palestina ocupada",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/construccion-y-vivienda-00342/noticia-consumo-abre-expediente-plataforma-no-retirar-anuncios-alojamientos-palestina-ocupada-20261026080049.html",
+   "f": "2026-10-26T07:00:49Z",
+   "c": "general"
+  },
   {
    "t": "Las Bolsas europeas apuntan a ganancias con el petróleo a la baja",
    "m": "Cinco Días",
@@ -30,32 +51,11 @@
    "c": "energia"
   },
   {
-   "t": "La política se cuela en las reuniones de los banqueros centrales en pleno repunte inflacionista",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-26/la-politica-se-cuela-en-las-reuniones-de-los-banqueros-centrales-en-pleno-repunte-inflacionista.html",
-   "f": "2026-10-26T04:45:01Z",
-   "c": "precios"
-  },
-  {
    "t": "Las pensiones privadas se estancan pese al debate sobre la sostenibilidad del sistema público",
    "m": "El País",
    "u": "https://elpais.com/economia/2026-10-26/las-pensiones-privadas-se-estancan-pese-al-debate-sobre-la-sostenibilidad-del-sistema-publico.html",
    "f": "2026-10-26T04:45:01Z",
    "c": "pensiones"
-  },
-  {
-   "t": "Audi trasladará a su futura planta en EE UU toda la producción europea de grandes todocaminos",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-26/audi-trasladara-a-su-futura-planta-en-ee-uu-toda-la-produccion-europea-de-grandes-todocaminos.html",
-   "f": "2026-10-26T04:45:01Z",
-   "c": "general"
-  },
-  {
-   "t": "La CNMC encarga un informe a REE para decidir quién paga el “elevado” coste de la operativa antiapagones",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-26/la-cnmc-encarga-un-informe-a-ree-para-decidir-quien-paga-el-elevado-coste-de-la-operativa-antiapagones.html",
-   "f": "2026-10-26T04:15:00Z",
-   "c": "energia"
   }
  ]
 }
