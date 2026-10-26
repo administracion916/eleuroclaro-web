@@ -1,6 +1,34 @@
 {
- "actualizado": "2026-10-26T10:08:29Z",
+ "actualizado": "2026-10-26T11:03:45Z",
  "items": [
+  {
+   "t": "La morosidad de la banca española rompe con tres meses a la baja pero sigue en mínimos de 2008",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/morosidad-banca-rompe-tres-meses-baja-minimos_7053341_0.html",
+   "f": "2026-10-26T10:50:01Z",
+   "c": "bancos"
+  },
+  {
+   "t": "Catalunya necesita más de 50.000 millones en infraestructuras en la próxima década",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261026/11668165/catalunya-necesita-mas-50-000-millones-infraestructuras-proxima-decada.html",
+   "f": "2026-10-26T10:13:06Z",
+   "c": "general"
+  },
+  {
+   "t": "Óscar Puente cifra en 1.800 millones anuales el mantenimiento de la red ferroviaria, el problema \"más urgente y acuciante\" de su ministerio",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/10/26/6adf1616fc6c83253e8b4590.html",
+   "f": "2026-10-26T10:10:54Z",
+   "c": "general"
+  },
+  {
+   "t": "El Gobierno fija los servicios mínimos de Renfe en la huelga de maquinistas de este jueves",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/transportes-00343/noticia-gobierno-fija-servicios-minimos-renfe-huelga-maquinistas-jueves-20261026104850.html",
+   "f": "2026-10-26T09:48:50Z",
+   "c": "transporte"
+  },
   {
    "t": "Díaz asegura que la victoria de Lula \"es una victoria de los trabajadores de Brasil y del mundo entero\"",
    "m": "Europa Press",
@@ -28,34 +56,6 @@
    "u": "https://www.europapress.es/economia/bolsa-00348/noticia-telefonica-santander-desploman-bolsa-victoria-electoral-lula-da-silva-brasil-20261026101559.html",
    "f": "2026-10-26T09:15:59Z",
    "c": "bancos"
-  },
-  {
-   "t": "Saiz confirma que el Gobierno subirá el SMI en 2027 y mantendrá su exención en el IRPF",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/laboral-00346/noticia-saiz-confirma-gobierno-subira-smi-2027-mantendra-exencion-irpf-20261026100909.html",
-   "f": "2026-10-26T09:09:09Z",
-   "c": "empleo"
-  },
-  {
-   "t": "Las marcas chinas de coches desbancan a las japonesas por primera vez en Europa",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261026/11668059/china-marca-coches-matriculaciones-europa.html",
-   "f": "2026-10-26T08:43:54Z",
-   "c": "transporte"
-  },
-  {
-   "t": "La victoria de Lula en Brasil resuena en el Ibex con fuertes caídas del Santander y Telefónica",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-26/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-10-26T08:31:45Z",
-   "c": "bancos"
-  },
-  {
-   "t": "La compra de vivienda vuelve a crecer en agosto, pero acumula una caída anual del 2,3%",
-   "m": "El País",
-   "u": "https://elpais.com/economia/vivienda/2026-10-26/la-compra-de-vivienda-vuelve-a-crecer-en-agosto-pero-acumula-una-caida-anual-del-23.html",
-   "f": "2026-10-26T08:30:57Z",
-   "c": "vivienda"
   }
  ]
 }
