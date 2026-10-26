@@ -1,12 +1,54 @@
 {
- "actualizado": "2026-10-26T08:15:34Z",
+ "actualizado": "2026-10-26T09:09:06Z",
  "items": [
   {
-   "t": "El Ibex abre a la baja tras el resultado electoral en Brasil",
+   "t": "La victoria de Lula en Brasil resuena en el Ibex con fuertes caídas del Santander y Telefónica",
    "m": "Cinco Días",
    "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-26/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-10-26T08:12:02Z",
-   "c": "empresas"
+   "f": "2026-10-26T08:31:45Z",
+   "c": "bancos"
+  },
+  {
+   "t": "La compra de vivienda vuelve a crecer en agosto, pero acumula una caída anual del 2,3%",
+   "m": "El País",
+   "u": "https://elpais.com/economia/vivienda/2026-10-26/la-compra-de-vivienda-vuelve-a-crecer-en-agosto-pero-acumula-una-caida-anual-del-23.html",
+   "f": "2026-10-26T08:30:57Z",
+   "c": "vivienda"
+  },
+  {
+   "t": "Saiz descarta ampliar el periodo de cálculo de la pensión o los años cotizados para cobrarla",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/laboral-00346/noticia-saiz-descarta-ampliar-periodo-calculo-pension-anos-cotizados-cobrarla-20261026092738.html",
+   "f": "2026-10-26T08:27:38Z",
+   "c": "pensiones"
+  },
+  {
+   "t": "Seat se reúne con Aggity para explorar colaboraciones en la industria de defensa",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261026/11668063/seat-reune-aggity-explorar-colaboraciones-industria-defensa.html",
+   "f": "2026-10-26T08:26:44Z",
+   "c": "general"
+  },
+  {
+   "t": "El Ibex 35 cae un 0,9% en la apertura, hasta los 18.815 puntos, con el petróleo bajando a 115 dólares",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/bolsa-00348/noticia-ibex-35-cae-09-apertura-18815-puntos-petroleo-bajando-115-dolares-20261026092343.html",
+   "f": "2026-10-26T08:23:43Z",
+   "c": "energia"
+  },
+  {
+   "t": "Elma Saiz asegura que el Gobierno aprobará otra deducción para que el salario mínimo no tribute en el IRPF",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-26/elma-saiz-asegura-que-el-gobierno-aprobara-otra-deduccion-para-que-el-salario-minimo-no-tribute-en-el-irpf.html",
+   "f": "2026-10-26T08:23:18Z",
+   "c": "empleo"
+  },
+  {
+   "t": "Telefónica se desploma un 7% en la bolsa tras la victoria de Lula en Brasil y Santander pierde un 4%",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/dinero-inversion/2026/10/26/6adf0b5bfdddff98418b458f.html",
+   "f": "2026-10-26T08:17:42Z",
+   "c": "bancos"
   },
   {
    "t": "La CNMC da luz verde a la compra de Contigo Energía por Iberdrola, que sumará una cartera de 100.000 clientes",
@@ -14,48 +56,6 @@
    "u": "https://www.europapress.es/economia/energia-medio-ambiente-00183/noticia-cnmc-da-luz-verde-compra-contigo-energia-iberdrola-sumara-cartera-100000-clientes-20261026090706.html",
    "f": "2026-10-26T08:07:06Z",
    "c": "energia"
-  },
-  {
-   "t": "Inveready levanta 20 millones en el cierre inicial de su primer fondo de búsqueda para ‘private equity’",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-26/inveready-levanta-20-millones-en-el-cierre-inicial-de-su-primer-fondo-de-busqueda-para-private-equity.html",
-   "f": "2026-10-26T08:06:52Z",
-   "c": "empresas"
-  },
-  {
-   "t": "SpaceX cierra un acuerdo de 40.000 millones de dólares en deuda para adquirir chips para IA",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/noticia-spacex-cierra-acuerdo-40000-millones-dolares-deuda-adquirir-chips-ia-20261026090404.html",
-   "f": "2026-10-26T08:04:04Z",
-   "c": "tecnologia"
-  },
-  {
-   "t": "La compraventa de viviendas retoma los ascensos tras subir un 3,4% en agosto, con 49.319 operaciones",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/construccion-y-vivienda-00342/noticia-compraventa-viviendas-retoma-ascensos-subir-34-agosto-49319-operaciones-20261026090110.html",
-   "f": "2026-10-26T08:01:10Z",
-   "c": "vivienda"
-  },
-  {
-   "t": "Dia eleva sus ventas un 12% hasta septiembre y acelera las aperturas en España",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-26/dia-eleva-sus-ventas-un-12-hasta-septiembre-y-acelera-las-aperturas-en-espana.html",
-   "f": "2026-10-26T07:56:31Z",
-   "c": "empresas"
-  },
-  {
-   "t": "Moeve y Galp rompen negociaciones y frustran la creación de un 'gigante energético' ibérico",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/empresas/moeve-galp-rompen-negociaciones-frustran-creacion-un-gigante-energetico-iberico_7053257_0.html",
-   "f": "2026-10-26T07:31:59Z",
-   "c": "energia"
-  },
-  {
-   "t": "Las petroleras Moeve y Galp cancelan su fusión tras nueve meses de negociaciones",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/empresas/2026/10/26/6adefecfe85ece8b078b45aa.html",
-   "f": "2026-10-26T07:21:27Z",
-   "c": "empresas"
   }
  ]
 }
