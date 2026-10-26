@@ -1,61 +1,61 @@
 {
- "actualizado": "2026-10-26T11:03:45Z",
+ "actualizado": "2026-10-26T13:42:18Z",
  "items": [
   {
-   "t": "La morosidad de la banca española rompe con tres meses a la baja pero sigue en mínimos de 2008",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/morosidad-banca-rompe-tres-meses-baja-minimos_7053341_0.html",
-   "f": "2026-10-26T10:50:01Z",
-   "c": "bancos"
-  },
-  {
-   "t": "Catalunya necesita más de 50.000 millones en infraestructuras en la próxima década",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261026/11668165/catalunya-necesita-mas-50-000-millones-infraestructuras-proxima-decada.html",
-   "f": "2026-10-26T10:13:06Z",
-   "c": "general"
-  },
-  {
-   "t": "Óscar Puente cifra en 1.800 millones anuales el mantenimiento de la red ferroviaria, el problema \"más urgente y acuciante\" de su ministerio",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/10/26/6adf1616fc6c83253e8b4590.html",
-   "f": "2026-10-26T10:10:54Z",
-   "c": "general"
-  },
-  {
-   "t": "El Gobierno fija los servicios mínimos de Renfe en la huelga de maquinistas de este jueves",
+   "t": "Huelga general del 11 de noviembre: qué pueden hacer las empresas y qué no está permitido",
    "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/transportes-00343/noticia-gobierno-fija-servicios-minimos-renfe-huelga-maquinistas-jueves-20261026104850.html",
-   "f": "2026-10-26T09:48:50Z",
-   "c": "transporte"
-  },
-  {
-   "t": "Díaz asegura que la victoria de Lula \"es una victoria de los trabajadores de Brasil y del mundo entero\"",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/laboral-00346/noticia-diaz-asegura-victoria-lula-victoria-trabajadores-brasil-mundo-entero-20261026104738.html",
-   "f": "2026-10-26T09:47:38Z",
+   "u": "https://www.europapress.es/economia/noticia-huelga-general-11-noviembre-pueden-hacer-empresas-no-permitido-20261026143509.html",
+   "f": "2026-10-26T13:35:09Z",
    "c": "empleo"
   },
   {
-   "t": "El 'efecto Brasil' castiga a Telefónica y Santander en bolsa y arrastra al Ibex 35",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/mercados-y-bolsa/efecto-brasil-castiga-telefonica-santander-bolsa-que-arrastran-ibex-35_7053316_0.html",
-   "f": "2026-10-26T09:30:20Z",
+   "t": "El Ibex cotiza en tablas pese a los fuertes recortes del Santander y Telefónica",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-26/la-bolsa-y-el-ibex-35.html",
+   "f": "2026-10-26T13:32:19Z",
    "c": "bancos"
   },
   {
-   "t": "Riyadh Air, la \"mayor empresa emergente de aviación moderna\": financiación saudí, retrasos y los efectos de una guerra",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/10/26/6adf1cbde85ece5b178b457f.html",
-   "f": "2026-10-26T09:26:26Z",
+   "t": "Tubos Reunidos baraja un ERE para una planta con 60 trabajadores",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-26/tubos-reunidos-baraja-un-ere-para-una-planta-con-60-trabajadores.html",
+   "f": "2026-10-26T13:31:54Z",
+   "c": "empleo"
+  },
+  {
+   "t": "Anthropic registra el folleto para protagonizar una de las mayores salidas a Bolsa de la historia",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-26/anthropic-registra-el-folleto-para-protagonizar-una-de-las-mayores-salidas-a-bolsa-de-la-historia.html",
+   "f": "2026-10-26T13:27:35Z",
+   "c": "empresas"
+  },
+  {
+   "t": "Iberdrola baraja la venta de su negocio en Polonia por hasta 400 millones",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-26/iberdrola-baraja-la-venta-de-su-negocio-en-polonia-por-hasta-400-millones.html",
+   "f": "2026-10-26T13:15:04Z",
+   "c": "empresas"
+  },
+  {
+   "t": "Críticas al grupo Volkswagen por la participación del presidente de Audi en la campaña de Trump",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-26/criticas-al-grupo-volkswagen-por-la-participacion-del-presidente-de-audi-en-la-campana-de-trump.html",
+   "f": "2026-10-26T13:10:20Z",
    "c": "comercio"
   },
   {
-   "t": "Telefónica y Santander se desploman en Bolsa tras la victoria electoral de Lula da Silva en Brasil",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/bolsa-00348/noticia-telefonica-santander-desploman-bolsa-victoria-electoral-lula-da-silva-brasil-20261026101559.html",
-   "f": "2026-10-26T09:15:59Z",
-   "c": "bancos"
+   "t": "El real brasileño registra su peor sesión en más de tres décadas tras la inesperada victoria de Lula",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-26/los-mercados-brasilenos-afrontan-una-caida-historica-tras-la-inesperada-victoria-de-lula.html",
+   "f": "2026-10-26T13:08:52Z",
+   "c": "general"
+  },
+  {
+   "t": "Meta se lanza a captar inversiones de 85.000 millones de dólares para financiar su gasto en IA",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/empresas/2026/10/26/6adf4d8ee9cf4aed668b4578.html",
+   "f": "2026-10-26T13:03:52Z",
+   "c": "tecnologia"
   }
  ]
 }
