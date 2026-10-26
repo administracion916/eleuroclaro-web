@@ -1,19 +1,33 @@
 {
- "actualizado": "2026-10-26T19:13:08Z",
+ "actualizado": "2026-10-26T19:59:04Z",
  "items": [
+  {
+   "t": "Vivanta cierra todas sus clínicas dentales a la espera del pronunciamiento de Bruselas",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-26/vivanta-cierra-todas-sus-clinicas-dentales-a-la-espera-del-pronunciamiento-de-bruselas.html",
+   "f": "2026-10-26T19:40:10Z",
+   "c": "comercio"
+  },
+  {
+   "t": "Foment califica la huelga general de “irresponsable”",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261026/11668760/foment-califica-huelga-general-irresponsable.html",
+   "f": "2026-10-26T19:10:14Z",
+   "c": "empleo"
+  },
+  {
+   "t": "Hispasat pide más colaboración público-privada en el sector aeroespacial",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261026/11668742/hispasat-pide-mas-colaboracion-publico-privada-sector-aeroespacial.html",
+   "f": "2026-10-26T18:47:01Z",
+   "c": "general"
+  },
   {
    "t": "Países Bajos prevé recortar 25.000 empleos públicos para ahorrar costes por la IA, uno de cada seis del país",
    "m": "20minutos",
    "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/paises-bajos-preve-recortar-25-000-empleos-publicos-para-ahorrar-costes-por-ia-uno-cada-seis-pais_7053678_0.html",
    "f": "2026-10-26T18:43:28Z",
    "c": "empleo"
-  },
-  {
-   "t": "Telefónica Brasil se alía con Starlink para ofrecer cobertura satelital en zonas remotas",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-26/telefonica-brasil-se-alia-con-starlink-para-ofrecer-cobertura-satelital-en-zonas-remotas.html",
-   "f": "2026-10-26T18:42:00Z",
-   "c": "empresas"
   },
   {
    "t": "Temu recula y acepta las medidas de Bruselas para reducir la venta de productos ilegales",
@@ -42,20 +56,6 @@
    "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-26/el-mercado-levanta-el-castigo-a-la-prima-francesa-con-la-mayor-caida-diaria-desde-2020.html",
    "f": "2026-10-26T17:53:00Z",
    "c": "general"
-  },
-  {
-   "t": "Telefónica y Banco Santander se desploman en la bolsa tras la victoria de Lula en Brasil",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/dinero-inversion/2026/10/26/6adf0b5bfdddff98418b458f.html",
-   "f": "2026-10-26T17:11:50Z",
-   "c": "bancos"
-  },
-  {
-   "t": "La Bolsa de Brasil se desploma un 17%, repunta el interés de los bonos y el real se hunde un 11%",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/finanzas-00340/noticia-bolsa-brasil-desploma-17-repunta-interes-bonos-real-hunde-11-20261026180527.html",
-   "f": "2026-10-26T17:05:27Z",
-   "c": "empresas"
   }
  ]
 }
