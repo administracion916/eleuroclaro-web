@@ -1,12 +1,40 @@
 {
- "actualizado": "2026-10-27T13:16:36Z",
+ "actualizado": "2026-10-27T14:13:05Z",
  "items": [
+  {
+   "t": "Huelga de trenes en octubre y noviembre de 2026: qué trenes circulan y qué días hay paros en Renfe y Ouigo",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/transportes-00343/noticia-huelga-trenes-octubre-noviembre-2026-trenes-circulan-dias-hay-paros-renfe-ouigo-20261027143505.html",
+   "f": "2026-10-27T13:35:05Z",
+   "c": "transporte"
+  },
+  {
+   "t": "Los beneficios de Novartis se desploman un 70% en el tercer trimestre por el impacto de un fármaco",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-27/los-beneficios-de-novartis-se-desploman-un-70-en-el-tercer-trimestre-por-el-impacto-de-un-farmaco.html",
+   "f": "2026-10-27T13:27:36Z",
+   "c": "empresas"
+  },
   {
    "t": "Uber Eats cierra la laboralización de la plantilla con la externalización de su flota y un acuerdo con CCOO y UGT para mejorar las condiciones de 8.000 riders",
    "m": "El Mundo",
    "u": "https://www.elmundo.es/economia/empresas/2026/10/27/6ae09ed121efa0c26b8b459e.html",
    "f": "2026-10-27T13:13:20Z",
    "c": "empleo"
+  },
+  {
+   "t": "Ibercaja financia gratis las compras con tarjeta de crédito hasta el próximo 31 de enero",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/empresas/ibercaja-financia-gratis-las-compras-con-tarjeta-credito-hasta-proximo-31-enero_7054020_0.html",
+   "f": "2026-10-27T13:13:07Z",
+   "c": "bancos"
+  },
+  {
+   "t": "El Gobierno aprueba una subvención de 201 millones a promotores privados para construir 2.500 viviendas públicas",
+   "m": "El País",
+   "u": "https://elpais.com/economia/vivienda/2026-10-27/el-gobierno-aprueba-una-subvencion-de-201-millones-a-promotores-privados-para-construir-2500-viviendas-publicas.html",
+   "f": "2026-10-27T13:11:48Z",
+   "c": "vivienda"
   },
   {
    "t": "Vera Health levanta 25,5 millones para su IA clínica, que es usada por uno de cada cuatro médicos en España",
@@ -23,39 +51,11 @@
    "c": "economia"
   },
   {
-   "t": "Ayesa Digital prevé superar los 600 millones de ventas en el primer año de su nueva etapa",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-27/ayesa-digital-preve-superar-los-600-millones-de-ventas-en-el-primer-ano-de-su-nueva-etapa.html",
-   "f": "2026-10-27T12:58:19Z",
-   "c": "tecnologia"
-  },
-  {
    "t": "El Gobierno lanza su 'Plan Vive' con 201 millones de euros para construir 2.500 viviendas asequibles con el sector privado",
    "m": "El Mundo",
    "u": "https://www.elmundo.es/economia/vivienda/2026/10/27/6ae09942fdddff3a488b4594.html",
    "f": "2026-10-27T12:54:09Z",
    "c": "vivienda"
-  },
-  {
-   "t": "Cerca de 500 tractores tomarán este miércoles las calles de Madrid para reclamar un campo rentable",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/noticia-cerca-500-tractores-tomaran-miercoles-calles-madrid-reclamar-campo-rentable-20261027135307.html",
-   "f": "2026-10-27T12:53:07Z",
-   "c": "general"
-  },
-  {
-   "t": "Renfe compra 30 trenes a la alemana Siemens por 1.218 millones para olvidar el fiasco de los Talgo: \"No podemos permitirnos nuevos retrasos\"",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/10/27/6ae09b6ce4d4d8b0728b4576.html",
-   "f": "2026-10-27T12:51:52Z",
-   "c": "transporte"
-  },
-  {
-   "t": "Las tecnológicas ven ilegales las exigencias del Gobierno a los centros de datos y buscan la vía para tumbar el decreto",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-27/las-tecnologicas-ven-ilegal-las-exigencias-del-gobierno-a-los-centros-de-datos-y-buscan-la-via-para-tumbarla.html",
-   "f": "2026-10-27T12:40:47Z",
-   "c": "tecnologia"
   }
  ]
 }
