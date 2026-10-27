@@ -1,19 +1,47 @@
 {
- "actualizado": "2026-10-27T14:13:05Z",
+ "actualizado": "2026-10-27T15:11:33Z",
  "items": [
+  {
+   "t": "Lula afronta una encrucijada fiscal tras el desplome de los mercados brasileños",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/financial-times/2026/10/27/lula-afronta-encrucijada-fiscal-desplome-mercados-brasilenos.html",
+   "f": "2026-10-27T14:52:10Z",
+   "c": "impuestos"
+  },
+  {
+   "t": "Solucionada la incidencia ténica en Bankinter que afectó al funcionamiento de su web y su aplicación móvil",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-27/bankinter-sufre-una-incidencia-tecnica-que-afecta-al-funcionamiento-de-su-web-y-su-aplicacion-movil.html",
+   "f": "2026-10-27T14:47:54Z",
+   "c": "bancos"
+  },
+  {
+   "t": "Las Bolsas se mantienen al alza gracias a la caída del petróleo y en espera de la Fed",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-27/la-bolsa-y-el-ibex-35.html",
+   "f": "2026-10-27T14:42:49Z",
+   "c": "tipos"
+  },
+  {
+   "t": "Konecta negocia con sus acreedores la reestructuración de más de 1.000 millones de euros en deuda",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-27/konecta-negocia-con-sus-acreedores-la-reestructuracion-de-mas-de-1000-millones-de-euros-en-deuda.html",
+   "f": "2026-10-27T14:41:10Z",
+   "c": "empresas"
+  },
+  {
+   "t": "Reunión del BCE: qué esperan los mercados este jueves tras el repunte de la inflación a máximos de tres años",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/macroeconomia-00338/noticia-reunion-bce-esperan-mercados-jueves-repunte-inflacion-maximos-tres-anos-20261027150816.html",
+   "f": "2026-10-27T14:08:16Z",
+   "c": "tipos"
+  },
   {
    "t": "Huelga de trenes en octubre y noviembre de 2026: qué trenes circulan y qué días hay paros en Renfe y Ouigo",
    "m": "Europa Press",
    "u": "https://www.europapress.es/economia/transportes-00343/noticia-huelga-trenes-octubre-noviembre-2026-trenes-circulan-dias-hay-paros-renfe-ouigo-20261027143505.html",
    "f": "2026-10-27T13:35:05Z",
    "c": "transporte"
-  },
-  {
-   "t": "Los beneficios de Novartis se desploman un 70% en el tercer trimestre por el impacto de un fármaco",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-27/los-beneficios-de-novartis-se-desploman-un-70-en-el-tercer-trimestre-por-el-impacto-de-un-farmaco.html",
-   "f": "2026-10-27T13:27:36Z",
-   "c": "empresas"
   },
   {
    "t": "Uber Eats cierra la laboralización de la plantilla con la externalización de su flota y un acuerdo con CCOO y UGT para mejorar las condiciones de 8.000 riders",
@@ -28,34 +56,6 @@
    "u": "https://www.20minutos.es/lainformacion/empresas/ibercaja-financia-gratis-las-compras-con-tarjeta-credito-hasta-proximo-31-enero_7054020_0.html",
    "f": "2026-10-27T13:13:07Z",
    "c": "bancos"
-  },
-  {
-   "t": "El Gobierno aprueba una subvención de 201 millones a promotores privados para construir 2.500 viviendas públicas",
-   "m": "El País",
-   "u": "https://elpais.com/economia/vivienda/2026-10-27/el-gobierno-aprueba-una-subvencion-de-201-millones-a-promotores-privados-para-construir-2500-viviendas-publicas.html",
-   "f": "2026-10-27T13:11:48Z",
-   "c": "vivienda"
-  },
-  {
-   "t": "Vera Health levanta 25,5 millones para su IA clínica, que es usada por uno de cada cuatro médicos en España",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-27/vera-health-levanta-255-millones-para-su-ia-clinica-que-es-usada-por-uno-de-cada-cuatro-medicos-en-espana.html",
-   "f": "2026-10-27T13:08:01Z",
-   "c": "tecnologia"
-  },
-  {
-   "t": "Coca-Cola gana un 14% más hasta septiembre y revisa al alza su previsión para el conjunto de 2026",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-27/coca-cola-gana-un-14-mas-hasta-septiembre-y-revisa-al-alza-su-prevision-para-el-conjunto-de-2026.html",
-   "f": "2026-10-27T13:05:20Z",
-   "c": "economia"
-  },
-  {
-   "t": "El Gobierno lanza su 'Plan Vive' con 201 millones de euros para construir 2.500 viviendas asequibles con el sector privado",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/vivienda/2026/10/27/6ae09942fdddff3a488b4594.html",
-   "f": "2026-10-27T12:54:09Z",
-   "c": "vivienda"
   }
  ]
 }
