@@ -1,6 +1,48 @@
 {
- "actualizado": "2026-10-27T07:16:50Z",
+ "actualizado": "2026-10-27T08:07:22Z",
  "items": [
+  {
+   "t": "Tono negativo en las Bolsas europeas pese al renovado el apetito por la IA",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-27/la-bolsa-y-el-ibex-35.html",
+   "f": "2026-10-27T08:04:16Z",
+   "c": "tecnologia"
+  },
+  {
+   "t": "El paro sube en 95.900 personas en verano y el empleo marca nuevo récord de 22,8 millones de ocupados",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/laboral-00346/noticia-paro-sube-95900-personas-verano-empleo-marca-nuevo-record-228-millones-ocupados-20261027090055.html",
+   "f": "2026-10-27T08:00:55Z",
+   "c": "empleo"
+  },
+  {
+   "t": "El paro repunta en el tercer trimestre hasta el 10,18%",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-27/el-paro-repunta-en-el-tercer-trimestre-hasta-el-1018.html",
+   "f": "2026-10-27T08:00:21Z",
+   "c": "empleo"
+  },
+  {
+   "t": "Precio de la leche desde hoy, martes, 20 de octubre de 2026: cuánto cuestan en Mercadona, Carrefour o Alcampo",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/10/27/6adf018cfc6c838c038b4590.html",
+   "f": "2026-10-27T08:00:00Z",
+   "c": "precios"
+  },
+  {
+   "t": "Orange España eleva un 2% sus ingresos en los primeros nueve meses del año",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-27/orange-espana-eleva-un-2-sus-ingresos-en-los-primeros-nueve-meses-del-ano.html",
+   "f": "2026-10-27T07:11:18Z",
+   "c": "empresas"
+  },
+  {
+   "t": "Los países de la UE alcanzan un acuerdo sobre la estructura de la futura PAC y el Gobierno lo celebra con \"satisfacción\"",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/los-paises-ue-alcanzan-un-acuerdo-sobre-estructura-futura-pac-gobierno-celebra-con-satisfaccion_7053770_0.html",
+   "f": "2026-10-27T07:11:03Z",
+   "c": "comercio"
+  },
   {
    "t": "El mayor banco de Europa, HSBC, ganó el 32,55% más hasta septiembre",
    "m": "Cinco Días",
@@ -9,52 +51,10 @@
    "c": "bancos"
   },
   {
-   "t": "Tono negativo en las Bolsas europeas pese al renovado el apetito por la IA",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-27/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-10-27T05:38:50Z",
-   "c": "tecnologia"
-  },
-  {
    "t": "Por qué devolver tus compras online está dejando de ser gratis",
    "m": "La Vanguardia",
    "u": "https://www.lavanguardia.com/economia/20261027/11668649/devolver-compras-pablo-foncillas-pf-video-seo-lv.html",
    "f": "2026-10-27T05:00:00Z",
-   "c": "general"
-  },
-  {
-   "t": "¿Te han ascendido? Las habilidades que necesitas para ser un buen líder",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261027/11665730/te-han-ascendido-habilidades-necesitas-buen-lider-brl.html",
-   "f": "2026-10-27T04:55:00Z",
-   "c": "general"
-  },
-  {
-   "t": "El nuevo impuesto a los ricos frena la mudanza de fortunas entre comunidades, pero dispara la ingeniería fiscal",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-27/el-nuevo-impuesto-a-los-ricos-frena-la-mudanza-de-fortunas-entre-comunidades-pero-dispara-la-ingenieria-fiscal.html",
-   "f": "2026-10-27T04:45:01Z",
-   "c": "impuestos"
-  },
-  {
-   "t": "Del paraíso fiscal al mercado único: Andorra culmina su giro europeo en plena contestación social",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-27/del-paraiso-fiscal-al-mercado-unico-andorra-culmina-su-giro-europeo-en-plena-contestacion-social.html",
-   "f": "2026-10-27T04:45:01Z",
-   "c": "impuestos"
-  },
-  {
-   "t": "Más de la mitad de los españoles tiene problemas para sacar efectivo de los cajeros",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-27/mas-de-la-mitad-de-los-espanoles-tiene-problemas-para-sacar-efectivo-de-los-cajeros.html",
-   "f": "2026-10-27T04:30:01Z",
-   "c": "general"
-  },
-  {
-   "t": "La mitad de los pilotos europeos admite haber volado en los últimos tres meses demasiado cansado",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-27/la-mitad-de-los-pilotos-europeos-admite-haber-volado-en-los-ultimos-tres-meses-demasiado-cansado.html",
-   "f": "2026-10-27T04:30:01Z",
    "c": "general"
   }
  ]
