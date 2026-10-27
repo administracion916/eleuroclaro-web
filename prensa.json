@@ -1,60 +1,60 @@
 {
- "actualizado": "2026-10-27T11:01:54Z",
+ "actualizado": "2026-10-27T11:58:28Z",
  "items": [
   {
-   "t": "La banca restringe la oferta de crédito en tercer trimestre y prevé \"endurecer\" las concesiones de hipotecas",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/finanzas-00340/noticia-banca-restringe-oferta-credito-tercer-trimestre-preve-endurecer-concesiones-hipotecas-20261027113202.html",
-   "f": "2026-10-27T10:32:02Z",
-   "c": "tipos"
-  },
-  {
-   "t": "La minera española Abenójar Tungsten llega a hundirse un 9% en su debut bursátil en Londres",
+   "t": "Las Bolsas se giran al alza tras novedades en el conclicto en Oriente Próximo",
    "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-27/la-minera-espanola-abenojar-tungsten-llega-a-hundirse-un-9-en-su-debut-bursatil-en-londres.html",
-   "f": "2026-10-27T10:27:19Z",
-   "c": "general"
-  },
-  {
-   "t": "Ferrovial pagará hasta 2085 su oferta de 34.000 millones de dólares por la I-24 de Tennessee",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-27/ferrovial-pagara-en-58-anos-su-oferta-de-34000-millones-de-dolares-por-la-i-24-de-tennessee.html",
-   "f": "2026-10-27T09:42:51Z",
-   "c": "empresas"
-  },
-  {
-   "t": "Bankinter sufre una incidencia técnica que afecta al funcionamiento de su web y su aplicación móvil",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-27/bankinter-sufre-una-incidencia-tecnica-que-afecta-al-funcionamiento-de-su-web-y-su-aplicacion-movil.html",
-   "f": "2026-10-27T09:28:35Z",
-   "c": "bancos"
-  },
-  {
-   "t": "Repsol prorroga hasta noviembre sus descuentos a las gasolinas en plena crisis energética",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/repsol-prorroga-hasta-noviembre-sus-descuentos-las-gasolinas-plena-crisis-energetica_7053851_0.html",
-   "f": "2026-10-27T09:27:35Z",
-   "c": "energia"
-  },
-  {
-   "t": "Ferrovial sube un 9% tras despejar las dudas de la viabilidad de su autopista en Tennessee (EEUU)",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/construccion-y-vivienda-00342/noticia-ferrovial-sube-despejar-dudas-viabilidad-autopista-tennessee-eeuu-20261027102228.html",
-   "f": "2026-10-27T09:22:28Z",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-27/la-bolsa-y-el-ibex-35.html",
+   "f": "2026-10-27T11:57:16Z",
    "c": "comercio"
   },
   {
-   "t": "La Seguridad Social lo confirma: para cobrar dos años de paro necesitas 2.160 días cotizados en los últimos seis años",
+   "t": "La UE avisa del impacto del cambio climático y la Dana en Valencia: \"Las empresas se lo pensarán dos veces antes de invertir en la región\"",
    "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/10/27/6ae0666ffdddfff7758b4573.html",
-   "f": "2026-10-27T09:18:49Z",
+   "u": "https://www.elmundo.es/economia/2026/10/27/6adf7640e85ececf7f8b45a2.html",
+   "f": "2026-10-27T11:40:32Z",
+   "c": "comercio"
+  },
+  {
+   "t": "Menos temporalidad en el empleo frente a un peor acceso a la vivienda: la cara y la cruz del plan de recuperación en España",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/menos-temporalidad-empleo-frente-un-peor-acceso-vivienda-cara-cruz-plan-recuperacion-espana_7053886_0.html",
+   "f": "2026-10-27T11:38:05Z",
+   "c": "vivienda"
+  },
+  {
+   "t": "Madrid ensancha la distancia en PIB per cápita de Catalunya por los trabajadores no residentes",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261027/11669258/madrid-ensancha-distancia-pib-per-capita-catalunya-trabajadores-residentes.html",
+   "f": "2026-10-27T11:28:54Z",
    "c": "empleo"
   },
   {
-   "t": "Nvidia invertirá 3.000 millones de dólares en Meta y ampliarán su colaboración en IA",
+   "t": "El Ibex 35 mantiene los 19.000 puntos en la media sesión (+0,13%), con el crudo en 115 dólares",
    "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/noticia-nvidia-invertira-3000-millones-dolares-meta-ampliaran-colaboracion-ia-20261027101718.html",
-   "f": "2026-10-27T09:17:18Z",
+   "u": "https://www.europapress.es/economia/bolsa-00348/noticia-ibex-35-mantiene-19000-puntos-media-sesion-013-crudo-115-dolares-20261027121638.html",
+   "f": "2026-10-27T11:16:38Z",
+   "c": "empresas"
+  },
+  {
+   "t": "Bruselas ordena blindar las economías de la UE frente a los fenómenos extremos climáticos",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261027/11669149/bruselas-ordena-blindar-economias-ue-frente-fenomenos-extremos-climaticos.html",
+   "f": "2026-10-27T11:14:19Z",
+   "c": "comercio"
+  },
+  {
+   "t": "La inversión publicitaria crece un 2,3% en 2025, pero pierde terreno frente a la inflación y el PIB",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-27/la-inversion-publicitaria-crece-un-23-en-2025-pero-pierde-terreno-frente-a-la-inflacion-y-el-pib.html",
+   "f": "2026-10-27T11:04:57Z",
+   "c": "precios"
+  },
+  {
+   "t": "Anthropic y sus rivales en la IA desatan la mayor avalancha financiera de la historia",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-27/anthropic-y-sus-rivales-en-la-ia-desatan-la-mayor-avalancha-financiera-de-la-historia.html",
+   "f": "2026-10-27T10:59:53Z",
    "c": "tecnologia"
   }
  ]
