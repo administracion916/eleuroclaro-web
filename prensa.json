@@ -1,19 +1,33 @@
 {
- "actualizado": "2026-10-27T15:11:33Z",
+ "actualizado": "2026-10-27T16:07:11Z",
  "items": [
+  {
+   "t": "La hostelería pide al próximo Gobierno gravar a operadores como Mercadona por servir comida y bebida en sus supermercados",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-27/la-hosteleria-pide-al-proximo-gobierno-gravar-a-operadores-como-mercadona-por-servir-comida-y-bebida-en-sus-supermercados.html",
+   "f": "2026-10-27T15:38:41Z",
+   "c": "precios"
+  },
+  {
+   "t": "Asturias comprará por 10,7 millones una planta a Duro Felguera y se la alquilará a Indra durante 25 años",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-27/asturias-comprara-por-107-millones-una-planta-a-duro-felguera-y-se-la-alquilara-a-indra-durante-25-anos.html",
+   "f": "2026-10-27T15:35:56Z",
+   "c": "vivienda"
+  },
+  {
+   "t": "Francia debe “salir adelante por sus propios medios” sin incurrir en más gastos",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/financial-times/2026/10/27/francia-debe-salir-adelante-propios-medios-incurrir-gastos.html",
+   "f": "2026-10-27T15:32:58Z",
+   "c": "general"
+  },
   {
    "t": "Lula afronta una encrucijada fiscal tras el desplome de los mercados brasileños",
    "m": "Expansión",
    "u": "https://www.expansion.com/economia/financial-times/2026/10/27/lula-afronta-encrucijada-fiscal-desplome-mercados-brasilenos.html",
    "f": "2026-10-27T14:52:10Z",
    "c": "impuestos"
-  },
-  {
-   "t": "Solucionada la incidencia ténica en Bankinter que afectó al funcionamiento de su web y su aplicación móvil",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-27/bankinter-sufre-una-incidencia-tecnica-que-afecta-al-funcionamiento-de-su-web-y-su-aplicacion-movil.html",
-   "f": "2026-10-27T14:47:54Z",
-   "c": "bancos"
   },
   {
    "t": "Las Bolsas se mantienen al alza gracias a la caída del petróleo y en espera de la Fed",
@@ -30,32 +44,18 @@
    "c": "empresas"
   },
   {
+   "t": "Aagesen defiende la normativa de centro de datos como una propuesta \"ambiciosa y anticipatoria\"",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/energia-00341/noticia-aagesen-defiende-normativa-centro-datos-propuesta-ambiciosa-anticipatoria-20261027152459.html",
+   "f": "2026-10-27T14:24:59Z",
+   "c": "general"
+  },
+  {
    "t": "Reunión del BCE: qué esperan los mercados este jueves tras el repunte de la inflación a máximos de tres años",
    "m": "Europa Press",
    "u": "https://www.europapress.es/economia/macroeconomia-00338/noticia-reunion-bce-esperan-mercados-jueves-repunte-inflacion-maximos-tres-anos-20261027150816.html",
    "f": "2026-10-27T14:08:16Z",
    "c": "tipos"
-  },
-  {
-   "t": "Huelga de trenes en octubre y noviembre de 2026: qué trenes circulan y qué días hay paros en Renfe y Ouigo",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/transportes-00343/noticia-huelga-trenes-octubre-noviembre-2026-trenes-circulan-dias-hay-paros-renfe-ouigo-20261027143505.html",
-   "f": "2026-10-27T13:35:05Z",
-   "c": "transporte"
-  },
-  {
-   "t": "Uber Eats cierra la laboralización de la plantilla con la externalización de su flota y un acuerdo con CCOO y UGT para mejorar las condiciones de 8.000 riders",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/empresas/2026/10/27/6ae09ed121efa0c26b8b459e.html",
-   "f": "2026-10-27T13:13:20Z",
-   "c": "empleo"
-  },
-  {
-   "t": "Ibercaja financia gratis las compras con tarjeta de crédito hasta el próximo 31 de enero",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/empresas/ibercaja-financia-gratis-las-compras-con-tarjeta-credito-hasta-proximo-31-enero_7054020_0.html",
-   "f": "2026-10-27T13:13:07Z",
-   "c": "bancos"
   }
  ]
 }
