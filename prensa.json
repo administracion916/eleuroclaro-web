@@ -1,61 +1,61 @@
 {
- "actualizado": "2026-10-27T08:07:22Z",
+ "actualizado": "2026-10-27T09:05:57Z",
  "items": [
   {
-   "t": "Tono negativo en las Bolsas europeas pese al renovado el apetito por la IA",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-27/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-10-27T08:04:16Z",
-   "c": "tecnologia"
+   "t": "El gasto en pensiones sube un 6,3% en octubre y marca récord con 14.540 millones de euros",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/2026/10/27/gasto-pensiones-sube-6-3-octubre-marca-record-14-540-millones-euros.html",
+   "f": "2026-10-27T08:51:21Z",
+   "c": "pensiones"
   },
   {
-   "t": "El paro sube en 95.900 personas en verano y el empleo marca nuevo récord de 22,8 millones de ocupados",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/laboral-00346/noticia-paro-sube-95900-personas-verano-empleo-marca-nuevo-record-228-millones-ocupados-20261027090055.html",
-   "f": "2026-10-27T08:00:55Z",
-   "c": "empleo"
-  },
-  {
-   "t": "El paro repunta en el tercer trimestre hasta el 10,18%",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-27/el-paro-repunta-en-el-tercer-trimestre-hasta-el-1018.html",
-   "f": "2026-10-27T08:00:21Z",
-   "c": "empleo"
-  },
-  {
-   "t": "Precio de la leche desde hoy, martes, 20 de octubre de 2026: cuánto cuestan en Mercadona, Carrefour o Alcampo",
+   "t": "El Consejo de la UE logra un acuerdo parcial sobre la futura Política Agraria Común (PAC)",
    "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/10/27/6adf018cfc6c838c038b4590.html",
-   "f": "2026-10-27T08:00:00Z",
-   "c": "precios"
-  },
-  {
-   "t": "Orange España eleva un 2% sus ingresos en los primeros nueve meses del año",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-27/orange-espana-eleva-un-2-sus-ingresos-en-los-primeros-nueve-meses-del-ano.html",
-   "f": "2026-10-27T07:11:18Z",
-   "c": "empresas"
-  },
-  {
-   "t": "Los países de la UE alcanzan un acuerdo sobre la estructura de la futura PAC y el Gobierno lo celebra con \"satisfacción\"",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/los-paises-ue-alcanzan-un-acuerdo-sobre-estructura-futura-pac-gobierno-celebra-con-satisfaccion_7053770_0.html",
-   "f": "2026-10-27T07:11:03Z",
+   "u": "https://www.elmundo.es/economia/macroeconomia/2026/10/27/6ae06393e4d4d8d4588b4570.html",
+   "f": "2026-10-27T08:45:06Z",
    "c": "comercio"
   },
   {
-   "t": "El mayor banco de Europa, HSBC, ganó el 32,55% más hasta septiembre",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-27/el-mayor-banco-de-europa-hsbc-gano-el-3255-mas-hasta-septiembre.html",
-   "f": "2026-10-27T06:56:48Z",
-   "c": "bancos"
+   "t": "La confianza de los franceses se desploma a mínimos desde 2013 en medio de las protestas",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/macroeconomia-00338/noticia-confianza-franceses-desploma-minimos-2013-medio-protestas-20261027094321.html",
+   "f": "2026-10-27T08:43:21Z",
+   "c": "general"
   },
   {
-   "t": "Por qué devolver tus compras online está dejando de ser gratis",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261027/11668649/devolver-compras-pablo-foncillas-pf-video-seo-lv.html",
-   "f": "2026-10-27T05:00:00Z",
+   "t": "Iberdrola emite bonos verdes en dólares por un importe de más de 1.400 millones de euros",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-27/iberdrola-emite-bonos-verdes-en-dolares-por-un-importe-de-mas-de-1400-millones-de-euros.html",
+   "f": "2026-10-27T08:40:07Z",
    "c": "general"
+  },
+  {
+   "t": "EPA: Catalunya suma 18.900 desempleados y el paro sube al 8,30% en el tercer trimestre",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261027/11669094/epa-catalunya-tercer-trimestre-empleo-paro.html",
+   "f": "2026-10-27T08:35:58Z",
+   "c": "empleo"
+  },
+  {
+   "t": "El Ibex 35 abre con una caída del 0,1% pero retiene los 19.000 puntos, con el crudo al alza en 116 dólares",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/bolsa-00348/noticia-ibex-35-abre-caida-01-retiene-19000-puntos-crudo-alza-116-dolares-20261027093134.html",
+   "f": "2026-10-27T08:31:34Z",
+   "c": "empresas"
+  },
+  {
+   "t": "Asisa prestará asistencia sanitaria a Mugeju por un año más pero rechaza continuar en Isfas",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/asisa-continua-mutua-jueces-rechaza-militares_7053803_0.html",
+   "f": "2026-10-27T08:28:30Z",
+   "c": "general"
+  },
+  {
+   "t": "Tono negativo en las Bolsas europeas pese al renovado apetito por la IA",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-27/la-bolsa-y-el-ibex-35.html",
+   "f": "2026-10-27T08:22:46Z",
+   "c": "tecnologia"
   }
  ]
 }
