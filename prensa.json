@@ -1,61 +1,61 @@
 {
- "actualizado": "2026-10-26T22:58:59Z",
+ "actualizado": "2026-10-27T05:58:16Z",
  "items": [
   {
-   "t": "El Gobierno da cinco años a los centros de datos para cumplir con las exigencias más duras",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-26/el-gobierno-da-cinco-anos-a-los-centros-de-datos-para-cumplir-con-las-exigencias-mas-duras.html",
-   "f": "2026-10-26T22:00:00Z",
-   "c": "general"
-  },
-  {
-   "t": "El Gobierno rebaja los requisitos para instalar nuevos centros de datos",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261026/11666800/gobierno-rebaja-requisitos-instalar-nuevos-centros-datos.html",
-   "f": "2026-10-26T22:00:00Z",
-   "c": "general"
-  },
-  {
-   "t": "Los mercados brasileños viven una de las peores sesiones en casi tres décadas tras la inesperada victoria de Lula",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-26/los-mercados-brasilenos-afrontan-una-caida-historica-tras-la-inesperada-victoria-de-lula.html",
-   "f": "2026-10-26T20:17:58Z",
-   "c": "general"
-  },
-  {
-   "t": "Vivanta cierra todas sus clínicas dentales a la espera del pronunciamiento de Bruselas",
+   "t": "Tono negativo en las Bolsas europeas pese al renovado el apetito por la IA",
    "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-26/vivanta-cierra-todas-sus-clinicas-dentales-a-la-espera-del-pronunciamiento-de-bruselas.html",
-   "f": "2026-10-26T19:40:10Z",
-   "c": "comercio"
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-27/la-bolsa-y-el-ibex-35.html",
+   "f": "2026-10-27T05:38:50Z",
+   "c": "tecnologia"
   },
   {
-   "t": "Foment califica la huelga general de “irresponsable”",
+   "t": "Por qué devolver tus compras online está dejando de ser gratis",
    "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261026/11668760/foment-califica-huelga-general-irresponsable.html",
-   "f": "2026-10-26T19:10:14Z",
-   "c": "empleo"
-  },
-  {
-   "t": "Hispasat pide más colaboración público-privada en el sector aeroespacial",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261026/11668742/hispasat-pide-mas-colaboracion-publico-privada-sector-aeroespacial.html",
-   "f": "2026-10-26T18:47:01Z",
+   "u": "https://www.lavanguardia.com/economia/20261027/11668649/devolver-compras-pablo-foncillas-pf-video-seo-lv.html",
+   "f": "2026-10-27T05:00:00Z",
    "c": "general"
   },
   {
-   "t": "Países Bajos prevé recortar 25.000 empleos públicos para ahorrar costes por la IA, uno de cada seis del país",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/paises-bajos-preve-recortar-25-000-empleos-publicos-para-ahorrar-costes-por-ia-uno-cada-seis-pais_7053678_0.html",
-   "f": "2026-10-26T18:43:28Z",
-   "c": "empleo"
+   "t": "¿Te han ascendido? Las habilidades que necesitas para ser un buen líder",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261027/11665730/te-han-ascendido-habilidades-necesitas-buen-lider-brl.html",
+   "f": "2026-10-27T04:55:00Z",
+   "c": "general"
   },
   {
-   "t": "El jefe de Audi incendia Alemania al hacer campaña con Trump con la promesa de una fábrica",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/10/26/6adf9a44fdddff1d4c8b4589.html",
-   "f": "2026-10-26T18:28:18Z",
-   "c": "comercio"
+   "t": "El nuevo impuesto a los ricos frena la mudanza de fortunas entre comunidades, pero dispara la ingeniería fiscal",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-27/el-nuevo-impuesto-a-los-ricos-frena-la-mudanza-de-fortunas-entre-comunidades-pero-dispara-la-ingenieria-fiscal.html",
+   "f": "2026-10-27T04:45:01Z",
+   "c": "impuestos"
+  },
+  {
+   "t": "Del paraíso fiscal al mercado único: Andorra culmina su giro europeo en plena contestación social",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-27/del-paraiso-fiscal-al-mercado-unico-andorra-culmina-su-giro-europeo-en-plena-contestacion-social.html",
+   "f": "2026-10-27T04:45:01Z",
+   "c": "impuestos"
+  },
+  {
+   "t": "Más de la mitad de los españoles tiene problemas para sacar efectivo de los cajeros",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-27/mas-de-la-mitad-de-los-espanoles-tiene-problemas-para-sacar-efectivo-de-los-cajeros.html",
+   "f": "2026-10-27T04:30:01Z",
+   "c": "general"
+  },
+  {
+   "t": "La mitad de los pilotos europeos admite haber volado en los últimos tres meses demasiado cansado",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-27/la-mitad-de-los-pilotos-europeos-admite-haber-volado-en-los-ultimos-tres-meses-demasiado-cansado.html",
+   "f": "2026-10-27T04:30:01Z",
+   "c": "general"
+  },
+  {
+   "t": "Los pequeños inversores europeos podrán comprar acciones de Anthropic en la OPV",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-27/los-pequenos-inversores-europeos-podran-comprar-acciones-de-anthropic-en-la-opv.html",
+   "f": "2026-10-27T04:25:00Z",
+   "c": "general"
   }
  ]
 }
