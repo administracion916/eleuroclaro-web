@@ -31,7 +31,7 @@ from zoneinfo import ZoneInfo
 API = "https://servicios.ine.es/wstempus/js/ES/"
 TABLAS = {"ipc": (79181, 30), "pesos": (79185, 1), "epf": (73801, 3), "epf_sub": (73815, 3)}
 MAX_ERROR = 0.1
-PUBLICO = False  # Hasta el estreno en la newsletter nº 3 (25-10-2026): sin indexar ni enlazar.
+PUBLICO = True  # Abierto el 28-10-2026, día en que salió la newsletter nº 3.
 
 MESES = ["enero", "febrero", "marzo", "abril", "mayo", "junio", "julio", "agosto",
          "septiembre", "octubre", "noviembre", "diciembre"]
