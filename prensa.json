@@ -1,11 +1,18 @@
 {
- "actualizado": "2026-10-28T20:09:24Z",
+ "actualizado": "2026-10-28T21:05:43Z",
  "items": [
+  {
+   "t": "Microsoft dispara su beneficio un 32% apoyada en la buena marcha de su negocio relacionado con la IA",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-28/microsoft-dispara-su-beneficio-un-32-apoyada-en-la-buena-marcha-de-su-negocio-relacionado-con-la-ia.html",
+   "f": "2026-10-28T20:52:18Z",
+   "c": "tecnologia"
+  },
   {
    "t": "El Ibex pierde los 18.900 puntos lastrado por Santander y el regreso del temor a un nuevo ‘shock’ energético",
    "m": "Cinco Días",
    "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-28/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-10-28T19:29:33Z",
+   "f": "2026-10-28T20:20:03Z",
    "c": "energia"
   },
   {
@@ -49,13 +56,6 @@
    "u": "https://elpais.com/economia/2026-10-28/la-reserva-federal-mantiene-sin-cambios-los-tipos-de-interes-a-menos-de-una-semana-de-las-miderms.html",
    "f": "2026-10-28T18:01:11Z",
    "c": "tipos"
-  },
-  {
-   "t": "Renfe bloquea la venta de billetes entre Madrid y Andalucía hasta diciembre tras el accidente ferroviario en Urda",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/10/28/6ae23670fdddff3b288b4589.html",
-   "f": "2026-10-28T17:57:39Z",
-   "c": "transporte"
   }
  ]
 }
