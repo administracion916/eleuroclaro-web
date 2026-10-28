@@ -1,61 +1,61 @@
 {
- "actualizado": "2026-10-28T17:15:46Z",
+ "actualizado": "2026-10-28T19:18:40Z",
  "items": [
   {
-   "t": "El Davos de las infraestructuras arranca en Madrid con el foco puesto en los desafíos climáticos y de la IA",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-28/el-davos-de-las-infraestructuras-arranca-en-madrid-con-el-foco-puesto-en-los-desafios-climaticos-y-de-la-ia.html",
-   "f": "2026-10-28T17:08:56Z",
-   "c": "tecnologia"
-  },
-  {
-   "t": "El precio del gas natural en Europa supera los 100 euros por primera vez desde 2022",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-28/el-precio-del-gas-natural-en-europa-supera-los-100-euros-por-primera-vez-desde-2022.html",
-   "f": "2026-10-28T17:07:29Z",
-   "c": "energia"
-  },
-  {
-   "t": "El Ibex 35 cede un 1,45% y pierde los 18.900 puntos arrastrado por Acciona Energía y Santander",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/bolsa-00348/noticia-ibex-35-cede-145-pierde-18900-puntos-arrastrado-acciona-energia-santander-20261028180414.html",
-   "f": "2026-10-28T17:04:14Z",
-   "c": "energia"
-  },
-  {
-   "t": "El Ibex pierde los 19.000 puntos lastrado por Santander y el regreso del temor a un nuevo ‘shock’ energético",
+   "t": "El Ibex pierde los 18.900 puntos lastrado por Santander y el regreso del temor a un nuevo ‘shock’ energético",
    "m": "Cinco Días",
    "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-28/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-10-28T17:04:06Z",
+   "f": "2026-10-28T19:06:35Z",
    "c": "energia"
   },
   {
-   "t": "El Ministerio de Transportes certificó, 21 días antes de la tragedia de Urda, que la red ferroviaria española estaba \"en niveles aceptables de riesgo\"",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/empresas/2026/10/28/6ae22636fdddffcd688b45c5.html",
-   "f": "2026-10-28T16:58:31Z",
-   "c": "general"
-  },
-  {
-   "t": "El precio del gas en Europa supera los 100 euros el megavatio por primera vez desde el 2022",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261028/11670429/precio-gas-europa-supera-100-euros-megavatio-primera-vez-2022.html",
-   "f": "2026-10-28T16:33:30Z",
-   "c": "energia"
-  },
-  {
-   "t": "El Gran Consumo advierte de altas tasas de \"absentismo\" laboral por bajas en logística, alimentación o transporte",
+   "t": "La Fed mantiene los tipos de interés a las puertas de las elecciones de medio mandato en Estados Unidos",
    "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/gran-consumo-advierte-altas-tasas-absentismo-laboral-por-bajas-logistica-alimentacion-transporte_7054538_0.html",
-   "f": "2026-10-28T16:27:24Z",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/fed-mantiene-los-tipos-interes-las-puertas-las-elecciones-medio-mandato-estados-unidos_7054696_0.html",
+   "f": "2026-10-28T18:44:53Z",
+   "c": "tipos"
+  },
+  {
+   "t": "Iryo contradice la versión de Puente y asegura que su maquinista no recibió orden de reanudar la marcha antes del accidente",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/10/28/6ae239e1e9cf4ad0218b4589.html",
+   "f": "2026-10-28T18:20:27Z",
    "c": "general"
   },
   {
-   "t": "Cáritas alerta de que 51% de los inquilinos no tendrían un nivel de ingresos suficientes para acceder hoy al mismo alquiler",
+   "t": "Warsh aplaza la subida de tipos de interés hasta después de las elecciones en Estados Unidos",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261028/11670438/warsh-aplaza-subida-tipos-interes-elecciones-estados-unidos.html",
+   "f": "2026-10-28T18:15:17Z",
+   "c": "tipos"
+  },
+  {
+   "t": "La Fed opta por la prudencia antes de las elecciones de mitad de mandato y mantiene los tipos de interés",
    "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/vivienda/2026/10/28/6ae1ca35e85ecefa5a8b456e.html",
-   "f": "2026-10-28T16:11:38Z",
-   "c": "vivienda"
+   "u": "https://www.elmundo.es/economia/2026/10/28/6ae23a7e21efa0d7558b45c7.html",
+   "f": "2026-10-28T18:13:51Z",
+   "c": "tipos"
+  },
+  {
+   "t": "La Fed no sorprende y mantiene sin cambios los tipos de interés",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/macroeconomia-00338/noticia-fed-no-sorprende-mantiene-cambios-tipos-interes-20261028190711.html",
+   "f": "2026-10-28T18:07:11Z",
+   "c": "tipos"
+  },
+  {
+   "t": "La Reserva Federal mantiene sin cambios los tipos de interés a menos de una semana de las ‘midterms’",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-28/la-reserva-federal-mantiene-sin-cambios-los-tipos-de-interes-a-menos-de-una-semana-de-las-miderms.html",
+   "f": "2026-10-28T18:01:11Z",
+   "c": "tipos"
+  },
+  {
+   "t": "Renfe bloquea la venta de billetes entre Madrid y Andalucía hasta diciembre tras el accidente ferroviario en Urda",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/10/28/6ae23670fdddff3b288b4589.html",
+   "f": "2026-10-28T17:57:39Z",
+   "c": "transporte"
   }
  ]
 }
