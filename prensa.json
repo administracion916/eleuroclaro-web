@@ -1,61 +1,61 @@
 {
- "actualizado": "2026-10-28T12:05:53Z",
+ "actualizado": "2026-10-28T13:26:29Z",
  "items": [
   {
-   "t": "Puig apuesta por fortalecer sus marcas para alcanzar 8.000 millones en ventas en 2032",
+   "t": "El Gobierno apunta a un fallo en el centro de control, que autorizó la marcha \"contra la normativa\"",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/transportes-00343/noticia-gobierno-apunta-fallo-centro-control-autorizo-marcha-contra-normativa-20261028141945.html",
+   "f": "2026-10-28T13:19:45Z",
+   "c": "general"
+  },
+  {
+   "t": "El ministro de Transportes Óscar Puente comparece para dar detalles sobre el accidente ferroviario de Urda",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-28/el-ministro-de-transportes-oscar-puente-comparece-para-dar-detalles-sobre-el-accidente-ferroviario-de-urda.html",
+   "f": "2026-10-28T13:17:11Z",
+   "c": "general"
+  },
+  {
+   "t": "Amper da entrada a Cofides en su negocio de defensa Teltronic con una inversión de 50 millones",
    "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-28/puig-apuesta-por-fortalecer-sus-marcas-para-alcanzar-8000-millones-en-ventas-en-2032.html",
-   "f": "2026-10-28T11:49:23Z",
+   "u": "https://cincodias.elpais.com/companias/2026-10-28/amper-da-entrada-a-cofides-en-su-negocio-de-defensa-teltronic-con-una-inversion-de-50-millones.html",
+   "f": "2026-10-28T13:16:20Z",
    "c": "empresas"
   },
   {
-   "t": "Inquietud por la exministra Fátima Báñez, que viajaba en uno de los trenes accidentados en Toledo",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-28/inquietud-por-la-exministra-fatima-banez-que-viajaba-en-uno-de-los-trenes-accidentados-en-toledo.html",
-   "f": "2026-10-28T11:47:59Z",
-   "c": "transporte"
+   "t": "El Ibex modera sus caídas y trata de sostener los 19.000 puntos",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-28/la-bolsa-y-el-ibex-35.html",
+   "f": "2026-10-28T13:15:17Z",
+   "c": "empresas"
   },
   {
-   "t": "La CEOE pendiente de Fátima Báñez, que viajaba en el tren siniestrado y permanece desaparecida",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/10/28/6ae1de6bfc6c8364038b4573.html",
-   "f": "2026-10-28T11:39:21Z",
-   "c": "transporte"
+   "t": "La UE exige un escudo climático para frenar una sangría de 50.000 millones al año",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/2026/10/28/ue-exige-escudo-climatico-frenar-sangria-50-000-millones-ano.html",
+   "f": "2026-10-28T13:09:23Z",
+   "c": "comercio"
   },
   {
-   "t": "Nvidia dispara su valor de marca en un ranking que vuelve a coronar a Apple",
+   "t": "La IA llega ya al 70% de las grandes empresas, el doble que a las pymes",
    "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261028/11670075/nvidia-apple-valor-de-marca-interbrand-ranking.html",
-   "f": "2026-10-28T11:36:08Z",
+   "u": "https://www.lavanguardia.com/economia/20261028/11670271/ia-llega-70-grandes-empresas-doble-pymes.html",
+   "f": "2026-10-28T13:03:43Z",
    "c": "tecnologia"
   },
   {
-   "t": "Banco Finantia amplía su oferta de ahorro con un depósito a seis meses que renta un 3,25% TAE",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-28/banco-finantia-amplia-su-oferta-de-ahorro-con-un-deposito-a-seis-meses-que-renta-un-325-tae.html",
-   "f": "2026-10-28T11:26:01Z",
-   "c": "bancos"
-  },
-  {
-   "t": "El Santander cae más del 4% en Bolsa en su peor jornada desde julio",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-28/santander-cae-mas-del-4-en-bolsa-en-su-peor-jornada-desde-julio.html",
-   "f": "2026-10-28T11:25:34Z",
-   "c": "empleo"
-  },
-  {
-   "t": "El Ibex 35 ahonda su caída en la media sesión y roza los 18.900 puntos (-1,35%)",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/bolsa-00348/noticia-ibex-35-ahonda-caida-media-sesion-roza-18900-puntos-135-20261028122159.html",
-   "f": "2026-10-28T11:21:59Z",
-   "c": "empresas"
-  },
-  {
-   "t": "Cáritas alerta de que 51% de los inquilinos actuales no tendrían un nivel de ingresos suficientes para acceder hoy al mismo alquiler",
+   "t": "Las bajas laborales le cuestan a España 92.000 millones al año y crecen casi cinco veces más que en la UE",
    "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/vivienda/2026/10/28/6ae1ca35e85ecefa5a8b456e.html",
-   "f": "2026-10-28T11:18:58Z",
-   "c": "vivienda"
+   "u": "https://www.elmundo.es/economia/empresas/2026/10/28/6ae1f09e21efa03e308b45a2.html",
+   "f": "2026-10-28T13:02:55Z",
+   "c": "comercio"
+  },
+  {
+   "t": "Nueva tragedia en la Alta Velocidad española con al menos 64 muertos: un AVE de Renfe embiste a un Iryo en Urda a más de 100 km por hora",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/empresas/2026/10/28/6ae1b066e85ece7a448b45a3.html",
+   "f": "2026-10-28T12:58:50Z",
+   "c": "transporte"
   }
  ]
 }
