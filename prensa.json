@@ -1,61 +1,61 @@
 {
- "actualizado": "2026-10-28T13:26:29Z",
+ "actualizado": "2026-10-28T15:15:18Z",
  "items": [
-  {
-   "t": "El Gobierno apunta a un fallo en el centro de control, que autorizó la marcha \"contra la normativa\"",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/transportes-00343/noticia-gobierno-apunta-fallo-centro-control-autorizo-marcha-contra-normativa-20261028141945.html",
-   "f": "2026-10-28T13:19:45Z",
-   "c": "general"
-  },
-  {
-   "t": "El ministro de Transportes Óscar Puente comparece para dar detalles sobre el accidente ferroviario de Urda",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-28/el-ministro-de-transportes-oscar-puente-comparece-para-dar-detalles-sobre-el-accidente-ferroviario-de-urda.html",
-   "f": "2026-10-28T13:17:11Z",
-   "c": "general"
-  },
-  {
-   "t": "Amper da entrada a Cofides en su negocio de defensa Teltronic con una inversión de 50 millones",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-28/amper-da-entrada-a-cofides-en-su-negocio-de-defensa-teltronic-con-una-inversion-de-50-millones.html",
-   "f": "2026-10-28T13:16:20Z",
-   "c": "empresas"
-  },
   {
    "t": "El Ibex modera sus caídas y trata de sostener los 19.000 puntos",
    "m": "Cinco Días",
    "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-28/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-10-28T13:15:17Z",
+   "f": "2026-10-28T14:52:07Z",
    "c": "empresas"
-  },
-  {
-   "t": "La UE exige un escudo climático para frenar una sangría de 50.000 millones al año",
-   "m": "Expansión",
-   "u": "https://www.expansion.com/economia/2026/10/28/ue-exige-escudo-climatico-frenar-sangria-50-000-millones-ano.html",
-   "f": "2026-10-28T13:09:23Z",
-   "c": "comercio"
-  },
-  {
-   "t": "La IA llega ya al 70% de las grandes empresas, el doble que a las pymes",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261028/11670271/ia-llega-70-grandes-empresas-doble-pymes.html",
-   "f": "2026-10-28T13:03:43Z",
-   "c": "tecnologia"
   },
   {
    "t": "Las bajas laborales le cuestan a España 92.000 millones al año y crecen casi cinco veces más que en la UE",
    "m": "El Mundo",
    "u": "https://www.elmundo.es/economia/empresas/2026/10/28/6ae1f09e21efa03e308b45a2.html",
-   "f": "2026-10-28T13:02:55Z",
+   "f": "2026-10-28T14:51:39Z",
    "c": "comercio"
   },
   {
-   "t": "Nueva tragedia en la Alta Velocidad española con al menos 64 muertos: un AVE de Renfe embiste a un Iryo en Urda a más de 100 km por hora",
+   "t": "Nueva tragedia en la Alta Velocidad española con al menos 68 muertos: un AVE de Renfe embiste a un Iryo en Urda a más de 100 km por hora",
    "m": "El Mundo",
    "u": "https://www.elmundo.es/economia/empresas/2026/10/28/6ae1b066e85ece7a448b45a3.html",
-   "f": "2026-10-28T12:58:50Z",
+   "f": "2026-10-28T14:42:07Z",
    "c": "transporte"
+  },
+  {
+   "t": "Puente ve \"inexplicable\" la decisión del centro de control de ordenar la marcha del AVE",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/transportes-00343/noticia-puente-califica-inexplicable-decision-centro-control-ordenar-marcha-ave-20261028151626.html",
+   "f": "2026-10-28T14:16:26Z",
+   "c": "general"
+  },
+  {
+   "t": "Puente califica de inexplicable que el centro de control permitiera al AVE reanudar la marcha con normalidad cuando el Iryo seguía parado",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-28/el-ministro-de-transportes-oscar-puente-comparece-para-dar-detalles-sobre-el-accidente-ferroviario-de-urda.html",
+   "f": "2026-10-28T13:59:06Z",
+   "c": "general"
+  },
+  {
+   "t": "Google negocia la venta de chips de IA a OpenAI y eleva la presión sobre Nvidia",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-28/google-negocia-la-venta-de-chips-de-ia-a-openai-y-eleva-la-presion-sobre-nvidia.html",
+   "f": "2026-10-28T13:54:06Z",
+   "c": "tecnologia"
+  },
+  {
+   "t": "Accidente de tren en Toledo: qué se sabe hasta ahora del choque entre un Iryo y un AVE y mapa de la zona",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/construccion-y-vivienda-00342/noticia-accidente-tren-toledo-sabe-ahora-choque-iryo-ave-mapa-zona-20261028145203.html",
+   "f": "2026-10-28T13:52:03Z",
+   "c": "transporte"
+  },
+  {
+   "t": "CIE Automotive sigue al alza en resultados y gana un 4% más al tercer trimestre",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-28/cie-automotive-sigue-al-alza-en-resultados-y-gana-un-4-mas-al-tercer-trimestre.html",
+   "f": "2026-10-28T13:51:28Z",
+   "c": "empresas"
   }
  ]
 }
