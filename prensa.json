@@ -1,61 +1,61 @@
 {
- "actualizado": "2026-10-28T09:13:38Z",
+ "actualizado": "2026-10-28T10:12:00Z",
  "items": [
+  {
+   "t": "El Ibex cae un más del 1% y pierde los 18.900 puntos penalizado por el Santander",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-28/la-bolsa-y-el-ibex-35.html",
+   "f": "2026-10-28T10:05:38Z",
+   "c": "bancos"
+  },
+  {
+   "t": "La Justicia cambia las normas del descanso laboral: lo que deben saber quienes trabajan más de 6 horas seguidas",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/10/28/6ae1bfbe21efa00e3c8b45be.html",
+   "f": "2026-10-28T10:02:07Z",
+   "c": "general"
+  },
+  {
+   "t": "El turismo de experiencias ya supone el 9% del gasto de los viajeros que visitan España",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-28/el-turismo-de-experiencias-ya-supone-el-9-del-gasto-de-los-viajeros-que-visitan-espana.html",
+   "f": "2026-10-28T09:36:10Z",
+   "c": "transporte"
+  },
+  {
+   "t": "Los años negros del sistema ferroviario: un nuevo accidente nueve meses después de la tragedia de Adamuz",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/10/28/6ae1bfb2fc6c83f32d8b45a9.html",
+   "f": "2026-10-28T09:35:14Z",
+   "c": "general"
+  },
+  {
+   "t": "Vidrala prevé mantener una subida del beneficio del 5% hasta el final de año",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-28/vidrala-preve-mantener-una-subida-del-beneficio-del-5-hasta-el-final-de-ano.html",
+   "f": "2026-10-28T09:35:08Z",
+   "c": "empresas"
+  },
+  {
+   "t": "Nueva tragedia en la Alta Velocidad española con decenas muertos: un Ave de Renfe embiste a un Iryo en Urda a más de 100 km por hora",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/empresas/2026/10/28/6ae1b066e85ece7a448b45a3.html",
+   "f": "2026-10-28T09:30:37Z",
+   "c": "transporte"
+  },
+  {
+   "t": "Activado el plan de asistencia a las víctimas de accidentes ferroviarios y a sus familiares",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/transportes-00343/noticia-activado-plan-asistencia-victimas-accidentes-ferroviarios-familiares-20261028102002.html",
+   "f": "2026-10-28T09:20:02Z",
+   "c": "general"
+  },
   {
    "t": "El Supremo impide a las empresas esquivar un despido colectivo mediante bajas voluntarias",
    "m": "El País",
    "u": "https://elpais.com/economia/mis-derechos/2026-10-28/el-supremo-impide-a-las-empresas-esquivar-un-despido-colectivo-mediante-bajas-voluntarias.html",
    "f": "2026-10-28T09:02:46Z",
    "c": "empleo"
-  },
-  {
-   "t": "Dos vagones del tren Iryo siniestrado en Urda (Toledo) descarrilaron tras ser alcanzados por un tren de Renfe",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/transportes-00343/noticia-dos-vagones-tren-iryo-siniestrado-urda-toledo-descarrilaron-ser-alcanzados-tren-renfe-20261028095818.html",
-   "f": "2026-10-28T08:58:18Z",
-   "c": "transporte"
-  },
-  {
-   "t": "El Ibex cae un 1% y pierde los 19.000 puntos en plena oleada de resultados empresariales",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-28/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-10-28T08:56:27Z",
-   "c": "empresas"
-  },
-  {
-   "t": "Un \"alcance\" entre dos trenes interrumpe la circulación en la línea de alta velocidad Madrid-Andalucía",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/transportes-00343/noticia-alcance-dos-trenes-interrumpe-circulacion-linea-alta-velocidad-madrid-andalucia-20261028093012.html",
-   "f": "2026-10-28T08:30:12Z",
-   "c": "transporte"
-  },
-  {
-   "t": "Nueva tragedia en la Alta Velocidad española: dos trenes de pasajeros colisionan en Urda (Toledo) y dos vagones se precipitan por un terraplén",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/empresas/2026/10/28/6ae1b066e85ece7a448b45a3.html",
-   "f": "2026-10-28T08:24:01Z",
-   "c": "transporte"
-  },
-  {
-   "t": "Redeia eleva un 5,3% sus ganancias, a 410 millones, y dispara un 19% sus inversiones en redes",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/empresas/2026/10/28/6ae1abdde85ece095e8b4576.html",
-   "f": "2026-10-28T08:02:06Z",
-   "c": "general"
-  },
-  {
-   "t": "Unos 500 tractores protestan hoy en Madrid por la subida del precio de los carburantes",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261028/11669927/500-tractores-protestan-hoy-madrid-subida-precio-carburantes.html",
-   "f": "2026-10-28T07:59:28Z",
-   "c": "energia"
-  },
-  {
-   "t": "Línea Directa dispara su beneficio un 35%, hasta los 80 millones de euros",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/empresas/2026/10/28/6ae1a7bbe85ece60078b45a8.html",
-   "f": "2026-10-28T07:46:53Z",
-   "c": "empresas"
   }
  ]
 }
