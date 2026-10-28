@@ -1,61 +1,61 @@
 {
- "actualizado": "2026-10-27T22:56:54Z",
+ "actualizado": "2026-10-28T06:04:00Z",
  "items": [
   {
-   "t": "El Gobierno aprueba 2.200 millones de préstamos a Navantia para proyectos de defensa",
+   "t": "Prudencia en las Bolsas antes de la Fed y con el foco en los resultados de las tecnológicas",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-28/la-bolsa-y-el-ibex-35.html",
+   "f": "2026-10-28T05:32:58Z",
+   "c": "tipos"
+  },
+  {
+   "t": "El BCE eleva las exigencias de capital a la banca por el colchón anticrisis",
    "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261027/11669667/gobierno-aprueba-2-200-millones-prestamos-navantia-proyectos-defensa.html",
-   "f": "2026-10-27T21:41:09Z",
-   "c": "bancos"
+   "u": "https://www.lavanguardia.com/economia/20261028/11669613/bce-eleva-exigencias-capital-banca-colchon-anticrisis.html",
+   "f": "2026-10-28T05:00:00Z",
+   "c": "tipos"
   },
   {
-   "t": "Las alumnas sostienen un voluntariado universitario que sigue en crecimiento",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-27/las-alumnas-sostienen-un-voluntariado-universitario-que-sigue-en-crecimiento.html",
-   "f": "2026-10-27T21:14:14Z",
-   "c": "economia"
-  },
-  {
-   "t": "Ferrovial crece un 7,1% en ventas y gana rentabilidad con el tirón de las autopistas en Estados Unidos",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-27/ferrovial-crece-un-71-en-ventas-y-gana-rentabilidad-con-el-tiron-de-las-autopistas-en-estados-unidos.html",
-   "f": "2026-10-27T21:13:14Z",
+   "t": "Latinoamérica gana terreno comercial con Asia como contrapeso al vínculo con Estados Unidos",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-28/latinoamerica-gana-terreno-comercial-con-asia-como-contrapeso-al-vinculo-con-estados-unidos.html",
+   "f": "2026-10-28T04:45:01Z",
    "c": "comercio"
   },
   {
-   "t": "El Gobierno aprueba 2.200 millones para Navantia y anticipa una cascada de adjudicaciones militares durante la campaña",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/10/27/6ae10d75e4d4d8894a8b458a.html",
-   "f": "2026-10-27T20:46:53Z",
+   "t": "El empleo masculino supera por primera vez el pico de la burbuja inmobiliaria en España",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-28/el-empleo-masculino-supera-por-primera-vez-el-pico-de-la-burbuja-inmobiliaria-en-espana.html",
+   "f": "2026-10-28T04:45:01Z",
+   "c": "vivienda"
+  },
+  {
+   "t": "El campo rechaza el acuerdo parcial sobre la PAC y mantiene las protestas este miércoles en Madrid",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-28/el-campo-rechaza-el-acuerdo-parcial-sobre-la-pac-y-mantiene-las-protestas-este-miercoles-en-madrid.html",
+   "f": "2026-10-28T04:45:01Z",
    "c": "general"
   },
   {
-   "t": "¿Por qué sube el paro si se está creando empleo? te lo explicamos en un minuto",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/por-que-sube-paro-si-se-esta-creando-empleo-te-explicamos-un-minuto_7054183_0.html",
-   "f": "2026-10-27T20:15:37Z",
-   "c": "empleo"
-  },
-  {
-   "t": "Renfe parte en 14 lotes su concurso para crear una filial de autobuses y dar entrada a pymes en sus planes de transporte por carretera",
+   "t": "Las navieras se hacen de oro con el alza de los fletes y disparan un 75% el beneficio medio por barco",
    "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-27/renfe-parte-en-14-lotes-su-concurso-para-crear-una-filial-de-autobuses-y-dar-entrada-a-pymes-en-sus-planes-de-transporte-por-carretera.html",
-   "f": "2026-10-27T19:06:29Z",
-   "c": "transporte"
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-28/las-navieras-se-hacen-de-oro-con-el-alza-de-los-fletes-y-disparan-un-75-el-beneficio-medio-por-barco.html",
+   "f": "2026-10-28T04:30:01Z",
+   "c": "comercio"
   },
   {
-   "t": "Asisa y SegurCaixa Adeslas dejan desierta la asistencia sanitaria de las fuerzas armadas",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261027/11669610/asisa-segurcaixa-adeslas-dejan-desierta-asistencia-sanitaria-fuerzas-armadas.html",
-   "f": "2026-10-27T18:26:02Z",
-   "c": "general"
-  },
-  {
-   "t": "El marketing español crece a golpe de descuentos mientras reduce empleo e inversión en branding: \"tener una marca fuerte hoy es más importante que nunca\"",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/empresas/2026/10/27/6ae0d49dfdddfff7758b45c5.html",
-   "f": "2026-10-27T17:47:48Z",
+   "t": "El inversor se rebela contra los sueldos de las cúpulas también en las pequeñas cotizadas",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-28/el-inversor-se-rebela-contra-los-sueldos-de-las-cupulas-tambien-en-las-pequenas-cotizadas.html",
+   "f": "2026-10-28T04:30:01Z",
    "c": "empleo"
+  },
+  {
+   "t": "La sentencia que obliga a los bancos a devolver en 24 horas el dinero robado de tu cuenta bancaria",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/sentencia-que-obliga-los-bancos-devolver-24-horas-dinero-robado-tu-cuenta-bancaria_7050378_0.html",
+   "f": "2026-10-28T04:00:40Z",
+   "c": "bancos"
   }
  ]
 }
