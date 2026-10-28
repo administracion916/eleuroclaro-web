@@ -1,6 +1,34 @@
 {
- "actualizado": "2026-10-28T21:05:43Z",
+ "actualizado": "2026-10-28T22:03:26Z",
  "items": [
+  {
+   "t": "Otra tragedia ferroviaria deja al menos 68 muertos y sacude España en plena precampaña: el Gobierno minimiza la caída del sistema y señala a una orden…",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/10/28/6ae2476ee85ece54498b456d.html",
+   "f": "2026-10-28T21:58:32Z",
+   "c": "general"
+  },
+  {
+   "t": "Isabel Pardo de Vera, ex presidenta de Adif: \"El Gobierno no puede hablar de error humano después de lo que ha hecho con el mantenimiento y la seguridad\"",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/10/28/6ae232e6e9cf4a51408b4584.html",
+   "f": "2026-10-28T21:58:24Z",
+   "c": "general"
+  },
+  {
+   "t": "Los controladores de Adif avisaron a Transportes en mayo de un riesgo para la seguridad por la \"fatiga\" del personal de los centros de control",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/empresas/2026/10/28/6ae25af3e85ece095e8b45a3.html",
+   "f": "2026-10-28T21:58:15Z",
+   "c": "general"
+  },
+  {
+   "t": "Alphabet reduce su beneficio un 33% en el tercer trimestre mientras dispara su gasto en IA",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-28/alphabet-reduce-su-beneficio-un-33-en-el-tercer-trimestre-mientras-dispara-su-gasto-en-ia.html",
+   "f": "2026-10-28T21:13:43Z",
+   "c": "tecnologia"
+  },
   {
    "t": "Microsoft dispara su beneficio un 32% apoyada en la buena marcha de su negocio relacionado con la IA",
    "m": "El País",
@@ -23,38 +51,10 @@
    "c": "tipos"
   },
   {
-   "t": "Iryo contradice la versión de Puente y asegura que su maquinista no recibió orden de reanudar la marcha antes del accidente",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/10/28/6ae239e1e9cf4ad0218b4589.html",
-   "f": "2026-10-28T18:20:27Z",
-   "c": "general"
-  },
-  {
    "t": "Warsh aplaza la subida de tipos de interés hasta después de las elecciones en Estados Unidos",
    "m": "La Vanguardia",
    "u": "https://www.lavanguardia.com/economia/20261028/11670438/warsh-aplaza-subida-tipos-interes-elecciones-estados-unidos.html",
    "f": "2026-10-28T18:15:17Z",
-   "c": "tipos"
-  },
-  {
-   "t": "La Fed opta por la prudencia antes de las elecciones de mitad de mandato y mantiene los tipos de interés",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/10/28/6ae23a7e21efa0d7558b45c7.html",
-   "f": "2026-10-28T18:13:51Z",
-   "c": "tipos"
-  },
-  {
-   "t": "La Fed no sorprende y mantiene sin cambios los tipos de interés",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/macroeconomia-00338/noticia-fed-no-sorprende-mantiene-cambios-tipos-interes-20261028190711.html",
-   "f": "2026-10-28T18:07:11Z",
-   "c": "tipos"
-  },
-  {
-   "t": "La Reserva Federal mantiene sin cambios los tipos de interés a menos de una semana de las ‘midterms’",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-28/la-reserva-federal-mantiene-sin-cambios-los-tipos-de-interes-a-menos-de-una-semana-de-las-miderms.html",
-   "f": "2026-10-28T18:01:11Z",
    "c": "tipos"
   }
  ]
