@@ -1,26 +1,40 @@
 {
- "actualizado": "2026-10-28T15:15:18Z",
+ "actualizado": "2026-10-28T16:14:53Z",
  "items": [
+  {
+   "t": "Cáritas alerta de que 51% de los inquilinos no tendrían un nivel de ingresos suficientes para acceder hoy al mismo alquiler",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/vivienda/2026/10/28/6ae1ca35e85ecefa5a8b456e.html",
+   "f": "2026-10-28T16:11:38Z",
+   "c": "vivienda"
+  },
+  {
+   "t": "Bruselas busca aumentar la capacidad de las refinerías europeas para frenar los precios de los combustibles",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-28/bruselas-busca-aumentar-la-capacidad-de-las-refinerias-europeas-para-frenar-los-precios-de-los-combustibles.html",
+   "f": "2026-10-28T16:11:21Z",
+   "c": "energia"
+  },
+  {
+   "t": "ING se suma a la batalla por las grandes fortunas y lanza en España su servicio de banca privada con 6.000 clientes",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/empresas/2026/10/28/6ae2154ae85ece60078b45c7.html",
+   "f": "2026-10-28T15:49:42Z",
+   "c": "bancos"
+  },
+  {
+   "t": "Euríbor hoy, miércoles 28 de octubre: nuevo repunte a las puertas de cerrar el mes",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/10/28/6ae1dcc3e9cf4ae34d8b45bc.html",
+   "f": "2026-10-28T15:38:48Z",
+   "c": "tipos"
+  },
   {
    "t": "El Ibex modera sus caídas y trata de sostener los 19.000 puntos",
    "m": "Cinco Días",
    "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-28/la-bolsa-y-el-ibex-35.html",
    "f": "2026-10-28T14:52:07Z",
    "c": "empresas"
-  },
-  {
-   "t": "Las bajas laborales le cuestan a España 92.000 millones al año y crecen casi cinco veces más que en la UE",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/empresas/2026/10/28/6ae1f09e21efa03e308b45a2.html",
-   "f": "2026-10-28T14:51:39Z",
-   "c": "comercio"
-  },
-  {
-   "t": "Nueva tragedia en la Alta Velocidad española con al menos 68 muertos: un AVE de Renfe embiste a un Iryo en Urda a más de 100 km por hora",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/empresas/2026/10/28/6ae1b066e85ece7a448b45a3.html",
-   "f": "2026-10-28T14:42:07Z",
-   "c": "transporte"
   },
   {
    "t": "Puente ve \"inexplicable\" la decisión del centro de control de ordenar la marcha del AVE",
@@ -42,20 +56,6 @@
    "u": "https://cincodias.elpais.com/companias/2026-10-28/google-negocia-la-venta-de-chips-de-ia-a-openai-y-eleva-la-presion-sobre-nvidia.html",
    "f": "2026-10-28T13:54:06Z",
    "c": "tecnologia"
-  },
-  {
-   "t": "Accidente de tren en Toledo: qué se sabe hasta ahora del choque entre un Iryo y un AVE y mapa de la zona",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/construccion-y-vivienda-00342/noticia-accidente-tren-toledo-sabe-ahora-choque-iryo-ave-mapa-zona-20261028145203.html",
-   "f": "2026-10-28T13:52:03Z",
-   "c": "transporte"
-  },
-  {
-   "t": "CIE Automotive sigue al alza en resultados y gana un 4% más al tercer trimestre",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-28/cie-automotive-sigue-al-alza-en-resultados-y-gana-un-4-mas-al-tercer-trimestre.html",
-   "f": "2026-10-28T13:51:28Z",
-   "c": "empresas"
   }
  ]
 }
