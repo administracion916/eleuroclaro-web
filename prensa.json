@@ -1,61 +1,61 @@
 {
- "actualizado": "2026-10-28T16:14:53Z",
+ "actualizado": "2026-10-28T17:15:46Z",
  "items": [
+  {
+   "t": "El Davos de las infraestructuras arranca en Madrid con el foco puesto en los desafíos climáticos y de la IA",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-28/el-davos-de-las-infraestructuras-arranca-en-madrid-con-el-foco-puesto-en-los-desafios-climaticos-y-de-la-ia.html",
+   "f": "2026-10-28T17:08:56Z",
+   "c": "tecnologia"
+  },
+  {
+   "t": "El precio del gas natural en Europa supera los 100 euros por primera vez desde 2022",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-28/el-precio-del-gas-natural-en-europa-supera-los-100-euros-por-primera-vez-desde-2022.html",
+   "f": "2026-10-28T17:07:29Z",
+   "c": "energia"
+  },
+  {
+   "t": "El Ibex 35 cede un 1,45% y pierde los 18.900 puntos arrastrado por Acciona Energía y Santander",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/bolsa-00348/noticia-ibex-35-cede-145-pierde-18900-puntos-arrastrado-acciona-energia-santander-20261028180414.html",
+   "f": "2026-10-28T17:04:14Z",
+   "c": "energia"
+  },
+  {
+   "t": "El Ibex pierde los 19.000 puntos lastrado por Santander y el regreso del temor a un nuevo ‘shock’ energético",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-28/la-bolsa-y-el-ibex-35.html",
+   "f": "2026-10-28T17:04:06Z",
+   "c": "energia"
+  },
+  {
+   "t": "El Ministerio de Transportes certificó, 21 días antes de la tragedia de Urda, que la red ferroviaria española estaba \"en niveles aceptables de riesgo\"",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/empresas/2026/10/28/6ae22636fdddffcd688b45c5.html",
+   "f": "2026-10-28T16:58:31Z",
+   "c": "general"
+  },
+  {
+   "t": "El precio del gas en Europa supera los 100 euros el megavatio por primera vez desde el 2022",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261028/11670429/precio-gas-europa-supera-100-euros-megavatio-primera-vez-2022.html",
+   "f": "2026-10-28T16:33:30Z",
+   "c": "energia"
+  },
+  {
+   "t": "El Gran Consumo advierte de altas tasas de \"absentismo\" laboral por bajas en logística, alimentación o transporte",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/gran-consumo-advierte-altas-tasas-absentismo-laboral-por-bajas-logistica-alimentacion-transporte_7054538_0.html",
+   "f": "2026-10-28T16:27:24Z",
+   "c": "general"
+  },
   {
    "t": "Cáritas alerta de que 51% de los inquilinos no tendrían un nivel de ingresos suficientes para acceder hoy al mismo alquiler",
    "m": "El Mundo",
    "u": "https://www.elmundo.es/economia/vivienda/2026/10/28/6ae1ca35e85ecefa5a8b456e.html",
    "f": "2026-10-28T16:11:38Z",
    "c": "vivienda"
-  },
-  {
-   "t": "Bruselas busca aumentar la capacidad de las refinerías europeas para frenar los precios de los combustibles",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-28/bruselas-busca-aumentar-la-capacidad-de-las-refinerias-europeas-para-frenar-los-precios-de-los-combustibles.html",
-   "f": "2026-10-28T16:11:21Z",
-   "c": "energia"
-  },
-  {
-   "t": "ING se suma a la batalla por las grandes fortunas y lanza en España su servicio de banca privada con 6.000 clientes",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/empresas/2026/10/28/6ae2154ae85ece60078b45c7.html",
-   "f": "2026-10-28T15:49:42Z",
-   "c": "bancos"
-  },
-  {
-   "t": "Euríbor hoy, miércoles 28 de octubre: nuevo repunte a las puertas de cerrar el mes",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/10/28/6ae1dcc3e9cf4ae34d8b45bc.html",
-   "f": "2026-10-28T15:38:48Z",
-   "c": "tipos"
-  },
-  {
-   "t": "El Ibex modera sus caídas y trata de sostener los 19.000 puntos",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-28/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-10-28T14:52:07Z",
-   "c": "empresas"
-  },
-  {
-   "t": "Puente ve \"inexplicable\" la decisión del centro de control de ordenar la marcha del AVE",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/transportes-00343/noticia-puente-califica-inexplicable-decision-centro-control-ordenar-marcha-ave-20261028151626.html",
-   "f": "2026-10-28T14:16:26Z",
-   "c": "general"
-  },
-  {
-   "t": "Puente califica de inexplicable que el centro de control permitiera al AVE reanudar la marcha con normalidad cuando el Iryo seguía parado",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-28/el-ministro-de-transportes-oscar-puente-comparece-para-dar-detalles-sobre-el-accidente-ferroviario-de-urda.html",
-   "f": "2026-10-28T13:59:06Z",
-   "c": "general"
-  },
-  {
-   "t": "Google negocia la venta de chips de IA a OpenAI y eleva la presión sobre Nvidia",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-28/google-negocia-la-venta-de-chips-de-ia-a-openai-y-eleva-la-presion-sobre-nvidia.html",
-   "f": "2026-10-28T13:54:06Z",
-   "c": "tecnologia"
   }
  ]
 }
