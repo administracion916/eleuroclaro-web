@@ -1,19 +1,54 @@
 {
- "actualizado": "2026-10-29T10:14:21Z",
+ "actualizado": "2026-10-29T11:08:45Z",
  "items": [
   {
-   "t": "Lagarde abandonará la presidencia del BCE el próximo 7 de febrero",
+   "t": "El CEO de Iryo alertó 23 días antes del accidente de que los fallos del LZB dejaban sus trenes inmovilizados",
    "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/dinero-inversion/2026/10/29/6ae31ae8e4d4d8a0548b459c.html",
-   "f": "2026-10-29T10:09:12Z",
+   "u": "https://www.elmundo.es/economia/2026/10/29/6ae32535e4d4d8256c8b45bf.html",
+   "f": "2026-10-29T11:01:21Z",
+   "c": "transporte"
+  },
+  {
+   "t": "Retrasos en la línea de alta velocidad Madrid-Levante por una incidencia eléctrica",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/10/29/6ae326ffe9cf4ae95d8b45b2.html",
+   "f": "2026-10-29T10:59:23Z",
+   "c": "energia"
+  },
+  {
+   "t": "Christine Lagarde dejará la presidencia del BCE el 7 de febrero y abre la carrera por su sucesión",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-29/christine-lagarde-dejara-la-presidencia-del-bce-el-7-de-febrero-y-abre-la-carrera-por-su-sucesion.html",
+   "f": "2026-10-29T10:38:54Z",
    "c": "tipos"
   },
   {
-   "t": "Los maquinistas mantienen la huelga de este jueves en Renfe \"en la defensa de la seguridad ferroviaria\": suspendidas las líneas C-1, C-3, C-4 y C-8 de…",
+   "t": "Los Inspectores de Hacienda denuncian el \"deterioro institucional\" y el descuido hacia los servicios públicos",
    "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/empresas/2026/10/29/6ae232b9e9cf4aae4e8b457d.html",
-   "f": "2026-10-29T09:57:58Z",
-   "c": "transporte"
+   "u": "https://www.elmundo.es/economia/2026/10/29/6ae30bcafc6c8359498b45b2.html",
+   "f": "2026-10-29T10:25:30Z",
+   "c": "impuestos"
+  },
+  {
+   "t": "Christine Lagarde dimite como presidenta del BCE: dejará el cargo el 7 de febrero",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261029/11671013/christine-lagarde-bce-dimite-dimision.html",
+   "f": "2026-10-29T10:15:20Z",
+   "c": "tipos"
+  },
+  {
+   "t": "Lagarde anuncia que abandonará la presidencia del BCE el próximo 7 de febrero",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/lagarde-anuncia-que-abandonara-presidencia-bce-proximo-7-febrero_7054895_0.html",
+   "f": "2026-10-29T10:15:12Z",
+   "c": "tipos"
+  },
+  {
+   "t": "Lagarde dejará la presidencia del BCE en febrero de 2027",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/finanzas-00340/noticia-lagarde-dejara-presidencia-bce-febrero-2027-20261029111007.html",
+   "f": "2026-10-29T10:10:07Z",
+   "c": "tipos"
   },
   {
    "t": "La Comisión de Investigación de Accidentes Ferroviarios pidió en 2024 medidas para “mitigar” fallos humanos tras un incidente similar al de Urda",
@@ -21,41 +56,6 @@
    "u": "https://elpais.com/economia/2026-10-29/la-comision-de-investigacion-de-accidentes-ferroviarios-pidio-en-2024-medidas-para-mitigar-fallos-humanos-tras-un-incidente-similar-al-de-urda.html",
    "f": "2026-10-29T09:57:15Z",
    "c": "general"
-  },
-  {
-   "t": "El Ministerio de Transportes certificó, 21 días antes de la tragedia de Urda, que la red ferroviaria española estaba \"en niveles aceptables de riesgo\"",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/empresas/2026/10/28/6ae22636fdddffcd688b45c5.html",
-   "f": "2026-10-29T09:44:21Z",
-   "c": "general"
-  },
-  {
-   "t": "Las gasolinas acumulan cuatro semanas a la baja aunque aún cuesta más de 100 euros llenar un depósito de diésel",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/las-gasolinas-acumulan-cuatro-semanas-baja-aunque-aun-cuesta-mas-100-euros-llenar-un-deposito-diesel_7054853_0.html",
-   "f": "2026-10-29T09:42:32Z",
-   "c": "energia"
-  },
-  {
-   "t": "Los beneficios de Ford se enfrían por la transición al coche eléctrico o los aranceles de Trump",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/empresas/beneficios-ford-enfrian-transicion-electrico-aranceles-trump_7054850_0.html",
-   "f": "2026-10-29T09:30:45Z",
-   "c": "transporte"
-  },
-  {
-   "t": "BY Venture Partners cierra un fondo de 54 millones y busca nuevas inversiones en ‘start-ups’ españolas",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-29/by-venture-partners-cierra-un-fondo-de-54-millones-y-busca-nuevas-inversiones-en-start-ups-espanolas.html",
-   "f": "2026-10-29T09:28:59Z",
-   "c": "empresas"
-  },
-  {
-   "t": "El Ibex sufre y vuelve a niveles de junio arrastrado por BBVA y Santander",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-29/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-10-29T09:21:42Z",
-   "c": "bancos"
   }
  ]
 }
