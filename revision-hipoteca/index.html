@@ -1,0 +1,129 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>¿Cuándo cambia tu cuota de hipoteca? Calculadora de la revisión · El Euro Claro</title>
+<meta name="description" content="Pon el mes de tu próxima revisión, cada cuánto se revisa y qué mes de Euríbor usa tu banco: te decimos qué Euríbor te toca, cuándo cambia tu cuota y cuánto se mueve por cada décima.">
+<meta name="theme-color" content="#0e2a47">
+<meta property="og:site_name" content="El Euro Claro">
+<meta property="og:title" content="¿Cuándo cambia tu cuota de hipoteca?">
+<meta property="og:description" content="Qué Euríbor te toca y cuándo, con 3 datos de tu escritura.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://eleuroclaro.es/revision-hipoteca/">
+<meta property="og:locale" content="es_ES">
+<meta name="twitter:card" content="summary">
+<link rel="canonical" href="https://eleuroclaro.es/revision-hipoteca/">
+<!-- Página en una subcarpeta: todas las rutas son absolutas (empiezan por /). -->
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="stylesheet" href="/fonts.css">
+<link rel="stylesheet" href="/style.css?v=20261019c">
+</head>
+<body>
+
+<header class="top">
+  <div class="wrap">
+    <a class="brand" href="/" aria-label="El Euro Claro, inicio">
+      <img class="coin" src="/favicon.svg" alt="" width="40" height="40">
+      El Euro Claro
+    </a>
+    <nav class="nav" aria-label="Secciones">
+      <a class="nav-nl" href="/domingo/?src=web-cabecera"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><rect x="2.5" y="5" width="19" height="14" rx="2.5"/><path d="M3 6.5l9 6.5 9-6.5"/></svg>Newsletter gratis</a>
+      <a href="/#noticias">Noticias</a>
+      <a href="/#videos">Vídeos</a>
+      <a href="/inflacion/">Calculadora</a>
+      <a href="/#kit">Kit</a>
+      <a href="/recursos/">Recursos</a>
+      <a href="/empresas/">Empresas</a>
+      <a href="/libros/">Libros</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <section class="section page-head calc-head">
+    <div class="wrap">
+      <p class="eyebrow">Calculadora · hipoteca variable</p>
+      <h1>¿Cuándo cambia <em>tu cuota</em>?</h1>
+      <p class="intro">El BCE decide un día, pero tu cuota cambia en tu fecha de revisión y con el Euríbor del mes que diga tu contrato. Busca estos 3 datos en tu escritura o en tu recibo.</p>
+      <p class="small calc-privado">🔒 Tus cifras no salen de tu móvil: el cálculo se hace aquí mismo y no guardamos nada.</p>
+      <form class="calc" id="calc" novalidate>
+        <label style="font-weight:700">Mes de tu próxima revisión
+          <select style="display:block;width:100%;margin-top:.35rem;padding:.7rem .8rem;font-size:1.15rem;border:1px solid #c9d2de;border-radius:.5rem" id="mes"><option value="0">Enero</option><option value="1">Febrero</option><option value="2">Marzo</option><option value="3">Abril</option><option value="4">Mayo</option><option value="5">Junio</option><option value="6">Julio</option><option value="7">Agosto</option><option value="8">Septiembre</option><option value="9">Octubre</option><option value="10">Noviembre</option><option value="11" selected>Diciembre</option></select></label>
+        <label style="font-weight:700">Cada cuánto se revisa
+          <select style="display:block;width:100%;margin-top:.35rem;padding:.7rem .8rem;font-size:1.15rem;border:1px solid #c9d2de;border-radius:.5rem" id="cada"><option value="6">Cada 6 meses</option><option value="12" selected>Cada 12 meses</option></select></label>
+        <label style="font-weight:700">Qué Euríbor usa tu banco<br><small style="font-weight:400">En la escritura: el «publicado» 1 o 2 meses antes de la revisión.</small>
+          <select style="display:block;width:100%;margin-top:.35rem;padding:.7rem .8rem;font-size:1.15rem;border:1px solid #c9d2de;border-radius:.5rem" id="antes"><option value="1">El de 1 mes antes</option><option value="2" selected>El de 2 meses antes</option></select></label>
+        <label style="font-weight:700">Lo que debes ahora (€) <small style="font-weight:400">(para calcular cuánto se mueve)</small>
+          <input style="display:block;width:100%;margin-top:.35rem;padding:.7rem .8rem;font-size:1.15rem;border:1px solid #c9d2de;border-radius:.5rem" type="number" id="deuda" inputmode="decimal" min="0" step="100" value="150000"></label>
+        <label style="font-weight:700">Años que te quedan
+          <input style="display:block;width:100%;margin-top:.35rem;padding:.7rem .8rem;font-size:1.15rem;border:1px solid #c9d2de;border-radius:.5rem" type="number" id="anos" inputmode="numeric" min="1" max="40" step="1" value="25"></label>
+        <label style="font-weight:700">Tu tipo de ahora (%)
+          <input style="display:block;width:100%;margin-top:.35rem;padding:.7rem .8rem;font-size:1.15rem;border:1px solid #c9d2de;border-radius:.5rem" type="number" id="tipo" inputmode="decimal" min="0" max="20" step="0.001" value="4.247"></label>
+        <button class="btn btn-primary calc-boton" type="submit">Calcular</button>
+        <div id="res" aria-live="polite"></div>
+      </form>
+    </div>
+  </section>
+
+  <section class="section alt">
+    <div class="wrap prose">
+      <h2>Las 3 cosas que buscas en tu escritura</h2>
+      <ol>
+        <li><strong>Cada cuánto se revisa:</strong> casi siempre cada 6 o cada 12 meses, en la fecha que dice el contrato.</li>
+        <li><strong>Qué mes de Euríbor usan:</strong> muchos bancos usan el publicado 1 o 2 meses antes de la revisión.</li>
+        <li><strong>Tu diferencial:</strong> lo que se suma al Euríbor. Si es bonificado, puede subir si dejas la nómina o los seguros que te pidieron.</li>
+      </ol>
+      <p>Si tu escritura dice otra cosa, manda la escritura. El último dato oficial, en <a href="/euribor/?src=revision-hipoteca">Euríbor hoy</a>.</p>
+      <p>¿Cuánto de tu cuota son intereses? <a href="/intereses-hipoteca/?src=revision-hipoteca">Míralo aquí</a>. Y para entender cada línea del recibo, <a href="/hipoteca/?src=revision-hipoteca">la guía gratis</a>.</p>
+
+      <h2>Fuentes</h2>
+      <ul class="small">
+        <li>Banco de España, Portal del Cliente Bancario: tipos de referencia oficiales y revisión de las hipotecas variables.</li>
+        <li>Cuota con el sistema francés: cálculo propio, con el resto de condiciones sin cambios.</li>
+      </ul>
+      <p>Cada domingo te contamos lo que cambia en tu bolsillo, gratis: <a href="/domingo/?src=revision-hipoteca">apúntate a la newsletter</a>.</p>
+      <p class="small note-legal">Contenido divulgativo: no es asesoramiento financiero.</p>
+    </div>
+  </section>
+</main>
+
+<footer class="foot">
+  <div class="wrap">
+    <p class="lema">La economía de tu bolsillo, en euros claros.</p>
+    <nav aria-label="Legal">
+      <a href="/aviso-legal.html">Aviso legal</a>
+      <a href="/privacidad.html">Privacidad</a>
+      <a href="/cookies.html">Cookies</a>
+      <a href="/correcciones/">Correcciones</a>
+      <span>Contacto: <span class="mail">hola@eleuroclaro.es</span></span>
+    </nav>
+    <p class="disclaimer">El Euro Claro es un medio divulgativo. La información es general y no constituye asesoramiento financiero ni una recomendación de comprar o vender ningún producto. Algunos enlaces pueden ser de afiliado y se indica cuando lo son.</p>
+    <p>© 2026 El Euro Claro · Odana Ingeniería SL</p>
+  </div>
+</footer>
+<script>
+(function(){
+  var M=['enero','febrero','marzo','abril','mayo','junio','julio','agosto','septiembre','octubre','noviembre','diciembre'];
+  var f=document.getElementById('calc'), r=document.getElementById('res');
+  var eur=function(x){return String(Math.round(x)).replace(/\B(?=(\d{3})+(?!\d))/g,'.')+' €';};
+  var num=function(id){return parseFloat(String(document.getElementById(id).value).replace(',','.'))||0;};
+  function pay(P,t,n){var i=t/1200;return i>0?P*i/(1-Math.pow(1+i,-n)):P/n;}
+  function calc(e){
+    if(e)e.preventDefault();
+    var m=+document.getElementById('mes').value, cada=+document.getElementById('cada').value, antes=+document.getElementById('antes').value;
+    var ref=M[(m-antes+12)%12], sig=M[(m+cada)%12], ref2=M[(m+cada-antes+12)%12];
+    var P=num('deuda'), n=Math.round(num('anos')*12), t=num('tipo');
+    var txt='<p style="margin:.6rem 0 .2rem">Tu cuota cambia en <strong>'+M[m]+'</strong>, con el Euríbor de <strong>'+ref+'</strong>.</p>'+
+      '<p style="margin:.2rem 0">La siguiente revisión, en <strong>'+sig+(cada==12?' del año que viene':'')+'</strong>, con el de <strong>'+ref2+'</strong>.</p>';
+    if(P>0&&n>0){var d=pay(P,t+0.1,n)-pay(P,t,n);
+      txt+='<p style="margin:.4rem 0 0">Con tu hipoteca, cada <strong>décima</strong> de Euríbor son unos <strong>'+eur(d)+' al mes</strong>; un cuarto de punto, unos <strong>'+eur(pay(P,t+0.25,n)-pay(P,t,n))+'</strong>.</p>';}
+    r.innerHTML=txt;
+  }
+  f.addEventListener('submit',calc); f.addEventListener('change',calc); calc();
+})();
+</script>
+<!-- Cloudflare Web Analytics --><script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "e81aecc33a6b40ccab86c1fbc9fa801c"}'></script><!-- End Cloudflare Web Analytics -->
+</body>
+</html>
