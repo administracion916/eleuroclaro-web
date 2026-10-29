@@ -1,6 +1,27 @@
 {
- "actualizado": "2026-10-29T18:12:26Z",
+ "actualizado": "2026-10-29T19:45:09Z",
  "items": [
+  {
+   "t": "Galán traslada sus condolencias a la familia de Fátima Báñez y de todos los fallecidos",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/galan-traslada-sus-condolencias-fatima-banez-todos-los-fallecidos_7055208_0.html",
+   "f": "2026-10-29T18:35:57Z",
+   "c": "general"
+  },
+  {
+   "t": "Ouigo cancela todos sus trenes para el 30 de octubre y el 2 de noviembre tras una jornada de caos en las vías",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-29/renfe-suspende-para-hoy-todos-los-viajes-de-alta-velocidad-entre-madrid-y-andalucia-y-ofrecera-un-plan-alternativo-a-partir-de-manana.html",
+   "f": "2026-10-29T18:31:10Z",
+   "c": "transporte"
+  },
+  {
+   "t": "El aviso de Manuel Galán, alcalde de Urda y anfitrión a su pesar de la tragedia: \"Esto no puede volver a pasar\"",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/10/29/6ae3825421efa0471e8b4577.html",
+   "f": "2026-10-29T18:29:45Z",
+   "c": "general"
+  },
   {
    "t": "El tramo de Urda ha sufrido al menos 10 incidencias en el último año, pero no estaba considerado como uno de los puntos negros del sistema ferroviario",
    "m": "El Mundo",
@@ -30,32 +51,11 @@
    "c": "general"
   },
   {
-   "t": "Ouigo, obligado a cancelar todos sus trenes el viernes 30 de octubre y el lunes 2 de noviembre ante la huelga de maquinistas",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/10/29/6ae37e72e9cf4ae2098b4592.html",
-   "f": "2026-10-29T17:14:35Z",
-   "c": "transporte"
-  },
-  {
    "t": "El Ibex 35 salva los 18.800 puntos (-0,14%) tras pausar los tipos el BCE, con el crudo en 114 dólares",
    "m": "Europa Press",
    "u": "https://www.europapress.es/economia/bolsa-00348/noticia-ibex-35-salva-18800-puntos-014-pausar-tipos-bce-crudo-114-dolares-20261029181115.html",
    "f": "2026-10-29T17:11:15Z",
    "c": "tipos"
-  },
-  {
-   "t": "El máximo ejecutivo de Nvidia habría sido espiado por una empresaria china",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261029/11671390/maximo-ejecutivo-nvidia-habria-sido-espiado-empresaria-china.html",
-   "f": "2026-10-29T16:58:54Z",
-   "c": "tecnologia"
-  },
-  {
-   "t": "La Autoridad de Investigación de Accidentes mantiene en 69 los fallecidos en el siniestro de los trenes",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/transportes-00343/noticia-autoridad-investigacion-accidentes-eleva-74-fallecidos-20261029174722.html",
-   "f": "2026-10-29T16:47:22Z",
-   "c": "transporte"
   }
  ]
 }
