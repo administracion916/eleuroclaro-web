@@ -1,61 +1,61 @@
 {
- "actualizado": "2026-10-28T22:03:26Z",
+ "actualizado": "2026-10-29T06:05:44Z",
  "items": [
   {
-   "t": "Otra tragedia ferroviaria deja al menos 68 muertos y sacude España en plena precampaña: el Gobierno minimiza la caída del sistema y señala a una orden…",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/10/28/6ae2476ee85ece54498b456d.html",
-   "f": "2026-10-28T21:58:32Z",
-   "c": "general"
-  },
-  {
-   "t": "Isabel Pardo de Vera, ex presidenta de Adif: \"El Gobierno no puede hablar de error humano después de lo que ha hecho con el mantenimiento y la seguridad\"",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/10/28/6ae232e6e9cf4a51408b4584.html",
-   "f": "2026-10-28T21:58:24Z",
-   "c": "general"
-  },
-  {
-   "t": "Los controladores de Adif avisaron a Transportes en mayo de un riesgo para la seguridad por la \"fatiga\" del personal de los centros de control",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/empresas/2026/10/28/6ae25af3e85ece095e8b45a3.html",
-   "f": "2026-10-28T21:58:15Z",
-   "c": "general"
-  },
-  {
-   "t": "Alphabet reduce su beneficio un 33% en el tercer trimestre mientras dispara su gasto en IA",
+   "t": "Las Bolsas europeas apuntan al alza pese a las dudas sobre la IA y a la espera del BCE",
    "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-28/alphabet-reduce-su-beneficio-un-33-en-el-tercer-trimestre-mientras-dispara-su-gasto-en-ia.html",
-   "f": "2026-10-28T21:13:43Z",
-   "c": "tecnologia"
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-29/la-bolsa-y-el-ibex-35.html",
+   "f": "2026-10-29T05:49:42Z",
+   "c": "tipos"
   },
   {
-   "t": "Microsoft dispara su beneficio un 32% apoyada en la buena marcha de su negocio relacionado con la IA",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-28/microsoft-dispara-su-beneficio-un-32-apoyada-en-la-buena-marcha-de-su-negocio-relacionado-con-la-ia.html",
-   "f": "2026-10-28T20:52:18Z",
-   "c": "tecnologia"
-  },
-  {
-   "t": "El Ibex pierde los 18.900 puntos lastrado por Santander y el regreso del temor a un nuevo ‘shock’ energético",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-28/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-10-28T20:20:03Z",
-   "c": "energia"
-  },
-  {
-   "t": "La Fed mantiene los tipos de interés a las puertas de las elecciones de medio mandato en Estados Unidos",
+   "t": "El beneficio de Banco Sabadell se estanca en 1.376 millones hasta septiembre tras la venta de TSB",
    "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/fed-mantiene-los-tipos-interes-las-puertas-las-elecciones-medio-mandato-estados-unidos_7054696_0.html",
-   "f": "2026-10-28T18:44:53Z",
-   "c": "tipos"
+   "u": "https://www.20minutos.es/lainformacion/empresas/beneficio-banco-sabadell-estanca_7054757_0.html",
+   "f": "2026-10-29T05:35:05Z",
+   "c": "bancos"
   },
   {
-   "t": "Warsh aplaza la subida de tipos de interés hasta después de las elecciones en Estados Unidos",
+   "t": "Los beneficios del Sabadell caen un 1% tras vender TSB",
    "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261028/11670438/warsh-aplaza-subida-tipos-interes-elecciones-estados-unidos.html",
-   "f": "2026-10-28T18:15:17Z",
-   "c": "tipos"
+   "u": "https://www.lavanguardia.com/economia/20261029/11670580/beneficios-sabadell-caen-1-vender-tsb.html",
+   "f": "2026-10-29T05:22:56Z",
+   "c": "bancos"
+  },
+  {
+   "t": "El Sabadell reduce el beneficio de enero a septiembre un 1%, hasta los 1.376 millones",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-29/el-sabadell-reduce-el-beneficio-de-enero-a-septiembre-un-1-hasta-los-1376-millones.html",
+   "f": "2026-10-29T05:09:38Z",
+   "c": "bancos"
+  },
+  {
+   "t": "El Reino Unido aplaza las reformas ante el elevado peso de la deuda",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261029/11670565/reino-unido-aplaza-reformas-elevado-peso-deuda.html",
+   "f": "2026-10-29T05:00:00Z",
+   "c": "general"
+  },
+  {
+   "t": "Lo que no te han contado del Mundial 2030 en Netflix",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261029/11670222/mundial-netflix-pablo-foncillas-pf-video-seo-lv.html",
+   "f": "2026-10-29T05:00:00Z",
+   "c": "general"
+  },
+  {
+   "t": "Cada vez más pensiones, pero no de viudedad: por qué estas prestaciones no avanzan al ritmo de las jubilaciones",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-29/cada-vez-mas-pensiones-pero-no-de-viudedad-por-que-estas-prestaciones-no-avanzan-al-ritmo-de-las-jubilaciones.html",
+   "f": "2026-10-29T04:45:01Z",
+   "c": "pensiones"
+  },
+  {
+   "t": "Maquinistas y ferroviarios se quejan de ser señalados: “Un error humano se produce cuando no tienes lo necesario para trabajar”",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-29/maquinistas-y-ferroviarios-se-quejan-de-ser-senalados-un-error-humano-se-produce-cuando-no-tienes-lo-necesario-para-trabajar.html",
+   "f": "2026-10-29T04:45:01Z",
+   "c": "general"
   }
  ]
 }
