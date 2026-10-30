@@ -1,6 +1,27 @@
 {
- "actualizado": "2026-10-29T22:10:43Z",
+ "actualizado": "2026-10-30T00:01:02Z",
  "items": [
+  {
+   "t": "Los accidentes ferroviarios se disparan ante los recortes en el mantenimiento de la red",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/2026/10/30/accidentes-ferroviarios-disparan-recortes-mantenimiento-red.html",
+   "f": "2026-10-29T23:36:33Z",
+   "c": "general"
+  },
+  {
+   "t": "Airbus, Nokia y Vestas escoltan a la UE en su cumbre clave en Canadá",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/2026/10/30/airbus-nokia-vestas-escoltan-ue-cumbre-clave-canada.html",
+   "f": "2026-10-29T23:34:08Z",
+   "c": "comercio"
+  },
+  {
+   "t": "Más empleo y menos emancipación, la paradoja de los jóvenes en España",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/vivienda/2026/10/30/6ae38b1521efa04b398b4587.html",
+   "f": "2026-10-29T23:01:58Z",
+   "c": "empleo"
+  },
   {
    "t": "Adif consintió prorrogar el viejo sistema LZB por un ahorro de 37 millones de euros",
    "m": "El Mundo",
@@ -23,13 +44,6 @@
    "c": "empresas"
   },
   {
-   "t": "¿Dependía todo de un solo operador? Las cinco capas de seguridad que no evitaron la tragedia de Urda",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/10/29/6ae34bfde9cf4a71178b45ac.html",
-   "f": "2026-10-29T21:48:43Z",
-   "c": "general"
-  },
-  {
    "t": "Los maquinistas elevan su pulso por la seguridad con nuevas convocatorias de huelga",
    "m": "Expansión",
    "u": "https://www.expansion.com/economia/2026/10/29/maquinistas-elevan-pulso-seguridad-nuevas-convocatorias-huelga.html",
@@ -42,20 +56,6 @@
    "u": "https://elpais.com/economia/2026-10-30/el-376-de-los-trabajadores-espanoles-estan-sobrecualificados-para-el-puesto-que-desempenan.html",
    "f": "2026-10-29T21:00:00Z",
    "c": "empleo"
-  },
-  {
-   "t": "Alphabet se desploma en Bolsa y Microsoft resiste: los impactos desiguales de la IA",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-29/alphabet-se-desploma-en-bolsa-y-microsoft-rebota-los-impactos-desiguales-de-la-ia.html",
-   "f": "2026-10-29T20:44:40Z",
-   "c": "tecnologia"
-  },
-  {
-   "t": "El euro cae a mínimos tras el BCE, Wall Street sufre el desplome de Google y la banca pesa en el Ibex",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-29/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-10-29T20:26:04Z",
-   "c": "tipos"
   }
  ]
 }
