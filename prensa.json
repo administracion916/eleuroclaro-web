@@ -1,61 +1,61 @@
 {
- "actualizado": "2026-10-30T00:01:02Z",
+ "actualizado": "2026-10-30T06:15:30Z",
  "items": [
   {
-   "t": "Los accidentes ferroviarios se disparan ante los recortes en el mantenimiento de la red",
-   "m": "Expansión",
-   "u": "https://www.expansion.com/economia/2026/10/30/accidentes-ferroviarios-disparan-recortes-mantenimiento-red.html",
-   "f": "2026-10-29T23:36:33Z",
-   "c": "general"
+   "t": "CaixaBank gana 4.962 millones hasta septiembre, un 12,9% más",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-30/caixabank-gana-4962-millones-hasta-septiembre-un-129-mas.html",
+   "f": "2026-10-30T05:57:24Z",
+   "c": "bancos"
   },
   {
-   "t": "Airbus, Nokia y Vestas escoltan a la UE en su cumbre clave en Canadá",
-   "m": "Expansión",
-   "u": "https://www.expansion.com/economia/2026/10/30/airbus-nokia-vestas-escoltan-ue-cumbre-clave-canada.html",
-   "f": "2026-10-29T23:34:08Z",
+   "t": "Los bancos alertan de una \"desaceleración\" de las hipotecas por la subida de precios en la vivienda y las menores compraventas",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/dinero-inversion/2026/10/30/6ae357fdfc6c8351168b4581.html",
+   "f": "2026-10-30T05:24:24Z",
+   "c": "tipos"
+  },
+  {
+   "t": "Catalunya busca su espacio en la reconstrucción de Ucrania",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261030/11671489/catalunya-busca-espacio-reconstruccion-ucrania.html",
+   "f": "2026-10-30T05:00:00Z",
    "c": "comercio"
   },
   {
-   "t": "Más empleo y menos emancipación, la paradoja de los jóvenes en España",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/vivienda/2026/10/30/6ae38b1521efa04b398b4587.html",
-   "f": "2026-10-29T23:01:58Z",
-   "c": "empleo"
+   "t": "La pugna entre De Cos y el neerlandés Knot por el BCE entra en su fase final",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261030/11671488/pugna-cos-neerlandes-knot-bce-entra-fase-final.html",
+   "f": "2026-10-30T05:00:00Z",
+   "c": "tipos"
   },
   {
-   "t": "Adif consintió prorrogar el viejo sistema LZB por un ahorro de 37 millones de euros",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/10/29/6ae3b9b721efa0a84e8b45da.html",
-   "f": "2026-10-29T21:51:00Z",
+   "t": "Lagarde, el ‘búho’ que pilotó durante dos décadas las finanzas mundiales sin estar predestinada a ello",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-30/lagarde-el-buho-que-piloto-durante-dos-decadas-las-finanzas-mundiales-sin-estar-predestinada-a-ello.html",
+   "f": "2026-10-30T04:45:01Z",
+   "c": "tipos"
+  },
+  {
+   "t": "Hasta 84.000 euros para víctimas con graves secuelas: así serán las indemnizaciones por la tragedia ferroviaria",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-30/hasta-84000-euros-para-victimas-con-graves-secuelas-asi-seran-las-indemnizaciones-por-la-tragedia-ferroviaria.html",
+   "f": "2026-10-30T04:45:01Z",
    "c": "general"
   },
   {
-   "t": "En el corazón del 'factor humano' en crisis por Urda: \"En un sistema degradado, somos la última protección'",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/10/29/6ae3bb3ae4d4d8185e8b45a1.html",
-   "f": "2026-10-29T21:50:31Z",
-   "c": "general"
-  },
-  {
-   "t": "Amazon reduce su beneficio un 2,4% en el tercer trimestre, hasta los 20.685 millones",
+   "t": "El empleo público aporta más de un tercio de los nuevos puestos de trabajo tras el retroceso de 2025",
    "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-29/amazon-reduce-su-beneficio-un-24-en-el-tercer-trimestre-hasta-los-20685-millones.html",
-   "f": "2026-10-29T21:49:32Z",
-   "c": "empresas"
-  },
-  {
-   "t": "Los maquinistas elevan su pulso por la seguridad con nuevas convocatorias de huelga",
-   "m": "Expansión",
-   "u": "https://www.expansion.com/economia/2026/10/29/maquinistas-elevan-pulso-seguridad-nuevas-convocatorias-huelga.html",
-   "f": "2026-10-29T21:18:21Z",
+   "u": "https://elpais.com/economia/2026-10-30/el-empleo-publico-aporta-mas-de-un-tercio-de-los-nuevos-puestos-de-trabajo-tras-el-retroceso-de-2025.html",
+   "f": "2026-10-30T04:45:01Z",
    "c": "empleo"
   },
   {
-   "t": "El 37,6% de los trabajadores españoles están sobrecualificados para el puesto que desempeñan",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-30/el-376-de-los-trabajadores-espanoles-estan-sobrecualificados-para-el-puesto-que-desempenan.html",
-   "f": "2026-10-29T21:00:00Z",
-   "c": "empleo"
+   "t": "Los analistas alertan de volatilidad a corto plazo en el euro y la deuda pero prevén continuidad en el BCE",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-30/los-analistas-alertan-de-volatilidad-a-corto-plazo-en-el-euro-y-la-deuda-pero-preven-continuidad-en-el-bce.html",
+   "f": "2026-10-30T04:25:00Z",
+   "c": "tipos"
   }
  ]
 }
