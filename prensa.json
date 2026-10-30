@@ -1,61 +1,61 @@
 {
- "actualizado": "2026-10-30T08:09:40Z",
+ "actualizado": "2026-10-30T10:10:57Z",
  "items": [
   {
-   "t": "El Ibex pierde los 18.800 puntos en plena corrección de las tecnológicas por los resultados de Amazon",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-30/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-10-30T08:06:15Z",
-   "c": "tecnologia"
-  },
-  {
-   "t": "España creció en el tercer trimestre un 2,7%",
+   "t": "España creció en el tercer trimestre un 2,7% impulsada por el consumo y el gasto público",
    "m": "El País",
    "u": "https://elpais.com/economia/2026-10-30/espana-crecio-en-el-tercer-trimestre-un-27.html",
-   "f": "2026-10-30T08:02:35Z",
+   "f": "2026-10-30T10:02:41Z",
    "c": "general"
   },
   {
-   "t": "El PIB creció un 0,6% en los meses de verano, una décima menos, pero acelera su avance interanual al 2,7%",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/macroeconomia-00338/noticia-pib-crecio-06-meses-verano-decima-menos-acelera-avance-interanual-27-20261030090047.html",
-   "f": "2026-10-30T08:00:47Z",
-   "c": "economia"
-  },
-  {
-   "t": "El IPC se mantiene en el 4,9% en octubre pese al abaratamiento de las gasolinas",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/macroeconomia-00338/noticia-ipc-mantiene-49-octubre-pese-abaratamiento-gasolinas-20261030090031.html",
-   "f": "2026-10-30T08:00:31Z",
-   "c": "energia"
-  },
-  {
-   "t": "La familia Cosmen y el fondo Asterion lanzan una OPA para excluir de bolsa a Mobico, la matriz de Alsa",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/empresas/familia-cosmen-fondo-asterion-lanzan-una-opa-para-excluir-bolsa-mobico-matriz-alsa_7055285_0.html",
-   "f": "2026-10-30T07:30:36Z",
-   "c": "empresas"
-  },
-  {
-   "t": "Telefónica encabeza el nuevo escudo antifraude de las operadoras con 241 millones de llamadas bloqueadas",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/empresas/telefonica-encabeza-nuevo-escudo-antifraude-las-operadoras-con-241-millones-llamadas-bloqueadas_7055126_0.html",
-   "f": "2026-10-30T07:30:00Z",
-   "c": "general"
-  },
-  {
-   "t": "Acerinox dispara su beneficio neto hasta los 162 millones en los nueve primeros meses",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/noticia-acerinox-dispara-beneficio-neto-162-millones-nueve-primeros-meses-20261030081653.html",
-   "f": "2026-10-30T07:16:53Z",
-   "c": "empresas"
-  },
-  {
-   "t": "Adif consintió prorrogar el viejo sistema LZB por un ahorro de 37 millones de euros",
+   "t": "El trabajador de Adif señalado por Puente al ordenar al AVE reanudar la marcha se niega a declarar ante la Guardia Civil",
    "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/10/29/6ae3b9b721efa0a84e8b45da.html",
-   "f": "2026-10-30T07:14:32Z",
+   "u": "https://www.elmundo.es/economia/2026/10/30/6ae46aeb21efa0d3758b458b.html",
+   "f": "2026-10-30T10:01:22Z",
+   "c": "empleo"
+  },
+  {
+   "t": "Moeve gana 1.430 millones, cinco veces más, y eleva a máximos sus inversiones",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/empresas/moeve-gana-un-record-1-430-millones-seis-veces-mas-eleva-maximos-sus-inversiones_7055382_0.html",
+   "f": "2026-10-30T09:51:27Z",
    "c": "general"
+  },
+  {
+   "t": "Los inspectores de Hacienda piden refundar la Agencia Tributaria para despolitizar su cúpula",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-30/los-inspectores-de-hacienda-piden-refundar-la-agencia-tributaria-para-despolitizar-su-cupula.html",
+   "f": "2026-10-30T09:34:17Z",
+   "c": "impuestos"
+  },
+  {
+   "t": "La economía alemana se desacelera de nuevo y crece un 0,2% en el tercer trimestre",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/2026/10/30/economia-alemana-desacelera-nuevo-crece-0-2-tercer-trimestre.html",
+   "f": "2026-10-30T09:32:23Z",
+   "c": "general"
+  },
+  {
+   "t": "Moeve multiplica casi por tres su beneficio ajustado, hasta 1.134 millones, por los mayores márgenes del refino",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-30/moeve-multiplica-casi-por-tres-su-beneficio-ajustado-hasta-1134-millones-por-los-mayores-margenes-del-refino.html",
+   "f": "2026-10-30T09:30:00Z",
+   "c": "empresas"
+  },
+  {
+   "t": "Los inspectores de Hacienda piden refundar la Agencia Tributaria ante \"la mayor crisis de su historia\"",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/los-inspectores-hacienda-piden-refundar-agencia-tributaria-ante-mayor-crisis-su-historia_7055225_0.html",
+   "f": "2026-10-30T09:23:25Z",
+   "c": "impuestos"
+  },
+  {
+   "t": "El PIB de Francia se contrae en el tercer trimestre y no ha crecido en todo el año",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261030/11671889/francia-pib-crecimiento-tercer-trimestre.html",
+   "f": "2026-10-30T09:18:35Z",
+   "c": "economia"
   }
  ]
 }
