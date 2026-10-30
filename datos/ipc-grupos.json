@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-29",
+ "actualizado": "2026-10-30",
  "periodo": "septiembre de 2026",
  "anyo": 2026,
  "mes": 9,
@@ -72,11 +72,6 @@
   }
  ],
  "general_historia": [
-  {
-   "anyo": 2024,
-   "mes": 10,
-   "tasa": 1.8
-  },
   {
    "anyo": 2024,
    "mes": 11,
@@ -190,6 +185,11 @@
   {
    "anyo": 2026,
    "mes": 9,
+   "tasa": 4.9
+  },
+  {
+   "anyo": 2026,
+   "mes": 10,
    "tasa": 4.9
   }
  ],
