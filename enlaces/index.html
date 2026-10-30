@@ -41,7 +41,7 @@
   <ul class="lk">
     <li><a class="main" data-utm href="https://eleuroclaro.substack.com/subscribe">Guía gratis: lee tu nómina en 2 minutos<small>Te llega al apuntarte al resumen del domingo</small></a></li>
     <li><a class="main" href="/inflacion/">¿Cuánto te cuesta a ti la subida de precios?<small>Calculadora gratis con los datos del INE, en 1 minuto</small></a></li>
-    <li><a data-utm href="https://eleuroclaro.es/kit/">Kit de cuentas de casa (Excel, 19 €)<small>Presupuesto, hipoteca y ahorro en una hoja</small></a></li>
+    <li><a data-utm href="https://eleuroclaro.es/kit/">Kit de cuentas de casa (Excel, <span data-desde="2026-11-03T00:00:00+01:00">19 €</span><span data-hasta="2026-11-02T23:59:59+01:00" hidden>9 € hasta el 2-11, antes 19 €</span>)<small>Presupuesto, hipoteca y ahorro en una hoja</small></a></li>
     <li><a href="/test/">Test: ¿sabes de dinero más que la media?<small>7 preguntas, 2 minutos. Reta a tus amigos</small></a></li>
     <li><a href="/calendario/">Calendario: cuándo sale cada dato<small>IPC, alquiler, pensiones, hipotecas y BCE, en tu móvil</small></a></li>
     <li><a href="https://www.youtube.com/@ElEuroClaro?sub_confirmation=1" rel="noopener">Suscríbete en YouTube<small>Un vídeo cada día y el resumen del domingo</small></a></li>
@@ -67,6 +67,18 @@
   <p class="fine">Contenido divulgativo: no es asesoramiento financiero. <a href="/privacidad.html">Privacidad</a> · <a href="/aviso-legal.html">Aviso legal</a></p>
 </main>
 <script>
+// Ofertas con fecha (hora de Madrid): data-hasta se ve hasta esa fecha; data-desde se esconde hasta esa fecha.
+(function () {
+  var ahora = Date.now();
+  document.querySelectorAll("[data-hasta]").forEach(function (el) {
+    var fin = Date.parse(el.getAttribute("data-hasta"));
+    if (!isNaN(fin) && ahora <= fin) el.hidden = false;
+  });
+  document.querySelectorAll("[data-desde]").forEach(function (el) {
+    var desde = Date.parse(el.getAttribute("data-desde"));
+    if (!isNaN(desde) && ahora < desde) el.hidden = true;
+  });
+})();
 (function () {
   try {
     var src = new URLSearchParams(location.search).get("src");

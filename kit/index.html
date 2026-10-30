@@ -80,8 +80,9 @@
           <li>Ahorro: tu colchón de 3 a 6 meses y cuánto apartar para una meta</li>
         </ul>
         <p class="kit-compat">Funciona en Excel, Google Sheets y Numbers.</p>
-        <p class="kit-precio"><strong>19&nbsp;€</strong> IVA incluido, precio en España.</p>
+        <p class="kit-precio" data-desde="2026-11-03T00:00:00+01:00"><strong>19&nbsp;€</strong> IVA incluido, precio en España.</p>
         <!-- OFERTA: aquí pone oferta.py el bloque con fecha (data-hasta). -->
+        <p class="kit-precio kit-oferta" data-hasta="2026-11-02T23:59:59+01:00" data-campana="kit9" data-codigo="KIT9" hidden><strong>9&nbsp;€</strong> <s>19&nbsp;€</s> IVA incluido, precio en España. Hasta el domingo 2 de noviembre a las 23:59.</p>
         <div class="actions">
           <a class="btn btn-primary" data-gumroad href="https://eleuroclaro.gumroad.com/l/kit" rel="noopener">Comprar el kit</a>
         </div>
@@ -118,6 +119,7 @@
         <li>Pulsa el botón: vas a Gumroad, la tienda que cobra y se encarga del IVA. Su página está en inglés.</li>
         <li>Pulsa «I want this!» y escribe tu correo y tu tarjeta. Allí verás primero el precio sin IVA: el IVA aparece como «VAT» antes de pagar. Si compras desde fuera de España, el total cambia según los impuestos de tu país.</li>
         <!-- PASO-OFERTA: aquí pone oferta.py el paso del código (data-hasta). -->
+        <li data-hasta="2026-11-02T23:59:59+01:00" hidden>Hasta el 2 de noviembre, el botón ya lleva el descuento: en Gumroad verás 7,44&nbsp;€ sin IVA en vez de 15,70&nbsp;€, que con el IVA son 9&nbsp;€. Si no te sale rebajado, escribe el código <strong>KIT9</strong>.</li>
         <li>El Excel te llega al correo al momento.</li>
       </ol>
       <p class="kit-garantia">Si no te sirve, tienes 14 días para pedir que te devolvamos el dinero, sin dar explicaciones: <span class="mail">hola@eleuroclaro.es</span>.</p>
@@ -160,7 +162,7 @@
   });
 })();
 // De dónde viene la visita: ?src= (enlaces de la web, ManyChat, newsletter) o, si no hay, la página anterior.
-// Se pasa a Gumroad como utm. El enlace nunca lleva el código: Gumroad tacharía el precio en la ficha.
+// Se pasa a Gumroad como utm. Fuera de oferta el enlace no lleva código; mientras dura una (data-codigo), sí, para que Gumroad ya enseñe el precio rebajado.
 (function () {
   try {
     var q = new URLSearchParams(location.search);
@@ -181,6 +183,7 @@
     var links = document.querySelectorAll("a[data-gumroad]");
     for (var i = 0; i < links.length; i++) {
       var u = new URL(links[i].href);
+      if (oferta && oferta.getAttribute("data-codigo")) u.pathname = "/l/kit/" + oferta.getAttribute("data-codigo");
       u.searchParams.set("utm_source", src);
       u.searchParams.set("utm_medium", "web");
       u.searchParams.set("utm_campaign", oferta ? oferta.getAttribute("data-campana") || "oferta" : "kit");
