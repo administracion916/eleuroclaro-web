@@ -1,61 +1,61 @@
 {
- "actualizado": "2026-10-30T14:10:57Z",
+ "actualizado": "2026-10-30T16:10:13Z",
  "items": [
   {
-   "t": "El déficit público alcanza los 31.183 millones entre enero y agosto, un 7% más",
-   "m": "Expansión",
-   "u": "https://www.expansion.com/economia/2026/10/30/deficit-publico-alcanza-31-183-millones-enero-agosto-7.html",
-   "f": "2026-10-30T13:55:00Z",
-   "c": "impuestos"
-  },
-  {
-   "t": "Intel pierde su magia: se desploma hasta un 29% en Bolsa tras lanzar previsiones decepcionantes",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-30/intel-pierde-su-magia-se-desploma-un-25-en-bolsa-tras-lanzar-previsiones-decepcionantes.html",
-   "f": "2026-10-30T13:44:27Z",
-   "c": "economia"
-  },
-  {
-   "t": "La corrección de las tecnológicas por los resultados de Intel y Amazon siembra dudas en las Bolsas",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-30/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-10-30T13:42:22Z",
-   "c": "tecnologia"
-  },
-  {
-   "t": "El Gobierno anuncia que se plantea cortar la línea de alta velocidad Madrid Barcelona para acometer obras y Aragón pide \"avales\" que justifiquen la decisión",
+   "t": "El testimonio de un italoargentino tras el choque de trenes en Toledo: \"Mi hermana estaba a mi lado. La vi muerta, ya no tengo esperanza de encontrarla\"",
    "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/10/30/6ae4961be4d4d89d158b4585.html",
-   "f": "2026-10-30T13:18:35Z",
-   "c": "general"
+   "u": "https://www.elmundo.es/economia/2026/10/30/6ae4bddfe4d4d82f498b4593.html",
+   "f": "2026-10-30T15:55:13Z",
+   "c": "transporte"
   },
   {
-   "t": "El Euríbor se asienta por encima del 3,2%, por lo que seguirá subiendo la cuota hipotecaria",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/finanzas-00340/noticia-euribor-asienta-encima-32-seguira-subiendo-cuota-hipotecaria-20261030141437.html",
-   "f": "2026-10-30T13:14:37Z",
+   "t": "Telefónica e Indra logran el primer gran contrato conjunto con el euro digital para el BCE",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-30/telefonica-e-indra-logran-el-primer-gran-contrato-conjunto-con-el-euro-digital-para-el-bce.html",
+   "f": "2026-10-30T15:34:20Z",
    "c": "tipos"
   },
   {
-   "t": "El déficit público sube al 1,75% del PIB hasta agosto y el del Estado crece al 2,19% hasta septiembre",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/fiscal-00347/noticia-deficit-publico-sube-175-pib-agosto-estado-crece-219-septiembre-20261030141125.html",
-   "f": "2026-10-30T13:11:25Z",
-   "c": "impuestos"
-  },
-  {
-   "t": "Víctor Arpa, abogado laboralista, advierte a las víctimas del accidente de Toledo: \"No conviene aceptar cualquier indemnización\"",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/victor-arpa-abogado-laboralista-advierte-las-victimas-accidente-toledo-no-conviene-aceptar-cualquier-indemnizacion_7055472_0.html",
-   "f": "2026-10-30T13:04:45Z",
-   "c": "general"
-  },
-  {
-   "t": "España creció en el tercer trimestre un 2,7% impulsada por el consumo y el gasto público",
+   "t": "La recaudación fiscal crece un 10% pese al desplome en los impuestos a los carburantes",
    "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-30/espana-crecio-en-el-tercer-trimestre-un-27.html",
-   "f": "2026-10-30T12:35:14Z",
+   "u": "https://elpais.com/economia/2026-10-30/la-recaudacion-fiscal-crece-un-10-pese-al-desplome-en-los-impuestos-a-los-carburantes.html",
+   "f": "2026-10-30T15:11:28Z",
+   "c": "energia"
+  },
+  {
+   "t": "Intel se desploma un 30%, su peor caída desde 1974, por sus malos resultados",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261030/11672278/intel-desploma-30-peor-caida-1974-malos-resultados.html",
+   "f": "2026-10-30T15:11:18Z",
+   "c": "empresas"
+  },
+  {
+   "t": "La banca gana un 15% más hasta septiembre y apunta a un nuevo año récord",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-30/la-banca-gana-un-15-mas-hasta-septiembre-y-apunta-a-un-nuevo-ano-record.html",
+   "f": "2026-10-30T14:58:01Z",
+   "c": "bancos"
+  },
+  {
+   "t": "Los altos funcionarios reclaman independencia técnica frente a las decisiones políticas tras los accidentes ferroviarios",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-30/los-altos-funcionarios-reclaman-independencia-tecnica-frente-a-las-decisiones-politicas-tras-los-accidentes-ferroviarios.html",
+   "f": "2026-10-30T14:52:39Z",
    "c": "general"
+  },
+  {
+   "t": "Intel sufre la mayor caída en Bolsa de su historia: se hunde casi un 30% quemando 130.000 millones de dólares de capitalización",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-30/intel-pierde-su-magia-se-desploma-un-25-en-bolsa-tras-lanzar-previsiones-decepcionantes.html",
+   "f": "2026-10-30T14:22:47Z",
+   "c": "empresas"
+  },
+  {
+   "t": "El director de la AEAT advierte de los riesgos de la IA: \"No podemos permitir que sea un aliado del fraude\"",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/director-aeat-advierte-los-riesgos-ia-no-podemos-permitir-que-sea-un-aliado-fraude_7055551_0.html",
+   "f": "2026-10-30T14:18:39Z",
+   "c": "impuestos"
   }
  ]
 }
