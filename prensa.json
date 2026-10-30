@@ -1,6 +1,27 @@
 {
- "actualizado": "2026-10-30T18:08:00Z",
+ "actualizado": "2026-10-30T20:12:28Z",
  "items": [
+  {
+   "t": "Intel se desploma hasta un 30% tras perder 11.441 millones de dólares en nueve meses",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/empresas/intel-se-desploma-hasta-un-30-tras-perder-11-441-millones-dolares-nueve-meses_7055683_0.html",
+   "f": "2026-10-30T18:44:39Z",
+   "c": "general"
+  },
+  {
+   "t": "Bankinter Investment lanza una oferta sobre el 100% de Atom Hoteles y la valora en 510 millones",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-30/bankinter-investment-lanza-una-oferta-sobre-el-100-de-atom-hoteles-y-la-valora-en-510-millones.html",
+   "f": "2026-10-30T18:22:36Z",
+   "c": "transporte"
+  },
+  {
+   "t": "El testimonio de un italoargentino tras el choque de trenes en Toledo: \"Mi hermana estaba a mi lado. La vi muerta, ya no tengo esperanza de encontrarla\"",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/10/30/6ae4bddfe4d4d82f498b4593.html",
+   "f": "2026-10-30T18:15:17Z",
+   "c": "transporte"
+  },
   {
    "t": "La factura de la IA hunde a las tecnológicas en bolsa",
    "m": "El Mundo",
@@ -34,27 +55,6 @@
    "m": "Cinco Días",
    "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-30/la-bolsa-y-el-ibex-35.html",
    "f": "2026-10-30T17:07:24Z",
-   "c": "tecnologia"
-  },
-  {
-   "t": "El Ibex 35 pierde casi un 4% en octubre, su peor cierre mensual desde marzo, hasta los 18.600 puntos",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/bolsa-00348/noticia-ibex-35-pierde-casi-octubre-peor-cierre-mensual-marzo-18600-puntos-20261030180603.html",
-   "f": "2026-10-30T17:06:03Z",
-   "c": "empresas"
-  },
-  {
-   "t": "El BCE activa la sucesión de su economista jefe, Philip Lane",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-30/el-bce-activa-la-sucesion-de-su-economista-jefe-philip-lane.html",
-   "f": "2026-10-30T16:55:10Z",
-   "c": "tipos"
-  },
-  {
-   "t": "Los resultados trimestrales de las tecnológicas decepcionan a los inversores y arrastran a Wall Street",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/bolsa-00348/noticia-resultados-trimestrales-tecnologicas-decepcionan-inversores-arrastran-wall-street-20261030174522.html",
-   "f": "2026-10-30T16:45:22Z",
    "c": "tecnologia"
   }
  ]
