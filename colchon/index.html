@@ -1,0 +1,124 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>¿Cuánto colchón necesitas? Calculadora del fondo para imprevistos · El Euro Claro</title>
+<meta name="description" content="Suma tus gastos fijos de un mes y elige cuántos meses quieres cubrir: te decimos tu meta de colchón y en cuántos meses llegas ahorrando lo que puedas. Paso 1 del reto gratis «Tu colchón en 4 domingos».">
+<meta name="theme-color" content="#0e2a47">
+<meta property="og:site_name" content="El Euro Claro">
+<meta property="og:title" content="¿Cuánto colchón necesitas?">
+<meta property="og:description" content="Tu meta para imprevistos, con tus gastos de verdad.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://eleuroclaro.es/colchon/">
+<meta property="og:locale" content="es_ES">
+<meta name="twitter:card" content="summary">
+<link rel="canonical" href="https://eleuroclaro.es/colchon/">
+<!-- Página en una subcarpeta: todas las rutas son absolutas (empiezan por /). -->
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="stylesheet" href="/fonts.css">
+<link rel="stylesheet" href="/style.css?v=20261019c">
+</head>
+<body>
+
+<header class="top">
+  <div class="wrap">
+    <a class="brand" href="/" aria-label="El Euro Claro, inicio">
+      <img class="coin" src="/favicon.svg" alt="" width="40" height="40">
+      El Euro Claro
+    </a>
+    <nav class="nav" aria-label="Secciones">
+      <a class="nav-nl" href="/domingo/?src=web-cabecera"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><rect x="2.5" y="5" width="19" height="14" rx="2.5"/><path d="M3 6.5l9 6.5 9-6.5"/></svg>Newsletter gratis</a>
+      <a href="/#noticias">Noticias</a>
+      <a href="/#videos">Vídeos</a>
+      <a href="/inflacion/">Calculadora</a>
+      <a href="/#kit">Kit</a>
+      <a href="/recursos/">Recursos</a>
+      <a href="/empresas/">Empresas</a>
+      <a href="/libros/">Libros</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <section class="section page-head calc-head">
+    <div class="wrap">
+      <p class="eyebrow">Calculadora · paso 1 del reto</p>
+      <h1>¿Cuánto <em>colchón</em> necesitas?</h1>
+      <p class="intro">Un colchón es dinero apartado para imprevistos: una avería, el dentista o un mes con menos ingresos. Suma lo que gastas sí o sí cada mes y ponte una meta a tu medida.</p>
+      <p class="small calc-privado">🔒 Tus cifras no salen de tu móvil: el cálculo se hace aquí mismo y no guardamos nada.</p>
+      <form class="calc" id="calc" novalidate>
+        <label style="font-weight:700">Alquiler o hipoteca (€ al mes)
+          <input style="display:block;width:100%;margin-top:.35rem;padding:.7rem .8rem;font-size:1.15rem;border:1px solid #c9d2de;border-radius:.5rem" type="number" id="viv" inputmode="decimal" min="0" step="10" value="700"></label>
+        <label style="font-weight:700">Comida y casa (€ al mes)
+          <input style="display:block;width:100%;margin-top:.35rem;padding:.7rem .8rem;font-size:1.15rem;border:1px solid #c9d2de;border-radius:.5rem" type="number" id="com" inputmode="decimal" min="0" step="10" value="350"></label>
+        <label style="font-weight:700">Luz, agua, gas, internet y móvil (€ al mes)
+          <input style="display:block;width:100%;margin-top:.35rem;padding:.7rem .8rem;font-size:1.15rem;border:1px solid #c9d2de;border-radius:.5rem" type="number" id="rec" inputmode="decimal" min="0" step="10" value="150"></label>
+        <label style="font-weight:700">Transporte (€ al mes)
+          <input style="display:block;width:100%;margin-top:.35rem;padding:.7rem .8rem;font-size:1.15rem;border:1px solid #c9d2de;border-radius:.5rem" type="number" id="tra" inputmode="decimal" min="0" step="10" value="100"></label>
+        <label style="font-weight:700">Otros fijos: seguros, colegio, préstamos (€ al mes)
+          <input style="display:block;width:100%;margin-top:.35rem;padding:.7rem .8rem;font-size:1.15rem;border:1px solid #c9d2de;border-radius:.5rem" type="number" id="otr" inputmode="decimal" min="0" step="10" value="100"></label>
+        <label style="font-weight:700">Cuántos meses quieres cubrir
+          <select style="display:block;width:100%;margin-top:.35rem;padding:.7rem .8rem;font-size:1.15rem;border:1px solid #c9d2de;border-radius:.5rem" id="meses"><option value="3" selected>3 meses</option><option value="4">4 meses</option><option value="6">6 meses</option></select></label>
+        <label style="font-weight:700">Lo que puedes apartar cada mes (€)<br><small style="font-weight:400">Aunque sea poco: empezar cuenta más que la cifra.</small>
+          <input style="display:block;width:100%;margin-top:.35rem;padding:.7rem .8rem;font-size:1.15rem;border:1px solid #c9d2de;border-radius:.5rem" type="number" id="aho" inputmode="decimal" min="0" step="10" value="100"></label>
+        <button class="btn btn-primary calc-boton" type="submit">Calcular mi meta</button>
+        <div id="res" aria-live="polite"></div>
+      </form>
+    </div>
+  </section>
+
+  <section class="section alt">
+    <div class="wrap prose">
+      <h2>Cómo usar la meta</h2>
+      <ul>
+        <li><strong>Solo gastos fijos:</strong> lo que pagas aunque no salgas de casa. El ocio no cuenta.</li>
+        <li><strong>3 o 6 meses:</strong> una referencia habitual. Con un sueldo estable, 3 meses es un buen primer objetivo; si tus ingresos cambian mucho o eres autónomo, mejor acercarte a 6.</li>
+        <li><strong>Primero un mes:</strong> si la meta asusta, empieza por cubrir un mes. Es el que te salva de la tarjeta en el primer imprevisto.</li>
+      </ul>
+
+      <h2>El reto gratis: tu colchón en 4 domingos</h2>
+      <p>Este cálculo es el paso 1. Cada domingo de noviembre te llega el siguiente en la newsletter: de dónde sale el dinero, cómo hacer que se ahorre solo y dónde guardarlo. <a href="/reto/?src=colchon">Apúntate gratis al reto</a>.</p>
+      <p>¿Quieres repartir todo tu sueldo? Prueba <a href="/50-30-20/?src=colchon">la regla 50/30/20</a>: el 20 % va a tu yo del futuro, y el colchón es lo primero.</p>
+      <p class="small note-legal">Contenido divulgativo: no es asesoramiento financiero ni una recomendación de ningún producto.</p>
+    </div>
+  </section>
+</main>
+
+<footer class="foot">
+  <div class="wrap">
+    <p class="lema">La economía de tu bolsillo, en euros claros.</p>
+    <nav aria-label="Legal">
+      <a href="/aviso-legal.html">Aviso legal</a>
+      <a href="/privacidad.html">Privacidad</a>
+      <a href="/cookies.html">Cookies</a>
+      <a href="/correcciones/">Correcciones</a>
+      <span>Contacto: <span class="mail">hola@eleuroclaro.es</span></span>
+    </nav>
+    <p class="disclaimer">El Euro Claro es un medio divulgativo. La información es general y no constituye asesoramiento financiero ni una recomendación de comprar o vender ningún producto. Algunos enlaces pueden ser de afiliado y se indica cuando lo son.</p>
+    <p>© 2026 El Euro Claro · Odana Ingeniería SL</p>
+  </div>
+</footer>
+<script>
+(function(){
+  var f=document.getElementById('calc'), r=document.getElementById('res');
+  var eur=function(x){return String(Math.round(x)).replace(/\B(?=(\d{3})+(?!\d))/g,'.')+' €';};
+  var num=function(id){return Math.max(0,parseFloat(String(document.getElementById(id).value).replace(',','.'))||0);};
+  function calc(e){
+    if(e)e.preventDefault();
+    var g=num('viv')+num('com')+num('rec')+num('tra')+num('otr'), m=+document.getElementById('meses').value, a=num('aho');
+    if(g<=0){r.textContent='Pon al menos un gasto fijo.';return;}
+    var meta=g*m, txt='<p style="margin:.6rem 0 .2rem">Tus gastos fijos: <strong>'+eur(g)+' al mes</strong>.</p>'+
+      '<p style="margin:.2rem 0;font-size:1.3rem">Tu meta: <strong>'+eur(meta)+'</strong> ('+m+' meses).</p>'+
+      '<p style="margin:.2rem 0">Primer objetivo, un mes: <strong>'+eur(g)+'</strong>.</p>';
+    if(a>0){var n1=Math.ceil(g/a), n=Math.ceil(meta/a), y=Math.floor(n/12), mm=n%12;
+      txt+='<p style="margin:.4rem 0 0">Apartando '+eur(a)+' al mes, tienes un mes cubierto en <strong>'+n1+(n1==1?' mes':' meses')+'</strong> y la meta completa en <strong>'+(y?y+(y==1?' año':' años')+(mm?' y '+mm+(mm==1?' mes':' meses'):''):n+(n==1?' mes':' meses'))+'</strong>.</p>';}
+    r.innerHTML=txt;
+  }
+  f.addEventListener('submit',calc); f.addEventListener('change',calc); calc();
+})();
+</script>
+<!-- Cloudflare Web Analytics --><script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "e81aecc33a6b40ccab86c1fbc9fa801c"}'></script><!-- End Cloudflare Web Analytics -->
+</body>
+</html>
