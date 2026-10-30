@@ -1,61 +1,61 @@
 {
- "actualizado": "2026-10-30T11:29:33Z",
+ "actualizado": "2026-10-30T14:10:57Z",
  "items": [
   {
-   "t": "Puente dice que el sistema de señalización LZB se cayó 170 veces este año, cifra \"dentro de la normalidad\"",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/transportes-00343/noticia-puente-dice-sistema-senalizacion-lzb-cayo-170-veces-ano-cifra-dentro-normalidad-20261030122216.html",
-   "f": "2026-10-30T11:22:16Z",
-   "c": "general"
-  },
-  {
-   "t": "El resultado operativo de Seat cayó un 59% hasta septiembre y la compañía reevaluará las inversiones previstas",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-10-30/el-resultado-operativo-de-seat-cayo-un-59-hasta-septiembre-y-la-compania-reevaluara-las-inversiones-previstas.html",
-   "f": "2026-10-30T11:13:44Z",
-   "c": "empresas"
-  },
-  {
-   "t": "¿Nómina y ahorros en la misma cuenta? Podrías estar perdiendo dinero",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/ahorro-y-consumo/2026/10/30/6adf46b8fc6c83a5298b4575.html",
-   "f": "2026-10-30T11:00:00Z",
-   "c": "empleo"
-  },
-  {
-   "t": "La Comunidad de Madrid aprueba los mayores presupuestos de su historia: 32.911 millones en 2027",
+   "t": "El déficit público alcanza los 31.183 millones entre enero y agosto, un 7% más",
    "m": "Expansión",
-   "u": "https://www.expansion.com/economia/2026/10/30/comunidad-madrid-aprueba-mayores-presupuestos-historia-32-911-millones-2027.html",
-   "f": "2026-10-30T10:51:38Z",
+   "u": "https://www.expansion.com/economia/2026/10/30/deficit-publico-alcanza-31-183-millones-enero-agosto-7.html",
+   "f": "2026-10-30T13:55:00Z",
    "c": "impuestos"
   },
   {
-   "t": "Intel pierde su magia: se desploma un 25% en Bolsa tras lanzar previsiones decepcionantes",
+   "t": "Intel pierde su magia: se desploma hasta un 29% en Bolsa tras lanzar previsiones decepcionantes",
    "m": "Cinco Días",
    "u": "https://cincodias.elpais.com/companias/2026-10-30/intel-pierde-su-magia-se-desploma-un-25-en-bolsa-tras-lanzar-previsiones-decepcionantes.html",
-   "f": "2026-10-30T10:37:34Z",
+   "f": "2026-10-30T13:44:27Z",
    "c": "economia"
   },
   {
-   "t": "Pymes y talento: la nueva ecuación entre autenticidad e IA",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/innovacion/20261030/11671406/pymes-talento-nueva-ecuacion-autenticidad-e-ia.html",
-   "f": "2026-10-30T10:29:46Z",
+   "t": "La corrección de las tecnológicas por los resultados de Intel y Amazon siembra dudas en las Bolsas",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-30/la-bolsa-y-el-ibex-35.html",
+   "f": "2026-10-30T13:42:22Z",
    "c": "tecnologia"
   },
   {
-   "t": "Moeve dispara un 140% su beneficio mientras busca un nuevo rumbo tras el fiasco de Galp",
+   "t": "El Gobierno anuncia que se plantea cortar la línea de alta velocidad Madrid Barcelona para acometer obras y Aragón pide \"avales\" que justifiquen la decisión",
    "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/empresas/2026/10/30/6ae466b2e9cf4a7f048b4574.html",
-   "f": "2026-10-30T10:22:36Z",
-   "c": "empresas"
+   "u": "https://www.elmundo.es/economia/2026/10/30/6ae4961be4d4d89d158b4585.html",
+   "f": "2026-10-30T13:18:35Z",
+   "c": "general"
   },
   {
-   "t": "Unicaja eleva un 8,1% su beneficio hasta septiembre tras ganar 543 millones de euros",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/empresas/2026/10/30/6ae468fb21efa0e20a8b4598.html",
-   "f": "2026-10-30T10:21:11Z",
-   "c": "bancos"
+   "t": "El Euríbor se asienta por encima del 3,2%, por lo que seguirá subiendo la cuota hipotecaria",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/finanzas-00340/noticia-euribor-asienta-encima-32-seguira-subiendo-cuota-hipotecaria-20261030141437.html",
+   "f": "2026-10-30T13:14:37Z",
+   "c": "tipos"
+  },
+  {
+   "t": "El déficit público sube al 1,75% del PIB hasta agosto y el del Estado crece al 2,19% hasta septiembre",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/fiscal-00347/noticia-deficit-publico-sube-175-pib-agosto-estado-crece-219-septiembre-20261030141125.html",
+   "f": "2026-10-30T13:11:25Z",
+   "c": "impuestos"
+  },
+  {
+   "t": "Víctor Arpa, abogado laboralista, advierte a las víctimas del accidente de Toledo: \"No conviene aceptar cualquier indemnización\"",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/victor-arpa-abogado-laboralista-advierte-las-victimas-accidente-toledo-no-conviene-aceptar-cualquier-indemnizacion_7055472_0.html",
+   "f": "2026-10-30T13:04:45Z",
+   "c": "general"
+  },
+  {
+   "t": "España creció en el tercer trimestre un 2,7% impulsada por el consumo y el gasto público",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-30/espana-crecio-en-el-tercer-trimestre-un-27.html",
+   "f": "2026-10-30T12:35:14Z",
+   "c": "general"
   }
  ]
 }
