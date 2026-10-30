@@ -1,6 +1,27 @@
 {
- "actualizado": "2026-10-30T20:12:28Z",
+ "actualizado": "2026-10-30T22:08:54Z",
  "items": [
+  {
+   "t": "Intel sufre su mayor caída en Bolsa desde 1973: se hunde un 28,58% quemando 130.000 millones de dólares de capitalización",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-30/intel-pierde-su-magia-se-desploma-un-25-en-bolsa-tras-lanzar-previsiones-decepcionantes.html",
+   "f": "2026-10-30T20:37:47Z",
+   "c": "empresas"
+  },
+  {
+   "t": "Las tecnológicas se desploman en Bolsa por las dudas sobre el gasto en la IA",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-30/la-bolsa-y-el-ibex-35.html",
+   "f": "2026-10-30T20:34:54Z",
+   "c": "tecnologia"
+  },
+  {
+   "t": "El Brent sube hasta los 118 dólares a las puertas de las 'midterms' en EEUU y tras más de ocho meses de guerra en Irán",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/brent-sube-hasta-los-118-dolares-las-puertas-las-midterms-eeuu-tras-mas-ocho-meses-guerra-iran_7055704_0.html",
+   "f": "2026-10-30T19:47:08Z",
+   "c": "energia"
+  },
   {
    "t": "Intel se desploma hasta un 30% tras perder 11.441 millones de dólares en nueve meses",
    "m": "20minutos",
@@ -35,27 +56,6 @@
    "u": "https://www.elmundo.es/economia/macroeconomia/2026/10/30/6ae4d5e9e85ece522c8b457a.html",
    "f": "2026-10-30T17:41:53Z",
    "c": "economia"
-  },
-  {
-   "t": "La estrategia de Warren Buffett, empresario, que contradice a Wall Street: \"No hacer nada es mejor que actuar\"",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/estrategia-warren-buffett-empresario-que-contradice-wall-street-no-hacer-nada-es-mejor-que-actuar_7055581_0.html",
-   "f": "2026-10-30T17:21:03Z",
-   "c": "empresas"
-  },
-  {
-   "t": "La banca española y europea se despeñan en Bolsa pese a sus beneficios récord",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-30/la-banca-espanola-y-europea-se-despenan-en-bolsa-pese-a-sus-beneficios-record.html",
-   "f": "2026-10-30T17:14:54Z",
-   "c": "bancos"
-  },
-  {
-   "t": "Las tecnológicas se desploman en Bolsa por las dudas sobre el gasto en la IA",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-30/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-10-30T17:07:24Z",
-   "c": "tecnologia"
   }
  ]
 }
