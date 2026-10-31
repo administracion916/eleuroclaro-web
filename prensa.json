@@ -1,26 +1,47 @@
 {
- "actualizado": "2026-10-31T22:09:42Z",
+ "actualizado": "2026-10-31T23:32:11Z",
  "items": [
   {
-   "t": "Emprender también es bienestar",
+   "t": "Las compras de pequeños bancos mueven el sector a falta de grandes opas",
    "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261031/11673041/emprender-bienestar.html",
-   "f": "2026-10-31T20:14:07Z",
+   "u": "https://www.lavanguardia.com/economia/20261101/11672957/compras-pequenos-bancos-mueven-sector-falta-grandes-opas.html",
+   "f": "2026-10-31T23:05:00Z",
+   "c": "bancos"
+  },
+  {
+   "t": "Gernot Döllner: una encrucijada en Audi",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261101/11672945/gernot-doellner-encrucijada-audi.html",
+   "f": "2026-10-31T23:05:00Z",
    "c": "general"
   },
   {
-   "t": "Decrecer (selectivamente)",
+   "t": "Lula tiene que elegir entre la austeridad y el camino más arriesgado de la expansión",
    "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261031/11673035/decrecer-selectivamente.html",
-   "f": "2026-10-31T20:13:52Z",
+   "u": "https://www.lavanguardia.com/economia/20261101/11671805/lula-elegir-austeridad-camino-mas-arriesgado-expansion.html",
+   "f": "2026-10-31T23:05:00Z",
    "c": "general"
   },
   {
-   "t": "Cómo adoptar la IA con éxito",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261031/11672996/como-adoptar-ia-exito.html",
-   "f": "2026-10-31T20:11:29Z",
-   "c": "tecnologia"
+   "t": "Crónica de los 22 minutos a ciegas que desembocaron en la tragedia de Urda: \"Cualquier día va a haber otro accidente\"",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/10/31/6ae61f25fc6c8309208b457f.html",
+   "f": "2026-10-31T23:04:19Z",
+   "c": "general"
+  },
+  {
+   "t": "Desde Israel, que apenas acusa la guerra de Irán que él mismo empezó, hasta Brasil donde Lula vence y Silicon Valley pierde",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/macroeconomia/2026/11/01/6ae47ec421efa0f46b8b4578.html",
+   "f": "2026-10-31T23:03:30Z",
+   "c": "comercio"
+  },
+  {
+   "t": "El sistema hídrico español, abandonado en inversión y ejecuciones, enfila otro ciclo de incumplimientos en sus planes",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/macroeconomia/2026/11/01/6ad9eb41e9cf4a8d708b45a0.html",
+   "f": "2026-10-31T23:03:24Z",
+   "c": "general"
   },
   {
    "t": "Renfe afirma que los accidentes ferroviarios de Urda y Adamuz no son atribuibles a la compañía",
@@ -35,27 +56,6 @@
    "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/las-grandes-petroleras-europeas-disparan-sus-ganancias-por-encima-los-68-000-millones-hasta-septiembre-por-subida-crudo_7055863_0.html",
    "f": "2026-10-31T17:52:31Z",
    "c": "general"
-  },
-  {
-   "t": "Las grandes petroleras europeas disparan ganancias a más de 68.000 millones a septiembre por alza del crudo",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/noticia-grandes-petroleras-europeas-disparan-ganancias-mas-68000-millones-septiembre-alza-crudo-20261031182743.html",
-   "f": "2026-10-31T17:27:43Z",
-   "c": "general"
-  },
-  {
-   "t": "El mar impone su poder en la economía: estos son los puntos calientes capaces de someter al comercio mundial",
-   "m": "El País",
-   "u": "https://elpais.com/economia/negocios/2026-10-31/el-poder-de-los-mares-estos-son-los-puntos-calientes-capaces-de-someter-el-comercio-y-la-economia-mundial.html",
-   "f": "2026-10-31T16:45:00Z",
-   "c": "comercio"
-  },
-  {
-   "t": "Las alternativas al tren lanzan nuevas ofertas a pasajeros para paliar el déficit a Andalucía tras el accidente de Urda",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-31/las-alternativas-al-tren-lanzan-nuevas-ofertas-a-pasajeros-para-paliar-el-deficit-a-andalucia-tras-el-accidente-de-urda.html",
-   "f": "2026-10-31T15:32:29Z",
-   "c": "transporte"
   }
  ]
 }
