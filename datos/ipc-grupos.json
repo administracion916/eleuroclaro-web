@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-30",
+ "actualizado": "2026-10-31",
  "periodo": "septiembre de 2026",
  "anyo": 2026,
  "mes": 9,
@@ -72,6 +72,126 @@
   }
  ],
  "general_historia": [
+  {
+   "anyo": 2022,
+   "mes": 11,
+   "tasa": 6.8
+  },
+  {
+   "anyo": 2022,
+   "mes": 12,
+   "tasa": 5.7
+  },
+  {
+   "anyo": 2023,
+   "mes": 1,
+   "tasa": 5.9
+  },
+  {
+   "anyo": 2023,
+   "mes": 2,
+   "tasa": 6.0
+  },
+  {
+   "anyo": 2023,
+   "mes": 3,
+   "tasa": 3.3
+  },
+  {
+   "anyo": 2023,
+   "mes": 4,
+   "tasa": 4.1
+  },
+  {
+   "anyo": 2023,
+   "mes": 5,
+   "tasa": 3.2
+  },
+  {
+   "anyo": 2023,
+   "mes": 6,
+   "tasa": 1.9
+  },
+  {
+   "anyo": 2023,
+   "mes": 7,
+   "tasa": 2.3
+  },
+  {
+   "anyo": 2023,
+   "mes": 8,
+   "tasa": 2.6
+  },
+  {
+   "anyo": 2023,
+   "mes": 9,
+   "tasa": 3.5
+  },
+  {
+   "anyo": 2023,
+   "mes": 10,
+   "tasa": 3.5
+  },
+  {
+   "anyo": 2023,
+   "mes": 11,
+   "tasa": 3.2
+  },
+  {
+   "anyo": 2023,
+   "mes": 12,
+   "tasa": 3.1
+  },
+  {
+   "anyo": 2024,
+   "mes": 1,
+   "tasa": 3.4
+  },
+  {
+   "anyo": 2024,
+   "mes": 2,
+   "tasa": 2.8
+  },
+  {
+   "anyo": 2024,
+   "mes": 3,
+   "tasa": 3.2
+  },
+  {
+   "anyo": 2024,
+   "mes": 4,
+   "tasa": 3.3
+  },
+  {
+   "anyo": 2024,
+   "mes": 5,
+   "tasa": 3.6
+  },
+  {
+   "anyo": 2024,
+   "mes": 6,
+   "tasa": 3.4
+  },
+  {
+   "anyo": 2024,
+   "mes": 7,
+   "tasa": 2.8
+  },
+  {
+   "anyo": 2024,
+   "mes": 8,
+   "tasa": 2.3
+  },
+  {
+   "anyo": 2024,
+   "mes": 9,
+   "tasa": 1.5
+  },
+  {
+   "anyo": 2024,
+   "mes": 10,
+   "tasa": 1.8
+  },
   {
    "anyo": 2024,
    "mes": 11,
