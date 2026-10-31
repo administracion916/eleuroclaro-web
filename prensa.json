@@ -1,6 +1,41 @@
 {
- "actualizado": "2026-10-31T11:01:45Z",
+ "actualizado": "2026-10-31T14:09:06Z",
  "items": [
+  {
+   "t": "El PP critica que Puente \"busque una cabeza de turco\" en el accidente de Urda",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/2026/10/31/pp-critica-puente-busque-cabeza-turco-accidente-urda.html",
+   "f": "2026-10-31T13:47:16Z",
+   "c": "general"
+  },
+  {
+   "t": "Claves de la nueva tasa de 2 euros a Shein, Temu y AliExpress: así funciona el recargo a las compras ‘online’ extracomunitarias",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-31/claves-de-la-nueva-tasa-de-2-euros-a-shein-temu-y-aliexpress-asi-funciona-el-recargo-a-las-compras-online-extracomunitarias.html",
+   "f": "2026-10-31T13:18:33Z",
+   "c": "general"
+  },
+  {
+   "t": "La UE empieza a cobrar una tasa de dos euros a los paquetes de fuera de la UE",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/2026/10/31/ue-empieza-cobrar-tasa-dos-euros-paquetes-fuera-ue.html",
+   "f": "2026-10-31T12:38:28Z",
+   "c": "comercio"
+  },
+  {
+   "t": "Virgin Media O2, participada por Telefónica, prepara hasta 4.000 despidos en Reino Unido",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-10-31/virgin-media-o2-participada-por-telefonica-prepara-hasta-4000-despidos-en-reino-unido.html",
+   "f": "2026-10-31T12:33:41Z",
+   "c": "empleo"
+  },
+  {
+   "t": "Wizz Air abre dos nuevas rutas aéreas entre Madrid, Sevilla y Málaga ante el bloqueo del tren por el accidente de Urda",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-10-31/wizz-air-abre-dos-nuevas-rutas-aereas-entre-madrid-sevilla-y-malaga-ante-el-bloqueo-del-tren-por-el-accidente-de-urda.html",
+   "f": "2026-10-31T11:50:30Z",
+   "c": "transporte"
+  },
   {
    "t": "El encarecimiento de la energía eleva la factura eléctrica de octubre a máximos de 2022",
    "m": "20minutos",
@@ -21,41 +56,6 @@
    "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/espana-cabeza-union-europea-construccion-kilometros-alta-velocidad-pero-cola-mantenimiento_7054811_0.html",
    "f": "2026-10-31T06:52:15Z",
    "c": "comercio"
-  },
-  {
-   "t": "Puig pone el pie en el acelerador",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261031/11672383/puig-pone-pie-acelerador.html",
-   "f": "2026-10-31T05:00:00Z",
-   "c": "general"
-  },
-  {
-   "t": "De las tecnológicas del LZB a las operadoras de trenes: cuáles son las empresas presentes en el accidente de Urda",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-31/de-las-tecnologicas-del-lzb-a-las-operadoras-de-trenes-cuales-son-las-empresas-presentes-en-el-accidente-de-urda.html",
-   "f": "2026-10-31T04:45:01Z",
-   "c": "transporte"
-  },
-  {
-   "t": "Crecimiento sin inversión privada: cómo la economía española mejora con menos recursos",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-10-31/crecimiento-sin-inversion-privada-como-la-economia-espanola-mejora-con-menos-recursos.html",
-   "f": "2026-10-31T04:45:01Z",
-   "c": "economia"
-  },
-  {
-   "t": "Anthropic llega para revolucionar la inversión en IA, aunque en plena sacudida bursátil del sector",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-31/anthropic-llega-para-revolucionar-la-inversion-en-ia-aunque-en-plena-sacudida-bursatil-del-sector.html",
-   "f": "2026-10-31T04:30:01Z",
-   "c": "tecnologia"
-  },
-  {
-   "t": "El vaivén regulatorio y las elecciones ya impactan el mercado del alquiler de viviendas: se paralizan contratos y cae la oferta",
-   "m": "El País",
-   "u": "https://elpais.com/economia/negocios/2026-10-31/el-vaiven-regulatorio-y-las-elecciones-paralizan-el-mercado-del-alquiler-de-viviendas.html",
-   "f": "2026-10-31T04:30:00Z",
-   "c": "vivienda"
   }
  ]
 }
