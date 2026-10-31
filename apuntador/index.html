@@ -1,0 +1,127 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Apuntador · El Euro Claro</title>
+<meta name="robots" content="noindex, nofollow">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="/fonts.css">
+<style>
+:root{--fondo:#000;--texto:#fff;--suave:#8a8f98;--oro:#f5b81c;--tam:64px}
+*{box-sizing:border-box}
+html,body{margin:0;height:100%;background:var(--fondo);color:var(--texto);font-family:'Public Sans',system-ui,-apple-system,sans-serif}
+#leer{position:fixed;inset:0;display:flex;flex-direction:column;align-items:center;padding:3vh 6vw 0;cursor:pointer;user-select:none}
+#frase{font-size:var(--tam);line-height:1.22;font-weight:600;text-align:center;max-width:1400px}
+#siguiente{margin-top:4vh;font-size:calc(var(--tam)*.42);line-height:1.3;color:var(--suave);text-align:center;max-width:1200px}
+#barra{position:fixed;left:0;right:0;bottom:0;display:flex;flex-wrap:wrap;gap:8px;align-items:center;justify-content:center;padding:10px 12px;background:rgba(20,20,24,.92);font-size:15px;color:var(--suave)}
+#barra button{font:inherit;color:#fff;background:#2a2d33;border:0;border-radius:8px;padding:8px 12px;cursor:pointer}
+#barra button:hover{background:#3a3e46}
+#cuenta{color:var(--oro);font-weight:600;min-width:4.5em;text-align:center}
+#editor{position:fixed;inset:0;background:#0b0d10;display:none;flex-direction:column;gap:12px;padding:16px;overflow:auto}
+#editor.abierto{display:flex}
+#editor textarea{flex:1;min-height:50vh;width:100%;font:18px/1.5 'Public Sans',system-ui,sans-serif;color:#fff;background:#15181d;border:1px solid #2a2d33;border-radius:10px;padding:14px}
+#editor .fila{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+#editor button,#editor select{font:inherit;font-size:16px;color:#fff;background:#2a2d33;border:0;border-radius:8px;padding:10px 14px;cursor:pointer}
+#editor .ok{background:var(--oro);color:#111;font-weight:700}
+#editor p{margin:0;color:var(--suave);font-size:15px;line-height:1.5}
+.oculto{display:none!important}
+</style>
+</head>
+<body>
+<div id="leer" title="Pulsa o usa la barra espaciadora para pasar a la siguiente frase">
+  <div id="frase"></div>
+  <div id="siguiente"></div>
+</div>
+
+<div id="barra">
+  <button id="atras" type="button">← Anterior</button>
+  <span id="cuenta"></span>
+  <button id="adelante" type="button">Siguiente →</button>
+  <button id="menos" type="button">A−</button>
+  <button id="mas" type="button">A+</button>
+  <button id="pantalla" type="button">Pantalla completa</button>
+  <button id="editar" type="button">Cambiar texto</button>
+</div>
+
+<div id="editor">
+  <div class="fila">
+    <label for="guion" style="color:#fff">Guion:</label>
+    <select id="guion"></select>
+  </div>
+  <textarea id="texto" spellcheck="false" aria-label="Texto para leer"></textarea>
+  <p>Pega aquí el texto que vas a leer. Cada frase sale sola en la pantalla, en grande. Barra espaciadora o flecha derecha: siguiente frase. Flecha izquierda: la anterior. Teclas + y −: tamaño de la letra. F: pantalla completa.</p>
+  <div class="fila">
+    <button class="ok" id="usar" type="button">Empezar a leer</button>
+    <button id="cancelar" type="button">Cancelar</button>
+  </div>
+</div>
+
+<script>
+(function(){
+  var GUIONES = [
+    {nombre: "Lunes 2-11 · Salario mínimo (sin saludo)", texto: "1.424,50 euros o 1.221: es el mismo salario mínimo. Uno: el de 2026 son 1.221 euros brutos en 14 pagas, a jornada completa. Dos: si te prorratean las dos extras, cobras 1.424,50 al mes en 12. Tres: al año son 17.094 euros en los dos casos. Lo que cambia es cuándo te llega: con pagas extra, en Navidad y en otro mes que fija tu convenio cobras el doble. ¿Tú cobras en 12 o en 14?"}
+  ];
+  var CLAVE_TEXTO = "apuntador-texto", CLAVE_TAM = "apuntador-tam";
+  function leerGuardado(k){ try { return localStorage.getItem(k); } catch(e){ return null; } }
+  function guardar(k, v){ try { localStorage.setItem(k, v); } catch(e){} }
+
+  // Corta en frases sin romper cifras como 1.424,50 ni abreviaturas seguidas de minúscula.
+  function trocear(t){
+    t = (t || "").replace(/\s+/g, " ").trim();
+    if (!t) return [];
+    var partes = t.split(/(?<=[.?!…])\s+(?=[¿¡"«A-ZÁÉÍÓÚÑ0-9])/);
+    return partes.map(function(p){ return p.trim(); }).filter(Boolean);
+  }
+
+  var frases = [], i = 0;
+  var el = function(id){ return document.getElementById(id); };
+  var tam = parseInt(leerGuardado(CLAVE_TAM), 10) || Math.round(Math.min(window.innerWidth / 18, 72));
+
+  function pintar(){
+    document.documentElement.style.setProperty("--tam", tam + "px");
+    if (!frases.length) { el("frase").textContent = "Pulsa «Cambiar texto» para poner el guion."; el("siguiente").textContent = ""; el("cuenta").textContent = ""; return; }
+    el("frase").textContent = frases[i];
+    el("siguiente").textContent = i + 1 < frases.length ? frases[i + 1] : "— Fin —";
+    el("cuenta").textContent = (i + 1) + " / " + frases.length;
+  }
+  function cargar(t){ frases = trocear(t); i = 0; guardar(CLAVE_TEXTO, t); pintar(); }
+  function mover(d){ if (!frases.length) return; i = Math.max(0, Math.min(frases.length - 1, i + d)); pintar(); }
+  function cambiarTam(d){ tam = Math.max(28, Math.min(160, tam + d)); guardar(CLAVE_TAM, String(tam)); pintar(); }
+  function pantallaCompleta(){
+    var d = document.documentElement;
+    if (!document.fullscreenElement) { if (d.requestFullscreen) d.requestFullscreen().catch(function(){}); }
+    else if (document.exitFullscreen) document.exitFullscreen();
+  }
+  function abrirEditor(){ el("texto").value = leerGuardado(CLAVE_TEXTO) || GUIONES[0].texto; el("editor").classList.add("abierto"); el("texto").focus(); }
+  function cerrarEditor(){ el("editor").classList.remove("abierto"); }
+
+  GUIONES.forEach(function(g, n){ var o = document.createElement("option"); o.value = n; o.textContent = g.nombre; el("guion").appendChild(o); });
+  var otro = document.createElement("option"); otro.value = "-1"; otro.textContent = "Otro (pega el texto)"; el("guion").appendChild(otro);
+  el("guion").addEventListener("change", function(){ var n = parseInt(this.value, 10); if (n >= 0) el("texto").value = GUIONES[n].texto; else { el("texto").value = ""; el("texto").focus(); } });
+
+  el("leer").addEventListener("click", function(){ mover(1); });
+  el("adelante").addEventListener("click", function(e){ e.stopPropagation(); mover(1); });
+  el("atras").addEventListener("click", function(e){ e.stopPropagation(); mover(-1); });
+  el("mas").addEventListener("click", function(){ cambiarTam(6); });
+  el("menos").addEventListener("click", function(){ cambiarTam(-6); });
+  el("pantalla").addEventListener("click", pantallaCompleta);
+  el("editar").addEventListener("click", abrirEditor);
+  el("usar").addEventListener("click", function(){ cargar(el("texto").value); cerrarEditor(); });
+  el("cancelar").addEventListener("click", cerrarEditor);
+
+  document.addEventListener("keydown", function(e){
+    if (el("editor").classList.contains("abierto")) return;
+    if (e.key === " " || e.key === "ArrowRight" || e.key === "PageDown" || e.key === "Enter") { e.preventDefault(); mover(1); }
+    else if (e.key === "ArrowLeft" || e.key === "PageUp" || e.key === "Backspace") { e.preventDefault(); mover(-1); }
+    else if (e.key === "+" || e.key === "=") cambiarTam(6);
+    else if (e.key === "-") cambiarTam(-6);
+    else if (e.key === "f" || e.key === "F") pantallaCompleta();
+  });
+
+  var param = new URLSearchParams(location.search).get("t");
+  cargar(param || leerGuardado(CLAVE_TEXTO) || GUIONES[0].texto);
+})();
+</script>
+</body>
+</html>
