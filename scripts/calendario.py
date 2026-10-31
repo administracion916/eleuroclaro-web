@@ -211,7 +211,7 @@ PLANTILLA = """<!doctype html>
 
 <footer class="foot">
   <div class="wrap">
-    <p class="lema">La economía de tu bolsillo, en euros claros.</p>
+    <p class="lema">La actualidad, en euros. Comprobado con datos.</p>
     <nav aria-label="Legal">
       <a href="/aviso-legal.html">Aviso legal</a>
       <a href="/privacidad.html">Privacidad</a>
