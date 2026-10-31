@@ -16,8 +16,12 @@
 
   if (!cuenta) return;
   if (hechos === 0) {
-    var dias = Math.ceil((PASOS[0] - ahora) / DIA);
-    cuenta.textContent = dias <= 1 ? "Empieza este domingo 1 de noviembre a las 9:00" : "Empieza el domingo 1 de noviembre · faltan " + dias + " días";
+    // Días de calendario en Madrid (UTC+1), no bloques de 24 horas.
+    var dia = function (t) { return Math.floor((t + 3600000) / DIA); };
+    var dias = dia(PASOS[0]) - dia(ahora);
+    cuenta.textContent = dias <= 0 ? "Empieza hoy a las 9:00: apúntate y te llega el primer paso"
+      : dias === 1 ? "Empieza mañana, domingo 1 de noviembre, a las 9:00"
+      : "Empieza el domingo 1 de noviembre · faltan " + dias + " días";
   } else if (hechos < PASOS.length) {
     cuenta.textContent = "El reto ya ha empezado: apúntate y te llega el paso " + (hechos + 1) + " el domingo";
   } else {
