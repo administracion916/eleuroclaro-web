@@ -70,7 +70,7 @@ def extraer(tabla_id):
     Los nombres de las series son del tipo «Nacional. Alimentos y bebidas no alcohólicas. Variación anual.»
     (sin código de grupo): el código se pone por el orden en que los da el INE, que es el de la ECOICOP.
     """
-    series = leer(f"DATOS_TABLA/{tabla_id}?nult=24")
+    series = leer(f"DATOS_TABLA/{tabla_id}?nult=48")
     log(f"Tabla {tabla_id}: {len(series)} series; ejemplos: " + " | ".join((s.get("Nombre") or "")[:70] for s in series[:4]))
     general, grupos = {}, []
     for s in series:
