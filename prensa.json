@@ -1,6 +1,27 @@
 {
- "actualizado": "2026-10-31T20:10:11Z",
+ "actualizado": "2026-10-31T22:09:42Z",
  "items": [
+  {
+   "t": "Emprender también es bienestar",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261031/11673041/emprender-bienestar.html",
+   "f": "2026-10-31T20:14:07Z",
+   "c": "general"
+  },
+  {
+   "t": "Decrecer (selectivamente)",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261031/11673035/decrecer-selectivamente.html",
+   "f": "2026-10-31T20:13:52Z",
+   "c": "general"
+  },
+  {
+   "t": "Cómo adoptar la IA con éxito",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261031/11672996/como-adoptar-ia-exito.html",
+   "f": "2026-10-31T20:11:29Z",
+   "c": "tecnologia"
+  },
   {
    "t": "Renfe afirma que los accidentes ferroviarios de Urda y Adamuz no son atribuibles a la compañía",
    "m": "Europa Press",
@@ -14,13 +35,6 @@
    "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/las-grandes-petroleras-europeas-disparan-sus-ganancias-por-encima-los-68-000-millones-hasta-septiembre-por-subida-crudo_7055863_0.html",
    "f": "2026-10-31T17:52:31Z",
    "c": "general"
-  },
-  {
-   "t": "La UE comenzará este domingo a cobrar una tasa extra de dos euros a plataformas como Shein y Temu",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261031/11672936/ue-comenzara-domingo-cobrar-tasa-extra-dos-euros-plataformas-shein-temu.html",
-   "f": "2026-10-31T17:42:12Z",
-   "c": "comercio"
   },
   {
    "t": "Las grandes petroleras europeas disparan ganancias a más de 68.000 millones a septiembre por alza del crudo",
@@ -42,20 +56,6 @@
    "u": "https://elpais.com/economia/2026-10-31/las-alternativas-al-tren-lanzan-nuevas-ofertas-a-pasajeros-para-paliar-el-deficit-a-andalucia-tras-el-accidente-de-urda.html",
    "f": "2026-10-31T15:32:29Z",
    "c": "transporte"
-  },
-  {
-   "t": "España resiste en una eurozona con sus tres mayores economías en declive",
-   "m": "Expansión",
-   "u": "https://www.expansion.com/economia/2026/10/31/espana-resiste-eurozona-tres-mayores-economias-declive.html",
-   "f": "2026-10-31T14:59:38Z",
-   "c": "economia"
-  },
-  {
-   "t": "El PP critica que Puente \"busque una cabeza de turco\" en el accidente de Urda",
-   "m": "Expansión",
-   "u": "https://www.expansion.com/economia/2026/10/31/pp-critica-puente-busque-cabeza-turco-accidente-urda.html",
-   "f": "2026-10-31T13:47:16Z",
-   "c": "general"
   }
  ]
 }
