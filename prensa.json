@@ -1,6 +1,20 @@
 {
- "actualizado": "2026-10-31T06:08:25Z",
+ "actualizado": "2026-10-31T08:08:52Z",
  "items": [
+  {
+   "t": "Día de Todos los Santos: esta es la opción más económica para afrontar los gastos de un entierro",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/dia-todos-los-santos-esta-es-opcion-mas-economica-para-afrontar-los-gastos-un-entierro_7052527_0.html",
+   "f": "2026-10-31T07:04:11Z",
+   "c": "general"
+  },
+  {
+   "t": "España, a la cabeza de la Unión Europea en construcción de kilómetros de alta velocidad... pero a la cola en mantenimiento",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/espana-cabeza-union-europea-construccion-kilometros-alta-velocidad-pero-cola-mantenimiento_7054811_0.html",
+   "f": "2026-10-31T06:52:15Z",
+   "c": "comercio"
+  },
   {
    "t": "Entra en vigor la nueva tasa de dos euros para paquetes de Amazon, Temu o Shein importados de fuera de la UE",
    "m": "20minutos",
@@ -30,32 +44,18 @@
    "c": "economia"
   },
   {
+   "t": "Anthropic llega para revolucionar la inversión en IA, aunque en plena sacudida bursátil del sector",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-10-31/anthropic-llega-para-revolucionar-la-inversion-en-ia-aunque-en-plena-sacudida-bursatil-del-sector.html",
+   "f": "2026-10-31T04:30:01Z",
+   "c": "tecnologia"
+  },
+  {
    "t": "El vaivén regulatorio y las elecciones ya impactan el mercado del alquiler de viviendas: se paralizan contratos y cae la oferta",
    "m": "El País",
    "u": "https://elpais.com/economia/negocios/2026-10-31/el-vaiven-regulatorio-y-las-elecciones-paralizan-el-mercado-del-alquiler-de-viviendas.html",
    "f": "2026-10-31T04:30:00Z",
    "c": "vivienda"
-  },
-  {
-   "t": "Preocupación en la inspección de Hacienda por el creciente rechazo a los impuestos: \"Nuestra imagen no atraviesa su mejor momento\"",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/preocupacion-inspeccion-hacienda-por-creciente-rechazo-los-impuestos-nuestra-imagen-no-atraviesa-su-mejor-momento_7055669_0.html",
-   "f": "2026-10-31T04:00:00Z",
-   "c": "impuestos"
-  },
-  {
-   "t": "Más presión para la deuda de Estados Unidos: sus acreedores compran menos y Trump se juega el Congreso",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/mas-presion-para-deuda-estados-unidos-sus-acreedores-compran-menos-trump-se-juega-congreso_7055565_0.html",
-   "f": "2026-10-31T04:00:00Z",
-   "c": "comercio"
-  },
-  {
-   "t": "Trump afronta unas elecciones marcadas por la inflación y el déficit",
-   "m": "Expansión",
-   "u": "https://www.expansion.com/economia/2026/10/31/trump-afronta-elecciones-marcadas-inflacion-deficit.html",
-   "f": "2026-10-30T23:53:31Z",
-   "c": "precios"
   }
  ]
 }
