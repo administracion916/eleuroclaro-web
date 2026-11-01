@@ -1,6 +1,41 @@
 {
- "actualizado": "2026-11-01T11:57:39Z",
+ "actualizado": "2026-11-01T14:13:10Z",
  "items": [
+  {
+   "t": "Los salarios de los trabajadores de construcción e industria, los más protegidos frente al IPC",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/los-salarios-los-trabajadores-construccion-industria-los-mas-protegidos-frente-ipc_7055992_0.html",
+   "f": "2026-11-01T13:31:57Z",
+   "c": "precios"
+  },
+  {
+   "t": "Renfe se suma a la desconfianza sobre las normas de seguridad de Adif y aplica desde hoy un nuevo protocolo a sus maquinistas que eleva los controles",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/11/01/6ae73056e9cf4a74618b4595.html",
+   "f": "2026-11-01T12:55:32Z",
+   "c": "transporte"
+  },
+  {
+   "t": "PP y Vox se personarán en la causa por el accidente de Urda y exigen al Gobierno que asuma responsabilidades",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/2026/11/01/pp-vox-personaran-causa-accidente-urda-exigen-gobierno-asuma-responsabilidades.html",
+   "f": "2026-11-01T12:48:46Z",
+   "c": "general"
+  },
+  {
+   "t": "La era de los desequilibrios",
+   "m": "El País",
+   "u": "https://elpais.com/economia/negocios/2026-11-01/la-era-de-los-desequilibrios.html",
+   "f": "2026-11-01T12:40:57Z",
+   "c": "general"
+  },
+  {
+   "t": "La herencia de viviendas va camino de un nuevo máximo histórico, con más de 139.000 hasta agosto",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/herencia-viviendas-va-camino-un-nuevo-maximo-historico-con-mas-139-000-hasta-agosto_7055977_0.html",
+   "f": "2026-11-01T12:11:53Z",
+   "c": "vivienda"
+  },
   {
    "t": "Los expertos de PwC prevén que el crecimiento de la economía española se desacelere al 2,4% este año",
    "m": "Expansión",
@@ -20,41 +55,6 @@
    "m": "La Vanguardia",
    "u": "https://www.lavanguardia.com/economia/20261101/11673314/feijoo-asume-reto-elegir-ministro-fomento-rigor-experiencia-rodea-expertos-servimedia20261101.html",
    "f": "2026-11-01T10:26:55Z",
-   "c": "general"
-  },
-  {
-   "t": "Los autónomos afrontan 2027 con la reforma del sistema de cotización bloqueada",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/los-autonomos-afrontan-2027-con-reforma-sistema-cotizacion-bloqueada_7055925_0.html",
-   "f": "2026-11-01T09:21:51Z",
-   "c": "empleo"
-  },
-  {
-   "t": "La tensión geopolítica favorece el alza bursátil del sector de la defensa, como Indra y Amper, según Sabadell",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/noticia-tension-geopolitica-favorece-alza-bursatil-sector-defensa-indra-amper-sabadell-20261101093849.html",
-   "f": "2026-11-01T08:38:49Z",
-   "c": "bancos"
-  },
-  {
-   "t": "Entra en vigor hoy la tasa aduanera de dos euros a paquetes de Shein, Temu y AliExpress",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261101/11673280/tasa-dos-euros-shein-temu-aliexpress.html",
-   "f": "2026-11-01T06:16:54Z",
-   "c": "general"
-  },
-  {
-   "t": "La gran industria se enfrenta a fuertes sobrecostes energéticos a finales de año",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261101/11672968/gran-industria-enfrenta-fuertes-sobrecostes-energeticos-finales-ano.html",
-   "f": "2026-11-01T05:00:00Z",
-   "c": "energia"
-  },
-  {
-   "t": "Las costuras del ciclo expansivo",
-   "m": "El País",
-   "u": "https://elpais.com/economia/negocios/2026-11-01/las-costuras-del-ciclo-expansivo.html",
-   "f": "2026-11-01T04:40:00Z",
    "c": "general"
   }
  ]
