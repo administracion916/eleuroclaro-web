@@ -1,0 +1,34 @@
+Fotos de Wikimedia Commons. Descargadas el 2026-11-01. Ambas recortadas respecto al original.
+
+pedro-sanchez.jpg (900x1000 px)
+  Archivo en Commons: Goyas 2023 - Pedro Sánchez.jpg
+  https://commons.wikimedia.org/wiki/File:Goyas_2023_-_Pedro_S%C3%A1nchez.jpg
+  Autor: Pedro J Pacheco
+  Licencia: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+  Fecha: 2023-02-11
+  Cambios: recorte del original (1365x2048). El recorte se distribuye con la misma licencia.
+
+cristobal-montoro.jpg (475x800 px)
+  Archivo en Commons: Fabra y Montoro explican la reforma fiscal.jpg
+  https://commons.wikimedia.org/wiki/File:Fabra_y_Montoro_explican_la_reforma_fiscal.jpg
+  Autor: Partido Popular Comunitat Valenciana
+  Licencia: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)
+  Fecha: 2015-01-31
+  Cambios: recorte del original (1688x1080).
+
+Texto de crédito para el vídeo:
+  Foto Pedro Sánchez: Pedro J Pacheco, CC BY-SA 4.0, recortada, vía Wikimedia Commons
+  Foto Cristóbal Montoro: Partido Popular Comunitat Valenciana, CC BY 2.0, recortada, vía Wikimedia Commons
+
+alternativa-cristobal-montoro-moncloa.jpg (2000x1330 px, original sin recortar)
+  Archivo en Commons: Cristobal Montoro.JPG
+  https://commons.wikimedia.org/wiki/File:Cristobal_Montoro.JPG
+  Autor: La Moncloa. Gobierno de España
+  Licencia: plantilla de atribución de La Moncloa en Commons (attribution-La Moncloa), no es CC
+  Fecha: 2012-03-02
+
+cara-pedro-sanchez.jpg (480x480 px): recorte de pedro-sanchez.jpg, mismos autor y licencia (CC BY-SA 4.0).
+cara-cristobal-montoro-moncloa.jpg (480x480 px): recorte de alternativa-cristobal-montoro-moncloa.jpg, mismos autor y licencia.
+
+Crédito para el vídeo si se usa la foto de La Moncloa:
+  Foto Cristóbal Montoro: La Moncloa. Gobierno de España, recortada, vía Wikimedia Commons
