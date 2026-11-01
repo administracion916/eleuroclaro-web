@@ -1,61 +1,61 @@
 {
- "actualizado": "2026-10-31T23:32:11Z",
+ "actualizado": "2026-11-01T06:10:29Z",
  "items": [
+  {
+   "t": "La gran industria se enfrenta a fuertes sobrecostes energéticos a finales de año",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261101/11672968/gran-industria-enfrenta-fuertes-sobrecostes-energeticos-finales-ano.html",
+   "f": "2026-11-01T05:00:00Z",
+   "c": "energia"
+  },
   {
    "t": "Las compras de pequeños bancos mueven el sector a falta de grandes opas",
    "m": "La Vanguardia",
    "u": "https://www.lavanguardia.com/economia/20261101/11672957/compras-pequenos-bancos-mueven-sector-falta-grandes-opas.html",
-   "f": "2026-10-31T23:05:00Z",
+   "f": "2026-11-01T05:00:00Z",
    "c": "bancos"
   },
   {
-   "t": "Gernot Döllner: una encrucijada en Audi",
+   "t": "El delirio de las elites españolas con el AVE... y cercanías",
    "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261101/11672945/gernot-doellner-encrucijada-audi.html",
-   "f": "2026-10-31T23:05:00Z",
+   "u": "https://www.lavanguardia.com/economia/20261101/11672951/delirio-elites-espanolas-ave-cercanias.html",
+   "f": "2026-11-01T05:00:00Z",
    "c": "general"
   },
   {
-   "t": "Lula tiene que elegir entre la austeridad y el camino más arriesgado de la expansión",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261101/11671805/lula-elegir-austeridad-camino-mas-arriesgado-expansion.html",
-   "f": "2026-10-31T23:05:00Z",
+   "t": "Las costuras del ciclo expansivo",
+   "m": "El País",
+   "u": "https://elpais.com/economia/negocios/2026-11-01/las-costuras-del-ciclo-expansivo.html",
+   "f": "2026-11-01T04:40:00Z",
    "c": "general"
   },
   {
-   "t": "Crónica de los 22 minutos a ciegas que desembocaron en la tragedia de Urda: \"Cualquier día va a haber otro accidente\"",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/10/31/6ae61f25fc6c8309208b457f.html",
-   "f": "2026-10-31T23:04:19Z",
+   "t": "La banca cobra hasta 276 euros al año al cliente poco vinculado (y despistado)",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-11-01/la-banca-cobra-hasta-276-euros-al-ano-al-cliente-poco-vinculado-y-despistado.html",
+   "f": "2026-11-01T04:30:01Z",
+   "c": "bancos"
+  },
+  {
+   "t": "De Cos, un perfil de equilibrio y consenso para tiempos volcánicos",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-11-01/de-cos-un-perfil-de-equilibrio-y-consenso-para-tiempos-volcanicos.html",
+   "f": "2026-11-01T04:30:01Z",
    "c": "general"
   },
   {
-   "t": "Desde Israel, que apenas acusa la guerra de Irán que él mismo empezó, hasta Brasil donde Lula vence y Silicon Valley pierde",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/macroeconomia/2026/11/01/6ae47ec421efa0f46b8b4578.html",
-   "f": "2026-10-31T23:03:30Z",
-   "c": "comercio"
-  },
-  {
-   "t": "El sistema hídrico español, abandonado en inversión y ejecuciones, enfila otro ciclo de incumplimientos en sus planes",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/macroeconomia/2026/11/01/6ad9eb41e9cf4a8d708b45a0.html",
-   "f": "2026-10-31T23:03:24Z",
+   "t": "Deutsche Boerse: la expansión del negocio y la volatilidad llevan la acción a récord",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-01/deutsche-boerse-la-expansion-del-negocio-y-la-volatilidad-llevan-la-accion-a-record.html",
+   "f": "2026-11-01T04:30:00Z",
    "c": "general"
   },
   {
-   "t": "Renfe afirma que los accidentes ferroviarios de Urda y Adamuz no son atribuibles a la compañía",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/transportes-00343/noticia-renfe-afirma-accidentes-ferroviarios-urda-adamuz-no-son-atribuibles-compania-20261031193237.html",
-   "f": "2026-10-31T18:32:37Z",
-   "c": "transporte"
-  },
-  {
-   "t": "Las grandes petroleras europeas disparan sus ganancias por encima de los 68.000 millones hasta septiembre por la subida del crudo",
+   "t": "La batalla por suceder a Lagarde: ¿Quién manda de verdad, el BCE o los mercados?",
    "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/las-grandes-petroleras-europeas-disparan-sus-ganancias-por-encima-los-68-000-millones-hasta-septiembre-por-subida-crudo_7055863_0.html",
-   "f": "2026-10-31T17:52:31Z",
-   "c": "general"
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/batalla-suceder-lagarde-manda-bce-mercados_7055598_0.html",
+   "f": "2026-11-01T04:00:00Z",
+   "c": "tipos"
   }
  ]
 }
