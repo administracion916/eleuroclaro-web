@@ -1,6 +1,41 @@
 {
- "actualizado": "2026-11-01T08:10:35Z",
+ "actualizado": "2026-11-01T11:57:39Z",
  "items": [
+  {
+   "t": "Los expertos de PwC prevén que el crecimiento de la economía española se desacelere al 2,4% este año",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/2026/11/01/expertos-pwc-preven-crecimiento-economia-espanola-desacelere-2-4-ano.html",
+   "f": "2026-11-01T11:33:11Z",
+   "c": "economia"
+  },
+  {
+   "t": "Las gestoras esperan un repunte en los mercados tras las elecciones 'midterms' en EEUU",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/finanzas-00340/noticia-gestoras-esperan-repunte-mercados-elecciones-midterms-eeuu-20261101115052.html",
+   "f": "2026-11-01T10:50:52Z",
+   "c": "comercio"
+  },
+  {
+   "t": "Feijóo asume el reto de elegir un ministro de Fomento con “rigor y experiencia”",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261101/11673314/feijoo-asume-reto-elegir-ministro-fomento-rigor-experiencia-rodea-expertos-servimedia20261101.html",
+   "f": "2026-11-01T10:26:55Z",
+   "c": "general"
+  },
+  {
+   "t": "Los autónomos afrontan 2027 con la reforma del sistema de cotización bloqueada",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/los-autonomos-afrontan-2027-con-reforma-sistema-cotizacion-bloqueada_7055925_0.html",
+   "f": "2026-11-01T09:21:51Z",
+   "c": "empleo"
+  },
+  {
+   "t": "La tensión geopolítica favorece el alza bursátil del sector de la defensa, como Indra y Amper, según Sabadell",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/noticia-tension-geopolitica-favorece-alza-bursatil-sector-defensa-indra-amper-sabadell-20261101093849.html",
+   "f": "2026-11-01T08:38:49Z",
+   "c": "bancos"
+  },
   {
    "t": "Entra en vigor hoy la tasa aduanera de dos euros a paquetes de Shein, Temu y AliExpress",
    "m": "La Vanguardia",
@@ -16,46 +51,11 @@
    "c": "energia"
   },
   {
-   "t": "Las compras de pequeños bancos mueven el sector a falta de grandes opas",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261101/11672957/compras-pequenos-bancos-mueven-sector-falta-grandes-opas.html",
-   "f": "2026-11-01T05:00:00Z",
-   "c": "bancos"
-  },
-  {
    "t": "Las costuras del ciclo expansivo",
    "m": "El País",
    "u": "https://elpais.com/economia/negocios/2026-11-01/las-costuras-del-ciclo-expansivo.html",
    "f": "2026-11-01T04:40:00Z",
    "c": "general"
-  },
-  {
-   "t": "La banca cobra hasta 276 euros al año al cliente poco vinculado (y despistado)",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-11-01/la-banca-cobra-hasta-276-euros-al-ano-al-cliente-poco-vinculado-y-despistado.html",
-   "f": "2026-11-01T04:30:01Z",
-   "c": "bancos"
-  },
-  {
-   "t": "De Cos, un perfil de equilibrio y consenso para tiempos volcánicos",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-11-01/de-cos-un-perfil-de-equilibrio-y-consenso-para-tiempos-volcanicos.html",
-   "f": "2026-11-01T04:30:01Z",
-   "c": "general"
-  },
-  {
-   "t": "Deutsche Boerse: la expansión del negocio y la volatilidad llevan la acción a récord",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-01/deutsche-boerse-la-expansion-del-negocio-y-la-volatilidad-llevan-la-accion-a-record.html",
-   "f": "2026-11-01T04:30:00Z",
-   "c": "general"
-  },
-  {
-   "t": "La batalla por suceder a Lagarde: ¿Quién manda de verdad, el BCE o los mercados?",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/batalla-suceder-lagarde-manda-bce-mercados_7055598_0.html",
-   "f": "2026-11-01T04:00:00Z",
-   "c": "tipos"
   }
  ]
 }
