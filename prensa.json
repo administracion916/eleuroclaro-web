@@ -1,18 +1,53 @@
 {
- "actualizado": "2026-11-02T08:12:39Z",
+ "actualizado": "2026-11-02T10:11:29Z",
  "items": [
   {
-   "t": "Las Bolsas europeas buscan el rebote apoyadas en la fuerte caída del petróleo",
+   "t": "Precio de los huevos desde hoy, lunes, 19 de octubre de 2026, en los supermercados: cuánto cuestan en Mercadona, Carrefour o Alcampo",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/11/02/6ae85caefdddff213b8b456d.html",
+   "f": "2026-11-02T10:01:02Z",
+   "c": "precios"
+  },
+  {
+   "t": "Jio Platforms eleva un 13,7% su beneficio trimestral tras realizar la mayor OPV de la historia de India",
    "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-02/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-11-02T07:58:24Z",
+   "u": "https://cincodias.elpais.com/companias/2026-11-02/jio-platforms-eleva-un-137-su-beneficio-trimestral-tras-realizar-la-mayor-opv-de-la-historia-de-india.html",
+   "f": "2026-11-02T09:56:18Z",
+   "c": "empresas"
+  },
+  {
+   "t": "Iberdrola y Norges Bank incorporan a su alianza el parque eólico Tâmega, en Portugal",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-11-02/iberdrola-y-norges-bank-incorporan-a-su-alianza-el-parque-eolico-tamega-en-portugal.html",
+   "f": "2026-11-02T09:54:22Z",
    "c": "energia"
   },
   {
-   "t": "Ryanair gana un 15% en seis meses y dispara el coste en combustible",
+   "t": "El Gobierno impulsa una IA iberoamericana para contrarrestar el dominio de las grandes plataformas americanas",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261102/11673880/gobierno-impulsa-ia-iberoamericana-contrarrestar-dominio-grandes-plataformas-americanas.html",
+   "f": "2026-11-02T09:54:15Z",
+   "c": "tecnologia"
+  },
+  {
+   "t": "El Ibex rebota por el hundimiento del petróleo gracias a las señales positivas en Oriente Próximo",
    "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-11-02/ryanair-gana-un-15-en-seis-meses-y-dispara-el-coste-en-combustible.html",
-   "f": "2026-11-02T07:58:19Z",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-02/la-bolsa-y-el-ibex-35.html",
+   "f": "2026-11-02T09:52:07Z",
+   "c": "energia"
+  },
+  {
+   "t": "El sector manufacturero español acelera su crecimiento en octubre, pero persiste la presión inflacionista",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/2026/11/02/sector-manufacturero-espanol-acelera-crecimiento-octubre-persiste-presion-inflacionista.html",
+   "f": "2026-11-02T09:39:37Z",
+   "c": "precios"
+  },
+  {
+   "t": "La isla de La Palma sufre un apagón general que deja a la isla sin suministro eléctrico",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-11-02/la-isla-de-la-palma-sufre-un-apagon-general-que-deja-a-la-isla-sin-suministro-electrico.html",
+   "f": "2026-11-02T08:45:16Z",
    "c": "energia"
   },
   {
@@ -21,41 +56,6 @@
    "u": "https://elpais.com/economia/2026-11-02/proximas-batallas-del-euro-digital.html",
    "f": "2026-11-02T07:31:26Z",
    "c": "tecnologia"
-  },
-  {
-   "t": "Vivienda social y acompañamiento",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261102/11673511/vivienda-social-acompanamiento.html",
-   "f": "2026-11-02T05:00:00Z",
-   "c": "vivienda"
-  },
-  {
-   "t": "Prosegur y la bronca del voto por correo en EE.UU.// Santacreu “anuncia” que irá a la reelección en la Cambra",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261102/11673505/prosegur-bronca-voto-correo-ee-uu-santacreu-anuncia-ira-reeleccion-cambra.html",
-   "f": "2026-11-02T05:00:00Z",
-   "c": "comercio"
-  },
-  {
-   "t": "El caos ferroviario debilita la ofensiva contra los vuelos cortos",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261102/11673491/caos-ferroviario-debilita-ofensiva-vuelos-cortos.html",
-   "f": "2026-11-02T05:00:00Z",
-   "c": "transporte"
-  },
-  {
-   "t": "La UE afronta una negociación de vértigo para cerrar el relevo de Lagarde y el nuevo presupuesto comunitario en diciembre",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-11-02/la-ue-afronta-una-negociacion-de-vertigo-para-cerrar-el-relevo-de-lagarde-y-el-nuevo-presupuesto-comunitario-en-diciembre.html",
-   "f": "2026-11-02T04:30:01Z",
-   "c": "tipos"
-  },
-  {
-   "t": "El rechazo a la reforma de pensiones de Merz gana peso en Alemania",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-11-02/el-rechazo-a-la-reforma-de-pensiones-de-merz-gana-peso-en-alemania.html",
-   "f": "2026-11-02T04:30:01Z",
-   "c": "pensiones"
   }
  ]
 }
