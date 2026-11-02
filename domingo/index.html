@@ -2,14 +2,144 @@
 <html lang="es">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="robots" content="noindex">
-<title>El Euro Claro</title>
-<!-- Dirección corta: reenvía al alta de Substack. No sale en el sitemap ni en Google.
+<title>La plantilla 50/30/20, gratis con la newsletter · El Euro Claro</title>
+<meta name="description" content="Apúntate gratis a la newsletter del domingo de El Euro Claro y descarga al momento la plantilla 50/30/20 para repartir tu sueldo.">
+<meta name="theme-color" content="#0e2a47">
+<meta property="og:site_name" content="El Euro Claro">
+<meta property="og:title" content="La plantilla 50/30/20, gratis con la newsletter del domingo">
+<meta property="og:description" content="Una página para apuntar lo que entra cada mes y adónde va. Te la llevas al apuntarte, sin pagar nada.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://eleuroclaro.es/domingo/">
+<meta property="og:locale" content="es_ES">
+<meta property="og:image" content="https://eleuroclaro.es/img/og-eleuroclaro-2026.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<!-- Dirección corta de la newsletter (eleuroclaro.es/domingo; /tt trae aquí con ?src=tiktok). No sale en el sitemap ni en Google.
+     Desde el 2-11-2026 ya no salta directa a Substack: es una página de alta con regalo, la plantilla 50/30/20.
+     Al apuntarse: abre Substack en otra pestaña con el correo puesto y aquí enseña la descarga, para no depender del correo de bienvenida.
      utm_source dice de dónde llega el alta: ?src=… si lo trae; si no, la web del clic (facebook, instagram, youtube…);
      y «redes» si la dirección se escribe a mano, que es lo normal desde un vídeo de TikTok o Instagram. -->
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="stylesheet" href="/fonts.css">
+<link rel="stylesheet" href="/style.css?v=20261019c">
+<style>
+.dom { padding-block: 2.2rem 3.5rem; }
+/* Ordenador: texto y hoja a la izquierda, formulario a la derecha. Móvil: el formulario sube justo después del título. */
+.dom-grid { display: grid; grid-template-columns: 1.15fr 1fr; grid-template-areas: "cab form" "mas form"; gap: 0 2.5rem; align-items: start; }
+.dom-cab { grid-area: cab; } .dom-mas { grid-area: mas; } .dom-form { grid-area: form; }
+.dom-grid > * { min-width: 0; }
+.dom h1 { font-size: clamp(2.1rem, 5vw, 3.1rem); margin-block: .5rem 1rem; }
+.dom h1 em { font-style: italic; color: var(--gold-text); }
+.dom .intro { color: var(--muted); font-size: 1.1rem; max-width: 36rem; margin: 0; }
+.dom-hoja { display: block; width: 100%; max-width: 22rem; height: auto; margin-top: 1.4rem; border: 1px solid var(--line); border-radius: .5rem; box-shadow: 0 18px 40px -28px rgba(15, 31, 61, .55); transform: rotate(-1.5deg); background: #fff; }
+.dom .nl-autor { display: flex; gap: .8rem; align-items: center; margin-top: 1.4rem; }
+.dom .nl-autor img { border-radius: 50%; flex: none; }
+.dom .nl-autor p { margin: 0; font-size: .95rem; }
+.dom .firma { display: block; font-weight: 700; }
+.dom .signup .btn { width: 100%; font-size: 1.08rem; }
+.dom-regalo-tag { margin: 0; font-weight: 700; color: var(--gold-text); }
+.dom-ok { background: var(--surface); border: 2px solid #1fbf6a; border-radius: .7rem; padding: 1.5rem; display: grid; gap: .9rem; }
+.dom-ok h2 { font-size: 1.6rem; }
+.dom-ok p { margin: 0; }
+.dom-ok .btn { width: 100%; text-align: center; box-sizing: border-box; }
+.dom-paso { font-size: .95rem; }
+.dom-ok .small { font-size: .88rem; color: var(--muted); }
+@media (max-width: 52rem) {
+  .dom { padding-top: 1.4rem; }
+  .dom-grid { grid-template-columns: 1fr; grid-template-areas: "cab" "form" "mas"; gap: 1.4rem; }
+  .dom-mas .checks { margin-top: 0; }
+  .dom-hoja { max-width: 15rem; margin-inline: auto; }
+}
+</style>
+</head>
+<body>
+
+<header class="top">
+  <div class="wrap">
+    <a class="brand" href="/" aria-label="El Euro Claro, inicio">
+      <img class="coin" src="/favicon.svg" alt="" width="40" height="40">
+      El Euro Claro
+    </a>
+  </div>
+</header>
+
+<main>
+  <section class="dom">
+    <div class="wrap dom-grid">
+      <div class="dom-cab">
+        <p class="eyebrow">Newsletter gratis · domingos</p>
+        <h1>Llévate gratis la <em>plantilla 50/30/20</em></h1>
+        <p class="intro">Una hoja para ver adónde va tu sueldo cada mes. Es tuya al momento si te apuntas a la newsletter del domingo.</p>
+      </div>
+
+      <div class="dom-mas">
+        <ul class="checks">
+          <li>Lo que cambia en tu bolsillo: Euríbor, IPC, sueldos y ayudas del BOE</li>
+          <li>Un ejemplo con números redondos para cada noticia</li>
+          <li>Un correo cada domingo, se lee en 3 minutos. Te das de baja con un clic.</li>
+        </ul>
+        <img class="dom-hoja" src="/img/plantilla-50-30-20.jpg" width="794" height="700" alt="La plantilla 50/30/20: una hoja con lo que entra al mes y tres bloques, necesidades, deseos y ahorro, para rellenar a lápiz.">
+      </div>
+
+      <div class="dom-form">
+        <form class="signup" id="alta" action="https://eleuroclaro.substack.com/subscribe" method="get">
+          <p class="dom-regalo-tag">🎁 Tu plantilla, al apuntarte</p>
+          <label for="email">Tu correo electrónico</label>
+          <input type="email" id="email" name="email" placeholder="nombre@correo.es" autocomplete="email" required>
+          <input type="hidden" name="utm_source" value="redes">
+          <input type="hidden" name="utm_medium" value="direccion">
+          <input type="hidden" name="utm_campaign" value="domingo">
+          <label class="consent" for="consent">
+            <input type="checkbox" id="consent" required>
+            <span>Quiero recibir la newsletter y he leído la <a href="/privacidad.html">política de privacidad</a>.</span>
+          </label>
+          <button class="btn btn-primary" type="submit">Quiero mi plantilla gratis</button>
+          <p class="msg" id="alta-msg" role="status"></p>
+          <p class="fine">Odana Ingeniería SL usará tu correo para enviarte la newsletter semanal, que puede incluir publicidad marcada y ofertas de nuestros productos, con tu consentimiento. Lo guarda nuestra plataforma de envíos, Substack (EE. UU.). Puedes darte de baja cuando quieras y ejercer tus derechos en hola@eleuroclaro.es. Más información en la <a href="/privacidad.html">política de privacidad</a>.</p>
+        </form>
+
+        <div class="dom-ok" id="ok" hidden tabindex="-1">
+          <h2>¡Hecho! Aquí tienes tu plantilla</h2>
+          <a class="btn btn-primary" id="ok-pdf" href="/regalo/plantilla-50-30-20.pdf" download="plantilla-50-30-20-El-Euro-Claro.pdf">📄 Descargar la plantilla (PDF)</a>
+          <p class="dom-paso" id="ok-abierto" hidden>Te hemos abierto Substack, la web desde la que enviamos la newsletter, con tu correo ya puesto. <strong>Pulsa allí el botón para suscribirte</strong> y te llegará cada domingo.</p>
+          <p class="dom-paso" id="ok-falta" hidden><strong>Último paso para recibir la newsletter:</strong> confírmalo en Substack, la web desde la que la enviamos. Tu correo ya va puesto.</p>
+          <a class="btn btn-sol" id="ok-sub" href="https://eleuroclaro.substack.com/subscribe?utm_source=redes&amp;utm_medium=direccion&amp;utm_campaign=domingo">Confirmar mi alta en Substack</a>
+          <p class="small">Si el domingo no ves el correo, mira en Promociones o en Spam.</p>
+        </div>
+        <noscript><p class="small" style="margin-top:1rem">¿Ya te has apuntado? <a href="/regalo/plantilla-50-30-20.pdf">Descarga aquí la plantilla (PDF)</a>.</p></noscript>
+
+        <div class="nl-autor">
+          <img src="/img/pere-jaume-avatar.jpg" width="56" height="56" alt="" loading="lazy">
+          <p>Cada domingo te lo cuento yo, con datos oficiales y ejemplos en euros.<span class="firma">Pere Jaume</span></p>
+        </div>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer class="foot">
+  <div class="wrap">
+    <p class="lema">La actualidad, en euros. Comprobado con datos.</p>
+    <nav aria-label="Legal">
+      <a href="/aviso-legal.html">Aviso legal</a>
+      <a href="/privacidad.html">Privacidad</a>
+      <a href="/cookies.html">Cookies</a>
+      <a href="/correcciones/">Correcciones</a>
+      <span>Contacto: <span class="mail">hola@eleuroclaro.es</span></span>
+    </nav>
+    <p class="disclaimer">El Euro Claro es un medio divulgativo. La información es general y no constituye asesoramiento financiero ni una recomendación de comprar o vender ningún producto. Algunos enlaces pueden ser de afiliado y se indica cuando lo son.</p>
+    <p>© 2026 El Euro Claro · Odana Ingeniería SL</p>
+  </div>
+</footer>
 <script>
 (function () {
+  "use strict";
+  var BASE = "https://eleuroclaro.substack.com/subscribe";
+  var CLAVE = "domingo-alta";
+  // Origen del alta, igual que cuando /domingo saltaba directa a Substack.
   var s = "", m = "direccion", r = "";
   try { s = (new URLSearchParams(location.search).get("src") || "").toLowerCase(); } catch (e) {}
   if (!/^[a-z0-9-]{2,20}$/.test(s)) s = "";
@@ -25,13 +155,53 @@
     if (!s) s = "otra-web";
   }
   if (s) m = "enlace";
-  location.replace("https://eleuroclaro.substack.com/subscribe?utm_source=" + (s || "redes") + "&utm_medium=" + m + "&utm_campaign=domingo");
+
+  var form = document.getElementById("alta"), msg = document.getElementById("alta-msg");
+  var ok = document.getElementById("ok"), sub = document.getElementById("ok-sub");
+  form.noValidate = true;
+  form.utm_source.value = s || "redes";
+  form.utm_medium.value = m;
+
+  function urlAlta(email) {
+    var p = new URLSearchParams();
+    if (email) p.set("email", email);
+    p.set("utm_source", s || "redes");
+    p.set("utm_medium", m);
+    p.set("utm_campaign", "domingo");
+    return BASE + "?" + p.toString();
+  }
+
+  function mostrar(url, abierto) {
+    sub.href = url;
+    document.getElementById("ok-abierto").hidden = !abierto;
+    document.getElementById("ok-falta").hidden = abierto;
+    // Si Substack ya está abierto en otra pestaña, el botón queda como reserva, más discreto.
+    sub.className = abierto ? "btn btn-ghost" : "btn btn-sol";
+    sub.textContent = abierto ? "¿No se ha abierto? Confirmar mi alta" : "Confirmar mi alta en Substack";
+    form.hidden = true;
+    ok.hidden = false;
+    ok.focus();
+  }
+
+  // Si vuelve atrás desde Substack o recarga, sigue viendo su descarga.
+  try {
+    var g = JSON.parse(sessionStorage.getItem(CLAVE) || "null");
+    if (g && typeof g.u === "string" && g.u.indexOf(BASE + "?") === 0) mostrar(g.u, !!g.a);
+  } catch (e) { /* sin almacenamiento: se ve el formulario */ }
+
+  form.addEventListener("submit", function (e) {
+    e.preventDefault();
+    var email = form.email.value.trim();
+    if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) { msg.textContent = "Revisa el correo: falta algo (por ejemplo, la @)."; form.email.focus(); return; }
+    if (!document.getElementById("consent").checked) { msg.textContent = "Marca la casilla de privacidad para apuntarte."; return; }
+    var url = urlAlta(email), w = null;
+    try { w = window.open(url, "_blank"); } catch (e2) { w = null; }
+    if (w) { try { w.opener = null; } catch (e3) {} }
+    try { sessionStorage.setItem(CLAVE, JSON.stringify({ u: url, a: !!w })); } catch (e4) {}
+    mostrar(url, !!w);
+  });
 })();
 </script>
-<noscript><meta http-equiv="refresh" content="0; url=https://eleuroclaro.substack.com/subscribe?utm_source=redes&amp;utm_medium=direccion&amp;utm_campaign=domingo"></noscript>
-</head>
-<body>
-<p>Te llevamos a <a href="https://eleuroclaro.substack.com/subscribe?utm_source=redes&amp;utm_medium=direccion&amp;utm_campaign=domingo">El Euro Claro</a>…</p>
 <!-- Cloudflare Web Analytics --><script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "e81aecc33a6b40ccab86c1fbc9fa801c"}'></script><!-- End Cloudflare Web Analytics -->
 </body>
 </html>
