@@ -1,18 +1,32 @@
 {
- "actualizado": "2026-11-02T20:10:27Z",
+ "actualizado": "2026-11-02T22:10:39Z",
  "items": [
   {
-   "t": "Oracle vuelve a asustar al mercado al colocar 20.000 millones de dólares entre deuda y capital para financiar su inversión en IA",
+   "t": "Apple eleva sus ingresos un 12% y presume de su remuneración a los accionistas",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-11-02/apple-eleva-sus-ingresos-un-12-y-presume-de-su-remuneracion-a-los-accionistas.html",
+   "f": "2026-11-02T22:00:10Z",
+   "c": "empresas"
+  },
+  {
+   "t": "Marvell y Lumentum acuerdan una fusión histórica de 115.000 millones en su apuesta por los centros de datos",
    "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-11-02/oracle-vuelve-a-asustar-al-mercado-al-colocar-20000-millones-de-dolares-entre-deuda-y-capital-para-financiar-su-inversion-en-ia.html",
-   "f": "2026-11-02T19:37:47Z",
-   "c": "tecnologia"
+   "u": "https://cincodias.elpais.com/companias/2026-11-02/marvell-y-lumentum-acuerdan-una-fusion-historica-de-115000-millones-en-su-apuesta-por-los-centros-de-datos.html",
+   "f": "2026-11-02T21:08:48Z",
+   "c": "empresas"
   },
   {
    "t": "Meta planea una emisión de bonos de 20.000 millones y reabre nuevas dudas sobre los costes de la IA",
    "m": "Cinco Días",
    "u": "https://cincodias.elpais.com/companias/2026-11-02/meta-planea-una-emision-de-bonos-de-20000-millones-y-reabre-nuevas-dudas-sobre-los-costes-de-la-ia.html",
-   "f": "2026-11-02T19:35:49Z",
+   "f": "2026-11-02T21:06:50Z",
+   "c": "tecnologia"
+  },
+  {
+   "t": "Oracle vuelve a asustar al mercado al colocar 20.000 millones de dólares entre deuda y capital para financiar su inversión en IA",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-11-02/oracle-vuelve-a-asustar-al-mercado-al-colocar-20000-millones-de-dolares-entre-deuda-y-capital-para-financiar-su-inversion-en-ia.html",
+   "f": "2026-11-02T21:05:48Z",
    "c": "tecnologia"
   },
   {
@@ -30,13 +44,6 @@
    "c": "general"
   },
   {
-   "t": "El petróleo se desploma un 8% después de que Irán dé luz verde a negociar la paz con Estados Unidos",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-02/el-petroleo-se-desploma-un-8-despues-de-que-iran-de-luz-verde-a-negociar-la-paz-con-estados-unidos.html",
-   "f": "2026-11-02T17:05:00Z",
-   "c": "energia"
-  },
-  {
    "t": "Anthropic aumenta un 46% sus ingresos en el tercer trimestre antes de su salida a bolsa",
    "m": "El Mundo",
    "u": "https://www.elmundo.es/economia/empresas/2026/11/02/6ae8bdb5e4d4d83d0b8b45c7.html",
@@ -49,13 +56,6 @@
    "u": "https://www.20minutos.es/lainformacion/empresas/bp-vende-65-castrol-stonepeak-por-mas-5-400-millones-euros_7056254_0.html",
    "f": "2026-11-02T16:33:32Z",
    "c": "general"
-  },
-  {
-   "t": "¿Cómo han logrado los hackers atacar a los supermercados de varios países europeos?",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261102/11674330/como-han-logrado-hackers-atacar-supermercados-paises-europeos.html",
-   "f": "2026-11-02T15:56:12Z",
-   "c": "precios"
   }
  ]
 }
