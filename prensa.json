@@ -1,12 +1,19 @@
 {
- "actualizado": "2026-11-02T22:10:39Z",
+ "actualizado": "2026-11-02T22:52:05Z",
  "items": [
   {
-   "t": "Apple eleva sus ingresos un 12% y presume de su remuneración a los accionistas",
+   "t": "Apple logra ingresos récord apoyada en la fortaleza del iPhone y presume de su remuneración a los accionistas",
    "m": "El País",
    "u": "https://elpais.com/economia/2026-11-02/apple-eleva-sus-ingresos-un-12-y-presume-de-su-remuneracion-a-los-accionistas.html",
-   "f": "2026-11-02T22:00:10Z",
+   "f": "2026-11-02T22:11:33Z",
    "c": "empresas"
+  },
+  {
+   "t": "Apple gana un 18% más al cierre de su año fiscal con una cifra de ingresos récord gracias al iPhone",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/noticia-apple-gana-18-mas-cierre-ano-fiscal-cifra-ingresos-record-20261102225628.html",
+   "f": "2026-11-02T21:56:28Z",
+   "c": "impuestos"
   },
   {
    "t": "Marvell y Lumentum acuerdan una fusión histórica de 115.000 millones en su apuesta por los centros de datos",
@@ -49,13 +56,6 @@
    "u": "https://www.elmundo.es/economia/empresas/2026/11/02/6ae8bdb5e4d4d83d0b8b45c7.html",
    "f": "2026-11-02T16:58:14Z",
    "c": "empresas"
-  },
-  {
-   "t": "BP vende el 65% de Castrol a Stonepeak por más de 5.400 millones de euros",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/empresas/bp-vende-65-castrol-stonepeak-por-mas-5-400-millones-euros_7056254_0.html",
-   "f": "2026-11-02T16:33:32Z",
-   "c": "general"
   }
  ]
 }
