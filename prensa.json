@@ -1,6 +1,27 @@
 {
- "actualizado": "2026-11-02T06:18:49Z",
+ "actualizado": "2026-11-02T08:12:39Z",
  "items": [
+  {
+   "t": "Las Bolsas europeas buscan el rebote apoyadas en la fuerte caída del petróleo",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-02/la-bolsa-y-el-ibex-35.html",
+   "f": "2026-11-02T07:58:24Z",
+   "c": "energia"
+  },
+  {
+   "t": "Ryanair gana un 15% en seis meses y dispara el coste en combustible",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-11-02/ryanair-gana-un-15-en-seis-meses-y-dispara-el-coste-en-combustible.html",
+   "f": "2026-11-02T07:58:19Z",
+   "c": "energia"
+  },
+  {
+   "t": "Próximas batallas del euro digital",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-11-02/proximas-batallas-del-euro-digital.html",
+   "f": "2026-11-02T07:31:26Z",
+   "c": "tecnologia"
+  },
   {
    "t": "Vivienda social y acompañamiento",
    "m": "La Vanguardia",
@@ -16,7 +37,7 @@
    "c": "comercio"
   },
   {
-   "t": "El caos ferroviario debilita la ofensiva por los vuelos cortos",
+   "t": "El caos ferroviario debilita la ofensiva contra los vuelos cortos",
    "m": "La Vanguardia",
    "u": "https://www.lavanguardia.com/economia/20261102/11673491/caos-ferroviario-debilita-ofensiva-vuelos-cortos.html",
    "f": "2026-11-02T05:00:00Z",
@@ -35,27 +56,6 @@
    "u": "https://elpais.com/economia/2026-11-02/el-rechazo-a-la-reforma-de-pensiones-de-merz-gana-peso-en-alemania.html",
    "f": "2026-11-02T04:30:01Z",
    "c": "pensiones"
-  },
-  {
-   "t": "Astronómicos beneficios inevitables",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-11-02/astronomicos-beneficios-inevitables.html",
-   "f": "2026-11-02T04:30:01Z",
-   "c": "empresas"
-  },
-  {
-   "t": "La IA quiere el dinero de los inversores, pero no sus opiniones",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-02/la-ia-declara-la-guerra-al-capitalismo-popular.html",
-   "f": "2026-11-02T04:30:00Z",
-   "c": "tecnologia"
-  },
-  {
-   "t": "Bonos: ¿hora de salir del banquillo?",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-02/bonos-hora-de-salir-del-banquillo.html",
-   "f": "2026-11-02T04:25:00Z",
-   "c": "general"
   }
  ]
 }
