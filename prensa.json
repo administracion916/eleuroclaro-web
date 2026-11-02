@@ -1,6 +1,27 @@
 {
- "actualizado": "2026-11-02T12:25:45Z",
+ "actualizado": "2026-11-02T13:43:23Z",
  "items": [
+  {
+   "t": "Un ciberataque dispara las temperaturas de las cámaras frigoríficas de supermercados en Bélgica, Luxemburgo, Suecia y Estonia",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/11/02/6ae88536fc6c838b3c8b4581.html",
+   "f": "2026-11-02T12:55:57Z",
+   "c": "precios"
+  },
+  {
+   "t": "La industria automovilística cierra el mejor octubre en 18 años por el tirón del coche eléctrico",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/industria-automovilistica-cierra-mejor-octubre-18-anos-por-tiron-coche-electrico_7056168_0.html",
+   "f": "2026-11-02T12:36:27Z",
+   "c": "transporte"
+  },
+  {
+   "t": "Las ventas de coches en España firman el mejor octubre desde 2007 gracias al eléctrico y las marcas chinas",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-11-02/las-ventas-de-coches-en-espana-firman-el-mejor-octubre-desde-2007-gracias-al-electrico-y-las-marcas-chinas.html",
+   "f": "2026-11-02T12:31:28Z",
+   "c": "transporte"
+  },
   {
    "t": "Euríbor hoy, lunes 1 de noviembre: la tasa diaria inicia mes con una bajada ligera",
    "m": "El Mundo",
@@ -35,27 +56,6 @@
    "u": "https://www.elmundo.es/economia/2026/11/02/6ae85caefdddff213b8b456d.html",
    "f": "2026-11-02T11:07:11Z",
    "c": "precios"
-  },
-  {
-   "t": "Restablecido el suministro eléctrico en La Palma tras un apagón de cuatro horas",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-11-02/la-isla-de-la-palma-sufre-un-apagon-general-que-deja-a-la-isla-sin-suministro-electrico.html",
-   "f": "2026-11-02T11:00:58Z",
-   "c": "energia"
-  },
-  {
-   "t": "Precio de la leche desde hoy, lunes, 2 de noviembre de 2026: cuánto cuestan en Mercadona, Carrefour o Alcampo",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/11/02/6ae86791e85ece8f138b457c.html",
-   "f": "2026-11-02T10:59:35Z",
-   "c": "precios"
-  },
-  {
-   "t": "El PMI de la eurozona modera su crecimiento en octubre, aunque mantiene nueve meses de expansión",
-   "m": "Expansión",
-   "u": "https://www.expansion.com/economia/2026/11/02/pmi-eurozona-modera-crecimiento-octubre-mantiene-nueve-meses-expansion.html",
-   "f": "2026-11-02T10:56:44Z",
-   "c": "economia"
   }
  ]
 }
