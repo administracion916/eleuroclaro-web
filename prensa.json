@@ -1,61 +1,61 @@
 {
- "actualizado": "2026-11-02T01:39:21Z",
+ "actualizado": "2026-11-02T06:18:49Z",
  "items": [
   {
-   "t": "Los trabajadores se suman a operadores y maquinistas y piden al regulador que intervenga en Adif por \"riesgo grave\" para mejorar con urgencia la seguridad…",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/11/02/6ae767a7e9cf4aad0b8b4577.html",
-   "f": "2026-11-02T00:24:55Z",
-   "c": "empleo"
-  },
-  {
-   "t": "Carta abierta de un maquinista: El AVE devora al tren",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/11/02/6ae727cf21efa029738b4572.html",
-   "f": "2026-11-02T00:24:51Z",
-   "c": "transporte"
-  },
-  {
-   "t": "Menos de una quinta parte de la subida del alquiler entre 2019 y 2023 se asocia a los caseros con varias viviendas",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/empresas/2026/11/02/6ae4832de9cf4aca0d8b45b1.html",
-   "f": "2026-11-01T23:13:26Z",
+   "t": "Vivienda social y acompañamiento",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261102/11673511/vivienda-social-acompanamiento.html",
+   "f": "2026-11-02T05:00:00Z",
    "c": "vivienda"
   },
   {
-   "t": "Los expertos avisan: la subida de precios es estructural y dañará el consumo",
-   "m": "Expansión",
-   "u": "https://www.expansion.com/economia/2026/11/01/expertos-avisan-subida-precios-estructural-danara-consumo.html",
-   "f": "2026-11-01T22:58:23Z",
-   "c": "precios"
-  },
-  {
-   "t": "La exigencia de dimisión de Puente centra la vuelta a la campaña",
-   "m": "Expansión",
-   "u": "https://www.expansion.com/economia/2026/11/01/exigencia-dimision-puente-centra-vuelta-campana.html",
-   "f": "2026-11-01T22:57:09Z",
-   "c": "general"
-  },
-  {
-   "t": "Entra en vigor nueva la tasa europea de dos euros a los pequeños envíos",
-   "m": "Expansión",
-   "u": "https://www.expansion.com/economia/2026/11/01/entra-vigor-nueva-tasa-europea-dos-euros-pequenos-envios.html",
-   "f": "2026-11-01T19:33:53Z",
-   "c": "general"
-  },
-  {
-   "t": "La OPEP+ congela la oferta de petróleo en diciembre por tercer mes",
+   "t": "Prosegur y la bronca del voto por correo en EE.UU.// Santacreu “anuncia” que irá a la reelección en la Cambra",
    "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261101/11673468/opep-congela-oferta-petroleo-diciembre-tercer-mes.html",
-   "f": "2026-11-01T17:22:06Z",
-   "c": "energia"
+   "u": "https://www.lavanguardia.com/economia/20261102/11673505/prosegur-bronca-voto-correo-ee-uu-santacreu-anuncia-ira-reeleccion-cambra.html",
+   "f": "2026-11-02T05:00:00Z",
+   "c": "comercio"
   },
   {
-   "t": "Los salarios de los trabajadores de construcción e industria, los más protegidos frente al IPC",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/los-salarios-los-trabajadores-construccion-industria-los-mas-protegidos-frente-ipc_7055992_0.html",
-   "f": "2026-11-01T13:31:57Z",
-   "c": "precios"
+   "t": "El caos ferroviario debilita la ofensiva por los vuelos cortos",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261102/11673491/caos-ferroviario-debilita-ofensiva-vuelos-cortos.html",
+   "f": "2026-11-02T05:00:00Z",
+   "c": "transporte"
+  },
+  {
+   "t": "La UE afronta una negociación de vértigo para cerrar el relevo de Lagarde y el nuevo presupuesto comunitario en diciembre",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-11-02/la-ue-afronta-una-negociacion-de-vertigo-para-cerrar-el-relevo-de-lagarde-y-el-nuevo-presupuesto-comunitario-en-diciembre.html",
+   "f": "2026-11-02T04:30:01Z",
+   "c": "tipos"
+  },
+  {
+   "t": "El rechazo a la reforma de pensiones de Merz gana peso en Alemania",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-11-02/el-rechazo-a-la-reforma-de-pensiones-de-merz-gana-peso-en-alemania.html",
+   "f": "2026-11-02T04:30:01Z",
+   "c": "pensiones"
+  },
+  {
+   "t": "Astronómicos beneficios inevitables",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-11-02/astronomicos-beneficios-inevitables.html",
+   "f": "2026-11-02T04:30:01Z",
+   "c": "empresas"
+  },
+  {
+   "t": "La IA quiere el dinero de los inversores, pero no sus opiniones",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-02/la-ia-declara-la-guerra-al-capitalismo-popular.html",
+   "f": "2026-11-02T04:30:00Z",
+   "c": "tecnologia"
+  },
+  {
+   "t": "Bonos: ¿hora de salir del banquillo?",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-02/bonos-hora-de-salir-del-banquillo.html",
+   "f": "2026-11-02T04:25:00Z",
+   "c": "general"
   }
  ]
 }
