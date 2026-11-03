@@ -1,12 +1,40 @@
 {
- "actualizado": "2026-11-03T12:13:57Z",
+ "actualizado": "2026-11-03T12:56:10Z",
  "items": [
   {
-   "t": "La CEOE cree que Iberoamérica es el \"socio fiable\" que las empresas necesitan ante la inestabilidad mundial",
+   "t": "Tono negativo en las Bolsas ante la incertidumbre tecnológica y las elecciones en EE UU",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-03/la-bolsa-y-el-ibex-35.html",
+   "f": "2026-11-03T12:38:24Z",
+   "c": "tecnologia"
+  },
+  {
+   "t": "Los hurtos cuestan cerca de 3.000 millones al sector del gran consumo",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261103/11675001/hurtos-cuestan-cerca-3-000-millones-sector-gran-consumo.html",
+   "f": "2026-11-03T12:21:23Z",
+   "c": "general"
+  },
+  {
+   "t": "La AIE prevé escasez de gas natural también en 2027 y advierte del bajo nivel de reservas con que Europa llega al invierno",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-03/la-aie-preve-escasez-de-gas-natural-tambien-en-2027-y-advierte-del-bajo-nivel-de-reservas-con-que-europa-llega-al-invierno.html",
+   "f": "2026-11-03T12:16:13Z",
+   "c": "energia"
+  },
+  {
+   "t": "La nueva tasa europea de dos euros amenaza los envíos de Navidad: los paquetes de plataformas asiáticas caen un 64% desde julio",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/empresas/2026/11/03/6ae9cee0fdddff59638b45b4.html",
+   "f": "2026-11-03T12:15:16Z",
+   "c": "general"
+  },
+  {
+   "t": "Puente prevé abrir con menos frecuencias la línea Madrid-Sevilla en máximo 10 días tras permiso judicial",
    "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/noticia-ceoe-cree-iberoamerica-socio-fiable-empresas-necesitan-inestabilidad-mundial-20261103131027.html",
-   "f": "2026-11-03T12:10:27Z",
-   "c": "comercio"
+   "u": "https://www.europapress.es/economia/transportes-00343/noticia-puente-preve-abrir-menos-frecuencias-linea-madrid-sevilla-maximo-10-dias-permiso-judicial-20261103131148.html",
+   "f": "2026-11-03T12:11:48Z",
+   "c": "general"
   },
   {
    "t": "La AIE advierte a la UE que sus reservas de gas podrían tocar mínimos históricos después del invierno",
@@ -28,34 +56,6 @@
    "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/factura-hurtos-comercios-espanoles-aumenta-4-ultimo-ano-supera-l2-900-millones_7056439_0.html",
    "f": "2026-11-03T11:58:02Z",
    "c": "empresas"
-  },
-  {
-   "t": "El Gobierno aprueba ayudas por 30 millones para los afectados por el accidente ferroviario de Urda",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/transportes-00343/noticia-gobierno-aprueba-ayudas-30-millones-afectados-accidente-ferroviario-urda-20261103125754.html",
-   "f": "2026-11-03T11:57:54Z",
-   "c": "general"
-  },
-  {
-   "t": "Cuánto subirán las pensiones en 2027: la previsión según la inflación de octubre",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/cuanto-subiran-las-pensiones-2027-prevision-segun-inflacion-octubre_7056531_0.html",
-   "f": "2026-11-03T11:55:03Z",
-   "c": "pensiones"
-  },
-  {
-   "t": "Doble validación, alertas automáticas y refuerzo y más descanso para controladores: medidas del Gobierno después de Urda",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/nacional/doble-validacion-alertas-automaticas-refuerzo-mas-descanso-para-controladores-medidas-gobierno-despues-urda_7056577_0.html",
-   "f": "2026-11-03T11:52:57Z",
-   "c": "general"
-  },
-  {
-   "t": "El Consejo de Ministros aprueba un escudo de ayudas económicas de 30 millones de euros para las víctimas del accidente ferroviario de Urda (Toledo)",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/empresas/2026/11/03/6ae9a3ade9cf4a88748b457b.html",
-   "f": "2026-11-03T11:52:52Z",
-   "c": "general"
   }
  ]
 }
