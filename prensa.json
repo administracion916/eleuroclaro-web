@@ -1,61 +1,61 @@
 {
- "actualizado": "2026-11-03T12:56:10Z",
+ "actualizado": "2026-11-03T16:14:26Z",
  "items": [
+  {
+   "t": "Puente comparece en la Diputación Permanente para responder por el accidente en Urda",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/2026/11/03/puente-comparece-diputacion-permanente-responder-accidente-urda.html",
+   "f": "2026-11-03T16:07:55Z",
+   "c": "general"
+  },
+  {
+   "t": "Competencia abre un expediente sancionador a Apple y Amazon por incumplir la resolución de la histórica multa de 2023",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-11-03/competencia-abre-un-expediente-sancionador-a-apple-y-amazon-por-incumplir-la-resolucion-de-la-historica-multa-de-2023.html",
+   "f": "2026-11-03T16:02:34Z",
+   "c": "general"
+  },
+  {
+   "t": "CNMC abre expediente sancionador a Apple y Amazon por incumplir orden de cesación de conducta anticompetitiva",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/noticia-cnmc-abre-expediente-sancionador-apple-amazon-incumplir-orden-cesacion-conducta-anticompetitiva-20261103165523.html",
+   "f": "2026-11-03T15:55:23Z",
+   "c": "general"
+  },
+  {
+   "t": "El Defensor del pueblo recomienda incentivos fiscales y acuerdos con grandes tenedores para incorporar vivienda al parque público de alquiler",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/vivienda/2026/11/03/6ae9f6d7e85eceaf318b4587.html",
+   "f": "2026-11-03T15:25:29Z",
+   "c": "vivienda"
+  },
+  {
+   "t": "El FMI escoge Valencia para instalar su primera sede tecnológica fuera de Washington",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/fmi-escoge-valencia-para-instalar-su-primera-sede-tecnologica-fuera-washington_7056697_0.html",
+   "f": "2026-11-03T15:22:27Z",
+   "c": "economia"
+  },
+  {
+   "t": "La CNMV lanza un nuevo código que separa en el Ibex al presidente del consejero delegado",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261103/11675125/cnmv-lanza-nuevo-codigo-separa-ibex-presidente-consejero-delegado.html",
+   "f": "2026-11-03T14:49:26Z",
+   "c": "empresas"
+  },
   {
    "t": "Tono negativo en las Bolsas ante la incertidumbre tecnológica y las elecciones en EE UU",
    "m": "Cinco Días",
    "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-03/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-11-03T12:38:24Z",
+   "f": "2026-11-03T14:46:20Z",
    "c": "tecnologia"
   },
   {
-   "t": "Los hurtos cuestan cerca de 3.000 millones al sector del gran consumo",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261103/11675001/hurtos-cuestan-cerca-3-000-millones-sector-gran-consumo.html",
-   "f": "2026-11-03T12:21:23Z",
-   "c": "general"
-  },
-  {
-   "t": "La AIE prevé escasez de gas natural también en 2027 y advierte del bajo nivel de reservas con que Europa llega al invierno",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-03/la-aie-preve-escasez-de-gas-natural-tambien-en-2027-y-advierte-del-bajo-nivel-de-reservas-con-que-europa-llega-al-invierno.html",
-   "f": "2026-11-03T12:16:13Z",
-   "c": "energia"
-  },
-  {
-   "t": "La nueva tasa europea de dos euros amenaza los envíos de Navidad: los paquetes de plataformas asiáticas caen un 64% desde julio",
+   "t": "Primera denuncia contra Óscar Puente ante la Fiscalía del Tribunal Supremo por divulgar las conversaciones entre el centro de control de Adif y los maquinistas",
    "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/empresas/2026/11/03/6ae9cee0fdddff59638b45b4.html",
-   "f": "2026-11-03T12:15:16Z",
-   "c": "general"
-  },
-  {
-   "t": "Puente prevé abrir con menos frecuencias la línea Madrid-Sevilla en máximo 10 días tras permiso judicial",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/transportes-00343/noticia-puente-preve-abrir-menos-frecuencias-linea-madrid-sevilla-maximo-10-dias-permiso-judicial-20261103131148.html",
-   "f": "2026-11-03T12:11:48Z",
-   "c": "general"
-  },
-  {
-   "t": "La AIE advierte a la UE que sus reservas de gas podrían tocar mínimos históricos después del invierno",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/energia-00341/noticia-aie-advierte-ue-reservas-gas-podrian-tocar-minimos-historicos-despues-invierno-20261103130903.html",
-   "f": "2026-11-03T12:09:03Z",
-   "c": "energia"
-  },
-  {
-   "t": "El Gobierno reducirá las frecuencias en la línea Madrid-Sevilla hasta que se cambie el sistema de seguridad",
-   "m": "Expansión",
-   "u": "https://www.expansion.com/economia/2026/11/03/gobierno-reducira-frecuencias-linea-madrid-sevilla-cambie-sistema-seguridad.html",
-   "f": "2026-11-03T12:00:02Z",
-   "c": "general"
-  },
-  {
-   "t": "La factura de los hurtos en los comercios españoles aumenta un 4% y supera los 2.900 millones",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/factura-hurtos-comercios-espanoles-aumenta-4-ultimo-ano-supera-l2-900-millones_7056439_0.html",
-   "f": "2026-11-03T11:58:02Z",
-   "c": "empresas"
+   "u": "https://www.elmundo.es/economia/2026/11/03/6ae9e753e9cf4a55048b459b.html",
+   "f": "2026-11-03T14:20:39Z",
+   "c": "impuestos"
   }
  ]
 }
