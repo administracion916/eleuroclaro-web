@@ -13,9 +13,16 @@ concurrency:
 jobs:
   actualizar:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 10
     steps:
+      # El repositorio pesa unos 3,6 GB por los vídeos e imágenes: se baja solo lo que usa esta tarea.
       - uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            scripts/prensa.py
+            prensa.json
+          sparse-checkout-cone-mode: false
+          filter: blob:none
       - name: Leer titulares
         run: python3 scripts/prensa.py prensa.json
       - name: Guardar si han cambiado
