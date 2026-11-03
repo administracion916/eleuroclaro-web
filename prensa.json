@@ -1,61 +1,61 @@
 {
- "actualizado": "2026-11-03T22:18:14Z",
+ "actualizado": "2026-11-03T12:56:10Z",
  "items": [
   {
-   "t": "‘Midterms’: EEUU vota dividido tras la campaña más cara de la historia",
-   "m": "Expansión",
-   "u": "https://www.expansion.com/economia/2026/11/03/midterms-eeuu-vota-dividido-campana-cara-historia.html",
-   "f": "2026-11-03T21:53:38Z",
-   "c": "comercio"
+   "t": "Tono negativo en las Bolsas ante la incertidumbre tecnológica y las elecciones en EE UU",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-03/la-bolsa-y-el-ibex-35.html",
+   "f": "2026-11-03T12:38:24Z",
+   "c": "tecnologia"
   },
   {
-   "t": "Óscar Puente, el sustituto de Ábalos que sonaba como relevo de Sánchez al frente del PSOE",
-   "m": "Expansión",
-   "u": "https://www.expansion.com/economia/2026/11/03/oscar-puente-sustituto-abalos-sonaba-relevo-sanchez-frente-psoe.html",
-   "f": "2026-11-03T21:09:50Z",
-   "c": "general"
-  },
-  {
-   "t": "El PP dice que la dimisión de Puente \"llega 116 muertes tarde\" y Rufián afirma que ha sido \"un gran ministro\"",
-   "m": "Expansión",
-   "u": "https://www.expansion.com/economia/2026/11/03/pp-dice-dimision-puente-llega-116-muertes-tarde-rufian-afirma-sido-gran-ministro.html",
-   "f": "2026-11-03T21:01:07Z",
-   "c": "general"
-  },
-  {
-   "t": "Puente dimite como ministro y candidato del PSOE: \"Es una decisión de empatía con las víctimas\"",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/transportes-00343/noticia-puente-avanza-dimision-tragedia-urda-decision-empatia-victimas-20261103211310.html",
-   "f": "2026-11-03T20:13:10Z",
-   "c": "general"
-  },
-  {
-   "t": "Puente anuncia su dimisión una semana después del accidente de Urda",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/nacional/puente-anuncia-congreso-su-dimision-una-semana-despues-accidente-urda_7056706_0.html",
-   "f": "2026-11-03T20:12:20Z",
-   "c": "general"
-  },
-  {
-   "t": "¿Quién decide cuánto dinero se imprime? Te lo contamos en un minuto",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/quien-decide-cuanto-dinero-imprime_7056824_0.html",
-   "f": "2026-11-03T20:10:37Z",
-   "c": "general"
-  },
-  {
-   "t": "Ignacio Galán, nombrado colegiado de honor del Colegio de Economistas de Madrid por su trayectoria",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/ignacio-galan-nombrado-colegiado-honor-colegio-economistas-madrid-por-su-trayectoria_7056834_0.html",
-   "f": "2026-11-03T20:08:52Z",
-   "c": "general"
-  },
-  {
-   "t": "Wall Street contiene la respiración ante el posible giro político en EE.UU.",
+   "t": "Los hurtos cuestan cerca de 3.000 millones al sector del gran consumo",
    "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261103/11675303/wall-street-contiene-respiracion-posible-giro-politico-ee-uu.html",
-   "f": "2026-11-03T19:02:12Z",
-   "c": "comercio"
+   "u": "https://www.lavanguardia.com/economia/20261103/11675001/hurtos-cuestan-cerca-3-000-millones-sector-gran-consumo.html",
+   "f": "2026-11-03T12:21:23Z",
+   "c": "general"
+  },
+  {
+   "t": "La AIE prevé escasez de gas natural también en 2027 y advierte del bajo nivel de reservas con que Europa llega al invierno",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-03/la-aie-preve-escasez-de-gas-natural-tambien-en-2027-y-advierte-del-bajo-nivel-de-reservas-con-que-europa-llega-al-invierno.html",
+   "f": "2026-11-03T12:16:13Z",
+   "c": "energia"
+  },
+  {
+   "t": "La nueva tasa europea de dos euros amenaza los envíos de Navidad: los paquetes de plataformas asiáticas caen un 64% desde julio",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/empresas/2026/11/03/6ae9cee0fdddff59638b45b4.html",
+   "f": "2026-11-03T12:15:16Z",
+   "c": "general"
+  },
+  {
+   "t": "Puente prevé abrir con menos frecuencias la línea Madrid-Sevilla en máximo 10 días tras permiso judicial",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/transportes-00343/noticia-puente-preve-abrir-menos-frecuencias-linea-madrid-sevilla-maximo-10-dias-permiso-judicial-20261103131148.html",
+   "f": "2026-11-03T12:11:48Z",
+   "c": "general"
+  },
+  {
+   "t": "La AIE advierte a la UE que sus reservas de gas podrían tocar mínimos históricos después del invierno",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/energia-00341/noticia-aie-advierte-ue-reservas-gas-podrian-tocar-minimos-historicos-despues-invierno-20261103130903.html",
+   "f": "2026-11-03T12:09:03Z",
+   "c": "energia"
+  },
+  {
+   "t": "El Gobierno reducirá las frecuencias en la línea Madrid-Sevilla hasta que se cambie el sistema de seguridad",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/2026/11/03/gobierno-reducira-frecuencias-linea-madrid-sevilla-cambie-sistema-seguridad.html",
+   "f": "2026-11-03T12:00:02Z",
+   "c": "general"
+  },
+  {
+   "t": "La factura de los hurtos en los comercios españoles aumenta un 4% y supera los 2.900 millones",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/factura-hurtos-comercios-espanoles-aumenta-4-ultimo-ano-supera-l2-900-millones_7056439_0.html",
+   "f": "2026-11-03T11:58:02Z",
+   "c": "empresas"
   }
  ]
 }
