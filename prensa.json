@@ -1,12 +1,40 @@
 {
- "actualizado": "2026-11-03T06:10:36Z",
+ "actualizado": "2026-11-03T08:12:51Z",
  "items": [
   {
    "t": "Tono negativo en las Bolsas ante la incertidumbre tecnológica y las elecciones en EE UU",
    "m": "Cinco Días",
    "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-03/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-11-03T05:24:44Z",
+   "f": "2026-11-03T08:10:46Z",
    "c": "tecnologia"
+  },
+  {
+   "t": "Apple logra ingresos récord apoyada en la fortaleza del iPhone y presume de su remuneración a los accionistas",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-11-02/apple-eleva-sus-ingresos-un-12-y-presume-de-su-remuneracion-a-los-accionistas.html",
+   "f": "2026-11-03T08:09:14Z",
+   "c": "empresas"
+  },
+  {
+   "t": "Lista Forbes España 2026: los Ortega repiten como los más ricos y Juan Roig vuelve al podio",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261103/11669431/lista-forbes-espana-2026.html",
+   "f": "2026-11-03T08:00:00Z",
+   "c": "general"
+  },
+  {
+   "t": "Disney estudia miles de despidos para recortar un 20% sus costes anuales",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-11-03/disney-estudia-miles-de-despidos-para-recortar-un-20-sus-costes-anuales.html",
+   "f": "2026-11-03T07:31:20Z",
+   "c": "empleo"
+  },
+  {
+   "t": "Disney estudia miles de despidos y plantea reducir un 20 % sus costes anuales",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/empresas/2026/11/03/6ae985c6fc6c8315078b4570.html",
+   "f": "2026-11-03T07:07:50Z",
+   "c": "empleo"
   },
   {
    "t": "Enerside liquida los activos al fracasar su venta y un acuerdo con los acreedores",
@@ -23,39 +51,11 @@
    "c": "general"
   },
   {
-   "t": "Fact-checking: ¿Es el alquiler temporal un “obstáculo para la vivienda asequible”?",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261103/11673972/fact-checking-alquiler-temporal-obstaculo-vivienda-asequible-smr.html",
-   "f": "2026-11-03T05:00:00Z",
-   "c": "vivienda"
-  },
-  {
-   "t": "Las comunidades autónomas reducen a mínimos los préstamos del Estado para financiarse",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-11-03/las-comunidades-autonomas-reducen-a-minimos-los-prestamos-del-estado-para-financiarse.html",
-   "f": "2026-11-03T04:45:01Z",
-   "c": "bancos"
-  },
-  {
    "t": "Los sindicatos registran la petición a la Seguridad Social para adelantar la jubilación al personal de tierra de los aeropuertos",
    "m": "El País",
    "u": "https://elpais.com/economia/2026-11-03/los-sindicatos-registran-la-peticion-a-la-seguridad-social-para-adelantar-la-jubilacion-al-personal-de-tierra-de-los-aeropuertos.html",
    "f": "2026-11-03T04:45:01Z",
    "c": "pensiones"
-  },
-  {
-   "t": "La factura de la luz se encarecerá en 2.000 millones al año si descarrila el decreto de centros de datos",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-11-03/la-factura-de-la-luz-se-encarecera-en-2000-millones-al-ano-si-descarrila-el-decreto-de-centros-de-datos.html",
-   "f": "2026-11-03T04:45:00Z",
-   "c": "energia"
-  },
-  {
-   "t": "Wall Street afronta las ‘midterms’: más riesgo regulatorio para la IA y alivio pasajero para la deuda",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-03/wall-street-afronta-las-midterms-mas-riesgo-regulatorio-para-la-ia-y-alivio-pasajero-para-la-deuda.html",
-   "f": "2026-11-03T04:30:01Z",
-   "c": "tecnologia"
   }
  ]
 }
