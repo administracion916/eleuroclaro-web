@@ -1,61 +1,61 @@
 {
- "actualizado": "2026-11-04T10:10:39Z",
+ "actualizado": "2026-11-04T12:15:41Z",
  "items": [
   {
-   "t": "El dólar se deprecia y los futuros de Wall Street se anotan un ‘rally’ inesperado tras la victoria demócrata en las ‘midterms’",
+   "t": "Google, Meta, TikTok o X exponen ante CNMC medidas para mitigar riesgos sistémicos ante las elecciones del 29N",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/noticia-google-meta-tiktok-exponen-cnmc-medidas-mitigar-riesgos-sistemicos-elecciones-29n-20261104131114.html",
+   "f": "2026-11-04T12:11:14Z",
+   "c": "general"
+  },
+  {
+   "t": "La Airef empeora su previsión de déficit y lo sitúa en el 2,8% del PIB este año",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-11-04/la-airef-empeora-su-prevision-de-deficit-y-lo-situa-en-el-28-del-pib-este-ano.html",
+   "f": "2026-11-04T11:58:56Z",
+   "c": "impuestos"
+  },
+  {
+   "t": "El precio de la vivienda en las grandes ciudades españolas es un 25% superior a la media del país, según OCDE",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/construccion-y-vivienda-00342/noticia-precio-vivienda-grandes-ciudades-espanolas-25-superior-media-pais-ocde-20261104125824.html",
+   "f": "2026-11-04T11:58:24Z",
+   "c": "vivienda"
+  },
+  {
+   "t": "Self Bank mejora su cuenta remunerada y ofrece hasta un máximo de 2,25%",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/self-bank-mejora-su-cuenta-remunerada-ofrece-hasta-un-maximo-2-25_7057100_0.html",
+   "f": "2026-11-04T11:55:46Z",
+   "c": "general"
+  },
+  {
+   "t": "El banco de desarrollo CAF estrena sede en Madrid para movilizar más recursos en proyectos para América Latina",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-11-04/el-banco-de-desarrollo-caf-estrena-sede-en-madrid-para-movilizar-mas-recursos-en-proyectos-para-america-latina.html",
+   "f": "2026-11-04T11:52:42Z",
+   "c": "bancos"
+  },
+  {
+   "t": "El dólar se deprecia y los futuros de Wall Street se anotan un ‘rally’ inesperado tras la contundente victoria demócrata",
    "m": "Cinco Días",
    "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-04/reaccion-del-dolar-las-bolsas-y-el-ibex-35-al-resultado-de-las-midterms.html",
-   "f": "2026-11-04T10:05:34Z",
+   "f": "2026-11-04T11:51:11Z",
    "c": "general"
   },
   {
-   "t": "Hasta 80.000 euros para jóvenes agricultores en la Comunidad Valenciana: requisitos, plazos y cómo para solicitar las nuevas ayudas de 2026",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/11/04/6aeaeca2e4d4d8512a8b4579.html",
-   "f": "2026-11-04T09:51:50Z",
-   "c": "general"
-  },
-  {
-   "t": "España recibió el récord de 80,5 millones de turistas extranjeros hasta septiembre y su gasto subió un 8%",
+   "t": "El segundo pago de la Renta llega este 5 de noviembre: quién debe abonarlo y cuánto dinero supone",
    "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/espana-recibio-record-80-5-millones-turistas-extranjeros-hasta-septiembre-su-gasto-subio-un-8_7056946_0.html",
-   "f": "2026-11-04T09:50:15Z",
-   "c": "transporte"
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/segundo-pago-renta-llega-este-5-noviembre-quien-debe-abonarlo-cuanto-dinero-supone_7057044_0.html",
+   "f": "2026-11-04T11:50:05Z",
+   "c": "general"
   },
   {
-   "t": "La actividad privada de España modera el crecimiento en octubre",
+   "t": "La inflación en la eurozona aumenta dos décimas en octubre, hasta el 4 %",
    "m": "Expansión",
-   "u": "https://www.expansion.com/economia/2026/11/04/actividad-privada-espana-modera-crecimiento-octubre.html",
-   "f": "2026-11-04T09:39:17Z",
-   "c": "economia"
-  },
-  {
-   "t": "La OCDE señala a Madrid como una de las ciudades con mayor desequilibrio entre población y oferta residencial",
-   "m": "El País",
-   "u": "https://elpais.com/economia/vivienda/2026-11-04/la-ocde-senala-a-madrid-como-una-de-las-ciudades-con-mayor-desequilibrio-entre-poblacion-y-oferta-residencial.html",
-   "f": "2026-11-04T09:31:49Z",
-   "c": "economia"
-  },
-  {
-   "t": "Moeve vende todo su negocio petrolero en Argelia y culmina su salida de Exploración",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/empresas/2026/11/04/6aeaf62fe4d4d8512c8b4583.html",
-   "f": "2026-11-04T09:17:26Z",
-   "c": "general"
-  },
-  {
-   "t": "Confirmado por la Seguridad Social: el requisito de edad para jubilarte si solo has cotizado 15 años",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/11/04/6aeaf0c5fdddff61448b457a.html",
-   "f": "2026-11-04T09:16:49Z",
-   "c": "empleo"
-  },
-  {
-   "t": "El vicepresidente y ministro de Economía, Carlos Cuerpo, asumirá la cartera de Transportes tras la dimisión de Óscar Puente",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/nacional/vicepresidente-ministro-economia-carlos-cuerpo-asumira-cartera-transportes-tras-dimision-oscar-puente_7056960_0.html",
-   "f": "2026-11-04T09:01:38Z",
-   "c": "general"
+   "u": "https://www.expansion.com/economia/2026/11/04/inflacion-eurozona-aumenta-dos-decimas-octubre-4.html",
+   "f": "2026-11-04T11:49:29Z",
+   "c": "precios"
   }
  ]
 }
