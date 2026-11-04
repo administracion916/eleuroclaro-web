@@ -1,61 +1,61 @@
 {
- "actualizado": "2026-11-03T16:14:26Z",
+ "actualizado": "2026-11-04T00:45:23Z",
  "items": [
   {
-   "t": "Puente comparece en la Diputación Permanente para responder por el accidente en Urda",
+   "t": "Vinos, cuchillas de afeitar y comida para mascotas: los comercios españoles pierden ocho millones de euros al día por los hurtos",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/empresas/2026/11/04/6aea0aa5e4d4d87f2e8b4581.html",
+   "f": "2026-11-04T00:16:03Z",
+   "c": "general"
+  },
+  {
+   "t": "Los empresarios iberoamericanos exigen seguridad jurídica para blindar la inversión",
    "m": "Expansión",
-   "u": "https://www.expansion.com/economia/2026/11/03/puente-comparece-diputacion-permanente-responder-accidente-urda.html",
-   "f": "2026-11-03T16:07:55Z",
-   "c": "general"
+   "u": "https://www.expansion.com/economia/2026/11/04/empresarios-iberoamericanos-exigen-seguridad-juridica-blindar-inversion.html",
+   "f": "2026-11-04T00:09:49Z",
+   "c": "comercio"
   },
   {
-   "t": "Competencia abre un expediente sancionador a Apple y Amazon por incumplir la resolución de la histórica multa de 2023",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-11-03/competencia-abre-un-expediente-sancionador-a-apple-y-amazon-por-incumplir-la-resolucion-de-la-historica-multa-de-2023.html",
-   "f": "2026-11-03T16:02:34Z",
-   "c": "general"
-  },
-  {
-   "t": "CNMC abre expediente sancionador a Apple y Amazon por incumplir orden de cesación de conducta anticompetitiva",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/noticia-cnmc-abre-expediente-sancionador-apple-amazon-incumplir-orden-cesacion-conducta-anticompetitiva-20261103165523.html",
-   "f": "2026-11-03T15:55:23Z",
-   "c": "general"
-  },
-  {
-   "t": "El Defensor del pueblo recomienda incentivos fiscales y acuerdos con grandes tenedores para incorporar vivienda al parque público de alquiler",
+   "t": "España rompe la barrera de los 10 millones de habitantes por encima de los 65 años y añade presión sobre sus pensiones: \"Es un desafío estructural\"",
    "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/vivienda/2026/11/03/6ae9f6d7e85eceaf318b4587.html",
-   "f": "2026-11-03T15:25:29Z",
-   "c": "vivienda"
+   "u": "https://www.elmundo.es/economia/2026/11/04/6aea1c33e9cf4aba1e8b459e.html",
+   "f": "2026-11-03T23:29:55Z",
+   "c": "pensiones"
   },
   {
-   "t": "El FMI escoge Valencia para instalar su primera sede tecnológica fuera de Washington",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/fmi-escoge-valencia-para-instalar-su-primera-sede-tecnologica-fuera-washington_7056697_0.html",
-   "f": "2026-11-03T15:22:27Z",
-   "c": "economia"
+   "t": "Madrid lanza una línea de avales para facilitar la compra de casa sobre plano",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/2026/11/04/madrid-lanza-linea-avales-facilitar-compra-casa-sobre-plano.html",
+   "f": "2026-11-03T23:11:19Z",
+   "c": "general"
   },
   {
-   "t": "La CNMV lanza un nuevo código que separa en el Ibex al presidente del consejero delegado",
+   "t": "Las palabras de Óscar Puente sobre los controladores que el sindicato Alferro ve constitutivas de delito y ha llevado ante la Fiscalía del Tribunal Supremo",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/11/04/6aea3b20e9cf4a3b328b45ac.html",
+   "f": "2026-11-03T23:10:24Z",
+   "c": "empleo"
+  },
+  {
+   "t": "Las familias catalanas anticipan las compras navideñas para evitar subidas de precio",
    "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261103/11675125/cnmv-lanza-nuevo-codigo-separa-ibex-presidente-consejero-delegado.html",
-   "f": "2026-11-03T14:49:26Z",
-   "c": "empresas"
+   "u": "https://www.lavanguardia.com/economia/20261104/11675222/familias-catalanas-anticipan-compras-navidenas-evitar-subidas-precio.html",
+   "f": "2026-11-03T23:00:00Z",
+   "c": "precios"
   },
   {
-   "t": "Tono negativo en las Bolsas ante la incertidumbre tecnológica y las elecciones en EE UU",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-03/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-11-03T14:46:20Z",
-   "c": "tecnologia"
+   "t": "‘Midterms’: EEUU vota dividido tras la campaña más cara de la historia",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/2026/11/03/midterms-eeuu-vota-dividido-campana-cara-historia.html",
+   "f": "2026-11-03T21:53:38Z",
+   "c": "comercio"
   },
   {
-   "t": "Primera denuncia contra Óscar Puente ante la Fiscalía del Tribunal Supremo por divulgar las conversaciones entre el centro de control de Adif y los maquinistas",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/11/03/6ae9e753e9cf4a55048b459b.html",
-   "f": "2026-11-03T14:20:39Z",
-   "c": "impuestos"
+   "t": "Puente dimite como ministro y candidato del PSOE: \"Es una decisión de empatía con las víctimas\"",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/transportes-00343/noticia-puente-avanza-dimision-tragedia-urda-decision-empatia-victimas-20261103211310.html",
+   "f": "2026-11-03T20:13:10Z",
+   "c": "general"
   }
  ]
 }
