@@ -1,6 +1,34 @@
 {
- "actualizado": "2026-11-04T22:12:03Z",
+ "actualizado": "2026-11-05T01:33:36Z",
  "items": [
+  {
+   "t": "Los 2.000 bomberos despedidos al terminar la campaña: \"Cada vez somos menos, cada vez hay más abandono profesional\"",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/11/05/6aeb6e1c21efa04f758b45b6.html",
+   "f": "2026-11-05T00:38:05Z",
+   "c": "general"
+  },
+  {
+   "t": "De 'ariete' de Sánchez contra Ayuso a Tragsa: el ex delegado del Gobierno en Madrid vuelve a la empresa pública al día siguiente de su cese",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/empresas/2026/11/05/6aeb2f82fdddff06438b45c9.html",
+   "f": "2026-11-05T00:34:30Z",
+   "c": "empresas"
+  },
+  {
+   "t": "La bailarina de tacón y espíritu libre de Camper",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/empresas/2026/11/05/6ae47cd6fdddfffb428b4590.html",
+   "f": "2026-11-04T23:01:07Z",
+   "c": "general"
+  },
+  {
+   "t": "La inflación acelera en la zona euro con la economía en frenada",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/2026/11/04/inflacion-acelera-zona-euro-economia-frenada.html",
+   "f": "2026-11-04T22:55:20Z",
+   "c": "precios"
+  },
   {
    "t": "Los mercados celebran el histórico vuelco político en Estados Unidos",
    "m": "Cinco Días",
@@ -16,20 +44,6 @@
    "c": "empleo"
   },
   {
-   "t": "Los tres saltos de Luis Pedro Marco de la Peña, el más fiel a Puente: de las constructoras, al Gobierno vasco y al despacho de Adif con una cúpula a medida",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/11/04/6ae9a901fc6c83fb6f8b457f.html",
-   "f": "2026-11-04T19:01:00Z",
-   "c": "general"
-  },
-  {
-   "t": "Carlos Cuerpo descabeza la cúpula de Adif en su primer día como ministro de Transportes tras la dimisión de Óscar Puente",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/11/04/6aeb4b7621efa02d2f8b45b5.html",
-   "f": "2026-11-04T18:53:10Z",
-   "c": "general"
-  },
-  {
    "t": "Dimite el presidente de Adif un día después de la renuncia de Puente",
    "m": "20minutos",
    "u": "https://www.20minutos.es/nacional/dimite-presidente-adif-un-dia-despues-renuncia-puente-por-accidente-urda_7057308_0.html",
@@ -42,20 +56,6 @@
    "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-04/las-acciones-de-defensa-se-hunden-tras-la-victoria-democrata.html",
    "f": "2026-11-04T18:28:14Z",
    "c": "general"
-  },
-  {
-   "t": "Miguel Stilwell dejará su cargo como máximo ejecutivo de EDP en la junta general de 2027",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-11-04/miguel-stilwell-dejara-su-cargo-como-maximo-ejecutivo-de-edp-en-la-junta-general-de-2027.html",
-   "f": "2026-11-04T18:26:15Z",
-   "c": "empresas"
-  },
-  {
-   "t": "Felipe VI llama a diversificar los lazos comerciales iberoamericanos ante la incertidumbre económica",
-   "m": "Expansión",
-   "u": "https://www.expansion.com/economia/2026/11/04/felipe-vi-llama-diversificar-lazos-comerciales-iberoamericanos-incertidumbre-economica.html",
-   "f": "2026-11-04T18:12:02Z",
-   "c": "comercio"
   }
  ]
 }
