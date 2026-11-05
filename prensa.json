@@ -1,61 +1,61 @@
 {
- "actualizado": "2026-11-05T18:10:33Z",
+ "actualizado": "2026-11-05T20:09:55Z",
  "items": [
   {
-   "t": "Dia se deshace de su negocio en Argentina ante el deterioro del consumo en el país",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-11-05/dia-se-deshace-de-su-negocio-en-argentina-ante-el-deterioro-del-consumo-en-el-pais.html",
-   "f": "2026-11-05T17:55:15Z",
-   "c": "empresas"
-  },
-  {
-   "t": "Cellnex reduce un 16% sus perdidas tras superar los 3.000 millones en ingresos hasta septiembre",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/empresas/cellnex-reduce-perdidas-superar-3000-millones-ingresos-hasta-septiembre_7057857_0.html",
-   "f": "2026-11-05T17:45:18Z",
-   "c": "general"
-  },
-  {
-   "t": "Veritas califica de “salto histórico” el nuevo decreto de comedores y pide ampliar la cuota eco",
+   "t": "Un ciberatque sustrae 100 millones al banco francés Arkea",
    "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261105/11677117/veritas-califica-salto-historico-nuevo-decreto-comedores-pide-ampliar-cuota-eco.html",
-   "f": "2026-11-05T17:16:29Z",
-   "c": "general"
+   "u": "https://www.lavanguardia.com/economia/20261105/11677154/ciberatque-sustrae-100-millones-banco-frances-arkea.html",
+   "f": "2026-11-05T19:19:05Z",
+   "c": "bancos"
   },
   {
-   "t": "Cellnex reduce sus pérdidas netas un 16,7% hasta septiembre",
+   "t": "Cox reorganiza su estructura directiva y de negocio y nombra nuevo consejero delegado a Patxi Sáez",
    "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-11-05/cellnex-reduce-sus-perdidas-netas-un-167-hasta-septiembre.html",
-   "f": "2026-11-05T17:07:54Z",
+   "u": "https://cincodias.elpais.com/companias/2026-11-05/cox-reorganiza-su-estructura-directiva-y-de-negocio-y-nombra-nuevo-consejero-delegado-a-patxi-saez.html",
+   "f": "2026-11-05T19:02:30Z",
    "c": "empresas"
   },
   {
-   "t": "El Ibex 35 resiste al desplome de las tecnológicas en EEUU y sube un 0,6%, con el crudo en 97 dólares",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/bolsa-00348/noticia-ibex-35-resiste-desplome-tecnologicas-eeuu-sube-06-crudo-97-dolares-20261105180621.html",
-   "f": "2026-11-05T17:06:21Z",
-   "c": "tecnologia"
-  },
-  {
-   "t": "Rovi se dispara en Bolsa tras mejorar sus cuentas y revisar al alza sus previsiones anuales",
+   "t": "Nvidia pierde 1,4 billones de dólares de capitalización en un mes",
    "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-11-05/rovi-eleva-el-beneficio-un-67-con-un-aumento-de-ingresos-del-19-y-revisa-al-alza-sus-previsiones-anuales.html",
-   "f": "2026-11-05T17:00:53Z",
-   "c": "economia"
-  },
-  {
-   "t": "Cuerpo no acierta a desactivar la huelga de los maquinistas tras descabezar Adif y los vuelve a citar mañana",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/11/05/6aec46bee85ece22718b4593.html",
-   "f": "2026-11-05T16:42:01Z",
-   "c": "empleo"
-  },
-  {
-   "t": "La victoria demócrata inquieta al sector de los centros de datos y hunde al Nasdaq con una fuga de inversores de las empresas de IA",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/dinero-inversion/2026/11/05/6aeca8f9fc6c8320758b4577.html",
-   "f": "2026-11-05T16:31:24Z",
+   "u": "https://cincodias.elpais.com/companias/2026-11-05/nvidia-pierde-14-billones-de-dolares-de-capitalizacion-en-un-mes.html",
+   "f": "2026-11-05T18:52:49Z",
    "c": "tecnologia"
+  },
+  {
+   "t": "Competencia plantea convertir el suelo que no esté protegido en urbanizable",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261105/11677230/competencia-plantea-convertir-suelo-este-protegido-urbanizable.html",
+   "f": "2026-11-05T18:52:08Z",
+   "c": "vivienda"
+  },
+  {
+   "t": "Tesla y SpaceX pierden 417.000 millones de valor en dos días tras el triunfo demócrata",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-05/el-triunfo-democrata-en-las-midterms-borra-111000-millones-de-valor-en-tesla-y-spacex.html",
+   "f": "2026-11-05T18:15:27Z",
+   "c": "general"
+  },
+  {
+   "t": "Los maquinistas mantienen la huelga en Renfe tras una reunión \"sin avances\" con Cuerpo, que los cita este viernes",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/transportes-00343/noticia-maquinistas-mantienen-huelga-renfe-reunion-avances-cuerpo-cita-manana-20261105191500.html",
+   "f": "2026-11-05T18:15:00Z",
+   "c": "transporte"
+  },
+  {
+   "t": "Dia sale de A rgentina tras vender su filial en el país por 48 millones al Grupo de Narváez (ChangoMás)",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/empresas/dia-sale-argentina-vender-filial-pais-48-millones-grupo-narvaez_7057870_0.html",
+   "f": "2026-11-05T18:10:57Z",
+   "c": "general"
+  },
+  {
+   "t": "La Generalitat dicta menos servicios mínimos para la huelga general del 11-N que para el paro del 2012",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261105/11677199/generalitat-dicta-servicios-minimos-25-transportes-franjas-manana-tarde.html",
+   "f": "2026-11-05T18:01:59Z",
+   "c": "empleo"
   }
  ]
 }
