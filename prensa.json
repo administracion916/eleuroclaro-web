@@ -1,61 +1,61 @@
 {
- "actualizado": "2026-11-04T13:10:08Z",
+ "actualizado": "2026-11-06T08:12:00Z",
  "items": [
   {
-   "t": "Los inversores de Lindt buscan una reestructuración del consejo de la compañía tras la destitución del CEO",
+   "t": "El Ibex cae un 1% ante la oleada de ventas del sector tecnológico",
    "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-11-04/los-inversores-de-lindt-buscan-una-reestructuracion-del-consejo-de-la-compania-tras-la-destitucion-del-ceo.html",
-   "f": "2026-11-04T13:04:21Z",
-   "c": "empresas"
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-06/la-bolsa-y-el-ibex-35.html",
+   "f": "2026-11-06T08:06:21Z",
+   "c": "tecnologia"
   },
   {
-   "t": "Las Bolsas de EE UU y Europa viven un ‘rally’ inesperado mientras el dólar se deprecia tras la contundente victoria demócrata",
+   "t": "Nueva jornada de fuertes caídas en las bolsas arrastradas por la IA",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261106/11677641/nueva-jornada-fuertes-caidas-bolsas-arrastradas-ia.html",
+   "f": "2026-11-06T08:05:23Z",
+   "c": "empleo"
+  },
+  {
+   "t": "El Gobierno ordena la retirada del 12% de la producción de aceite de oliva",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/11/06/6aed8762e9cf4a994c8b45a5.html",
+   "f": "2026-11-06T07:56:12Z",
+   "c": "precios"
+  },
+  {
+   "t": "IAG redujo un 16,2% su beneficio hasta septiembre por el alza del combustible",
    "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-04/reaccion-del-dolar-las-bolsas-y-el-ibex-35-al-resultado-de-las-midterms.html",
-   "f": "2026-11-04T12:40:41Z",
-   "c": "general"
+   "u": "https://cincodias.elpais.com/companias/2026-11-06/iag-redujo-un-162-su-beneficio-hasta-septiembre-por-el-alza-del-combustible.html",
+   "f": "2026-11-06T07:47:43Z",
+   "c": "energia"
   },
   {
-   "t": "Hacienda cobra este jueves 5 de noviembre el segundo pago de IRPF si la declaración de la Renta le salió a ingresar",
-   "m": "Expansión",
-   "u": "https://www.expansion.com/economia/declaracion-renta/2026/11/04/hacienda-cobra-jueves-5-noviembre-segundo-pago-irpf-declaracion-renta-le-salio-ingresar.html",
-   "f": "2026-11-04T12:35:54Z",
-   "c": "impuestos"
+   "t": "Investigado el piloto del vuelo Dublín-Roma: \"Se negó a aterrizar en una base militar pese a la amenaza de bomba y fueron necesarios dos cazas para convencerlo\"",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/11/06/6aed835ee4d4d842348b4588.html",
+   "f": "2026-11-06T07:36:02Z",
+   "c": "transporte"
   },
   {
-   "t": "Google, Meta, TikTok o X exponen ante CNMC medidas para mitigar riesgos sistémicos ante las elecciones del 29N",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/noticia-google-meta-tiktok-exponen-cnmc-medidas-mitigar-riesgos-sistemicos-elecciones-29n-20261104131114.html",
-   "f": "2026-11-04T12:11:14Z",
-   "c": "general"
-  },
-  {
-   "t": "La Airef empeora su previsión de déficit y lo sitúa en el 2,8% del PIB este año",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-11-04/la-airef-empeora-su-prevision-de-deficit-y-lo-situa-en-el-28-del-pib-este-ano.html",
-   "f": "2026-11-04T11:58:56Z",
-   "c": "impuestos"
-  },
-  {
-   "t": "El precio de la vivienda en las grandes ciudades españolas es un 25% superior a la media del país, según OCDE",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/construccion-y-vivienda-00342/noticia-precio-vivienda-grandes-ciudades-espanolas-25-superior-media-pais-ocde-20261104125824.html",
-   "f": "2026-11-04T11:58:24Z",
-   "c": "vivienda"
-  },
-  {
-   "t": "Self Bank mejora su cuenta remunerada y ofrece hasta un máximo de 2,25%",
+   "t": "El Gobierno decreta el almacenamiento obligatorio del 12% de la producción de aceite de oliva",
    "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/self-bank-mejora-su-cuenta-remunerada-ofrece-hasta-un-maximo-2-25_7057100_0.html",
-   "f": "2026-11-04T11:55:46Z",
-   "c": "general"
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/gobierno-decreta-almacenamiento-obligatorio-12-produccion-aceite-oliva_7057987_0.html",
+   "f": "2026-11-06T07:34:11Z",
+   "c": "precios"
   },
   {
-   "t": "El banco de desarrollo CAF estrena sede en Madrid para movilizar más recursos en proyectos para América Latina",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-11-04/el-banco-de-desarrollo-caf-estrena-sede-en-madrid-para-movilizar-mas-recursos-en-proyectos-para-america-latina.html",
-   "f": "2026-11-04T11:52:42Z",
-   "c": "bancos"
+   "t": "IAG gana un 16% menos hasta septiembre por combustible, con 2.264 millones, y espera un descenso de capacidad",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/noticia-iag-gana-16-menos-septiembre-combustible-2264-millones-espera-descenso-capacidad-20261106082704.html",
+   "f": "2026-11-06T07:27:04Z",
+   "c": "energia"
+  },
+  {
+   "t": "IAG gana un 16% menos por el alza de costes pese a cosechar ingresos récord hasta septiembre",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/empresas/iag-gana-un-16-menos-por-alza-costes-pese-cosechar-ingresos-record-hasta-septiembre_7057983_0.html",
+   "f": "2026-11-06T07:26:17Z",
+   "c": "general"
   }
  ]
 }

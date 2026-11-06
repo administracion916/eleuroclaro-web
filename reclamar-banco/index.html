@@ -90,6 +90,32 @@ Fecha y firma:</pre>
       <p class="small note-legal">Contenido divulgativo: no es asesoramiento financiero ni jurídico.</p>
     </div>
   </section>
+  <section class="section alt" id="newsletter" aria-labelledby="cada-mes">
+    <div class="wrap news">
+      <div>
+        <p class="eyebrow">Newsletter · domingos · gratis</p>
+        <h2 id="cada-mes">Y cada domingo, lo que cambia en tu bolsillo</h2>
+        <p class="intro">Cada domingo te mandamos, en 3 minutos, las noticias de la semana que tocan tu bolsillo, con ejemplos en euros.</p>
+        <div class="nl-autor">
+          <img src="/img/pere-jaume-avatar.jpg" width="56" height="56" alt="" loading="lazy">
+          <p>Cada domingo te lo cuento yo, con datos oficiales y ejemplos en euros.<span class="firma">Pere Jaume</span></p>
+        </div>
+        <p class="regalo">De regalo al apuntarte: la guía de una página <strong>«Cómo leer tu nómina en 2 minutos»</strong>, con lo que te quitan y a dónde va.</p>
+        <p class="small note-legal">Contenido divulgativo. No es asesoramiento financiero.</p>
+      </div>
+      <form class="signup" data-campana="reclamar-banco" novalidate>
+        <label for="email">Tu correo electrónico</label>
+        <input type="email" id="email" name="email" placeholder="nombre@correo.es" autocomplete="email" required>
+        <label class="consent" for="consent">
+          <input type="checkbox" id="consent" name="consent" required>
+          <span>Quiero recibir la newsletter y he leído la <a href="/privacidad.html">política de privacidad</a>.</span>
+        </label>
+        <button class="btn btn-primary" type="submit">Apuntarme gratis</button>
+        <p class="msg" role="status"></p>
+        <p class="fine">Odana Ingeniería SL usará tu correo para enviarte la newsletter semanal, que puede incluir publicidad marcada y ofertas de nuestros productos, con tu consentimiento. Lo guarda nuestra plataforma de envíos, Substack (EE. UU.). Puedes darte de baja cuando quieras y ejercer tus derechos en hola@eleuroclaro.es. Más información en la <a href="/privacidad.html">política de privacidad</a>.</p>
+      </form>
+    </div>
+  </section>
 </main>
 
 <footer class="foot">
@@ -112,6 +138,7 @@ document.getElementById('copiar').addEventListener('click',function(){
   (navigator.clipboard?navigator.clipboard.writeText(t):Promise.reject()).then(function(){s.textContent='Copiado.';},function(){s.textContent='Selecciona el texto y cópialo.';});
 });
 </script>
+<script src="/suscribir.js?v=20261011n" defer></script>
 <!-- Cloudflare Web Analytics --><script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "e81aecc33a6b40ccab86c1fbc9fa801c"}'></script><!-- End Cloudflare Web Analytics -->
 </body>
 </html>
