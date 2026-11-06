@@ -35,8 +35,13 @@ def guardar(carpeta, nombre, datos):
 
 
 def sin_secciones(series):
+    if not isinstance(series, list):
+        print(f"Aviso: respuesta que no es lista: {str(series)[:300]}")
+        return series
     out = []
-    for s in series or []:
+    for s in series:
+        if not isinstance(s, dict):
+            continue
         n = (s.get("Nombre") or "").lower()
         if "sección" in n or "seccion" in n or "distrito" in n:
             continue
