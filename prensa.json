@@ -1,12 +1,40 @@
 {
- "actualizado": "2026-11-06T20:02:02Z",
+ "actualizado": "2026-11-06T22:11:03Z",
  "items": [
+  {
+   "t": "La corrección del Nasdaq presiona a la baja la valoración de Anthropic ante su salida a Bolsa",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-11-06/la-correccion-del-nasdaq-presiona-a-la-baja-la-valoracion-de-anthropic-ante-su-salida-a-bolsa.html",
+   "f": "2026-11-06T21:14:03Z",
+   "c": "empresas"
+  },
+  {
+   "t": "El Ibex firma su mejor semana en siete meses al calor de la banca y la caída del petróleo",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-06/la-bolsa-y-el-ibex-35.html",
+   "f": "2026-11-06T21:07:27Z",
+   "c": "energia"
+  },
+  {
+   "t": "El Consejo de Estado da vía libre al decreto de los centros de datos y podrá aprobarse antes del 29-N",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-11-06/el-consejo-de-estado-da-via-libre-al-decreto-de-los-centros-de-datos-y-podra-aprobarse-antes-del-29-n.html",
+   "f": "2026-11-06T20:31:00Z",
+   "c": "general"
+  },
   {
    "t": "Ayuso exporta la cultura del esfuerzo: ‘Madrid Xplora’ irá este año a Costa Rica para impulsar el talento joven y la excelencia académica",
    "m": "Expansión",
    "u": "https://www.expansion.com/economia/2026/11/06/ayuso-exporta-cultura-esfuerzo-madrid-xplora-ira-ano-costa-rica-impulsar-talento-joven-excelencia-academica.html",
    "f": "2026-11-06T19:44:16Z",
    "c": "general"
+  },
+  {
+   "t": "El Ibex sortea la volatilidad con su mejor semana desde abril al ganar un 3,84%",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261106/11678308/ibex-sortea-volatilidad-mejor-semana-abril-ganar-3-84.html",
+   "f": "2026-11-06T19:38:59Z",
+   "c": "empresas"
   },
   {
    "t": "Las víctimas de Adamuz piden a Cuerpo más medios para la investigación de los accidentes tras conocerse que solo hay tres especialistas para las dos…",
@@ -27,34 +55,6 @@
    "m": "20minutos",
    "u": "https://www.20minutos.es/lainformacion/empresas/gregorio-jimenez-un-grupo-inversores-se-hacen-con-51-burguer-king-mayor-operacion-historia-restauracion-espana_7058370_0.html",
    "f": "2026-11-06T17:57:01Z",
-   "c": "general"
-  },
-  {
-   "t": "La vivienda, los alimentos y los combustibles se encarecen hasta tres veces más que los salarios desde 2019",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-11-06/la-vivienda-los-alimentos-y-los-combustibles-se-encarecen-hasta-tres-veces-mas-que-los-salarios-desde-2019.html",
-   "f": "2026-11-06T17:41:34Z",
-   "c": "vivienda"
-  },
-  {
-   "t": "El candidato español y el holandés competirán en la carrera por sustituir a Christine Lagarde al frente del BCE",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-11-06/espana-presenta-formalmente-la-candidatura-de-hernandez-de-cos-a-la-presidencia-del-bce.html",
-   "f": "2026-11-06T17:33:14Z",
-   "c": "tipos"
-  },
-  {
-   "t": "Donald Trump ha demostrado al mundo que los aranceles son inútiles",
-   "m": "Expansión",
-   "u": "https://www.expansion.com/economia/financial-times/2026/11/06/donald-trump-demostrado-mundo-aranceles-son-inutiles.html",
-   "f": "2026-11-06T17:29:09Z",
-   "c": "comercio"
-  },
-  {
-   "t": "El presidente de Burger King España compra su parte a Cinven por 2.300 millones y se hace con el 51%",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/noticia-presidente-burguer-king-espana-compra-parte-cinven-2300-millones-hace-51-20261106182421.html",
-   "f": "2026-11-06T17:24:21Z",
    "c": "general"
   }
  ]
