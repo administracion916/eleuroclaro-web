@@ -1,61 +1,61 @@
 {
- "actualizado": "2026-11-06T01:42:36Z",
+ "actualizado": "2026-11-06T06:10:52Z",
  "items": [
   {
-   "t": "La AIReF advierte: los costes laborales subirán cada año un 3% hasta 2030 con \"crecimiento cero\" de la productividad",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/11/06/6aeca2b9e85ece98598b458c.html",
-   "f": "2026-11-06T00:07:13Z",
-   "c": "economia"
-  },
-  {
-   "t": "Lagarde ve la luz al final de su mandato tras la derrota de Trump que aleja la posibilidad de una subida de tipos en diciembre",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/dinero-inversion/2026/11/06/6aec7252e85ece7f5c8b45ba.html",
-   "f": "2026-11-05T23:06:16Z",
-   "c": "tipos"
-  },
-  {
-   "t": "Cuerpo empujó para suavizar el decreto de los centros de datos y exigió tener la última palabra en las futuras revisiones de la norma",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/empresas/2026/11/06/6aec9fe3fc6c83d2638b458d.html",
-   "f": "2026-11-05T23:06:15Z",
-   "c": "general"
-  },
-  {
-   "t": "Jueves negro para la Bolsa: el Nasdaq sufre un batacazo por el miedo al frenazo de la IA",
+   "t": "Las Bolsas sufren ante la oleada de ventas del sector tecnológico",
    "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-05/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-11-05T21:49:21Z",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-06/la-bolsa-y-el-ibex-35.html",
+   "f": "2026-11-06T05:26:54Z",
    "c": "tecnologia"
   },
   {
-   "t": "Tesla y SpaceX pierden 417.000 millones de valor en dos días tras el triunfo demócrata",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-05/el-triunfo-democrata-en-las-midterms-borra-111000-millones-de-valor-en-tesla-y-spacex.html",
-   "f": "2026-11-05T21:19:37Z",
-   "c": "general"
+   "t": "Las comunidades autónomas pierden 1.300 millones por rebajar impuestos, salvo Catalunya",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261106/11677226/comunidades-autonomas-pierden-1-300-millones-rebajar-impuestos-salvo-catalunya.html",
+   "f": "2026-11-06T05:00:00Z",
+   "c": "impuestos"
   },
   {
-   "t": "Nvidia pierde 1,4 billones de dólares de capitalización en un mes",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-11-05/nvidia-pierde-14-billones-de-dolares-de-capitalizacion-en-un-mes.html",
-   "f": "2026-11-05T21:15:39Z",
+   "t": "La inteligencia artificial redefine las decisiones que marcarán el futuro de las empresas",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261106/11674784/inteligencia-artificial-redefine-decisiones-marcaran-futuro-empresas-brl.html",
+   "f": "2026-11-06T04:50:00Z",
    "c": "tecnologia"
   },
   {
-   "t": "Cuerpo asegura que \"no hay ninguna previsión de cerrar\" el AVE entre Madrid y Barcelona",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/transportes-00343/noticia-cuerpo-asegura-no-hay-ninguna-prevision-cerrar-ave-madrid-barcelona-20261105221435.html",
-   "f": "2026-11-05T21:14:35Z",
-   "c": "economia"
-  },
-  {
-   "t": "Agricultura activa por primera vez la retirada del 12% de la producción de aceite para evitar el desplome de los precios",
+   "t": "Acabar con el déficit de 750.000 viviendas que calcula el Banco de España exige una inversión equivalente al 11% del PIB",
    "m": "El País",
-   "u": "https://elpais.com/economia/2026-11-05/agricultura-activa-por-primera-vez-la-retirada-del-12-de-la-produccion-de-aceite-para-evitar-el-desplome-de-los-precios.html",
-   "f": "2026-11-05T21:01:00Z",
-   "c": "precios"
+   "u": "https://elpais.com/economia/vivienda/2026-11-06/acabar-con-el-deficit-de-750000-viviendas-que-calcula-el-banco-de-espana-exige-una-inversion-equivalente-al-11-del-pib.html",
+   "f": "2026-11-06T04:45:01Z",
+   "c": "vivienda"
+  },
+  {
+   "t": "Hacienda actualizará la deducción del salario mínimo hasta los 1.030 euros para que sus perceptores no paguen IRPF",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-11-06/hacienda-actualizara-la-deduccion-del-salario-minimo-hasta-los-1030-euros-para-que-sus-perceptores-no-paguen-irpf.html",
+   "f": "2026-11-06T04:45:01Z",
+   "c": "empleo"
+  },
+  {
+   "t": "Agnès Pannier-Runacher, exministra francesa de Energía: “La única estrategia viable para Europa consiste en producir más y consumir menos”",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/economia/2026-11-06/agnes-pannier-runacher-exministra-francesa-de-energia-la-unica-estrategia-viable-para-europa-consiste-en-producir-mas-y-consumir-menos.html",
+   "f": "2026-11-06T04:45:01Z",
+   "c": "energia"
+  },
+  {
+   "t": "El mes que hizo temblar a la IA",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-06/el-mes-que-hizo-temblar-a-la-ia.html",
+   "f": "2026-11-06T04:30:01Z",
+   "c": "tecnologia"
+  },
+  {
+   "t": "El euríbor me está comiendo. ¿Puedo vender mi vivienda y comprar otra acogiéndome a las ayudas del Gobierno?",
+   "m": "El País",
+   "u": "https://elpais.com/economia/vivienda/consultorio/2026-11-06/el-euribor-me-esta-comiendo-puedo-vender-mi-vivienda-y-comprar-otra-acogiendome-a-las-ayudas-publicas-del-gobierno.html",
+   "f": "2026-11-06T04:30:00Z",
+   "c": "tipos"
   }
  ]
 }
