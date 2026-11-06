@@ -1,0 +1,75 @@
+/* «Tu año en euros» (/tu-ano/). Aparte de style.css para no tocar la versión de todas las páginas. */
+.visually-hidden { position: absolute !important; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+.calc select { width: 100%; padding: .7rem .8rem; border: 1px solid var(--muted); border-radius: .45rem; background: var(--bg); color: var(--ink); font: inherit; }
+.calc-fila > select { min-width: 9.5rem; }
+fieldset.ano-tipo { margin: 0; border: 0; border-top: 1px solid var(--line); padding: .55rem 0; display: block; }
+.ano-tipo legend { float: left; width: 100%; padding: 0; margin-bottom: .45rem; }
+.ano-opciones { clear: both; display: flex; flex-wrap: wrap; gap: .5rem; }
+.ano-opciones label { display: inline-flex; align-items: center; gap: .45rem; padding: .5rem .85rem; border: 1px solid var(--line); border-radius: 2rem; background: var(--bg); cursor: pointer; font-weight: 600; }
+.ano-opciones label:has(input:checked) { border-color: var(--blue); box-shadow: inset 0 0 0 1px var(--blue); }
+.ano-opciones input { accent-color: var(--blue); margin: 0; }
+
+.ano-res .wrap { display: grid; grid-template-columns: minmax(0, 24rem) minmax(0, 1fr); gap: 2.6rem; align-items: start; }
+.h-caja { display: grid; gap: .8rem; }
+.h-mandos { display: flex; justify-content: space-between; gap: .6rem; }
+.h-mandos .btn { padding: .55rem 1rem; }
+
+/* Historia tipo «stories»: 9:16, toca a la derecha para avanzar */
+.historia { position: relative; aspect-ratio: 9 / 16; width: 100%; max-height: 80vh; margin-inline: auto; border-radius: 1.1rem; overflow: hidden;
+  background: var(--navy); color: #fff; cursor: pointer; user-select: none; -webkit-user-select: none; touch-action: manipulation;
+  box-shadow: 0 30px 60px -30px rgba(14, 42, 71, .7); --focus: var(--sol); }
+.historia:focus-visible { outline: 3px solid var(--sol); outline-offset: 3px; }
+.h-pistas { position: absolute; z-index: 2; inset: .8rem .8rem auto; display: flex; gap: .3rem; }
+.pista { flex: 1; height: 3px; border-radius: 2px; background: rgba(255, 255, 255, .3); overflow: hidden; }
+.pista > span { display: block; height: 100%; width: 0; background: #fff; }
+.pista.llena > span { width: 100%; }
+.pista.activa > span { animation: h-llenar linear forwards; }
+.historia.pausa .pista.activa > span { animation-play-state: paused; }
+@keyframes h-llenar { from { width: 0; } to { width: 100%; } }
+@media (prefers-reduced-motion: reduce) { .pista.activa > span { animation: none; width: 100%; } }
+
+.h-lamina { position: absolute; inset: 0; padding: 3.2rem 1.6rem 1.6rem; display: flex; flex-direction: column; justify-content: center; gap: .5rem;
+  background: radial-gradient(circle at 100% 0, rgba(245, 197, 26, .28), rgba(245, 197, 26, 0) 60%), var(--navy); animation: h-entra .45s ease-out; }
+@keyframes h-entra { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: none; } }
+@media (prefers-reduced-motion: reduce) { .h-lamina { animation: none; } }
+.h-eti { font-size: .82rem; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; color: #c9d5e6; margin: 0; }
+.h-big { font-family: var(--font-display); font-weight: 700; line-height: 1; font-size: clamp(3rem, 15vw, 4.4rem); margin: .2rem 0 0; font-variant-numeric: tabular-nums; color: var(--sol); }
+.h-sub { font-family: var(--font-display); font-size: 1.45rem; line-height: 1.2; margin: 0; font-weight: 600; }
+.h-txt { color: #dde5f1; margin: .6rem 0 0; font-size: 1rem; }
+.h-marca { position: absolute; bottom: 1rem; left: 1.6rem; margin: 0; font-size: .8rem; font-weight: 700; color: rgba(255, 255, 255, .55); }
+.t-casa .h-big { color: #8fb0ff; }
+.t-ti .h-big { color: #3ccf91; }
+.t-empresa .h-big { color: #ffffff; }
+.t-ipc .h-big { color: #ff8a7a; }
+.t-intro .h-big { color: #ffffff; }
+.t-final { justify-content: center; gap: .8rem; }
+.h-pregunta { font-family: var(--font-display); font-size: 1.35rem; line-height: 1.2; font-weight: 600; margin: .6rem 0 0; }
+.h-share { align-self: flex-start; }
+
+.h-barra { display: flex; height: 1.6rem; border-radius: .35rem; overflow: hidden; background: rgba(255, 255, 255, .15); }
+.h-barra .seg { display: block; min-width: 2px; }
+.b-fisco { background: #f5c518; }
+.b-casa { background: #8fb0ff; }
+.b-ti { background: #3ccf91; }
+.h-meses { display: flex; justify-content: space-between; font-size: .62rem; color: #a9b8cf; text-transform: uppercase; }
+.h-leyenda { list-style: none; margin: .4rem 0 0; padding: 0; display: grid; gap: .35rem; }
+.h-leyenda li { display: flex; align-items: center; gap: .55rem; }
+.punto { width: .8rem; height: .8rem; border-radius: 50%; flex: none; }
+
+.ano-detalle h2 { font-size: clamp(1.4rem, 3vw, 1.8rem); margin-bottom: 1rem; }
+.ano-detalle h3 { font-size: 1.2rem; margin: 1.8rem 0 .4rem; }
+.r-barra { height: 1.1rem; background: var(--line); margin-bottom: .8rem; }
+.ano-lista { list-style: none; margin: 1rem 0 0; padding: 0; }
+.ano-lista li { display: flex; justify-content: space-between; gap: 1rem; padding: .45rem 0; border-bottom: 1px solid var(--line); }
+.ano-lista strong { font-variant-numeric: tabular-nums; white-space: nowrap; }
+.ano-detalle .res-img { margin: 1rem 0; max-width: 14rem; }
+.ano-detalle .actions { display: flex; flex-wrap: wrap; gap: .6rem; margin: 1rem 0; }
+
+@media (max-width: 52rem) {
+  .ano-res .wrap { grid-template-columns: 1fr; }
+  .h-caja { max-width: 24rem; width: 100%; margin-inline: auto; }
+}
+@media (max-width: 40rem) {
+  .calc-fila > select { grid-column: 1 / -1; }
+  .ano-detalle .actions .btn { width: 100%; text-align: center; }
+}

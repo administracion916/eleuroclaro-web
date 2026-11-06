@@ -1,0 +1,193 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Tu 2026 en euros: cuántos días trabajaste para Hacienda · El Euro Claro</title>
+<meta name="description" content="Tu resumen de 2026: cuántos días trabajaste para Hacienda y la Seguridad Social, cuántos para tu casero o la hipoteca y cuánto te quitó la subida de precios. En un minuto, con datos oficiales y una imagen para compartir.">
+<!-- PROTOTIPO: no se indexa ni está en el sitemap hasta el lanzamiento (14-12-2026). Ese día: quitar esta línea, añadir la página a sitemap.xml y enlazarla. -->
+<meta name="robots" content="noindex">
+<meta name="theme-color" content="#0e2a47">
+<meta property="og:site_name" content="El Euro Claro">
+<meta property="og:title" content="¿Cuántos días de 2026 trabajaste para Hacienda?">
+<meta property="og:description" content="Tu año en euros: Hacienda, vivienda, subida de precios y lo que quedó para ti. Calcúlalo en un minuto.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://eleuroclaro.es/tu-ano/">
+<meta property="og:locale" content="es_ES">
+<meta property="og:image" content="https://eleuroclaro.es/img/og-tu-ano.png">
+<meta property="og:image:type" content="image/png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Tu 2026 en euros: una barra del año dividida en los días para Hacienda, para la vivienda y para ti.">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="canonical" href="https://eleuroclaro.es/tu-ano/">
+<!-- Página en una subcarpeta: todas las rutas son absolutas (empiezan por /). -->
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="stylesheet" href="/fonts.css">
+<link rel="stylesheet" href="/style.css?v=20261019c">
+<link rel="stylesheet" href="/tu-ano/tu-ano.css?v=20261106a">
+</head>
+<body data-sin-barra>
+
+<header class="top">
+  <div class="wrap">
+    <a class="brand" href="/" aria-label="El Euro Claro, inicio">
+      <img class="coin" src="/favicon.svg" alt="" width="40" height="40">
+      El Euro Claro
+    </a>
+    <nav class="nav" aria-label="Secciones">
+      <a class="nav-nl" href="/domingo/?src=web-cabecera"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><rect x="2.5" y="5" width="19" height="14" rx="2.5"/><path d="M3 6.5l9 6.5 9-6.5"/></svg>Newsletter gratis</a>
+      <a href="/#noticias">Noticias</a>
+      <a href="/#videos">Vídeos</a>
+      <a href="/inflacion/">Calculadora</a>
+      <a href="/#kit">Kit</a>
+      <a href="/recursos/">Recursos</a>
+      <a href="/empresas/">Empresas</a>
+      <a href="/libros/">Libros</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <section class="section page-head calc-head">
+    <div class="wrap">
+      <p class="eyebrow">Tu resumen de 2026 · con datos de la AEAT, la Seguridad Social y el INE</p>
+      <h1>Tu <em>2026</em> en euros</h1>
+      <p class="intro">¿Cuántos días del año trabajaste para Hacienda? ¿Y para tu casero? ¿Cuánto te quitó la subida de precios? Cuatro datos y en un minuto tienes tu año, listo para compartir.</p>
+      <p class="small calc-privado">🔒 Tus cifras no salen de tu móvil: el cálculo se hace aquí mismo y no guardamos nada. Tu sueldo no aparece en la imagen para compartir.</p>
+
+      <form class="calc" id="ano" novalidate>
+        <div class="calc-filas">
+          <div class="calc-fila">
+            <label for="bruto"><span class="cf-n">Sueldo bruto al año</span><span class="cf-d">Lo que pone tu contrato, con las pagas extra</span></label>
+            <span></span>
+            <span class="cf-in"><input id="bruto" name="bruto" type="text" inputmode="decimal" autocomplete="off" placeholder="25.000"><span aria-hidden="true">€/año</span></span>
+          </div>
+          <fieldset class="calc-fila ano-tipo">
+            <legend class="cf-n">¿Pagas alquiler o hipoteca?</legend>
+            <div class="ano-opciones">
+              <label><input type="radio" name="tipo" value="alquiler" checked> Alquiler</label>
+              <label><input type="radio" name="tipo" value="hipoteca"> Hipoteca</label>
+              <label><input type="radio" name="tipo" value="nada"> Ninguna de las dos</label>
+            </div>
+          </fieldset>
+          <div class="calc-fila" id="fila-vivienda">
+            <label for="vivienda"><span class="cf-n" id="vivienda-n">Alquiler al mes</span><span class="cf-d">Solo tu parte, si lo compartes</span></label>
+            <span></span>
+            <span class="cf-in"><input id="vivienda" name="vivienda" type="text" inputmode="decimal" autocomplete="off" placeholder="750"><span aria-hidden="true">€/mes</span></span>
+          </div>
+          <div class="calc-fila">
+            <label for="ahorro"><span class="cf-n">Lo que ahorras al mes</span><span class="cf-d">Opcional. Lo que no gastas no paga IVA</span></label>
+            <span></span>
+            <span class="cf-in"><input id="ahorro" name="ahorro" type="text" inputmode="decimal" autocomplete="off" placeholder="0"><span aria-hidden="true">€/mes</span></span>
+          </div>
+          <div class="calc-fila">
+            <label for="subida"><span class="cf-n">¿Cuánto te subieron el sueldo este año?</span><span class="cf-d">Opcional. Para saber si ganaste o perdiste frente a los precios</span></label>
+            <span></span>
+            <span class="cf-in"><input id="subida" name="subida" type="text" inputmode="decimal" autocomplete="off" placeholder="p. ej. 2"><span aria-hidden="true">%</span></span>
+          </div>
+          <div class="calc-fila">
+            <label for="hijos"><span class="cf-n">Hijos menores de 25 que viven contigo</span><span class="cf-d">Rebajan el IRPF</span></label>
+            <span></span>
+            <select id="hijos" name="hijos"><option value="0">Ninguno</option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4 o más</option></select>
+          </div>
+        </div>
+        <button class="btn btn-primary calc-boton" type="submit">Ver mi año</button>
+        <p class="msg" id="ano-msg" role="status"></p>
+        <p class="calc-dato" id="dato-ipc"></p>
+      </form>
+    </div>
+  </section>
+
+  <section class="section alt ano-res" id="resultado" hidden aria-labelledby="res-tit">
+    <div class="wrap">
+      <h2 class="visually-hidden" id="res-tit">Tu año en euros</h2>
+      <div class="h-caja">
+        <div class="historia" id="historia" tabindex="0" role="group" aria-roledescription="historias" aria-label="Tu año en euros. Toca a la derecha para avanzar y a la izquierda para volver.">
+          <div class="h-pistas" id="h-pistas" aria-hidden="true"></div>
+          <div class="h-lamina" id="h-lamina" aria-live="polite"></div>
+          <p class="visually-hidden" id="h-pos"></p>
+        </div>
+        <div class="h-mandos">
+          <button class="btn btn-ghost" type="button" id="h-prev" aria-label="Pantalla anterior">‹ Atrás</button>
+          <button class="btn btn-ghost" type="button" id="h-next" aria-label="Pantalla siguiente">Siguiente ›</button>
+        </div>
+      </div>
+      <div class="ano-detalle">
+        <h2>Tu año, cuenta a cuenta</h2>
+        <div class="h-barra r-barra" id="r-barra" aria-hidden="true"></div>
+        <p id="r-dias"></p>
+        <ul class="ano-lista" id="r-lista"></ul>
+        <h3>Compártelo: ¿quién de tus amigos trabaja más días para Hacienda?</h3>
+        <p>Mándaselo a quien siempre dice que «no sabe a dónde se le va el sueldo». En la imagen salen los días, no tu sueldo.</p>
+        <img class="res-img" id="r-img" alt="Tu imagen para compartir con los días del año que trabajaste para Hacienda, para la vivienda y para ti" hidden width="1080" height="1920">
+        <div class="actions">
+          <button class="btn btn-primary" type="button" id="b-compartir">Compartir</button>
+          <a class="btn btn-sol" id="b-whatsapp" href="#" target="_blank" rel="noopener">Enviar por WhatsApp</a>
+          <a class="btn btn-ghost" id="b-descargar" href="#" download="mi-ano-en-euros-eleuroclaro.png">Descargar la imagen</a>
+        </div>
+        <p class="small">Y si quieres ver mes a mes lo que cobras: <a href="/sueldo-neto/">sueldo neto</a>, <a href="/inflacion/">tu inflación por gastos</a> y <a href="/50-30-20/">cómo repartir el sueldo</a>.</p>
+      </div>
+    </div>
+  </section>
+
+<section class="section" id="newsletter" aria-labelledby="nl-tit">
+    <div class="wrap news">
+      <div>
+        <p class="eyebrow">Newsletter · domingos · gratis</p>
+        <h2 id="nl-tit">Que 2027 no te pille por sorpresa</h2>
+        <p class="intro">Lo que cambia en enero en tu nómina, tus impuestos y tus precios: cada domingo, en 3 minutos y con ejemplos en euros.</p>
+        <div class="nl-autor">
+          <img src="/img/pere-jaume-avatar.jpg" width="56" height="56" alt="" loading="lazy">
+          <p>Cada domingo te lo cuento yo, con datos oficiales y ejemplos en euros.<span class="firma">Pere Jaume</span></p>
+        </div>
+        <p class="regalo">De regalo al apuntarte: la guía de una página <strong>«Cómo leer tu nómina en 2 minutos»</strong>.</p>
+      </div>
+      <form class="signup" data-campana="tu-ano" novalidate>
+        <label for="email">Tu correo electrónico</label>
+        <input type="email" id="email" name="email" placeholder="nombre@correo.es" autocomplete="email" required>
+        <label class="consent" for="consent">
+          <input type="checkbox" id="consent" name="consent" required>
+          <span>Quiero recibir la newsletter y he leído la <a href="/privacidad.html">política de privacidad</a>.</span>
+        </label>
+        <button class="btn btn-primary" type="submit">Apuntarme gratis</button>
+        <p class="msg" role="status"></p>
+        <p class="fine">Odana Ingeniería SL usará tu correo para enviarte la newsletter semanal, que puede incluir publicidad marcada y ofertas de nuestros productos, con tu consentimiento. Lo guarda nuestra plataforma de envíos, Substack (EE. UU.). Puedes darte de baja cuando quieras y ejercer tus derechos en hola@eleuroclaro.es. Más información en la <a href="/privacidad.html">política de privacidad</a>.</p>
+      </form>
+    </div>
+  </section>
+
+  <section class="section alt" aria-labelledby="como">
+    <div class="wrap prose">
+      <h2 id="como">Cómo se calcula</h2>
+      <p><strong>Los días:</strong> repartimos los 365 días del año según a dónde va cada euro de tu sueldo bruto. Si el 25&nbsp;% se va en impuestos y cotizaciones, son unos 91 días: del 1 de enero hasta principios de abril. Después va la vivienda y el resto, para ti.</p>
+      <p><strong>IRPF y Seguridad Social:</strong> la retención de IRPF con el método que publica la Agencia Tributaria para 2026 y la cotización del trabajador (6,50&nbsp;%), igual que en nuestra <a href="/sueldo-neto/">calculadora de sueldo neto</a>. Suponemos contrato indefinido y, si tienes hijos, que se reparten a medias con el otro progenitor. La retención es un adelanto: la declaración de la renta lo ajusta.</p>
+      <p><strong>Lo que paga tu empresa:</strong> además de lo tuyo, tu empresa cotiza por ti un 30,65&nbsp;% de tu sueldo (23,60&nbsp;% de contingencias comunes, 5,50&nbsp;% de desempleo, 0,20&nbsp;% del FOGASA, 0,60&nbsp;% de formación y 0,75&nbsp;% del mecanismo de equidad intergeneracional), con el mismo tope de 5.101,20&nbsp;€ al mes. Sin contar accidentes de trabajo, que depende del sector.</p>
+      <p><strong>IVA:</strong> lo calculamos sobre lo que gastas (tu sueldo neto menos la vivienda y el ahorro). De cada 100&nbsp;€ que gasta un hogar, unos 12 son IVA: es nuestra estimación con los tipos de la ley del IVA (4, 10 y 21&nbsp;%; seguros, enseñanza y consultas médicas no llevan) y el peso de cada gasto en el IPC de 2026 del INE. El alquiler de vivienda no lleva IVA y la hipoteca tampoco.</p>
+      <p><strong>La subida de precios:</strong> la media de la inflación anual de los meses de 2026 publicados por el INE. Es lo que te ha costado de más lo mismo que comprabas el año pasado (con el alquiler, que también sube; la hipoteca no entra en el IPC). Si pones tu subida de sueldo, comparamos las dos.</p>
+      <p class="small note-legal">Cálculo aproximado y divulgativo: no es asesoramiento fiscal ni laboral. No incluye impuestos especiales (gasolina, luz, tabaco, alcohol), el IBI, la cotización de solidaridad de los sueldos más altos ni casos especiales (discapacidad, mayores de 65 a tu cargo, Ceuta y Melilla). País Vasco y Navarra tienen su propio IRPF. Fuentes: Agencia Tributaria, algoritmo de cálculo del tipo de retención 2026; Orden PJC/297/2026 (BOE 31-3-2026); Ley 37/1992 del IVA; INE, IPC (tablas 79181 y 79185).</p>
+    </div>
+  </section>
+</main>
+
+<footer class="foot">
+  <div class="wrap">
+    <p class="lema">La actualidad, en euros. Comprobado con datos.</p>
+    <nav aria-label="Legal">
+      <a href="/aviso-legal.html">Aviso legal</a>
+      <a href="/privacidad.html">Privacidad</a>
+      <a href="/cookies.html">Cookies</a>
+      <a href="/correcciones/">Correcciones</a>
+      <span>Contacto: <span class="mail">hola@eleuroclaro.es</span></span>
+    </nav>
+    <p class="disclaimer">El Euro Claro es un medio divulgativo. La información es general y no constituye asesoramiento financiero ni una recomendación de comprar o vender ningún producto. Algunos enlaces pueden ser de afiliado y se indica cuando lo son.</p>
+    <p>© 2026 El Euro Claro · Odana Ingeniería SL</p>
+  </div>
+</footer>
+<script src="/suscribir.js?v=20261011n" defer></script>
+<script src="/sueldo-neto/neto.js?v=20261011a" defer></script>
+<script src="/tu-ano/tu-ano.js?v=20261106a" defer></script>
+<!-- Cloudflare Web Analytics --><script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "e81aecc33a6b40ccab86c1fbc9fa801c"}'></script><!-- End Cloudflare Web Analytics -->
+</body>
+</html>
