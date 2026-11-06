@@ -1,0 +1,28 @@
+# Dato propio «Dónde te queda más dinero después de pagar el alquiler»: baja del INE los datos en bruto
+# (ADRH y IPVA) y los deja en la rama «dato-alquiler» (no se publica). Corre al subir a la rama de trabajo o a mano.
+name: Dato alquiler y renta
+on:
+  workflow_dispatch:
+  push:
+    branches: [claude/project-thread-dfup0z]
+    paths: [".github/dato-alquiler/**", ".github/workflows/dato-alquiler.yml"]
+permissions:
+  contents: write
+concurrency:
+  group: dato-alquiler
+jobs:
+  datos:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - name: Bajar datos del INE
+        run: python3 .github/dato-alquiler/bajar.py "$RUNNER_TEMP/crudo"
+      - name: Guardar en la rama dato-alquiler
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git fetch origin dato-alquiler; then git checkout -B dato-alquiler FETCH_HEAD; else git checkout --orphan dato-alquiler && git rm -rqf .; fi
+          rm -rf crudo && cp -r "$RUNNER_TEMP/crudo" crudo
+          git add -A
+          git commit -qm "Datos del INE para el dato de alquiler y renta" && git push origin dato-alquiler || echo "Sin cambios"
