@@ -69,7 +69,12 @@ def main():
         estado = "con los 12 meses del INE"
         etiqueta = "Cifra final con los datos del INE"
         aviso_estado = (f"Ya están los 12 meses: la subida de {ANYO} es del {pct(tasa)}. "
-                        "La confirma el Gobierno en el BOE antes del 1 de enero.")
+                        "La cifra oficial sale en el BOE.")
+    elif n == 12:
+        estado = f"provisional, con el dato adelantado de noviembre de {ANYO - 1}"
+        etiqueta = "Provisional"
+        aviso_estado = (f"Ya están los 12 meses, pero el de noviembre de {ANYO - 1} es el dato adelantado: "
+                        "la cifra final sale con el IPC definitivo de noviembre y puede cambiar.")
     else:
         faltan = 12 - n
         estado = f"provisional, con {n} de 12 meses"
@@ -77,7 +82,7 @@ def main():
         aviso_estado = (f"Es la media de los {n} meses que el INE ya ha publicado "
                         f"(de diciembre de {ANYO - 2} a {nombre_mes(ultimo)}"
                         + (", que es el dato adelantado" if adelantado else "")
-                        + f"). Faltan {faltan} {'mes' if faltan == 1 else 'meses'}: la cifra final sale con el IPC "
+                        + f"). {'Falta' if faltan == 1 else 'Faltan'} {faltan} {'mes' if faltan == 1 else 'meses'}: la cifra final sale con el IPC "
                         f"de noviembre de {ANYO - 1} y cambiará si los precios suben más o menos.")
 
     filas_meses = []
@@ -121,8 +126,12 @@ def main():
                  "noviembre anteriores. Si la media es negativa, no bajan.")}},
             {"@type": "Question", "name": "¿Vale para las pensiones mínimas y no contributivas?",
              "acceptedAnswer": {"@type": "Answer", "text": (
-                 "No. Las pensiones no contributivas, las del SOVI y los complementos a mínimos los fija el "
-                 "Gobierno cada año con otra regla.")}},
+                 "Suben al menos lo mismo y pueden subir más. La pensión mínima (la que se cobra con complemento "
+                 "a mínimos) sube el mismo porcentaje que las contributivas (artículo 58.2 de la Ley General de la "
+                 "Seguridad Social) y las no contributivas, al menos ese porcentaje (artículo 62). Además, la "
+                 "disposición adicional 53.ª de esa ley prevé subidas extra ligadas al umbral de la pobreza. Las "
+                 "pensiones del SOVI tienen un importe fijo que se marca cada año. La cifra exacta de cada una sale "
+                 "cada año en el BOE.")}},
         ],
     }
 
@@ -198,7 +207,7 @@ PLANTILLA = """<!doctype html>
         <p class="cifra">{tasa}</p>
         <p class="src">{aviso_estado} Fuente: INE, IPC general, tasa anual. Regla: artículo 58 de la Ley General de la Seguridad Social.</p>
       </div>
-      <p class="pen-aviso"><strong>Ojo:</strong> vale para pensiones contributivas (jubilación, incapacidad, viudedad, orfandad). Si tu pensión lleva complemento a mínimos, es no contributiva o del SOVI, la subida la fija el Gobierno con otra regla.</p>
+      <p class="pen-aviso"><strong>Ojo:</strong> vale para pensiones contributivas (jubilación, incapacidad, viudedad, orfandad y en favor de familiares). Si cobras la pensión mínima (con complemento a mínimos) o una no contributiva, por ley sube al menos lo mismo y puede subir más. Las del SOVI tienen un importe fijo que se marca cada año. La cifra exacta de todas sale en el BOE.</p>
 
       <form class="calc pen-calc" id="calc-pension" data-tasa="{tasa_js}" novalidate>
         <label class="pen-label" for="pension">Tu pensión bruta al mes (en 14 pagas)</label>
@@ -221,6 +230,7 @@ PLANTILLA = """<!doctype html>
           </tbody>
         </table>
       </div>
+      <p class="small">Si tu pensión no llega a la mínima, vives en España y tus otras rentas no pasan del límite (9.442&nbsp;€ al año; con cónyuge a cargo, menos de 11.013&nbsp;€ entre los dos), la Seguridad Social la completa hasta la mínima. En 2026, la de jubilación con 65 años o más es de 936,20&nbsp;€ al mes sin cónyuge, 888,70&nbsp;€ con cónyuge que no está a cargo y 1.256,60&nbsp;€ con cónyuge a cargo (14 pagas; Real Decreto-ley 3/2026, anexo I). En {anyo}, la mínima sube al menos el mismo porcentaje. Si no te la aplican, pídela: se paga desde 3 meses antes de la solicitud (Real Decreto 241/2026, art. 9.8).</p>
       <p class="small">La pensión máxima tiene su propio límite, que se publica en el BOE a final de año.</p>
     </div>
   </section>
@@ -245,7 +255,7 @@ PLANTILLA = """<!doctype html>
       <h2 id="como">Cómo se calcula</h2>
       <p>Lo dice la ley (artículo 58 de la Ley General de la Seguridad Social, tras la reforma de 2021): las pensiones contributivas suben cada 1 de enero la media de las tasas anuales del IPC de los 12 meses que van de diciembre a noviembre. Si la media saliera negativa, no bajan.</p>
       {previa}
-      <p>El Gobierno confirma la cifra en el BOE antes del 1 de enero y la nueva pensión llega en la nómina de enero.</p>
+      <p>La cifra oficial sale en el BOE y la nueva pensión llega en la nómina de enero.</p>
       <p>¿Y tus gastos? Mira <a href="/inflacion/">cuánto te cuesta a ti la subida de precios</a>.</p>
       <p class="small note-legal">Contenido divulgativo. No es asesoramiento. Para tu caso concreto, consulta a la Seguridad Social.</p>
     </div>
@@ -306,6 +316,8 @@ PLANTILLA = """<!doctype html>
     out.append("Con " + e(v) + " al mes, en {anyo} cobrarías ");
     var s = document.createElement("strong"); s.textContent = e(nuevo); out.append(s);
     out.append(" al mes: " + e(mas) + " más al mes y " + e(mas * 14) + " más al año.");
+    // 1.256,60 €: la mínima más alta de 2026 (jubilación con cónyuge a cargo, RDL 3/2026, anexo I)
+    if (v < 1256.6) out.append(" Si cobras complemento a mínimos, en {anyo} cobrarás la mínima nueva, que sube al menos lo mismo: mira la nota bajo la tabla.");
   }});
 }})();
 </script>
