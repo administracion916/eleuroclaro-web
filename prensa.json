@@ -1,61 +1,61 @@
 {
- "actualizado": "2026-11-06T06:10:52Z",
+ "actualizado": "2026-11-06T08:12:00Z",
  "items": [
   {
-   "t": "Las Bolsas sufren ante la oleada de ventas del sector tecnológico",
+   "t": "El Ibex cae un 1% ante la oleada de ventas del sector tecnológico",
    "m": "Cinco Días",
    "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-06/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-11-06T05:26:54Z",
+   "f": "2026-11-06T08:06:21Z",
    "c": "tecnologia"
   },
   {
-   "t": "Las comunidades autónomas pierden 1.300 millones por rebajar impuestos, salvo Catalunya",
+   "t": "Nueva jornada de fuertes caídas en las bolsas arrastradas por la IA",
    "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261106/11677226/comunidades-autonomas-pierden-1-300-millones-rebajar-impuestos-salvo-catalunya.html",
-   "f": "2026-11-06T05:00:00Z",
-   "c": "impuestos"
-  },
-  {
-   "t": "La inteligencia artificial redefine las decisiones que marcarán el futuro de las empresas",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261106/11674784/inteligencia-artificial-redefine-decisiones-marcaran-futuro-empresas-brl.html",
-   "f": "2026-11-06T04:50:00Z",
-   "c": "tecnologia"
-  },
-  {
-   "t": "Acabar con el déficit de 750.000 viviendas que calcula el Banco de España exige una inversión equivalente al 11% del PIB",
-   "m": "El País",
-   "u": "https://elpais.com/economia/vivienda/2026-11-06/acabar-con-el-deficit-de-750000-viviendas-que-calcula-el-banco-de-espana-exige-una-inversion-equivalente-al-11-del-pib.html",
-   "f": "2026-11-06T04:45:01Z",
-   "c": "vivienda"
-  },
-  {
-   "t": "Hacienda actualizará la deducción del salario mínimo hasta los 1.030 euros para que sus perceptores no paguen IRPF",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-11-06/hacienda-actualizara-la-deduccion-del-salario-minimo-hasta-los-1030-euros-para-que-sus-perceptores-no-paguen-irpf.html",
-   "f": "2026-11-06T04:45:01Z",
+   "u": "https://www.lavanguardia.com/economia/20261106/11677641/nueva-jornada-fuertes-caidas-bolsas-arrastradas-ia.html",
+   "f": "2026-11-06T08:05:23Z",
    "c": "empleo"
   },
   {
-   "t": "Agnès Pannier-Runacher, exministra francesa de Energía: “La única estrategia viable para Europa consiste en producir más y consumir menos”",
+   "t": "El Gobierno ordena la retirada del 12% de la producción de aceite de oliva",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/11/06/6aed8762e9cf4a994c8b45a5.html",
+   "f": "2026-11-06T07:56:12Z",
+   "c": "precios"
+  },
+  {
+   "t": "IAG redujo un 16,2% su beneficio hasta septiembre por el alza del combustible",
    "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/economia/2026-11-06/agnes-pannier-runacher-exministra-francesa-de-energia-la-unica-estrategia-viable-para-europa-consiste-en-producir-mas-y-consumir-menos.html",
-   "f": "2026-11-06T04:45:01Z",
+   "u": "https://cincodias.elpais.com/companias/2026-11-06/iag-redujo-un-162-su-beneficio-hasta-septiembre-por-el-alza-del-combustible.html",
+   "f": "2026-11-06T07:47:43Z",
    "c": "energia"
   },
   {
-   "t": "El mes que hizo temblar a la IA",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-06/el-mes-que-hizo-temblar-a-la-ia.html",
-   "f": "2026-11-06T04:30:01Z",
-   "c": "tecnologia"
+   "t": "Investigado el piloto del vuelo Dublín-Roma: \"Se negó a aterrizar en una base militar pese a la amenaza de bomba y fueron necesarios dos cazas para convencerlo\"",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/11/06/6aed835ee4d4d842348b4588.html",
+   "f": "2026-11-06T07:36:02Z",
+   "c": "transporte"
   },
   {
-   "t": "El euríbor me está comiendo. ¿Puedo vender mi vivienda y comprar otra acogiéndome a las ayudas del Gobierno?",
-   "m": "El País",
-   "u": "https://elpais.com/economia/vivienda/consultorio/2026-11-06/el-euribor-me-esta-comiendo-puedo-vender-mi-vivienda-y-comprar-otra-acogiendome-a-las-ayudas-publicas-del-gobierno.html",
-   "f": "2026-11-06T04:30:00Z",
-   "c": "tipos"
+   "t": "El Gobierno decreta el almacenamiento obligatorio del 12% de la producción de aceite de oliva",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/gobierno-decreta-almacenamiento-obligatorio-12-produccion-aceite-oliva_7057987_0.html",
+   "f": "2026-11-06T07:34:11Z",
+   "c": "precios"
+  },
+  {
+   "t": "IAG gana un 16% menos hasta septiembre por combustible, con 2.264 millones, y espera un descenso de capacidad",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/noticia-iag-gana-16-menos-septiembre-combustible-2264-millones-espera-descenso-capacidad-20261106082704.html",
+   "f": "2026-11-06T07:27:04Z",
+   "c": "energia"
+  },
+  {
+   "t": "IAG gana un 16% menos por el alza de costes pese a cosechar ingresos récord hasta septiembre",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/empresas/iag-gana-un-16-menos-por-alza-costes-pese-cosechar-ingresos-record-hasta-septiembre_7057983_0.html",
+   "f": "2026-11-06T07:26:17Z",
+   "c": "general"
   }
  ]
 }
