@@ -1,6 +1,34 @@
 {
- "actualizado": "2026-11-07T06:10:55Z",
+ "actualizado": "2026-11-07T08:10:02Z",
  "items": [
+  {
+   "t": "La política actual de los bancos que está perjudicando a sus clientes: \"Supone perder dinero\"",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/politica-actual-los-bancos-que-esta-perjudicando-sus-clientes-supone-perder-dinero_7053360_0.html",
+   "f": "2026-11-07T07:38:53Z",
+   "c": "bancos"
+  },
+  {
+   "t": "Consumo abre expediente sancionador a una empresa de autobuses por prácticas engañosas en el precio y cláusulas abusivas",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/empresas/2026/11/07/6aeed08afdddff540c8b4579.html",
+   "f": "2026-11-07T07:17:32Z",
+   "c": "transporte"
+  },
+  {
+   "t": "Consumo investiga los “precios por goteo” en el negocio de los autobuses",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261107/11678188/consumo-investiga-precios-goteo-negocio-autobuses.html",
+   "f": "2026-11-07T07:00:00Z",
+   "c": "transporte"
+  },
+  {
+   "t": "Consumo abre un expediente sancionador a una empresa de autobuses por prácticas engañosas en el precio de sus billetes",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/consumo-abre-un-expediente-sancionador-una-empresa-autobuses-por-practicas-enganosas-precio-sus-billetes_7058316_0.html",
+   "f": "2026-11-07T07:00:00Z",
+   "c": "transporte"
+  },
   {
    "t": "¿Te divorcias y crees que la hipoteca está resuelta? No lo está",
    "m": "20minutos",
@@ -28,34 +56,6 @@
    "u": "https://elpais.com/economia/2026-11-07/las-comunidades-autonomas-proyectan-rebajas-fiscales-por-2300-millones-hasta-2031.html",
    "f": "2026-11-07T04:45:01Z",
    "c": "impuestos"
-  },
-  {
-   "t": "La población activa en España envejece más rápido que la media europea",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-11-07/la-poblacion-activa-en-espana-envejece-mas-rapido-que-la-media-europea.html",
-   "f": "2026-11-07T04:45:01Z",
-   "c": "general"
-  },
-  {
-   "t": "El cambio de rumbo político en EE UU pone a prueba el ‘rally’ de Wall Street y abre paso a nuevos ganadores",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-07/el-cambio-de-rumbo-politico-en-ee-uu-pone-a-prueba-el-rally-de-wall-street-y-abre-paso-a-nuevos-ganadores.html",
-   "f": "2026-11-07T04:30:01Z",
-   "c": "general"
-  },
-  {
-   "t": "Francia, Brasil y la IA: cómo los algoritmos y la especulación amplifican las caídas del mercado",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-07/francia-brasil-y-la-ia-como-los-algoritmos-y-la-especulacion-amplifican-las-caidas-del-mercado.html",
-   "f": "2026-11-07T04:30:01Z",
-   "c": "tecnologia"
-  },
-  {
-   "t": "La amenaza de burbuja en la IA sorprende a los gigantes tecnológicos con la inversión en máximos históricos",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-11-07/la-amenaza-de-burbuja-en-la-ia-sorprende-a-los-gigantes-tecnologicos-con-la-inversion-en-maximos-historicos.html",
-   "f": "2026-11-07T04:15:00Z",
-   "c": "tecnologia"
   }
  ]
 }
