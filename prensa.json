@@ -1,61 +1,61 @@
 {
- "actualizado": "2026-11-07T00:12:11Z",
+ "actualizado": "2026-11-07T06:10:55Z",
  "items": [
   {
-   "t": "¿Gastas de más o sufriste una crisis? El 39% de las deudas se debe a emergencias personales o familiares que nadie prevé",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/11/07/6aee6397e4d4d865378b4579.html",
-   "f": "2026-11-06T23:40:16Z",
-   "c": "general"
+   "t": "¿Te divorcias y crees que la hipoteca está resuelta? No lo está",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/te-divorcias-crees-que-hipoteca-esta-resuelta-no-esta_7035649_0.html",
+   "f": "2026-11-07T06:00:00Z",
+   "c": "tipos"
   },
   {
-   "t": "La energía renovable, una palanca de competitividad para Europa",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/empresas/2026/11/07/6aee136dfc6c839e1c8b459c.html",
-   "f": "2026-11-06T23:02:18Z",
-   "c": "energia"
-  },
-  {
-   "t": "La corrección del Nasdaq presiona a la baja la valoración de Anthropic ante su salida a Bolsa",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-11-06/la-correccion-del-nasdaq-presiona-a-la-baja-la-valoracion-de-anthropic-ante-su-salida-a-bolsa.html",
-   "f": "2026-11-06T22:57:40Z",
-   "c": "empresas"
-  },
-  {
-   "t": "Más retórica que resultados",
+   "t": "De un proyecto universitario a trabajar con Walt Disney o Red Bull: la historia de las mochilas Pilatus",
    "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261106/11678598/mas-retorica-resultados.html",
-   "f": "2026-11-06T22:46:14Z",
-   "c": "empresas"
-  },
-  {
-   "t": "Adif blindó el bonus a su cúpula horas antes de dimitir su presidente",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/11/06/6aee494321efa0477c8b45b8.html",
-   "f": "2026-11-06T22:23:19Z",
+   "u": "https://www.lavanguardia.com/economia/emprendedores/20261107/11662984/proyecto-universitario-trabajar-walt-disney-red-bull-historia-mochilas-pilatus-brl.html",
+   "f": "2026-11-07T04:55:00Z",
    "c": "general"
   },
   {
-   "t": "El Ibex firma su mejor semana en siete meses al calor de la banca y la caída del petróleo",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-06/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-11-06T21:07:27Z",
-   "c": "energia"
-  },
-  {
-   "t": "El Consejo de Estado da vía libre al decreto de los centros de datos y podrá aprobarse antes del 29-N",
+   "t": "El Gobierno agota la legislatura sin anticipar la jubilación en los sectores con más muertes y bajas",
    "m": "El País",
-   "u": "https://elpais.com/economia/2026-11-06/el-consejo-de-estado-da-via-libre-al-decreto-de-los-centros-de-datos-y-podra-aprobarse-antes-del-29-n.html",
-   "f": "2026-11-06T20:31:00Z",
+   "u": "https://elpais.com/economia/2026-11-07/el-gobierno-agota-la-legislatura-sin-anticipar-la-jubilacion-en-los-sectores-con-mas-muertes-y-bajas.html",
+   "f": "2026-11-07T04:45:01Z",
+   "c": "pensiones"
+  },
+  {
+   "t": "Las comunidades autónomas proyectan rebajas fiscales por 2.300 millones hasta 2031",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-11-07/las-comunidades-autonomas-proyectan-rebajas-fiscales-por-2300-millones-hasta-2031.html",
+   "f": "2026-11-07T04:45:01Z",
+   "c": "impuestos"
+  },
+  {
+   "t": "La población activa en España envejece más rápido que la media europea",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-11-07/la-poblacion-activa-en-espana-envejece-mas-rapido-que-la-media-europea.html",
+   "f": "2026-11-07T04:45:01Z",
    "c": "general"
   },
   {
-   "t": "Ayuso exporta la cultura del esfuerzo: ‘Madrid Xplora’ irá este año a Costa Rica para impulsar el talento joven y la excelencia académica",
-   "m": "Expansión",
-   "u": "https://www.expansion.com/economia/2026/11/06/ayuso-exporta-cultura-esfuerzo-madrid-xplora-ira-ano-costa-rica-impulsar-talento-joven-excelencia-academica.html",
-   "f": "2026-11-06T19:44:16Z",
+   "t": "El cambio de rumbo político en EE UU pone a prueba el ‘rally’ de Wall Street y abre paso a nuevos ganadores",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-07/el-cambio-de-rumbo-politico-en-ee-uu-pone-a-prueba-el-rally-de-wall-street-y-abre-paso-a-nuevos-ganadores.html",
+   "f": "2026-11-07T04:30:01Z",
    "c": "general"
+  },
+  {
+   "t": "Francia, Brasil y la IA: cómo los algoritmos y la especulación amplifican las caídas del mercado",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-07/francia-brasil-y-la-ia-como-los-algoritmos-y-la-especulacion-amplifican-las-caidas-del-mercado.html",
+   "f": "2026-11-07T04:30:01Z",
+   "c": "tecnologia"
+  },
+  {
+   "t": "La amenaza de burbuja en la IA sorprende a los gigantes tecnológicos con la inversión en máximos históricos",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-11-07/la-amenaza-de-burbuja-en-la-ia-sorprende-a-los-gigantes-tecnologicos-con-la-inversion-en-maximos-historicos.html",
+   "f": "2026-11-07T04:15:00Z",
+   "c": "tecnologia"
   }
  ]
 }
