@@ -1,12 +1,40 @@
 {
- "actualizado": "2026-11-06T22:11:03Z",
+ "actualizado": "2026-11-07T00:12:11Z",
  "items": [
+  {
+   "t": "¿Gastas de más o sufriste una crisis? El 39% de las deudas se debe a emergencias personales o familiares que nadie prevé",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/11/07/6aee6397e4d4d865378b4579.html",
+   "f": "2026-11-06T23:40:16Z",
+   "c": "general"
+  },
+  {
+   "t": "La energía renovable, una palanca de competitividad para Europa",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/empresas/2026/11/07/6aee136dfc6c839e1c8b459c.html",
+   "f": "2026-11-06T23:02:18Z",
+   "c": "energia"
+  },
   {
    "t": "La corrección del Nasdaq presiona a la baja la valoración de Anthropic ante su salida a Bolsa",
    "m": "Cinco Días",
    "u": "https://cincodias.elpais.com/companias/2026-11-06/la-correccion-del-nasdaq-presiona-a-la-baja-la-valoracion-de-anthropic-ante-su-salida-a-bolsa.html",
-   "f": "2026-11-06T21:14:03Z",
+   "f": "2026-11-06T22:57:40Z",
    "c": "empresas"
+  },
+  {
+   "t": "Más retórica que resultados",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261106/11678598/mas-retorica-resultados.html",
+   "f": "2026-11-06T22:46:14Z",
+   "c": "empresas"
+  },
+  {
+   "t": "Adif blindó el bonus a su cúpula horas antes de dimitir su presidente",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/11/06/6aee494321efa0477c8b45b8.html",
+   "f": "2026-11-06T22:23:19Z",
+   "c": "general"
   },
   {
    "t": "El Ibex firma su mejor semana en siete meses al calor de la banca y la caída del petróleo",
@@ -27,34 +55,6 @@
    "m": "Expansión",
    "u": "https://www.expansion.com/economia/2026/11/06/ayuso-exporta-cultura-esfuerzo-madrid-xplora-ira-ano-costa-rica-impulsar-talento-joven-excelencia-academica.html",
    "f": "2026-11-06T19:44:16Z",
-   "c": "general"
-  },
-  {
-   "t": "El Ibex sortea la volatilidad con su mejor semana desde abril al ganar un 3,84%",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261106/11678308/ibex-sortea-volatilidad-mejor-semana-abril-ganar-3-84.html",
-   "f": "2026-11-06T19:38:59Z",
-   "c": "empresas"
-  },
-  {
-   "t": "Las víctimas de Adamuz piden a Cuerpo más medios para la investigación de los accidentes tras conocerse que solo hay tres especialistas para las dos…",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/empresas/2026/11/06/6aee1635fc6c8390798b4589.html",
-   "f": "2026-11-06T18:37:52Z",
-   "c": "general"
-  },
-  {
-   "t": "Los maquinistas valoran el \"cambio de talante\" con Cuerpo pero lo ven insuficiente para desconvocar la huelga",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/transportes-00343/noticia-maquinistas-valoran-cambio-talante-cuerpo-ven-insuficiente-desconvocar-huelga-20261106185853.html",
-   "f": "2026-11-06T17:58:53Z",
-   "c": "empleo"
-  },
-  {
-   "t": "Gregorio Jiménez y un grupo de inversores se hacen con el 51% de Burguer King en la mayor operación en la historia de la restauración en España",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/empresas/gregorio-jimenez-un-grupo-inversores-se-hacen-con-51-burguer-king-mayor-operacion-historia-restauracion-espana_7058370_0.html",
-   "f": "2026-11-06T17:57:01Z",
    "c": "general"
   }
  ]
