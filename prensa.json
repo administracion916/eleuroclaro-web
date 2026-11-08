@@ -1,61 +1,61 @@
 {
- "actualizado": "2026-11-08T01:37:52Z",
+ "actualizado": "2026-11-08T06:09:57Z",
  "items": [
   {
-   "t": "La paradoja de la sanidad española: máximo gasto sanitario y mínimos de satisfacción",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/macroeconomia/2026/11/07/6aef0a5ae9cf4a4e038b45ab.html",
-   "f": "2026-11-08T00:32:30Z",
-   "c": "general"
-  },
-  {
-   "t": "El negocio de Putin con las sanciones de la UE: revende el gas al cuádruple y deja a Europa con las reservas más bajas desde 2013",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/macroeconomia/2026/11/08/6aecd8d3e9cf4ad7168b45ba.html",
-   "f": "2026-11-08T00:08:40Z",
-   "c": "energia"
+   "t": "La internacional trumpista: de Paraguay a la Puerta del Sol",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261108/11678842/internacional-trumpista-paraguay-puerta-sol.html",
+   "f": "2026-11-08T05:00:00Z",
+   "c": "comercio"
   },
   {
    "t": "La abogada siempre disponible",
    "m": "La Vanguardia",
    "u": "https://www.lavanguardia.com/economia/20261108/11678820/abogada-siempre-disponible.html",
-   "f": "2026-11-07T23:05:00Z",
+   "f": "2026-11-08T05:00:00Z",
    "c": "general"
   },
   {
-   "t": "España exaspera al sector de los centros de datos con su regulación del boom",
+   "t": "España ante el 11-N: las incógnitas de una huelga general inédita",
    "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261108/11678812/espana-exaspera-sector-centros-datos-regulacion-boom.html",
-   "f": "2026-11-07T23:05:00Z",
-   "c": "general"
-  },
-  {
-   "t": "El rechazo demócrata a los centros de datos amenaza el crecimiento de la IA",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261108/11678811/rechazo-democrata-centros-datos-amenaza-crecimiento-ia.html",
-   "f": "2026-11-07T23:05:00Z",
-   "c": "economia"
-  },
-  {
-   "t": "Desde Trump que para competir con China, necesita... a China hasta los diez gigantes del CO2: ni uno occidental, ni uno privado",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/macroeconomia/2026/11/08/6aedfecc21efa0477c8b45a4.html",
-   "f": "2026-11-07T23:02:17Z",
-   "c": "comercio"
-  },
-  {
-   "t": "Transportes fija los servicios mínimos en Renfe para la huelga de maquinistas del 10 y 12 de noviembre",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/transportes-00343/noticia-transportes-fija-servicios-minimos-renfe-huelga-maquinistas-10-12-noviembre-20261107204525.html",
-   "f": "2026-11-07T19:45:25Z",
-   "c": "transporte"
-  },
-  {
-   "t": "Alfonso Muñoz, funcionario de la Seguridad Social: \"En 2027 todos los trabajadores verán un pequeño incremento de esta cotización en su nómina\"",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/alfonso-munoz-funcionario-seguridad-social-2027-todos-los-trabajadores-veran-un-pequeno-incremento-esta-cotizacion-su-nomina_7058562_0.html",
-   "f": "2026-11-07T18:05:31Z",
+   "u": "https://www.lavanguardia.com/economia/20261108/11678819/espana-11-n-incognitas-huelga-general-inedita.html",
+   "f": "2026-11-08T05:00:00Z",
    "c": "empleo"
+  },
+  {
+   "t": "Las recetas de los supermercados para evitar los ‘hackeos’: segmentar las redes y cifrar los métodos de acceso",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-11-08/las-recetas-de-los-supermercados-para-evitar-los-hackeos-segmentar-las-redes-y-cifrar-los-metodos-de-acceso.html",
+   "f": "2026-11-08T04:45:01Z",
+   "c": "precios"
+  },
+  {
+   "t": "¿Qué pasa con la vivienda? 11 gráficos para entender causas y consecuencias del problema",
+   "m": "El País",
+   "u": "https://elpais.com/economia/vivienda/2026-11-08/que-pasa-con-la-vivienda-11-graficos-para-entender-causas-y-consecuencias-del-problema.html",
+   "f": "2026-11-08T04:45:01Z",
+   "c": "vivienda"
+  },
+  {
+   "t": "Liberalización ferroviaria: un sistema perfecto sobre el papel que el gestor no ha sabido digerir",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-11-08/liberalizacion-ferroviaria-un-sistema-perfecto-sobre-el-papel-que-el-gestor-no-ha-sabido-digerir.html",
+   "f": "2026-11-08T04:30:01Z",
+   "c": "general"
+  },
+  {
+   "t": "Santander desacelera en Bolsa, pero los analistas confían en las expectativas a futuro",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-08/santander-desacelera-en-bolsa-pero-los-analistas-confian-en-las-expectativas-a-futuro.html",
+   "f": "2026-11-08T04:30:00Z",
+   "c": "bancos"
+  },
+  {
+   "t": "¿Comprar en la caída o huir de la Bolsa? Cómo las gestoras capean el desplome de las tecnológicas",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-08/comprar-en-la-caida-o-huir-de-la-bolsa-como-las-gestoras-capean-el-desplome-de-las-tecnologicas.html",
+   "f": "2026-11-08T04:25:00Z",
+   "c": "tecnologia"
   }
  ]
 }
