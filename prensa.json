@@ -1,6 +1,34 @@
 {
- "actualizado": "2026-11-08T08:10:08Z",
+ "actualizado": "2026-11-08T12:03:40Z",
  "items": [
+  {
+   "t": "El Congreso abre la campaña votando los decretos de vivienda al día siguiente de la huelga general",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/construccion-y-vivienda-00342/noticia-congreso-abre-campana-votando-decretos-vivienda-dia-siguiente-huelga-general-20261108121347.html",
+   "f": "2026-11-08T11:13:47Z",
+   "c": "vivienda"
+  },
+  {
+   "t": "El Tribunal de Cuentas certifica la escasa coordinación entre Gobierno y comunidades por los fondos europeos",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/macroeconomia-00338/noticia-tribunal-cuentas-certifica-escasa-coordinacion-gobierno-comunidades-fondos-europeos-20261108121149.html",
+   "f": "2026-11-08T11:11:49Z",
+   "c": "general"
+  },
+  {
+   "t": "Solaria y Enagás, las empresas del Ibex 35 que más sufren el 'ataque' de los bajistas",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/finanzas-00340/noticia-solaria-enagas-empresas-ibex-35-mas-sufren-ataque-bajistas-20261108114507.html",
+   "f": "2026-11-08T10:45:07Z",
+   "c": "empresas"
+  },
+  {
+   "t": "Las demandas por despido tocan máximos en un contexto de empleo récord y más estable",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/las-demandas-por-despido-tocan-maximos-un-contexto-empleo-record-mas-estable_7058633_0.html",
+   "f": "2026-11-08T10:11:40Z",
+   "c": "empleo"
+  },
   {
    "t": "Alfonso Muñoz, funcionario de la Seguridad Social, sobre el Gran Wyoming: \"Jubilarse más tarde de lo que le corresponde tiene premio\"",
    "m": "20minutos",
@@ -28,34 +56,6 @@
    "u": "https://www.lavanguardia.com/economia/20261108/11678819/espana-11-n-incognitas-huelga-general-inedita.html",
    "f": "2026-11-08T05:00:00Z",
    "c": "empleo"
-  },
-  {
-   "t": "Las recetas de los supermercados para evitar los ‘hackeos’: segmentar las redes y cifrar los métodos de acceso",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-11-08/las-recetas-de-los-supermercados-para-evitar-los-hackeos-segmentar-las-redes-y-cifrar-los-metodos-de-acceso.html",
-   "f": "2026-11-08T04:45:01Z",
-   "c": "precios"
-  },
-  {
-   "t": "¿Qué pasa con la vivienda? 11 gráficos para entender causas y consecuencias del problema",
-   "m": "El País",
-   "u": "https://elpais.com/economia/vivienda/2026-11-08/que-pasa-con-la-vivienda-11-graficos-para-entender-causas-y-consecuencias-del-problema.html",
-   "f": "2026-11-08T04:45:01Z",
-   "c": "vivienda"
-  },
-  {
-   "t": "Liberalización ferroviaria: un sistema perfecto sobre el papel que el gestor no ha sabido digerir",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-11-08/liberalizacion-ferroviaria-un-sistema-perfecto-sobre-el-papel-que-el-gestor-no-ha-sabido-digerir.html",
-   "f": "2026-11-08T04:30:01Z",
-   "c": "general"
-  },
-  {
-   "t": "Santander desacelera en Bolsa, pero los analistas confían en las expectativas a futuro",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-08/santander-desacelera-en-bolsa-pero-los-analistas-confian-en-las-expectativas-a-futuro.html",
-   "f": "2026-11-08T04:30:00Z",
-   "c": "bancos"
   }
  ]
 }
