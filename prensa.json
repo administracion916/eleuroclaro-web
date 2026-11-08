@@ -1,19 +1,47 @@
 {
- "actualizado": "2026-11-07T22:07:33Z",
+ "actualizado": "2026-11-08T01:37:52Z",
  "items": [
   {
-   "t": "El Régimen 28 debe mantener su ambición para las startups europeas",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261107/11678876/regimen-28-debe-mantener-ambicion-startups-europeas.html",
-   "f": "2026-11-07T20:08:52Z",
-   "c": "tecnologia"
+   "t": "La paradoja de la sanidad española: máximo gasto sanitario y mínimos de satisfacción",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/macroeconomia/2026/11/07/6aef0a5ae9cf4a4e038b45ab.html",
+   "f": "2026-11-08T00:32:30Z",
+   "c": "general"
   },
   {
-   "t": "Agua: mirada crítica (y regenerativa)",
+   "t": "El negocio de Putin con las sanciones de la UE: revende el gas al cuádruple y deja a Europa con las reservas más bajas desde 2013",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/macroeconomia/2026/11/08/6aecd8d3e9cf4ad7168b45ba.html",
+   "f": "2026-11-08T00:08:40Z",
+   "c": "energia"
+  },
+  {
+   "t": "La abogada siempre disponible",
    "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261107/11678865/agua-mirada-critica-regenerativa.html",
-   "f": "2026-11-07T20:08:13Z",
+   "u": "https://www.lavanguardia.com/economia/20261108/11678820/abogada-siempre-disponible.html",
+   "f": "2026-11-07T23:05:00Z",
    "c": "general"
+  },
+  {
+   "t": "España exaspera al sector de los centros de datos con su regulación del boom",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261108/11678812/espana-exaspera-sector-centros-datos-regulacion-boom.html",
+   "f": "2026-11-07T23:05:00Z",
+   "c": "general"
+  },
+  {
+   "t": "El rechazo demócrata a los centros de datos amenaza el crecimiento de la IA",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261108/11678811/rechazo-democrata-centros-datos-amenaza-crecimiento-ia.html",
+   "f": "2026-11-07T23:05:00Z",
+   "c": "economia"
+  },
+  {
+   "t": "Desde Trump que para competir con China, necesita... a China hasta los diez gigantes del CO2: ni uno occidental, ni uno privado",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/macroeconomia/2026/11/08/6aedfecc21efa0477c8b45a4.html",
+   "f": "2026-11-07T23:02:17Z",
+   "c": "comercio"
   },
   {
    "t": "Transportes fija los servicios mínimos en Renfe para la huelga de maquinistas del 10 y 12 de noviembre",
@@ -28,34 +56,6 @@
    "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/alfonso-munoz-funcionario-seguridad-social-2027-todos-los-trabajadores-veran-un-pequeno-incremento-esta-cotizacion-su-nomina_7058562_0.html",
    "f": "2026-11-07T18:05:31Z",
    "c": "empleo"
-  },
-  {
-   "t": "Los deberes económicos tras el 29-N: vivienda, infraestructuras, Presupuestos y pensiones, entre los más urgentes",
-   "m": "El País",
-   "u": "https://elpais.com/economia/negocios/2026-11-07/los-deberes-economicos-tras-el-29-n-vivienda-infraestructuras-presupuestos-y-pensiones-entre-los-mas-urgentes.html",
-   "f": "2026-11-07T16:30:00Z",
-   "c": "pensiones"
-  },
-  {
-   "t": "CCOO sitúa a la juventud trabajadora como la principal protagonista de la huelga general",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/laboral-00346/noticia-ccoo-situa-juventud-trabajadora-principal-protagonista-huelga-general-20261107151742.html",
-   "f": "2026-11-07T14:17:42Z",
-   "c": "empleo"
-  },
-  {
-   "t": "ACS asegura que no estudia una opa por su filial alemana Hochtief",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-11-07/acs-asegura-que-no-estudia-una-opa-por-su-filial-alemana-hochtief.html",
-   "f": "2026-11-07T12:34:21Z",
-   "c": "empresas"
-  },
-  {
-   "t": "El Gobierno incentiva el cambio de calderas por bombas de calor en las comunidades de propietarios",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/gobierno-incentiva-cambio-calderas-por-bombas-calor-las-comunidades-propietarios_7058474_0.html",
-   "f": "2026-11-07T10:47:11Z",
-   "c": "general"
   }
  ]
 }
