@@ -1,6 +1,27 @@
 {
- "actualizado": "2026-11-08T20:10:35Z",
+ "actualizado": "2026-11-08T22:10:30Z",
  "items": [
+  {
+   "t": "Adif niega que haya blindado el cobro de un \"bonus\" para \"la cúpula\" de la empresa",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/transportes-00343/noticia-adif-niega-haya-blindado-cobro-bonus-cupula-empresa-20261108221852.html",
+   "f": "2026-11-08T21:18:52Z",
+   "c": "empresas"
+  },
+  {
+   "t": "Nvidia abre una investigación a su director ejecutivo por una relación con una espía china",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261108/11679382/nvidia-abre-investigacion-director-ejecutivo-relacion-espia-china.html",
+   "f": "2026-11-08T20:58:36Z",
+   "c": "tecnologia"
+  },
+  {
+   "t": "Trump afirma que es \"muy improbable\" que reanude los ataques contra Irán si avanzan las negociaciones",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/2026/11/08/trump-afirma-improbable-reanude-ataques-iran-avanzan-negociaciones.html",
+   "f": "2026-11-08T20:58:10Z",
+   "c": "comercio"
+  },
   {
    "t": "El negocio de Putin con las sanciones de la UE: revende el gas al cuádruple y deja a Europa con las reservas más bajas desde 2013",
    "m": "El Mundo",
@@ -23,13 +44,6 @@
    "c": "vivienda"
   },
   {
-   "t": "El Tribunal de Cuentas certifica la escasa coordinación entre Gobierno y comunidades por los fondos europeos",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/macroeconomia-00338/noticia-tribunal-cuentas-certifica-escasa-coordinacion-gobierno-comunidades-fondos-europeos-20261108121149.html",
-   "f": "2026-11-08T11:11:49Z",
-   "c": "general"
-  },
-  {
    "t": "Las demandas por despido tocan máximos en un contexto de empleo récord y más estable",
    "m": "20minutos",
    "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/las-demandas-por-despido-tocan-maximos-un-contexto-empleo-record-mas-estable_7058633_0.html",
@@ -42,20 +56,6 @@
    "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/alfonso-munoz-funcionario-seguridad-social-sobre-gran-wyoming-jubilarse-mas-tarde-que-le-corresponde-tiene-premio_7058584_0.html",
    "f": "2026-11-08T07:11:02Z",
    "c": "empleo"
-  },
-  {
-   "t": "La internacional trumpista: de Paraguay a la Puerta del Sol",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261108/11678842/internacional-trumpista-paraguay-puerta-sol.html",
-   "f": "2026-11-08T05:00:00Z",
-   "c": "comercio"
-  },
-  {
-   "t": "La abogada siempre disponible",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261108/11678820/abogada-siempre-disponible.html",
-   "f": "2026-11-08T05:00:00Z",
-   "c": "general"
   }
  ]
 }
