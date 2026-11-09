@@ -1,6 +1,41 @@
 {
- "actualizado": "2026-11-09T06:16:48Z",
+ "actualizado": "2026-11-09T08:15:22Z",
  "items": [
+  {
+   "t": "Prudencia en Europa pese al rebote en Asia y Wall Street gracias a las tecnológicas",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-09/la-bolsa-y-el-ibex-35.html",
+   "f": "2026-11-09T08:04:12Z",
+   "c": "tecnologia"
+  },
+  {
+   "t": "Nvidia se hunde en Bolsa tras iniciar una investigación por una relación extramatrimonial de su CEO",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-11-09/nvidia-se-desploma-en-bolsa-tras-confirmar-una-investigacion-sobre-la-relacion-extramatrimonial-de-su-ceo-con-una-presunta-espia-china.html",
+   "f": "2026-11-09T07:56:08Z",
+   "c": "tecnologia"
+  },
+  {
+   "t": "Nvidia investigará a su propio director ejecutivo por haber mantenido una relación con una espía china",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/empresas/2026/11/08/6af0ed92e85ece421f8b4580.html",
+   "f": "2026-11-09T06:35:45Z",
+   "c": "tecnologia"
+  },
+  {
+   "t": "Errores con la calefacción fáciles de evitar que disparan la factura del gas con la llegada del frío",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/errores-con-calefaccion-faciles-evitar-que-disparan-factura-gas-con-llegada-frio_7055420_0.html",
+   "f": "2026-11-09T06:34:17Z",
+   "c": "energia"
+  },
+  {
+   "t": "Los secretos de alcoba del espionaje chino: de la amante del jefe de Nvidia al engaño de M. Butterfly",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/empresas/2026/11/09/6af1397ee85eceed388b4570.html",
+   "f": "2026-11-09T06:25:32Z",
+   "c": "tecnologia"
+  },
   {
    "t": "Revuelta (Naturhouse), residente fiscal en Suiza // Foment descarta votar hoy a la secretaria del CTESC",
    "m": "La Vanguardia",
@@ -21,41 +56,6 @@
    "u": "https://www.lavanguardia.com/economia/20261109/11679338/hogares-espanoles-invierten-36-media-ue.html",
    "f": "2026-11-09T05:00:00Z",
    "c": "comercio"
-  },
-  {
-   "t": "Los sindicatos se preparan para un seguimiento “desigual” de la huelga por territorios, sectores y edades",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-11-09/los-sindicatos-preven-un-seguimiento-desigual-por-territorios-sectores-y-edades-en-la-huelga-general.html",
-   "f": "2026-11-09T04:45:01Z",
-   "c": "empleo"
-  },
-  {
-   "t": "El tropiezo de la IA que comenzó en China se extiende a Estados Unidos",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-09/la-burbuja-bursatil-de-la-ia-pincho-primero-en-china-el-star-50-pierde-casi-la-mitad-de-su-valor.html",
-   "f": "2026-11-09T04:45:01Z",
-   "c": "tecnologia"
-  },
-  {
-   "t": "Pensiones con visión progresista",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-11-09/pensiones-con-vision-progresista.html",
-   "f": "2026-11-09T04:45:01Z",
-   "c": "pensiones"
-  },
-  {
-   "t": "Más de la mitad de la oferta de alquiler de vivienda es de habitaciones y de temporada",
-   "m": "El País",
-   "u": "https://elpais.com/economia/vivienda/2026-11-09/mas-de-la-mitad-de-la-oferta-de-alquiler-de-vivienda-es-de-habitaciones-y-de-temporada.html",
-   "f": "2026-11-09T04:45:01Z",
-   "c": "vivienda"
-  },
-  {
-   "t": "La guerra abierta entre fondos y bancos deja al borde de la quiebra al líder español en ‘call centers’",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-11-09/la-guerra-abierta-entre-fondos-y-bancos-deja-al-borde-de-la-quiebra-al-lider-espanol-en-call-centers.html",
-   "f": "2026-11-09T04:15:00Z",
-   "c": "bancos"
   }
  ]
 }
