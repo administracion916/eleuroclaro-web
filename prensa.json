@@ -1,26 +1,40 @@
 {
- "actualizado": "2026-11-09T22:13:00Z",
+ "actualizado": "2026-11-09T23:30:57Z",
  "items": [
+  {
+   "t": "Mentalidad europea y apuesta por la innovación: las tácticas de supervivencia de Pladur en el sector de la vivienda",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/empresas/2026/11/10/6aeae567fdddff6f188b4574.html",
+   "f": "2026-11-09T23:01:52Z",
+   "c": "vivienda"
+  },
+  {
+   "t": "El 'efecto dominó' de las pensiones: cómo un primer Pilar hizo volcar al segundo... y Escrivá derribó el tercero",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/dinero-inversion/2026/11/10/6aeb0c85e9cf4a95578b4583.html",
+   "f": "2026-11-09T23:01:51Z",
+   "c": "pensiones"
+  },
+  {
+   "t": "Anthropic lanza nuevas versiones de sus modelos más potentes Mythos y Fable en su camino hacia la salida a Bolsa",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-11-09/anthropic-lanza-nuevas-versiones-de-sus-modelos-mas-potentes-mythos-y-fable-en-su-camino-hacia-la-salida-a-bolsa.html",
+   "f": "2026-11-09T22:59:12Z",
+   "c": "empresas"
+  },
+  {
+   "t": "La maquinista del Iryo alertó del riesgo para los pasajeros después de la colisión en Urda: \"Veo cable de la catenaria sobre la vía; ¡no salgan del tren!\"",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/empresas/2026/11/09/6af2089321efa04e6a8b4595.html",
+   "f": "2026-11-09T21:43:02Z",
+   "c": "transporte"
+  },
   {
    "t": "Nvidia sufre en Bolsa tras iniciar una investigación por la relación de su consejero delegado con una supuesta espía",
    "m": "El País",
    "u": "https://elpais.com/economia/2026-11-09/nvidia-se-desploma-en-bolsa-tras-confirmar-una-investigacion-sobre-la-relacion-extramatrimonial-de-su-ceo-con-una-presunta-espia-china.html",
    "f": "2026-11-09T21:18:03Z",
    "c": "tecnologia"
-  },
-  {
-   "t": "Anthropic lanza nuevas versiones de sus modelos más potentes Mythos y Fable en su camino hacia la salida a Bolsa",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-11-09/anthropic-lanza-nuevas-versiones-de-sus-modelos-mas-potentes-mythos-y-fable-en-su-camino-hacia-la-salida-a-bolsa.html",
-   "f": "2026-11-09T19:47:52Z",
-   "c": "empresas"
-  },
-  {
-   "t": "Francia acusa a un grupo de hackers de Irán del ciberataque a cientos de supermercados",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/empresas/2026/11/09/6af21739fc6c83155d8b456e.html",
-   "f": "2026-11-09T18:56:25Z",
-   "c": "precios"
   },
   {
    "t": "Pekín prorroga hasta enero la suspensión de los aranceles a EEUU",
@@ -37,25 +51,11 @@
    "c": "economia"
   },
   {
-   "t": "La inmigración explica hasta el 60% de la subida en el precio de la vivienda desde 2018 por la falta de obra nueva",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/11/09/6aede5cfe4d4d86a348b456f.html",
-   "f": "2026-11-09T18:01:47Z",
-   "c": "vivienda"
-  },
-  {
    "t": "Qantas logra el vuelo más largo de la historia y prepara viajes comerciales de 22 horas",
    "m": "La Vanguardia",
    "u": "https://www.lavanguardia.com/economia/20261109/11680196/qantas-record-vuelo-largo-comercial.html",
    "f": "2026-11-09T17:49:57Z",
    "c": "transporte"
-  },
-  {
-   "t": "Huelga indefinida de una parte de los sindicatos del sector del metal en Tarragona",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261109/11680211/huelga-indefinida-parte-sindicatos-sector-metal-tarragona.html",
-   "f": "2026-11-09T17:41:37Z",
-   "c": "empleo"
   }
  ]
 }
