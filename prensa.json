@@ -1,61 +1,61 @@
 {
- "actualizado": "2026-11-10T12:13:48Z",
+ "actualizado": "2026-11-10T13:41:15Z",
  "items": [
   {
-   "t": "On, la marca de zapatillas de Roger Federer, revisa al alza sus previsiones de beneficios",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-11-10/on-la-marca-de-zapatillas-de-roger-federer-revisa-al-alza-sus-previsiones-de-beneficios.html",
-   "f": "2026-11-10T12:02:01Z",
-   "c": "economia"
+   "t": "La inflación se modera en octubre en Estados Unidos por el abaratamiento de la energía",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-11-10/la-inflacion-se-modera-en-octubre-en-estados-unidos-por-el-abaratamiento-de-la-energia.html",
+   "f": "2026-11-10T13:31:33Z",
+   "c": "energia"
   },
   {
-   "t": "La mujer china en el centro de una investigación por espionaje tras su relación con Jensen Huang",
+   "t": "Alquiler Seguro denuncia el ataque a casi 30 de sus oficinas y señala al Sindicato de Inquilinas en la antesala de la huelga del 11N",
    "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/11/10/6af30322e9cf4ac8538b4595.html",
-   "f": "2026-11-10T11:59:31Z",
-   "c": "comercio"
+   "u": "https://www.elmundo.es/economia/vivienda/2026/11/10/6af31519e85ece151c8b45a3.html",
+   "f": "2026-11-10T13:22:49Z",
+   "c": "vivienda"
   },
   {
-   "t": "Ana Botín asegura que ella será la última de la familia Botín en la presidencia de Banco Santander",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/empresas/2026/11/10/6af2ffabe9cf4a9c488b459f.html",
-   "f": "2026-11-10T11:37:57Z",
-   "c": "bancos"
-  },
-  {
-   "t": "Boeing recortará unos 2.500 empleados de su división de aviones comerciales ante los retrasos en la producción",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/empresas/boeing-recortara-2500-empleados-division-aviones-comerciales-retrasos-produccion_7059234_0.html",
-   "f": "2026-11-10T11:28:10Z",
-   "c": "transporte"
-  },
-  {
-   "t": "Las letras del Tesoro a tres meses pagan el tipo más alto en dos años",
+   "t": "Anthropic busca recaudar hasta 90.400 millones de dólares en su histórica salida a Bolsa",
    "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-10/las-letras-del-tesoro-a-tres-meses-pagan-el-tipo-mas-alto-en-dos-anos.html",
-   "f": "2026-11-10T11:22:40Z",
+   "u": "https://cincodias.elpais.com/companias/2026-11-10/anthropic-busca-recaudar-hasta-90400-millones-de-dolares-en-su-historica-salida-a-bolsa.html",
+   "f": "2026-11-10T13:11:32Z",
+   "c": "empresas"
+  },
+  {
+   "t": "Iberdrola convoca a 300 proveedores en la 'puesta de largo' de su plan para invertir 6.000 millones en redes en España",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/empresas/2026/11/10/6af31658fc6c83314e8b45a9.html",
+   "f": "2026-11-10T13:10:44Z",
    "c": "general"
   },
   {
-   "t": "Gonzalo Bernardos, economista, sobre los sindicatos y los salarios: \"Entre 2018 y 2026, los trabajadores habrán perdido poder adquisitivo en un 2,9%\"",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/gonzalo-bernardos-economista-sobre-los-sindicatos-los-salarios-entre-2018-2026-los-trabajadores-habran-perdido-poder-adquisitivo-un-2-9_7059221_0.html",
-   "f": "2026-11-10T11:19:49Z",
-   "c": "empleo"
+   "t": "Los salarios de convenio crecen un 3,1%, casi dos puntos menos que la inflación",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-11-10/los-salarios-de-convenio-crecen-un-31-casi-dos-puntos-menos-que-la-inflacion.html",
+   "f": "2026-11-10T13:04:30Z",
+   "c": "precios"
   },
   {
-   "t": "El Ibex 35 repunta en la media sesión un 1,5%, hasta los 20.000 puntos, con el crudo en 90 dólares",
+   "t": "El PP bajará cuotas a empresas con menos temporalidad y premiará a las que mejor gestionen bajas por IT",
    "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/bolsa-00348/noticia-ibex-35-repunta-media-sesion-15-20000-puntos-crudo-90-dolares-20261110121811.html",
-   "f": "2026-11-10T11:18:11Z",
+   "u": "https://www.europapress.es/economia/laboral-00346/noticia-pp-bajara-cuotas-empresas-menos-temporalidad-premiara-mejor-gestionen-bajas-it-20261110140426.html",
+   "f": "2026-11-10T13:04:26Z",
    "c": "empresas"
   },
   {
-   "t": "Telefónica desplegará 5G para un centro de la OTAN en Eslovaquia",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-11-10/telefonica-desplegara-5g-para-un-centro-de-la-otan-en-eslovaquia.html",
-   "f": "2026-11-10T11:01:49Z",
+   "t": "Anthropic reduce su ambición a la mitad y se lanza hacia la Bolsa con el objetivo de llegar a 1 billón de dolares de valoración",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/empresas/2026/11/10/6af31183e4d4d8a6498b4573.html",
+   "f": "2026-11-10T13:02:19Z",
    "c": "empresas"
+  },
+  {
+   "t": "PP propone rebajar el IRPF a jóvenes durante sus 4 primeros años de tributación, con exención total el primero",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/fiscal-00347/noticia-pp-propone-rebajar-irpf-jovenes-primeros-anos-tributacion-exencion-total-primero-20261110135830.html",
+   "f": "2026-11-10T12:58:30Z",
+   "c": "impuestos"
   }
  ]
 }
