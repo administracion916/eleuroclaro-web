@@ -1,61 +1,61 @@
 {
- "actualizado": "2026-11-10T08:11:43Z",
+ "actualizado": "2026-11-10T10:11:12Z",
  "items": [
   {
-   "t": "El Ibex escala y rompe los 20.000 puntos por el repunte tecnológico y la caída del petróleo",
+   "t": "¿Cómo consigue China los chips de Nvidia pese a las restricciones?",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/empresas/2026/11/10/6af2e7d2e9cf4a0d5f8b459a.html",
+   "f": "2026-11-10T09:58:23Z",
+   "c": "tecnologia"
+  },
+  {
+   "t": "El culebrón chino de Jensen Huang, el jefe de Nvidia (que ahora investiga el FBI)",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/empresas/2026/11/10/6af2bf08e85eceb1288b457d.html",
+   "f": "2026-11-10T09:51:45Z",
+   "c": "tecnologia"
+  },
+  {
+   "t": "Angels, la sociedad de inversión de Juan Roig, lidera una ronda de Ploot, especializada en IA comercial",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-11-10/angels-la-sociedad-de-inversion-de-juan-roig-lidera-una-ronda-de-ploot-especializada-en-ia-comercial.html",
+   "f": "2026-11-10T09:51:40Z",
+   "c": "tecnologia"
+  },
+  {
+   "t": "El Ibex escala y toca los 20.000 puntos por el repunte tecnológico y la caída del petróleo",
    "m": "Cinco Días",
    "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-10/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-11-10T08:08:41Z",
+   "f": "2026-11-10T09:50:22Z",
    "c": "energia"
   },
   {
-   "t": "Caos e incumplimiento de servicios mínimos por la huelga en Renfe convocada por los maquinistas, que se repetirá el jueves",
+   "t": "El Estatuto de los Trabajadores lo confirma: lo que pierdes en tu nómina y lo que conservas si haces huelga general del 11 de noviembre",
    "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/11/10/6af2cb94e85ece56058b4577.html",
-   "f": "2026-11-10T07:55:32Z",
-   "c": "transporte"
-  },
-  {
-   "t": "Semana caótica en Renfe y Rodalies por nuevas convocatorias de huelgas",
-   "m": "Expansión",
-   "u": "https://www.expansion.com/economia/2026/11/10/semana-caotica-renfe-rodalies-nuevas-convocatorias-huelgas.html",
-   "f": "2026-11-10T07:48:14Z",
-   "c": "transporte"
-  },
-  {
-   "t": "Estos son los servicios mínimos en Renfe fijados para la huelga de maquinistas de este martes",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/11/10/6af2c9e4fc6c837d0d8b4582.html",
-   "f": "2026-11-10T07:41:35Z",
-   "c": "transporte"
-  },
-  {
-   "t": "La huelga de maquinistas en Renfe comienza este martes con la paralización de líneas de Cercanías y Rodalies",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-11-10/renfe-advierte-de-un-fuerte-impacto-de-la-huelga-de-maquinistas-este-martes-en-cercanias-y-rodalies.html",
-   "f": "2026-11-10T06:19:35Z",
-   "c": "transporte"
-  },
-  {
-   "t": "Trump desvela que el FBI investiga a Jensen Huang por el affaire con la supuesta espía china",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261110/11680512/trump-desvela-fbi-investiga-jensen-huang-affaire-supuesta-espia-china.html",
-   "f": "2026-11-10T05:00:00Z",
-   "c": "comercio"
-  },
-  {
-   "t": "Los sindicatos prevén una respuesta “digna” en las empresas y “enorme” en la calle",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261110/11680287/sindicatos-preven-respuesta-digna-empresas-enorme-calle.html",
-   "f": "2026-11-10T05:00:00Z",
+   "u": "https://www.elmundo.es/economia/2026/11/10/6af2e726fdddffb05d8b4587.html",
+   "f": "2026-11-10T09:48:58Z",
    "c": "empleo"
   },
   {
-   "t": "El nuevo Apple Watch escucha tus conversaciones, ¿a quién protege?",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261110/11680018/nuevo-apple-watch-pablo-foncillas-pf-video-seo-lv.html",
-   "f": "2026-11-10T05:00:00Z",
+   "t": "Técnicas Reunidas entra en Suecia con una planta de combustible sostenible para aviones",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-11-10/tecnicas-reunidas-entra-en-suecia-con-una-planta-de-combustible-sostenible-para-aviones.html",
+   "f": "2026-11-10T09:48:12Z",
+   "c": "transporte"
+  },
+  {
+   "t": "La tasa de absentismo subió al 7,69% en el primer semestre y apunta a un nuevo máximo anual, según Adecco",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/tasa-absentismo-subio-7-69-primer-semestre-apunta-un-nuevo-maximo-anual-segun-adecco_7059147_0.html",
+   "f": "2026-11-10T09:44:44Z",
    "c": "general"
+  },
+  {
+   "t": "China logra ya un superávit comercial de un billón con la IA como protagonista",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261110/11680609/china-logra-superavit-comercial-billon-ia-protagonista.html",
+   "f": "2026-11-10T09:40:11Z",
+   "c": "tecnologia"
   }
  ]
 }
