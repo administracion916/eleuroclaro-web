@@ -1,12 +1,40 @@
 {
- "actualizado": "2026-11-10T18:11:18Z",
+ "actualizado": "2026-11-10T20:10:40Z",
  "items": [
   {
-   "t": "La huelga de maquinistas en Renfe paraliza la líneas de Cercanías y Rodalies sin eficacia alguna de los servicios mínimos",
+   "t": "El Sindicato de Inquilinas monta un piquete en una sede de Alquiler Seguro en Madrid",
    "m": "El País",
-   "u": "https://elpais.com/economia/2026-11-10/renfe-advierte-de-un-fuerte-impacto-de-la-huelga-de-maquinistas-este-martes-en-cercanias-y-rodalies.html",
-   "f": "2026-11-10T18:05:00Z",
-   "c": "transporte"
+   "u": "https://elpais.com/economia/2026-11-10/el-sindicato-de-inquilinas-monta-un-piquete-en-una-sede-de-alquiler-seguro-en-madrid.html",
+   "f": "2026-11-10T19:11:54Z",
+   "c": "vivienda"
+  },
+  {
+   "t": "Un nuevo desplome superior al 6% en Bolsa de Nvidia hunde las acciones del gigante de los chips",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/finanzas-00340/noticia-nuevo-desplome-superior-bolsa-nvidia-hunde-acciones-gigante-chips-20261110194336.html",
+   "f": "2026-11-10T18:43:36Z",
+   "c": "tecnologia"
+  },
+  {
+   "t": "El Govern apoya a Openchip tras la salida de la SETT",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261110/11681113/govern-apoya-openchip-salida-sett.html",
+   "f": "2026-11-10T18:33:48Z",
+   "c": "general"
+  },
+  {
+   "t": "Femcat denuncia el trato fiscal a Catalunya: “Es intolerable”",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261110/11681106/femcat-denuncia-trato-fiscal-catalunya-intolerable.html",
+   "f": "2026-11-10T18:16:13Z",
+   "c": "impuestos"
+  },
+  {
+   "t": "El Ibex recupera el nivel de septiembre gracias al descenso del petróleo",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261110/11681100/ibex-recupera-nivel-septiembre-gracias-descenso-petroleo.html",
+   "f": "2026-11-10T18:06:09Z",
+   "c": "energia"
   },
   {
    "t": "Los maquinistas aplazan la protesta del próximo jueves al 23 de noviembre por los avances logrados con Cuerpo",
@@ -28,34 +56,6 @@
    "u": "https://elpais.com/economia/2026-11-10/el-pp-se-compromete-a-convocar-elecciones-si-prorroga-los-presupuestos-en-dos-ocasiones.html",
    "f": "2026-11-10T17:48:18Z",
    "c": "impuestos"
-  },
-  {
-   "t": "Microsoft supera en capitalización a Nvidia, que pierde 1,8 billones en valor de mercado con el escándalo Huang",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-11-10/microsoft-supera-en-capitalizacion-a-nvidia-que-pierde-18-billones-en-valor-de-mercado-con-el-escandalo-huang.html",
-   "f": "2026-11-10T17:47:04Z",
-   "c": "tecnologia"
-  },
-  {
-   "t": "CSIF acusa a Hacienda de bloquear el convenio de Paradores firmado en abril",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-11-10/csif-acusa-a-hacienda-de-bloquear-el-convenio-de-paradores-firmado-en-abril.html",
-   "f": "2026-11-10T17:44:53Z",
-   "c": "empleo"
-  },
-  {
-   "t": "Dassault Systèmes prevé crecer a doble dígito en España y Portugal en 2026",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-11-10/dassault-systemes-preve-crecer-a-doble-digito-en-espana-y-portugal-en-2026.html",
-   "f": "2026-11-10T17:42:35Z",
-   "c": "empresas"
-  },
-  {
-   "t": "El Ibex 35 pierde fuelle al cierre y no logra aguantar los 20.000 puntos",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/bolsa-00348/noticia-ibex-35-pierde-fuelle-cierre-no-logra-aguantar-20000-puntos-20261110181810.html",
-   "f": "2026-11-10T17:18:10Z",
-   "c": "empresas"
   }
  ]
 }
