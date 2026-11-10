@@ -1,12 +1,40 @@
 {
- "actualizado": "2026-11-10T06:15:05Z",
+ "actualizado": "2026-11-10T08:11:43Z",
  "items": [
   {
-   "t": "Las Bolsas prolongan las subidas por el repunte tecnológico y la caída del petróleo",
+   "t": "El Ibex escala y rompe los 20.000 puntos por el repunte tecnológico y la caída del petróleo",
    "m": "Cinco Días",
    "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-10/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-11-10T05:31:15Z",
+   "f": "2026-11-10T08:08:41Z",
    "c": "energia"
+  },
+  {
+   "t": "Caos e incumplimiento de servicios mínimos por la huelga en Renfe convocada por los maquinistas, que se repetirá el jueves",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/11/10/6af2cb94e85ece56058b4577.html",
+   "f": "2026-11-10T07:55:32Z",
+   "c": "transporte"
+  },
+  {
+   "t": "Semana caótica en Renfe y Rodalies por nuevas convocatorias de huelgas",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/2026/11/10/semana-caotica-renfe-rodalies-nuevas-convocatorias-huelgas.html",
+   "f": "2026-11-10T07:48:14Z",
+   "c": "transporte"
+  },
+  {
+   "t": "Estos son los servicios mínimos en Renfe fijados para la huelga de maquinistas de este martes",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/11/10/6af2c9e4fc6c837d0d8b4582.html",
+   "f": "2026-11-10T07:41:35Z",
+   "c": "transporte"
+  },
+  {
+   "t": "La huelga de maquinistas en Renfe comienza este martes con la paralización de líneas de Cercanías y Rodalies",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-11-10/renfe-advierte-de-un-fuerte-impacto-de-la-huelga-de-maquinistas-este-martes-en-cercanias-y-rodalies.html",
+   "f": "2026-11-10T06:19:35Z",
+   "c": "transporte"
   },
   {
    "t": "Trump desvela que el FBI investiga a Jensen Huang por el affaire con la supuesta espía china",
@@ -28,34 +56,6 @@
    "u": "https://www.lavanguardia.com/economia/20261110/11680018/nuevo-apple-watch-pablo-foncillas-pf-video-seo-lv.html",
    "f": "2026-11-10T05:00:00Z",
    "c": "general"
-  },
-  {
-   "t": "¿Tengo que avisar a mi jefe? ¿Y si trabajo de noche? Dudas sobre los derechos en la huelga general del 11-N",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-11-10/tengo-que-avisar-a-mi-jefe-y-si-trabajo-de-noche-dudas-sobre-los-derechos-en-la-huelga-general-del-11-n.html",
-   "f": "2026-11-10T04:45:01Z",
-   "c": "empleo"
-  },
-  {
-   "t": "España registra una de las mayores subidas de la presión fiscal en la UE, pero sigue por debajo de la media",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-11-10/espana-registra-una-de-las-mayores-subidas-de-la-presion-fiscal-en-la-ue-pero-sigue-por-debajo-de-la-media.html",
-   "f": "2026-11-10T04:45:01Z",
-   "c": "impuestos"
-  },
-  {
-   "t": "La mano dura de Bruselas da alas al sector siderúrgico",
-   "m": "El País",
-   "u": "https://elpais.com/economia/negocios/2026-11-10/la-mano-dura-de-bruselas-da-alas-al-sector-siderurgico.html",
-   "f": "2026-11-10T04:30:00Z",
-   "c": "comercio"
-  },
-  {
-   "t": "Los analistas advierten del riesgo para Nvidia por el caso Huang: “Él es la compañía, mueve personalmente los hilos”",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-10/los-analistas-advierten-del-riesgo-para-nvidia-por-el-caso-huang-el-es-la-compania-mueve-personalmente-los-hilos.html",
-   "f": "2026-11-10T04:25:00Z",
-   "c": "tecnologia"
   }
  ]
 }
