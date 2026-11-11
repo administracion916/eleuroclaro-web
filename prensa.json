@@ -1,6 +1,41 @@
 {
- "actualizado": "2026-11-11T18:10:51Z",
+ "actualizado": "2026-11-11T20:11:39Z",
  "items": [
+  {
+   "t": "La Urbana cifra en 4.500 los manifestantes en la huelga general en Lleida y los organizadores en 14.000",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261111/11681922/urbana-cifra-4-500-manifestantes-huelga-general-lleida-organizadores-14-000.html",
+   "f": "2026-11-11T20:01:04Z",
+   "c": "empleo"
+  },
+  {
+   "t": "Más de 100.000 personas recorren Madrid pese a la lluvia para pedir soluciones al problema de la vivienda",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261111/11681915/mas-100-000-personas-recorren-madrid-pese-lluvia-pedir-soluciones-problema-vivienda.html",
+   "f": "2026-11-11T19:34:56Z",
+   "c": "vivienda"
+  },
+  {
+   "t": "Los supermercados desploman sus ventas un 30% en una jornada de huelga marcada por la lluvia y los cierres de comercios por su seguridad",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/empresas/2026/11/11/6af46861e4d4d8ee7c8b45b3.html",
+   "f": "2026-11-11T19:03:36Z",
+   "c": "precios"
+  },
+  {
+   "t": "Los ‘cinco sabios’ revisan al alza la previsión de crecimiento de Alemania para este año y el 2027",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261111/11681884/sabios-consejo-asesor-economia-crecimiento-alemania-merz-rearme-deuda.html",
+   "f": "2026-11-11T18:23:05Z",
+   "c": "economia"
+  },
+  {
+   "t": "Los sindicatos desconvocan la huelga en la industria cárnica y se aproximan a un acuerdo definitivo",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/sindicatos-desconvocan-huelga-industria-carnica-aproximan-acuerdo-definitivo_7059927_0.html",
+   "f": "2026-11-11T18:04:23Z",
+   "c": "empleo"
+  },
   {
    "t": "El ‘sí, quiero’ el día de la huelga: se firman todas las actas de nacimiento, matrimonio y defunción previstas en Madrid",
    "m": "El País",
@@ -21,41 +56,6 @@
    "u": "https://www.europapress.es/economia/laboral-00346/noticia-sindicato-inquilinas-reivindica-huelga-contra-todos-gobiernos-avisa-no-aceptara-parches-20261111183506.html",
    "f": "2026-11-11T17:35:06Z",
    "c": "vivienda"
-  },
-  {
-   "t": "ACS eleva un 20% su beneficio hasta los 789 millones impulsado por Turner y la aceleración en centros de datos",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-11-11/acs-eleva-un-20-su-beneficio-hasta-los-789-millones-impulsado-por-turner-y-la-aceleracion-en-centros-de-datos.html",
-   "f": "2026-11-11T17:35:04Z",
-   "c": "empresas"
-  },
-  {
-   "t": "El Ibex recupera los 20.000 puntos de la mano de la mejora de las tecnológicas",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-11/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-11-11T17:30:00Z",
-   "c": "tecnologia"
-  },
-  {
-   "t": "El Banco de España multa con 16,5 millones al Sabadell por vincular la venta de hipotecas a seguros",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261111/11681834/banco-espana-multa-sabadell-venta-vinculada-productos.html",
-   "f": "2026-11-11T17:26:57Z",
-   "c": "tipos"
-  },
-  {
-   "t": "España, en huelga por la vivienda: el alquiler devora el 48% del sueldo y comprar exige hasta 15 años de salario",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-11/espana-en-huelga-por-la-vivienda-el-alquiler-devora-el-48-del-sueldo-y-comprar-exige-hasta-15-anos-de-salario.html",
-   "f": "2026-11-11T17:22:49Z",
-   "c": "vivienda"
-  },
-  {
-   "t": "CEOE certifica el \"fracaso\" de la huelga general y sitúa el seguimiento por debajo del 5%mientras los sindicatos se manifiestan bajo el fuerte temporal",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/11/11/6af4223ee4d4d8787d8b4593.html",
-   "f": "2026-11-11T17:21:21Z",
-   "c": "empleo"
   }
  ]
 }
