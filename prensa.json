@@ -1,61 +1,61 @@
 {
- "actualizado": "2026-11-11T08:11:24Z",
+ "actualizado": "2026-11-11T10:11:37Z",
  "items": [
-  {
-   "t": "Las Bolsas resisten los temores a nuevas subidas de tipos de interés",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-11/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-11-11T08:05:52Z",
-   "c": "tipos"
-  },
   {
    "t": "La huelga general, en imágenes",
    "m": "El País",
    "u": "https://elpais.com/economia/2026-11-11/la-huelga-general-en-imagenes.html",
-   "f": "2026-11-11T07:49:43Z",
+   "f": "2026-11-11T10:07:41Z",
    "c": "empleo"
   },
   {
-   "t": "Digi sigue en pérdidas tras disparar sus amortizaciones y por los costes de la salida a Bolsa",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-11-11/digi-sigue-en-perdidas-tras-disparar-sus-amortizaciones-y-por-los-costes-de-la-salida-a-bolsa.html",
-   "f": "2026-11-11T07:41:44Z",
-   "c": "empresas"
-  },
-  {
-   "t": "Huelga general: los sindicatos intentan bloquear los centros de distribución de alimentos",
-   "m": "Expansión",
-   "u": "https://www.expansion.com/economia/2026/11/11/huelga-general-sindicatos-intentan-bloquear-centros-distribucion-alimentos.html",
-   "f": "2026-11-11T07:33:02Z",
-   "c": "precios"
-  },
-  {
-   "t": "Huelga general: los sindicatos prevén un seguimiento importante pero asimétrico y denuncian cargas policiales",
-   "m": "Expansión",
-   "u": "https://www.expansion.com/economia/2026/11/11/huelga-general-sindicatos-preven-seguimiento-importante-asimetrico-denuncian-cargas-policiales.html",
-   "f": "2026-11-11T07:09:25Z",
-   "c": "empleo"
-  },
-  {
-   "t": "Gamesa equilibra resultados en 2026 tras seis años en pérdidas",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-11-11/gamesa-equilibra-resultados-en-2026-tras-seis-anos-en-perdidas.html",
-   "f": "2026-11-11T06:59:08Z",
-   "c": "empresas"
-  },
-  {
-   "t": "El recorte salarial que sufrirán en la nómina todos los trabajadores en 2027",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/recorte-salarial-que-sufriran-nomina-todos-los-trabajadores-2027_7057033_0.html",
-   "f": "2026-11-11T06:19:21Z",
-   "c": "empleo"
-  },
-  {
-   "t": "La demanda de energía eléctrica cae un 9,7% en las primeras horas de la huelga, según CCOO",
+   "t": "El consumo eléctrico cae un 6,6% a las 10.00 horas",
    "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/laboral-00346/noticia-demanda-energia-electrica-cae-97-primeras-horas-huelga-ccoo-20261111071430.html",
-   "f": "2026-11-11T06:14:30Z",
+   "u": "https://www.europapress.es/economia/energia-00341/noticia-consumo-electrico-cae-66-1000-horas-20261111105528.html",
+   "f": "2026-11-11T09:55:28Z",
    "c": "energia"
+  },
+  {
+   "t": "Las Bolsas resisten los temores a nuevas subidas de tipos de interés",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-11/la-bolsa-y-el-ibex-35.html",
+   "f": "2026-11-11T09:53:41Z",
+   "c": "tipos"
+  },
+  {
+   "t": "La demanda eléctrica baja casi un 10% en el arranque de la huelga, \"muy por debajo del 14% de la última\"",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/demanda-energia-electrica-baja-casi-un-10-arranque-jornada-huelga_7059645_0.html",
+   "f": "2026-11-11T09:35:05Z",
+   "c": "energia"
+  },
+  {
+   "t": "Cellnex emite 750 millones en bonos a ocho años con un cupón del 4,375%",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-11-11/cellnex-emite-750-millones-en-bonos-a-ocho-anos-con-un-cupon-del-4375.html",
+   "f": "2026-11-11T09:30:53Z",
+   "c": "empresas"
+  },
+  {
+   "t": "Nissan continúa en números rojos a pesar de su plan de ahorro y señala al \"desafiante\" mercado chino",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/empresas/nissan-numeros-rojos-plan-ahorro-desafiante-mercado-chino_7059629_0.html",
+   "f": "2026-11-11T09:30:08Z",
+   "c": "general"
+  },
+  {
+   "t": "Metro y buses de Barcelona paran hasta las 16.30 horas tras los servicios mínimos matinales",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/transportes-00343/noticia-metro-buses-barcelona-paran-1630-horas-servicios-minimos-matinales-20261111102217.html",
+   "f": "2026-11-11T09:22:17Z",
+   "c": "general"
+  },
+  {
+   "t": "Las agencias inmobiliarias denuncian vandalismo en varias ciudades antes de la huelga",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/construccion-y-vivienda-00342/noticia-agencias-inmobiliarias-denuncian-vandalismo-varias-ciudades-antes-huelga-20261111101056.html",
+   "f": "2026-11-11T09:10:56Z",
+   "c": "vivienda"
   }
  ]
 }
