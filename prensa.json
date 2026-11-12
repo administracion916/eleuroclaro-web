@@ -1,61 +1,61 @@
 {
- "actualizado": "2026-11-12T12:13:00Z",
+ "actualizado": "2026-11-12T13:55:37Z",
  "items": [
   {
-   "t": "El Ibex pincha y pone en peligro los 20.000 puntos pese a las subidas del resto de Europa",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-12/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-11-12T12:06:55Z",
-   "c": "empresas"
-  },
-  {
-   "t": "Euríbor hoy, jueves 12 de noviembre: otra subida intensa de la tasa diaria para afianzar la tendencia al alza",
+   "t": "Las grandes empresas reclaman seguridad jurídica y agilidad institucional para reforzar la competitividad en España",
    "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/vivienda/2026/11/12/6af5aa12e85ece1d448b4574.html",
-   "f": "2026-11-12T12:04:05Z",
-   "c": "tipos"
-  },
-  {
-   "t": "El Congreso convalida el decreto de medidas de vivienda y deroga el de los alquileres indefinidos",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/construccion-y-vivienda-00342/noticia-congreso-convalida-decreto-medidas-vivienda-deroga-alquileres-indefinidos-20261112124351.html",
-   "f": "2026-11-12T11:43:51Z",
-   "c": "vivienda"
-  },
-  {
-   "t": "Nvidia colabora con una firma externa para identificar posibles sustitutos de Jensen Huang",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/noticia-nvidia-colabora-firma-externa-identificar-posibles-sustitutos-jensen-huang-20261112123839.html",
-   "f": "2026-11-12T11:38:39Z",
-   "c": "tecnologia"
-  },
-  {
-   "t": "El Gobierno salva el primer decreto de vivienda y el Congreso deroga el segundo: las medidas que caen y las que se convalidan tras la votación",
-   "m": "Expansión",
-   "u": "https://www.expansion.com/economia/2026/11/12/gobierno-salva-primer-decreto-vivienda-congreso-deroga-segundo-medidas-caen-convalidan-votacion.html",
-   "f": "2026-11-12T11:37:37Z",
-   "c": "vivienda"
-  },
-  {
-   "t": "Desahucios, alquileres y ayudas para comprar: las medidas del decreto de vivienda que siguen adelante",
-   "m": "El País",
-   "u": "https://elpais.com/economia/vivienda/2026-11-12/desahucios-alquileres-y-ayudas-para-comprar-las-medidas-del-decreto-de-vivienda-que-siguen-adelante.html",
-   "f": "2026-11-12T11:37:26Z",
-   "c": "vivienda"
-  },
-  {
-   "t": "El precio de las gasolinas se mantiene estable pero llenar un depósito de diésel todavía cuesta más de 100 euros",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/precio-gasolinas-estable-llenar-diesel-mas-100-euros_7060201_0.html",
-   "f": "2026-11-12T11:34:51Z",
-   "c": "energia"
-  },
-  {
-   "t": "Tubos Reunidos gana en un mes pedidos por 26 millones para afrontar su crisis",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-11-12/tubos-reunidos-gana-en-un-mes-pedidos-por-26-millones-para-afrontar-su-crisis.html",
-   "f": "2026-11-12T11:33:07Z",
+   "u": "https://www.elmundo.es/economia/2026/11/12/6af5bcb8e4d4d8e4588b45a7.html",
+   "f": "2026-11-12T13:49:29Z",
    "c": "empresas"
+  },
+  {
+   "t": "Telecom Italia dispara sus pérdidas un 88% hasta septiembre",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-11-12/telecom-italia-dispara-sus-perdidas-un-88-hasta-septiembre.html",
+   "f": "2026-11-12T13:33:59Z",
+   "c": "empresas"
+  },
+  {
+   "t": "Hijos de Rivera (Estrella Galicia) entra en la categoría de whisky y distribuirá en España la escocesa Tomatin",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/empresas/hijos-rivera-estrella-galicia-categoria-whisky-distribuira-espana-escocesa-tomatin_7060269_0.html",
+   "f": "2026-11-12T13:33:29Z",
+   "c": "general"
+  },
+  {
+   "t": "El día después del 11-N: los sindicatos hablan de un “éxito” que superó las expectativas y la patronal ve “un fracaso”",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-11-12/el-dia-despues-del-11-n-los-sindicatos-hablan-de-un-exito-que-supero-las-expectativas-y-la-patronal-ve-un-fracaso.html",
+   "f": "2026-11-12T13:32:01Z",
+   "c": "empleo"
+  },
+  {
+   "t": "España ya es el segundo país de la UE con más trabajadores nacidos en el extranjero",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-11-12/espana-ya-es-el-segundo-pais-de-la-ue-con-mas-trabajadores-nacidos-en-el-extranjero.html",
+   "f": "2026-11-12T13:21:21Z",
+   "c": "empleo"
+  },
+  {
+   "t": "La factura de los 'decretos Maricarmen' en el alquiler: anuncios retirados, contratos paralizados e inquilinos con más dificultades para encontrar casa",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/vivienda/2026/11/12/6af59b8fe4d4d85e378b45bf.html",
+   "f": "2026-11-12T13:01:09Z",
+   "c": "vivienda"
+  },
+  {
+   "t": "UGT y CCOO califican de \"éxito\" la huelga y exigen que se escuche su demanda sobre vivienda y salarios",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/laboral-00346/noticia-ugt-ccoo-califican-exito-huelga-exigen-escuche-demanda-vivienda-salarios-20261112140034.html",
+   "f": "2026-11-12T13:00:34Z",
+   "c": "vivienda"
+  },
+  {
+   "t": "El Sindicato Ferroviario convoca una manifestación por la \"máxima seguridad\" en los trenes el 14 de noviembre en Madrid",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/empresas/2026/11/12/6af5b175fc6c83d26d8b458f.html",
+   "f": "2026-11-12T12:48:39Z",
+   "c": "transporte"
   }
  ]
 }
