@@ -1,12 +1,33 @@
 {
- "actualizado": "2026-11-12T20:10:09Z",
+ "actualizado": "2026-11-12T21:32:34Z",
  "items": [
   {
-   "t": "El Gobierno deja atado con la Generalitat un órgano bilateral para futuras decisiones sobre los aeropuertos catalanes",
+   "t": "Nvidia sufre en Bolsa tras anunciar el adiós de su CEO",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-11-12/nvidia-se-hunde-en-bolsa-tras-anunciar-el-adios-de-su-ceo.html",
+   "f": "2026-11-12T21:14:16Z",
+   "c": "tecnologia"
+  },
+  {
+   "t": "Acciona presta 500 millones a su filial de energía y apunta a una oleada de desinversiones en 2027",
    "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/economia/2026-11-12/el-gobierno-deja-atado-con-la-generalitat-un-organo-bilateral-para-futuras-decisiones-sobre-los-aeropuertos-catalanes.html",
-   "f": "2026-11-12T19:38:04Z",
-   "c": "transporte"
+   "u": "https://cincodias.elpais.com/companias/2026-11-12/acciona-presta-500-millones-a-su-filial-de-energia-y-apunta-a-una-oleada-de-desinversiones-en-2027.html",
+   "f": "2026-11-12T20:21:55Z",
+   "c": "energia"
+  },
+  {
+   "t": "Alemania y Francia ultiman un acuerdo para el reparto del BCE con De Cos como relevo de Lagarde",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/macroeconomia-00338/noticia-alemania-francia-ultiman-acuerdo-reparto-bce-cos-relevo-lagarde-20261112212120.html",
+   "f": "2026-11-12T20:21:20Z",
+   "c": "tipos"
+  },
+  {
+   "t": "El Gobierno pide la retirada de más de 8.300 anuncios ilícitos de pisos turísticos",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261112/11682896/gobierno-pide-retirada-mas-8-300-anuncios-ilicitos-pisos-turisticos.html",
+   "f": "2026-11-12T19:51:18Z",
+   "c": "vivienda"
   },
   {
    "t": "Consumo exige a dos plataformas de alquiler turístico que retiren más de 8.000 anuncios ilegales",
@@ -34,27 +55,6 @@
    "m": "20minutos",
    "u": "https://www.20minutos.es/lainformacion/empresas/talgo-dispara-un-29-los-ingresos-hasta-septiembre-lleva-su-cartera-un-record-6-477-millones_7060487_0.html",
    "f": "2026-11-12T18:58:03Z",
-   "c": "general"
-  },
-  {
-   "t": "La Fed cambia su calendario de reuniones para 2027: la de octubre no incluirá decisiones de tipos de interés",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/macroeconomia-00338/noticia-fed-cambia-calendario-reuniones-2027-octubre-no-incluira-decisiones-tipos-interes-20261112192514.html",
-   "f": "2026-11-12T18:25:14Z",
-   "c": "tipos"
-  },
-  {
-   "t": "Las prensa francesa apunta a un acuerdo entre Merz y Macron para apoyar a De Cos al frente del BCE",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/las-prensa-francesa-apunta-un-acuerdo-entre-merz-macron-para-apoyar-cos-frente-bce_7060462_0.html",
-   "f": "2026-11-12T18:02:51Z",
-   "c": "tipos"
-  },
-  {
-   "t": "Mercedes-Benz congela sus inversiones en Alemania y amenaza con cerrar fábricas",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/11/12/6af5f8ade4d4d8e15d8b45bb.html",
-   "f": "2026-11-12T17:47:24Z",
    "c": "general"
   }
  ]
