@@ -1,60 +1,60 @@
 {
- "actualizado": "2026-11-12T06:11:06Z",
+ "actualizado": "2026-11-12T08:11:12Z",
  "items": [
-  {
-   "t": "Consumo calcula que la prórroga de los alquileres ahorraría 4.341 euros por hogar y beneficiaría a casi cinco millones de personas",
-   "m": "El País",
-   "u": "https://elpais.com/economia/vivienda/2026-11-12/consumo-calcula-que-la-prorroga-de-los-alquileres-ahorraria-4341-euros-por-hogar-y-beneficiaria-a-casi-cinco-millones-de-personas.html",
-   "f": "2026-11-12T06:00:00Z",
-   "c": "vivienda"
-  },
-  {
-   "t": "Trade Republic eleva la apuesta entre los neobancos y sube la rentabilidad de su cuenta al 4% para nuevos clientes",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/dinero-inversion/2026/11/12/6af4547de85ece536e8b45ac.html",
-   "f": "2026-11-12T06:00:00Z",
-   "c": "general"
-  },
   {
    "t": "Las Bolsas europeas apuntan al alza y obvian la caída de Nvidia",
    "m": "Cinco Días",
    "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-12/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-11-12T05:51:26Z",
+   "f": "2026-11-12T08:02:07Z",
    "c": "tecnologia"
   },
   {
-   "t": "Desplome de casi un 8% de las acciones de Nvidia ante las dudas sobre el futuro de Jensen Huang",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261112/11682166/desplome-8-acciones-nvidia-dudas-sobre-futuro-jensen-huang.html",
-   "f": "2026-11-12T05:22:58Z",
-   "c": "tecnologia"
-  },
-  {
-   "t": "¿Sirve de algo cambiarle el nombre a una empresa?",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261112/11681791/cambiar-nombre-pablo-foncillas-pf-video-seo-lv.html",
-   "f": "2026-11-12T05:00:00Z",
-   "c": "empresas"
-  },
-  {
-   "t": "Nvidia se desploma en Bolsa tras un nuevo escándalo de su CEO y la acción pierde un 35% en un mes",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-11-12/nvidia-sufre-una-tormenta-de-crisis-encadenadas-y-pierde-el-30-de-su-valor-bursatil-en-un-mes.html",
-   "f": "2026-11-12T04:45:00Z",
-   "c": "tecnologia"
-  },
-  {
-   "t": "Los expertos avisan del reducido número de fondos que pueden entrar en la cuenta Financia Europa",
+   "t": "Santander mejora un 5% la ecuación de canje de la oferta para comprar las acciones de su filial brasileña que aún no posee",
    "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-12/los-expertos-avisan-del-reducido-numero-de-fondos-que-pueden-entrar-en-la-cuenta-financia-europa.html",
-   "f": "2026-11-12T04:30:01Z",
+   "u": "https://cincodias.elpais.com/companias/2026-11-12/santander-mejora-un-5-la-ecuacion-de-canje-de-la-oferta-para-comprar-las-acciones-de-su-filial-brasilena-que-aun-no-posee.html",
+   "f": "2026-11-12T07:29:22Z",
+   "c": "bancos"
+  },
+  {
+   "t": "Elon Musk tercia en el escándalo del CEO de Nvidia: “Sería un honor contratar a Jensen Huang”",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-11-12/elon-musk-tercia-en-el-escandalo-del-ceo-de-nvidia-seria-un-honor-contratar-a-jensen-huang.html",
+   "f": "2026-11-12T07:29:12Z",
+   "c": "tecnologia"
+  },
+  {
+   "t": "Elon Musk asegura que “sería un honor” contratar a Jensen Huang, en la rampa de salida de Nvidia",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261112/11682184/elon-musk-asegura-seria-honor-contratar-jensen-huang-rampa-salida-nvidia.html",
+   "f": "2026-11-12T07:29:02Z",
+   "c": "tecnologia"
+  },
+  {
+   "t": "Telefónica gana 464 millones hasta septiembre y eleva su objetivo de rentabilidad",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/empresas/2026/11/12/6af562eafdddff4a7f8b4592.html",
+   "f": "2026-11-12T07:25:23Z",
    "c": "general"
   },
   {
-   "t": "Cómo facturar más de medio millón de euros organizando pachangas de fútbol entre amigos",
-   "m": "El País",
-   "u": "https://elpais.com/economia/negocios/2026-11-12/el-negocio-de-las-pachangas-que-se-construyo-partido-a-partido.html",
-   "f": "2026-11-12T04:30:00Z",
+   "t": "Francia muestra preferencia por Hernández de Cos sobre su rival holandés Knot para la futura presidencia del BCE",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/11/12/6af56442e4d4d8801b8b4575.html",
+   "f": "2026-11-12T07:05:32Z",
+   "c": "tipos"
+  },
+  {
+   "t": "Telefónica deja atrás las pérdidas y gana 464 millones hasta septiembre tras un sólido tercer trimestre",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/empresas/telefonica-deja-atras-perdidas-gana-464-millones_7059958_0.html",
+   "f": "2026-11-12T06:52:38Z",
+   "c": "general"
+  },
+  {
+   "t": "Telefónica remonta pérdidas y gana 464 millones hasta septiembre",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-11-12/telefonica-remonta-perdidas-y-gana-464-millones-hasta-septiembre.html",
+   "f": "2026-11-12T06:33:53Z",
    "c": "empresas"
   }
  ]
