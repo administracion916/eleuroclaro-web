@@ -1,60 +1,60 @@
 {
- "actualizado": "2026-11-12T16:11:49Z",
+ "actualizado": "2026-11-12T18:12:30Z",
  "items": [
   {
-   "t": "Demandan a Anthropic, Google, Meta, OpenAI y SpaceXSI, acusándolas de no poder detener los daños causados por la inteligencia artificial",
+   "t": "Las prensa francesa apunta a un acuerdo entre Merz y Macron para apoyar a De Cos al frente del BCE",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/las-prensa-francesa-apunta-un-acuerdo-entre-merz-macron-para-apoyar-cos-frente-bce_7060462_0.html",
+   "f": "2026-11-12T18:02:51Z",
+   "c": "tipos"
+  },
+  {
+   "t": "Mercedes-Benz congela sus inversiones en Alemania y amenaza con cerrar fábricas",
    "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/empresas/2026/11/12/6af5e38c21efa010368b45b4.html",
-   "f": "2026-11-12T16:10:37Z",
-   "c": "tecnologia"
+   "u": "https://www.elmundo.es/economia/2026/11/12/6af5f8ade4d4d8e15d8b45bb.html",
+   "f": "2026-11-12T17:47:24Z",
+   "c": "general"
   },
   {
-   "t": "Trump pide elegir al exCEO de Apple Tim Cook para reemplazar a Jensen Huang en Nvidia",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/11/12/6af5e0c7e4d4d8e4588b45bc.html",
-   "f": "2026-11-12T16:02:33Z",
-   "c": "tecnologia"
-  },
-  {
-   "t": "Los demócratas prometen sacar a la luz la ‘auténtica avalancha de corrupción’ bajo el mandato de Donald Trump",
-   "m": "Expansión",
-   "u": "https://www.expansion.com/economia/financial-times/2026/11/12/democratas-prometen-sacar-luz-autentica-avalancha-corrupcion-mandato-donald-trump.html",
-   "f": "2026-11-12T15:57:20Z",
-   "c": "energia"
-  },
-  {
-   "t": "Nvidia sufre en Bolsa tras anunciar el adiós de su CEO",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-11-12/nvidia-se-hunde-en-bolsa-tras-anunciar-el-adios-de-su-ceo.html",
-   "f": "2026-11-12T15:50:11Z",
-   "c": "tecnologia"
-  },
-  {
-   "t": "La crisis del estrecho de Ormuz dispara en 1.230 millones el gasto de la industria química en España",
+   "t": "El gigante chino JD.com completa su desembarco en el retail europeo con la compra de la dueña de MediaMarkt",
    "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-11-12/la-crisis-del-estrecho-de-ormuz-dispara-en-1200-millones-el-gasto-de-la-industria-quimica-en-espana.html",
-   "f": "2026-11-12T15:34:01Z",
+   "u": "https://cincodias.elpais.com/companias/2026-11-12/el-gigante-chino-jdcom-completa-su-desembarco-en-el-retail-europeo-con-la-compra-de-la-duena-de-mediamarkt.html",
+   "f": "2026-11-12T17:46:46Z",
    "c": "empresas"
   },
   {
-   "t": "Transportes vuelve a negociar con los sindicatos para evitar más huelgas ferroviarias tras el siniestro de Urda",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-11-12/transportes-vuelve-a-negociar-con-los-sindicatos-para-evitar-mas-huelgas-ferroviarias-tras-el-siniestro-de-urda.html",
-   "f": "2026-11-12T15:30:04Z",
-   "c": "empleo"
+   "t": "Repsol invierte 400 millones en el desarrollo de su mayor electrolizador en Tarragona",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-11-12/repsol-invierte-400-millones-en-el-desarrollo-de-su-mayor-electrolizador-en-tarragona.html",
+   "f": "2026-11-12T17:44:09Z",
+   "c": "empresas"
   },
   {
-   "t": "El BBVA canalizó 250.000 millones en negocio sostenible desde 2025, de los que cerca de 100.000 fueron en países emergentes",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-11-12/el-bbva-canalizo-250000-millones-en-negocio-sostenible-desde-2025-de-los-que-cerca-de-100000-fueron-en-paises-emergentes.html",
-   "f": "2026-11-12T15:28:24Z",
+   "t": "Los supermercados desploman sus ventas un 30% en una jornada de huelga marcada por la lluvia y los cierres de comercios por su seguridad",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/empresas/2026/11/11/6af46861e4d4d8ee7c8b45b3.html",
+   "f": "2026-11-12T17:38:33Z",
+   "c": "precios"
+  },
+  {
+   "t": "Judith Viader, CEO de Frit Ravich, presenta la fundación “Viader Codina”",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261112/11682815/judith-viader-ceo-frit-ravich-presenta-fundacion-viader-codina.html",
+   "f": "2026-11-12T17:28:17Z",
+   "c": "general"
+  },
+  {
+   "t": "Andrés Millán, abogado, tras las crisis por el colapso de un banco en Paraguay: \"Imagínate la frustración\"",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/2026/11/12/andres-millan-abogado-crisis-colapso-banco-paraguay-imaginate-frustracion.html",
+   "f": "2026-11-12T17:09:08Z",
    "c": "bancos"
   },
   {
-   "t": "Quién es Colette Kress, la nueva consejera delegada de Nvidia tras la polémica renuncia de Jensen Huang",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261112/11682658/colette-kress-consejera-delegada-nvidia-jensen-huang.html",
-   "f": "2026-11-12T15:03:48Z",
+   "t": "El Ibex 35 pierde los 20.000 puntos ante la polémica de Nvidia y el carrusel de resultados",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/bolsa-00348/noticia-ibex-35-pierde-20000-puntos-polemica-nvidia-carrusel-resultados-20261112180406.html",
+   "f": "2026-11-12T17:04:06Z",
    "c": "tecnologia"
   }
  ]
