@@ -1,61 +1,61 @@
 {
- "actualizado": "2026-11-11T22:10:43Z",
+ "actualizado": "2026-11-12T01:58:29Z",
  "items": [
+  {
+   "t": "Fiasco de la huelga electoral marcada por la intensa presión de los piquetes",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/2026/11/12/fiasco-huelga-electoral-marcada-intensa-presion-piquetes.html",
+   "f": "2026-11-12T00:21:05Z",
+   "c": "empleo"
+  },
+  {
+   "t": "Bruselas eleva la protección a los consumidores digitales",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/2026/11/12/bruselas-eleva-proteccion-consumidores-digitales.html",
+   "f": "2026-11-12T00:10:03Z",
+   "c": "precios"
+  },
+  {
+   "t": "Nvidia prepara el despido de Jensen Huang al descubrirse que tenía otra amante, además de la espía",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261112/11682155/nvidia-prepara-despido-jensen-huang-descubrirse-tenia-amante-espia.html",
+   "f": "2026-11-12T00:04:43Z",
+   "c": "empleo"
+  },
+  {
+   "t": "La huelga tuvo impacto limitado en los centros de trabajo y gran movilización en la calle",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261112/11681919/huelga-tuvo-impacto-limitado-centros-trabajo-gran-movilizacion-calle.html",
+   "f": "2026-11-11T23:05:00Z",
+   "c": "empleo"
+  },
+  {
+   "t": "La naturaleza se teje a mano en Nepal",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/empresas/2026/11/12/6aecd673e9cf4a88038b45cd.html",
+   "f": "2026-11-11T23:01:41Z",
+   "c": "general"
+  },
+  {
+   "t": "Nadie puede firmar por Francia",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/11/12/6af4904e21efa05b5e8b4575.html",
+   "f": "2026-11-11T23:01:39Z",
+   "c": "general"
+  },
+  {
+   "t": "Arcosur: el proyecto de 22.185 viviendas para hacer de Zaragoza la excepción a la crisis",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/vivienda/2026/11/11/6af4991be85ececa6f8b45b8.html",
+   "f": "2026-11-11T22:52:27Z",
+   "c": "vivienda"
+  },
   {
    "t": "Cataluña lidera el seguimiento en una huelga con cargas policiales, detenidos y altercados",
    "m": "Expansión",
    "u": "https://www.expansion.com/economia/2026/11/11/cataluna-lidera-seguimiento-huelga-cargas-policiales-detenidos-altercados.html",
    "f": "2026-11-11T21:46:10Z",
    "c": "empleo"
-  },
-  {
-   "t": "La manifestación de Madrid por la vivienda y los salarios concluye con cargas policiales",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/laboral-00346/noticia-manifestacion-madrid-vivienda-salarios-concluye-cargas-policiales-20261111223501.html",
-   "f": "2026-11-11T21:35:01Z",
-   "c": "vivienda"
-  },
-  {
-   "t": "El Sindicato de Inquilinas denuncia una \"escalada de violencia\" policial y exigirá responsabilidades",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/laboral-00346/noticia-sindicato-inquilinas-denuncia-escalada-violencia-policial-exigira-responsabilidades-20261111221035.html",
-   "f": "2026-11-11T21:10:35Z",
-   "c": "vivienda"
-  },
-  {
-   "t": "Álvarez (UGT) hace un balance \"muy positivo\" de la huelga y denuncia un \"exceso policial impresentable\"",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/laboral-00346/noticia-alvarez-ugt-hace-balance-muy-positivo-huelga-denuncia-exceso-policial-impresentable-20261111220810.html",
-   "f": "2026-11-11T21:08:10Z",
-   "c": "empleo"
-  },
-  {
-   "t": "La huelga general culmina con un seguimiento desigual y grandes protestas en la calle",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-11-11/la-huelga-general-culmina-con-un-seguimiento-desigual-y-grandes-protestas-en-la-calle.html",
-   "f": "2026-11-11T21:00:51Z",
-   "c": "empleo"
-  },
-  {
-   "t": "CEOE certifica el \"fracaso\" de la huelga general y sitúa el seguimiento por debajo del 5%mientras los sindicatos se manifiestan bajo el fuerte temporal",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/11/11/6af4223ee4d4d8787d8b4593.html",
-   "f": "2026-11-11T20:11:19Z",
-   "c": "empleo"
-  },
-  {
-   "t": "La Urbana cifra en 4.500 los manifestantes en la huelga general en Lleida y los organizadores en 14.000",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261111/11681922/urbana-cifra-4-500-manifestantes-huelga-general-lleida-organizadores-14-000.html",
-   "f": "2026-11-11T20:01:04Z",
-   "c": "empleo"
-  },
-  {
-   "t": "Más de 100.000 personas recorren Madrid pese a la lluvia para pedir soluciones al problema de la vivienda",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261111/11681915/mas-100-000-personas-recorren-madrid-pese-lluvia-pedir-soluciones-problema-vivienda.html",
-   "f": "2026-11-11T19:34:56Z",
-   "c": "vivienda"
   }
  ]
 }
