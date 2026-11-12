@@ -1,6 +1,48 @@
 {
- "actualizado": "2026-11-12T18:12:30Z",
+ "actualizado": "2026-11-12T20:10:09Z",
  "items": [
+  {
+   "t": "El Gobierno deja atado con la Generalitat un órgano bilateral para futuras decisiones sobre los aeropuertos catalanes",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/economia/2026-11-12/el-gobierno-deja-atado-con-la-generalitat-un-organo-bilateral-para-futuras-decisiones-sobre-los-aeropuertos-catalanes.html",
+   "f": "2026-11-12T19:38:04Z",
+   "c": "transporte"
+  },
+  {
+   "t": "Consumo exige a dos plataformas de alquiler turístico que retiren más de 8.000 anuncios ilegales",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/11/12/6af61390e85ecec2258b458b.html",
+   "f": "2026-11-12T19:33:43Z",
+   "c": "vivienda"
+  },
+  {
+   "t": "IAG busca ingresos publicitarios con la nueva IAG Media para combatir el alza de costes operativos",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-11-12/iag-busca-ingresos-publicitarios-con-la-nueva-iag-media-para-combatir-el-alza-de-costes-operativos.html",
+   "f": "2026-11-12T19:30:00Z",
+   "c": "empresas"
+  },
+  {
+   "t": "Talgo mejora un 29% su facturación, hasta 572 millones, a cierre del tercer trimestre",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-11-12/talgo-mejora-un-29-su-facturacion-hasta-572-millones-a-cierre-del-tercer-trimestre.html",
+   "f": "2026-11-12T19:28:58Z",
+   "c": "empresas"
+  },
+  {
+   "t": "Talgo dispara un 29% los ingresos hasta septiembre y lleva su cartera a un récord de 6.477 millones",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/empresas/talgo-dispara-un-29-los-ingresos-hasta-septiembre-lleva-su-cartera-un-record-6-477-millones_7060487_0.html",
+   "f": "2026-11-12T18:58:03Z",
+   "c": "general"
+  },
+  {
+   "t": "La Fed cambia su calendario de reuniones para 2027: la de octubre no incluirá decisiones de tipos de interés",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/macroeconomia-00338/noticia-fed-cambia-calendario-reuniones-2027-octubre-no-incluira-decisiones-tipos-interes-20261112192514.html",
+   "f": "2026-11-12T18:25:14Z",
+   "c": "tipos"
+  },
   {
    "t": "Las prensa francesa apunta a un acuerdo entre Merz y Macron para apoyar a De Cos al frente del BCE",
    "m": "20minutos",
@@ -14,48 +56,6 @@
    "u": "https://www.elmundo.es/economia/2026/11/12/6af5f8ade4d4d8e15d8b45bb.html",
    "f": "2026-11-12T17:47:24Z",
    "c": "general"
-  },
-  {
-   "t": "El gigante chino JD.com completa su desembarco en el retail europeo con la compra de la dueña de MediaMarkt",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-11-12/el-gigante-chino-jdcom-completa-su-desembarco-en-el-retail-europeo-con-la-compra-de-la-duena-de-mediamarkt.html",
-   "f": "2026-11-12T17:46:46Z",
-   "c": "empresas"
-  },
-  {
-   "t": "Repsol invierte 400 millones en el desarrollo de su mayor electrolizador en Tarragona",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-11-12/repsol-invierte-400-millones-en-el-desarrollo-de-su-mayor-electrolizador-en-tarragona.html",
-   "f": "2026-11-12T17:44:09Z",
-   "c": "empresas"
-  },
-  {
-   "t": "Los supermercados desploman sus ventas un 30% en una jornada de huelga marcada por la lluvia y los cierres de comercios por su seguridad",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/empresas/2026/11/11/6af46861e4d4d8ee7c8b45b3.html",
-   "f": "2026-11-12T17:38:33Z",
-   "c": "precios"
-  },
-  {
-   "t": "Judith Viader, CEO de Frit Ravich, presenta la fundación “Viader Codina”",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261112/11682815/judith-viader-ceo-frit-ravich-presenta-fundacion-viader-codina.html",
-   "f": "2026-11-12T17:28:17Z",
-   "c": "general"
-  },
-  {
-   "t": "Andrés Millán, abogado, tras las crisis por el colapso de un banco en Paraguay: \"Imagínate la frustración\"",
-   "m": "Expansión",
-   "u": "https://www.expansion.com/economia/2026/11/12/andres-millan-abogado-crisis-colapso-banco-paraguay-imaginate-frustracion.html",
-   "f": "2026-11-12T17:09:08Z",
-   "c": "bancos"
-  },
-  {
-   "t": "El Ibex 35 pierde los 20.000 puntos ante la polémica de Nvidia y el carrusel de resultados",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/bolsa-00348/noticia-ibex-35-pierde-20000-puntos-polemica-nvidia-carrusel-resultados-20261112180406.html",
-   "f": "2026-11-12T17:04:06Z",
-   "c": "tecnologia"
   }
  ]
 }
