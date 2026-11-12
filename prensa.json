@@ -1,61 +1,61 @@
 {
- "actualizado": "2026-11-12T01:58:29Z",
+ "actualizado": "2026-11-12T06:11:06Z",
  "items": [
   {
-   "t": "Fiasco de la huelga electoral marcada por la intensa presión de los piquetes",
-   "m": "Expansión",
-   "u": "https://www.expansion.com/economia/2026/11/12/fiasco-huelga-electoral-marcada-intensa-presion-piquetes.html",
-   "f": "2026-11-12T00:21:05Z",
-   "c": "empleo"
-  },
-  {
-   "t": "Bruselas eleva la protección a los consumidores digitales",
-   "m": "Expansión",
-   "u": "https://www.expansion.com/economia/2026/11/12/bruselas-eleva-proteccion-consumidores-digitales.html",
-   "f": "2026-11-12T00:10:03Z",
-   "c": "precios"
-  },
-  {
-   "t": "Nvidia prepara el despido de Jensen Huang al descubrirse que tenía otra amante, además de la espía",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261112/11682155/nvidia-prepara-despido-jensen-huang-descubrirse-tenia-amante-espia.html",
-   "f": "2026-11-12T00:04:43Z",
-   "c": "empleo"
-  },
-  {
-   "t": "La huelga tuvo impacto limitado en los centros de trabajo y gran movilización en la calle",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261112/11681919/huelga-tuvo-impacto-limitado-centros-trabajo-gran-movilizacion-calle.html",
-   "f": "2026-11-11T23:05:00Z",
-   "c": "empleo"
-  },
-  {
-   "t": "La naturaleza se teje a mano en Nepal",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/empresas/2026/11/12/6aecd673e9cf4a88038b45cd.html",
-   "f": "2026-11-11T23:01:41Z",
-   "c": "general"
-  },
-  {
-   "t": "Nadie puede firmar por Francia",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/11/12/6af4904e21efa05b5e8b4575.html",
-   "f": "2026-11-11T23:01:39Z",
-   "c": "general"
-  },
-  {
-   "t": "Arcosur: el proyecto de 22.185 viviendas para hacer de Zaragoza la excepción a la crisis",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/vivienda/2026/11/11/6af4991be85ececa6f8b45b8.html",
-   "f": "2026-11-11T22:52:27Z",
+   "t": "Consumo calcula que la prórroga de los alquileres ahorraría 4.341 euros por hogar y beneficiaría a casi cinco millones de personas",
+   "m": "El País",
+   "u": "https://elpais.com/economia/vivienda/2026-11-12/consumo-calcula-que-la-prorroga-de-los-alquileres-ahorraria-4341-euros-por-hogar-y-beneficiaria-a-casi-cinco-millones-de-personas.html",
+   "f": "2026-11-12T06:00:00Z",
    "c": "vivienda"
   },
   {
-   "t": "Cataluña lidera el seguimiento en una huelga con cargas policiales, detenidos y altercados",
-   "m": "Expansión",
-   "u": "https://www.expansion.com/economia/2026/11/11/cataluna-lidera-seguimiento-huelga-cargas-policiales-detenidos-altercados.html",
-   "f": "2026-11-11T21:46:10Z",
-   "c": "empleo"
+   "t": "Trade Republic eleva la apuesta entre los neobancos y sube la rentabilidad de su cuenta al 4% para nuevos clientes",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/dinero-inversion/2026/11/12/6af4547de85ece536e8b45ac.html",
+   "f": "2026-11-12T06:00:00Z",
+   "c": "general"
+  },
+  {
+   "t": "Las Bolsas europeas apuntan al alza y obvian la caída de Nvidia",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-12/la-bolsa-y-el-ibex-35.html",
+   "f": "2026-11-12T05:51:26Z",
+   "c": "tecnologia"
+  },
+  {
+   "t": "Desplome de casi un 8% de las acciones de Nvidia ante las dudas sobre el futuro de Jensen Huang",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261112/11682166/desplome-8-acciones-nvidia-dudas-sobre-futuro-jensen-huang.html",
+   "f": "2026-11-12T05:22:58Z",
+   "c": "tecnologia"
+  },
+  {
+   "t": "¿Sirve de algo cambiarle el nombre a una empresa?",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261112/11681791/cambiar-nombre-pablo-foncillas-pf-video-seo-lv.html",
+   "f": "2026-11-12T05:00:00Z",
+   "c": "empresas"
+  },
+  {
+   "t": "Nvidia se desploma en Bolsa tras un nuevo escándalo de su CEO y la acción pierde un 35% en un mes",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-11-12/nvidia-sufre-una-tormenta-de-crisis-encadenadas-y-pierde-el-30-de-su-valor-bursatil-en-un-mes.html",
+   "f": "2026-11-12T04:45:00Z",
+   "c": "tecnologia"
+  },
+  {
+   "t": "Los expertos avisan del reducido número de fondos que pueden entrar en la cuenta Financia Europa",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-12/los-expertos-avisan-del-reducido-numero-de-fondos-que-pueden-entrar-en-la-cuenta-financia-europa.html",
+   "f": "2026-11-12T04:30:01Z",
+   "c": "general"
+  },
+  {
+   "t": "Cómo facturar más de medio millón de euros organizando pachangas de fútbol entre amigos",
+   "m": "El País",
+   "u": "https://elpais.com/economia/negocios/2026-11-12/el-negocio-de-las-pachangas-que-se-construyo-partido-a-partido.html",
+   "f": "2026-11-12T04:30:00Z",
+   "c": "empresas"
   }
  ]
 }
