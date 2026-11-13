@@ -1,60 +1,60 @@
 {
- "actualizado": "2026-11-13T15:37:00Z",
+ "actualizado": "2026-11-13T18:12:41Z",
  "items": [
   {
-   "t": "El Parlamento alemán da el último paso para aprobar el mayor presupuesto de la historia del país",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-11-13/el-parlamento-aleman-da-el-ultimo-paso-para-aprobar-el-mayor-presupuesto-de-la-historia-del-pais.html",
-   "f": "2026-11-13T15:24:41Z",
-   "c": "general"
-  },
-  {
-   "t": "Caída mundial de Microsoft: Outlook, Teams y Copilot comienzan a recuperar la normalidad después de 20 horas de interrupción",
+   "t": "Una caída de Microsoft 365 deja sin correo a empresas y gobiernos de 74 países durante más de 20 horas",
    "m": "El Mundo",
    "u": "https://www.elmundo.es/economia/empresas/2026/11/13/6af6b987fdddfff22c8b4587.html",
-   "f": "2026-11-13T15:09:00Z",
-   "c": "general"
-  },
-  {
-   "t": "Alemania y Francia ultiman un pacto sobre el BCE con Hernández de Cos como favorito para la presidencia",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-11-13/alemania-y-francia-ultiman-un-pacto-sobre-el-bce-con-hernandez-de-cos-como-favorito-para-la-presidencia.html",
-   "f": "2026-11-13T14:47:56Z",
-   "c": "tipos"
-  },
-  {
-   "t": "Francia y Alemania ultiman el reparto de cargos en la cúpula del BCE con De Cos como presidente",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261113/11683595/francia-alemania-ultiman-reparto-cargos-cupula-bce-cos-presidente.html",
-   "f": "2026-11-13T14:31:59Z",
-   "c": "tipos"
-  },
-  {
-   "t": "Euríbor hoy, viernes 13 de noviembre: cierra la semana al alza",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/11/13/6af6f4c2e85ece2e258b456d.html",
-   "f": "2026-11-13T14:24:45Z",
-   "c": "tipos"
-  },
-  {
-   "t": "Merz quiere cerrar ya la semana que viene el reparto de la cúpula del BCE con Hernández de Cos como favorito para presidente: \"Hay acuerdos que están a punto\"",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/11/13/6af713b2e85ece21708b4573.html",
-   "f": "2026-11-13T14:00:15Z",
-   "c": "tipos"
-  },
-  {
-   "t": "Blanca Sorigué, Integrasys, Spika Tech, Podo y Mapfre, ganadores de los Premios Cinco Días a la Innovación Empresarial",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-11-13/blanca-sorigue-integrasys-spika-tech-podo-y-mapfre-ganadores-de-los-premios-cinco-dias-a-la-innovacion-empresarial.html",
-   "f": "2026-11-13T13:40:18Z",
+   "f": "2026-11-13T17:26:54Z",
    "c": "empresas"
   },
   {
-   "t": "El coste por fallos tecnológicos en las empresas se dispara un 50% y alcanza los 600.000 millones de dólares anuales",
+   "t": "Alemania y Francia perfilan el reparto de poder en la cúpula del BCE con el 18 de noviembre como fecha límite",
    "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/mayores-caida-sistemas-historia_7060692_0.html",
-   "f": "2026-11-13T13:06:14Z",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/alemania-francia-reparto-poder-cupula-bce-favorito-espana_7060934_0.html",
+   "f": "2026-11-13T17:18:03Z",
+   "c": "tipos"
+  },
+  {
+   "t": "¿Dónde está el auge de la IA de Europa?",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/financial-times/2026/11/13/auge-ia-europa.html",
+   "f": "2026-11-13T17:08:42Z",
+   "c": "tecnologia"
+  },
+  {
+   "t": "La UE se encomienda a dos gurús tecnológicos para entrar en la carrera global de la IA",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261113/11683629/ue-encomienda-dos-gurus-tecnologicos-entrar-carrera-global-ia.html",
+   "f": "2026-11-13T17:07:30Z",
+   "c": "tecnologia"
+  },
+  {
+   "t": "El Ibex 35 salva los 20.000 puntos tras subir un 3,36% en una semana marcada por Nvidia y los resultados",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/bolsa-00348/noticia-ibex-35-salva-20000-puntos-subir-336-semana-marcada-nvidia-resultados-20261113180434.html",
+   "f": "2026-11-13T17:04:34Z",
+   "c": "tecnologia"
+  },
+  {
+   "t": "Oryzon vuelve a pedir permiso a su junta para ampliar capital en 125 millones y se desploma en Bolsa",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-11-13/oryzon-vuelve-a-pedir-permiso-a-su-junta-para-ampliar-capital-en-125-millones-y-se-desploma-en-bolsa.html",
+   "f": "2026-11-13T16:58:27Z",
+   "c": "empresas"
+  },
+  {
+   "t": "El Ibex consolida los 20.000 puntos pese al caso Nvidia y al renovado temor a una Fed más agresiva",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-13/la-bolsa-y-el-ibex-35.html",
+   "f": "2026-11-13T16:42:31Z",
+   "c": "tipos"
+  },
+  {
+   "t": "Nscale, respaldada por Nvidia, dispara las dudas sobre la IA al reconocer que necesitará nuevos fondos",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-11-13/nscale-respaldada-por-nvidia-dispara-las-dudas-sobre-la-ia-al-reconocer-que-necesitara-nuevos-fondos.html",
+   "f": "2026-11-13T16:42:30Z",
    "c": "tecnologia"
   }
  ]
