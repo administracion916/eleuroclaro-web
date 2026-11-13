@@ -1,6 +1,41 @@
 {
- "actualizado": "2026-11-12T21:32:34Z",
+ "actualizado": "2026-11-13T02:45:14Z",
  "items": [
+  {
+   "t": "Telefónica ve margen para subir precios en España antes de que termine el año",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/empresas/2026/11/13/6af5e328e4d4d82d5f8b45bc.html",
+   "f": "2026-11-13T00:08:50Z",
+   "c": "precios"
+  },
+  {
+   "t": "Plus Ultra prepara un ERE que amenaza a sus 679 trabajadores y recorta flota y rutas tras el polémico rescate de 53 millones del Gobierno",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/11/13/6af60b8221efa045068b457e.html",
+   "f": "2026-11-13T00:08:49Z",
+   "c": "empleo"
+  },
+  {
+   "t": "La convalidación del decreto de vivienda no frena la incertidumbre en el mercado residencial",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/2026/11/13/convalidacion-decreto-vivienda-frena-incertidumbre-mercado-residencial.html",
+   "f": "2026-11-13T00:07:31Z",
+   "c": "vivienda"
+  },
+  {
+   "t": "Una de cada cuatro nuevas pymes cierra en menos de cinco años asfixiada por los costes",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/2026/11/13/cuatro-nuevas-pymes-cierra-cinco-anos-asfixiada-costes.html",
+   "f": "2026-11-12T23:18:51Z",
+   "c": "general"
+  },
+  {
+   "t": "Caída en tres actos de Nvidia, la empresa más valiosa del mundo: 'burbuja' en la IA, fracaso de Trump y los 'líos de faldas' de Jensen Huang",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/dinero-inversion/2026/11/13/6af5b287e4d4d8f4398b4592.html",
+   "f": "2026-11-12T23:01:30Z",
+   "c": "tecnologia"
+  },
   {
    "t": "Nvidia sufre en Bolsa tras anunciar el adiós de su CEO",
    "m": "El País",
@@ -21,41 +56,6 @@
    "u": "https://www.europapress.es/economia/macroeconomia-00338/noticia-alemania-francia-ultiman-acuerdo-reparto-bce-cos-relevo-lagarde-20261112212120.html",
    "f": "2026-11-12T20:21:20Z",
    "c": "tipos"
-  },
-  {
-   "t": "El Gobierno pide la retirada de más de 8.300 anuncios ilícitos de pisos turísticos",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261112/11682896/gobierno-pide-retirada-mas-8-300-anuncios-ilicitos-pisos-turisticos.html",
-   "f": "2026-11-12T19:51:18Z",
-   "c": "vivienda"
-  },
-  {
-   "t": "Consumo exige a dos plataformas de alquiler turístico que retiren más de 8.000 anuncios ilegales",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/11/12/6af61390e85ecec2258b458b.html",
-   "f": "2026-11-12T19:33:43Z",
-   "c": "vivienda"
-  },
-  {
-   "t": "IAG busca ingresos publicitarios con la nueva IAG Media para combatir el alza de costes operativos",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-11-12/iag-busca-ingresos-publicitarios-con-la-nueva-iag-media-para-combatir-el-alza-de-costes-operativos.html",
-   "f": "2026-11-12T19:30:00Z",
-   "c": "empresas"
-  },
-  {
-   "t": "Talgo mejora un 29% su facturación, hasta 572 millones, a cierre del tercer trimestre",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-11-12/talgo-mejora-un-29-su-facturacion-hasta-572-millones-a-cierre-del-tercer-trimestre.html",
-   "f": "2026-11-12T19:28:58Z",
-   "c": "empresas"
-  },
-  {
-   "t": "Talgo dispara un 29% los ingresos hasta septiembre y lleva su cartera a un récord de 6.477 millones",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/empresas/talgo-dispara-un-29-los-ingresos-hasta-septiembre-lleva-su-cartera-un-record-6-477-millones_7060487_0.html",
-   "f": "2026-11-12T18:58:03Z",
-   "c": "general"
   }
  ]
 }
