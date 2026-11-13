@@ -1,14 +1,14 @@
 {
- "actualizado": "2026-11-12",
- "periodo": "septiembre de 2026",
+ "actualizado": "2026-11-13",
+ "periodo": "octubre de 2026",
  "anyo": 2026,
- "mes": 9,
+ "mes": 10,
  "general": 4.9,
  "grupos": [
   {
    "codigo": "01",
    "nombre": "Alimentos y bebidas no alcohólicas",
-   "tasa": 2.7
+   "tasa": 2.4
   },
   {
    "codigo": "02",
@@ -18,12 +18,12 @@
   {
    "codigo": "03",
    "nombre": "Vestido y calzado",
-   "tasa": 2.1
+   "tasa": 1.8
   },
   {
    "codigo": "04",
    "nombre": "Vivienda, agua, electricidad, gas y otros combustibles",
-   "tasa": 7.2
+   "tasa": 7.6
   },
   {
    "codigo": "05",
@@ -38,32 +38,32 @@
   {
    "codigo": "07",
    "nombre": "Transporte",
-   "tasa": 10.5
+   "tasa": 10.3
   },
   {
    "codigo": "08",
    "nombre": "Información y comunicaciones",
-   "tasa": 3.2
+   "tasa": 4.2
   },
   {
    "codigo": "09",
    "nombre": "Actividades recreativas, deporte y cultura",
-   "tasa": 3.6
+   "tasa": 4.1
   },
   {
    "codigo": "10",
    "nombre": "Enseñanza",
-   "tasa": 2.0
+   "tasa": 2.3
   },
   {
    "codigo": "11",
    "nombre": "Restaurantes y servicios de alojamiento",
-   "tasa": 4.9
+   "tasa": 4.8
   },
   {
    "codigo": "12",
    "nombre": "Seguros y servicios financieros",
-   "tasa": 3.4
+   "tasa": 3.5
   },
   {
    "codigo": "13",
