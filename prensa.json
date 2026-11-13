@@ -1,61 +1,61 @@
 {
- "actualizado": "2026-11-13T13:19:16Z",
+ "actualizado": "2026-11-13T15:37:00Z",
  "items": [
   {
-   "t": "El Gobierno aprueba el trámite de urgencia para la revalorización de las pensiones",
+   "t": "El Parlamento alemán da el último paso para aprobar el mayor presupuesto de la historia del país",
    "m": "El País",
-   "u": "https://elpais.com/economia/2026-11-13/el-gobierno-aprueba-el-tramite-de-urgencia-para-la-revalorizacion-de-las-pensiones.html",
-   "f": "2026-11-13T12:55:30Z",
-   "c": "pensiones"
+   "u": "https://elpais.com/economia/2026-11-13/el-parlamento-aleman-da-el-ultimo-paso-para-aprobar-el-mayor-presupuesto-de-la-historia-del-pais.html",
+   "f": "2026-11-13T15:24:41Z",
+   "c": "general"
   },
   {
-   "t": "El Gobierno acuerda la tramitación urgente del decreto para revalorizar las pensiones",
-   "m": "Expansión",
-   "u": "https://www.expansion.com/economia/2026/11/13/gobierno-acuerda-tramitacion-urgente-decreto-revalorizar-pensiones.html",
-   "f": "2026-11-13T12:52:07Z",
-   "c": "pensiones"
-  },
-  {
-   "t": "Cuerpo destituye al presidente de Renfe afín a Puente para tratar de apaciguar el malestar del sector y recupera a Joaquim Hortalà para dirigir Adif",
+   "t": "Caída mundial de Microsoft: Outlook, Teams y Copilot comienzan a recuperar la normalidad después de 20 horas de interrupción",
    "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/empresas/2026/11/13/6af706bae4d4d85b4d8b4574.html",
-   "f": "2026-11-13T12:51:20Z",
-   "c": "transporte"
+   "u": "https://www.elmundo.es/economia/empresas/2026/11/13/6af6b987fdddfff22c8b4587.html",
+   "f": "2026-11-13T15:09:00Z",
+   "c": "general"
   },
   {
-   "t": "El Gobierno nombra a Inmaculada Gutiérrez como presidenta de Renfe y a Joaquim Hortalà como presidente de Adif",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/transportes-00343/noticia-gobierno-nombra-inmaculada-gutierrez-presidenta-renfe-joaquim-hortala-presidente-adif-20261113134607.html",
-   "f": "2026-11-13T12:46:07Z",
-   "c": "transporte"
+   "t": "Alemania y Francia ultiman un pacto sobre el BCE con Hernández de Cos como favorito para la presidencia",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-11-13/alemania-y-francia-ultiman-un-pacto-sobre-el-bce-con-hernandez-de-cos-como-favorito-para-la-presidencia.html",
+   "f": "2026-11-13T14:47:56Z",
+   "c": "tipos"
   },
   {
-   "t": "La caída de Outlook impacta en las empresas: del “tiramos como podemos” a estar paralizados",
+   "t": "Francia y Alemania ultiman el reparto de cargos en la cúpula del BCE con De Cos como presidente",
    "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261113/11683458/outlook-correo-caida-microsoft-copilot-empresas.html",
-   "f": "2026-11-13T12:39:43Z",
+   "u": "https://www.lavanguardia.com/economia/20261113/11683595/francia-alemania-ultiman-reparto-cargos-cupula-bce-cos-presidente.html",
+   "f": "2026-11-13T14:31:59Z",
+   "c": "tipos"
+  },
+  {
+   "t": "Euríbor hoy, viernes 13 de noviembre: cierra la semana al alza",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/11/13/6af6f4c2e85ece2e258b456d.html",
+   "f": "2026-11-13T14:24:45Z",
+   "c": "tipos"
+  },
+  {
+   "t": "Merz quiere cerrar ya la semana que viene el reparto de la cúpula del BCE con Hernández de Cos como favorito para presidente: \"Hay acuerdos que están a punto\"",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/11/13/6af713b2e85ece21708b4573.html",
+   "f": "2026-11-13T14:00:15Z",
+   "c": "tipos"
+  },
+  {
+   "t": "Blanca Sorigué, Integrasys, Spika Tech, Podo y Mapfre, ganadores de los Premios Cinco Días a la Innovación Empresarial",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-11-13/blanca-sorigue-integrasys-spika-tech-podo-y-mapfre-ganadores-de-los-premios-cinco-dias-a-la-innovacion-empresarial.html",
+   "f": "2026-11-13T13:40:18Z",
    "c": "empresas"
   },
   {
-   "t": "Lo que no hay que hacer nunca ante caídas como la de Microsoft",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/empresas/2026/11/13/6af703dee9cf4a663e8b458b.html",
-   "f": "2026-11-13T12:37:34Z",
-   "c": "general"
-  },
-  {
-   "t": "El Consejo de Ministros da el primer paso para revalorizar las pensiones el próximo año",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261113/11683500/consejo-ministros-da-primer-paso-revalorizar-pensiones-proximo-ano.html",
-   "f": "2026-11-13T12:31:06Z",
-   "c": "pensiones"
-  },
-  {
-   "t": "Multa de 11 millones de euros a Tinder por irregularidades en el acceso a datos personales de los usuarios",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/11/13/6af6fe6de9cf4aa9688b456f.html",
-   "f": "2026-11-13T12:21:06Z",
-   "c": "general"
+   "t": "El coste por fallos tecnológicos en las empresas se dispara un 50% y alcanza los 600.000 millones de dólares anuales",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/mayores-caida-sistemas-historia_7060692_0.html",
+   "f": "2026-11-13T13:06:14Z",
+   "c": "tecnologia"
   }
  ]
 }
