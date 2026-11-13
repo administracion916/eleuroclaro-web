@@ -1,61 +1,61 @@
 {
- "actualizado": "2026-11-13T12:12:55Z",
+ "actualizado": "2026-11-13T13:19:16Z",
  "items": [
   {
-   "t": "Andrés Millán, abogado, sobre las desigualdades de esta época con otras respecto al trabajo de los jóvenes: \"Es muy injusto decir que no nos esforzamos\"",
+   "t": "El Gobierno aprueba el trámite de urgencia para la revalorización de las pensiones",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-11-13/el-gobierno-aprueba-el-tramite-de-urgencia-para-la-revalorizacion-de-las-pensiones.html",
+   "f": "2026-11-13T12:55:30Z",
+   "c": "pensiones"
+  },
+  {
+   "t": "El Gobierno acuerda la tramitación urgente del decreto para revalorizar las pensiones",
    "m": "Expansión",
-   "u": "https://www.expansion.com/economia/2026/11/13/andres-millan-abogado-sobre-desigualdades-epoca-respecto-trabajo-jovenes-injusto-decir-esforzamos.html",
-   "f": "2026-11-13T12:00:36Z",
+   "u": "https://www.expansion.com/economia/2026/11/13/gobierno-acuerda-tramitacion-urgente-decreto-revalorizar-pensiones.html",
+   "f": "2026-11-13T12:52:07Z",
+   "c": "pensiones"
+  },
+  {
+   "t": "Cuerpo destituye al presidente de Renfe afín a Puente para tratar de apaciguar el malestar del sector y recupera a Joaquim Hortalà para dirigir Adif",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/empresas/2026/11/13/6af706bae4d4d85b4d8b4574.html",
+   "f": "2026-11-13T12:51:20Z",
+   "c": "transporte"
+  },
+  {
+   "t": "El Gobierno nombra a Inmaculada Gutiérrez como presidenta de Renfe y a Joaquim Hortalà como presidente de Adif",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/transportes-00343/noticia-gobierno-nombra-inmaculada-gutierrez-presidenta-renfe-joaquim-hortala-presidente-adif-20261113134607.html",
+   "f": "2026-11-13T12:46:07Z",
+   "c": "transporte"
+  },
+  {
+   "t": "La caída de Outlook impacta en las empresas: del “tiramos como podemos” a estar paralizados",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261113/11683458/outlook-correo-caida-microsoft-copilot-empresas.html",
+   "f": "2026-11-13T12:39:43Z",
+   "c": "empresas"
+  },
+  {
+   "t": "Lo que no hay que hacer nunca ante caídas como la de Microsoft",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/empresas/2026/11/13/6af703dee9cf4a663e8b458b.html",
+   "f": "2026-11-13T12:37:34Z",
    "c": "general"
   },
   {
-   "t": "El PIB de la Eurozona frenó en el tercer trimestre y el empleo se estancó en plena escalada de precios",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/pib-eurozona-freno-tercer-trimestre-empleo-se-estanco-plena-escalada-los-precios_7060682_0.html",
-   "f": "2026-11-13T11:32:37Z",
-   "c": "precios"
+   "t": "El Consejo de Ministros da el primer paso para revalorizar las pensiones el próximo año",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261113/11683500/consejo-ministros-da-primer-paso-revalorizar-pensiones-proximo-ano.html",
+   "f": "2026-11-13T12:31:06Z",
+   "c": "pensiones"
   },
   {
-   "t": "Lutnick lucha por conservar su puesto mientras los asesores de Trump lo culpan por el escándalo de Nvidia",
+   "t": "Multa de 11 millones de euros a Tinder por irregularidades en el acceso a datos personales de los usuarios",
    "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/11/13/6af6ee23e9cf4a2d318b457e.html",
-   "f": "2026-11-13T11:23:32Z",
-   "c": "tecnologia"
-  },
-  {
-   "t": "Jensen Huang menospreció a la ejecutiva que ahora le sustituye al frente de Nvidia antes de su destitución",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/empresas/2026/11/13/6af6ef2ffdddff96118b4581.html",
-   "f": "2026-11-13T11:17:49Z",
-   "c": "precios"
-  },
-  {
-   "t": "Cambio de armario en Hugo Boss: el CEO Daniel Grieder dejará la compañía el 1 de enero y Frasers Group estrecha su control",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/empresas/cambio-hugo-boss-ceo-daniel-grieder-enero-frasers-group-estrecha-control_7060708_0.html",
-   "f": "2026-11-13T11:08:58Z",
-   "c": "empresas"
-  },
-  {
-   "t": "La caída mundial de Microsoft provoca un colapso operativo de Gobiernos, Bolsas y empresas",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/empresas/caida-mundial-microsoft-provoca-un-colapso-operativo-gobiernos-bolsas-empresas_7060700_0.html",
-   "f": "2026-11-13T11:06:27Z",
-   "c": "empresas"
-  },
-  {
-   "t": "El Ibex 35 retoma los 20.000 puntos en la media sesión con el crudo en 95 dólares el barril",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/bolsa-00348/noticia-ibex-35-retoma-20000-puntos-media-sesion-crudo-95-dolares-barril-20261113120434.html",
-   "f": "2026-11-13T11:04:34Z",
-   "c": "empresas"
-  },
-  {
-   "t": "Bancos que regalan hasta 840 euros por domiciliar la nómina: qué condiciones debes cumplir",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/ahorro-y-consumo/2026/11/13/6af21f4c21efa04e6a8b45a4.html",
-   "f": "2026-11-13T11:00:00Z",
-   "c": "empleo"
+   "u": "https://www.elmundo.es/economia/2026/11/13/6af6fe6de9cf4aa9688b456f.html",
+   "f": "2026-11-13T12:21:06Z",
+   "c": "general"
   }
  ]
 }
