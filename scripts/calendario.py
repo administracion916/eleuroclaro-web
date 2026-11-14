@@ -162,11 +162,15 @@ PLANTILLA = """<!doctype html>
 </header>
 
 <main>
-  <section class="section page-head">
+  <header class="page-hero">
     <div class="wrap">
       <p class="eyebrow">Calendario · fechas oficiales</p>
       <h1>Los datos que tocan tu bolsillo, en tu calendario</h1>
       <p class="intro cal-intro">IPC, alquiler, pensiones, hipotecas y tipos de interés: cuándo sale cada dato. Añádelo al móvil y te aparece solo; si cambia una fecha, se actualiza.</p>
+    </div>
+  </header>
+  <section class="section page-head">
+    <div class="wrap">
       <div class="actions">
         <a class="btn btn-sol" href="webcal://eleuroclaro.es/calendario.ics">Añadir al iPhone</a>
         <a class="btn btn-primary" href="https://calendar.google.com/calendar/r?cid=webcal%3A%2F%2Feleuroclaro.es%2Fcalendario.ics" rel="noopener">Añadir a Google Calendar</a>

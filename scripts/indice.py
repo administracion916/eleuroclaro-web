@@ -351,11 +351,15 @@ PLANTILLA = """<!doctype html>
 </header>
 
 <main>
-  <section class="section page-head">
+  <header class="page-hero">
     <div class="wrap">
       <p class="eyebrow">Índice del Bolsillo · {periodo}</p>
       <h1>¿Cuánto te suben los precios <em>a ti</em>?</h1>
       <p class="intro">El IPC es la media de todos los hogares. Pero no gasta igual una pareja de 35 años que paga alquiler que una persona jubilada. Este índice mide la subida de precios según la edad de quien más aporta al hogar.</p>
+    </div>
+  </header>
+  <section class="section page-head">
+    <div class="wrap">
       <div class="datos-pareja ib-cifras">
         <div class="dato"><p class="que">Hogares de 30 a 44 años</p><p class="cifra">{tasa}&nbsp;%</p><p class="src">en un año, {frente}</p></div>
         <div class="dato dato-gris"><p class="que">IPC general (INE)</p><p class="cifra">{ipc}&nbsp;%</p><p class="src">la media de todos los hogares</p></div>

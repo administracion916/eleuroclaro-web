@@ -189,10 +189,14 @@ PLANTILLA = """<!doctype html>
 </header>
 
 <main>
-  <section class="section page-head">
+  <header class="page-hero">
     <div class="wrap">
       <p class="eyebrow">Pensiones {anyo} · {etiqueta}</p>
       <h1>¿Cuánto subirá tu pensión en {anyo}?</h1>
+    </div>
+  </header>
+  <section class="section page-head">
+    <div class="wrap">
       <div class="dato">
         <p class="que">Subida de las pensiones contributivas en {anyo} · {estado}</p>
         <p class="cifra">{tasa}</p>
