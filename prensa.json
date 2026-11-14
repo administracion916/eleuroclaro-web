@@ -1,6 +1,34 @@
 {
- "actualizado": "2026-11-14T10:21:40Z",
+ "actualizado": "2026-11-14T12:11:22Z",
  "items": [
+  {
+   "t": "Microsoft restablece por completo sus servicios tras la caída mundial y descarta el ciberataque o la IA como causa del fallo",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/11/14/6af8465cfc6c836c098b4593.html",
+   "f": "2026-11-14T11:38:03Z",
+   "c": "tecnologia"
+  },
+  {
+   "t": "La caída del fundador de Nvidia amenaza con desatar una nueva guerra de los chips (y de las tierras raras) entre EEUU y China",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/macroeconomia/2026/11/14/6af7b060e4d4d829148b4599.html",
+   "f": "2026-11-14T11:10:12Z",
+   "c": "tecnologia"
+  },
+  {
+   "t": "Fijados los servicios mínimos en el AVE y Cercanías para la huelga del martes 17 de noviembre en Renfe",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261114/11684196/fijados-servicios-minimos-72-ave-75-cercanias-huelga-dia-17-renfe.html",
+   "f": "2026-11-14T10:50:42Z",
+   "c": "transporte"
+  },
+  {
+   "t": "La crisis en los aeropuertos de EE UU provoca cuatro cancelaciones de vuelos en España",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-11-14/la-crisis-en-los-aeropuertos-de-ee-uu-provocan-cuatro-cancelaciones-de-vuelos-en-espana.html",
+   "f": "2026-11-14T10:21:23Z",
+   "c": "transporte"
+  },
   {
    "t": "Llegan las cenas de Navidad, un momento que eleva un 20% la caja de los restaurantes",
    "m": "20minutos",
@@ -28,34 +56,6 @@
    "u": "https://www.lavanguardia.com/economia/20261114/11684109/juego-culpas-casa-blanca-caso-espionaje-nvidia.html",
    "f": "2026-11-14T05:00:00Z",
    "c": "tecnologia"
-  },
-  {
-   "t": "Peligro: amor en la oficina",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261114/11683760/peligro-amor-oficina.html",
-   "f": "2026-11-14T05:00:00Z",
-   "c": "general"
-  },
-  {
-   "t": "La pobreza se enquista pese al crecimiento económico: “No puedo ni sentarme con mis amigos a tomar una Coca-Cola”",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-11-14/la-pobreza-se-enquista-pese-al-crecimiento-economico-no-puedo-ni-sentarme-con-mis-amigos-a-tomar-una-coca-cola.html",
-   "f": "2026-11-14T04:45:01Z",
-   "c": "economia"
-  },
-  {
-   "t": "La UE apura las últimas horas del pacto pesquero con Mauritania sin acuerdo para renovarlo",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-11-14/la-ue-apura-las-ultimas-horas-del-pacto-pesquero-con-mauritania-sin-acuerdo-para-renovarlo.html",
-   "f": "2026-11-14T04:45:01Z",
-   "c": "comercio"
-  },
-  {
-   "t": "Sexo, espionaje, Poder: ruina",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-11-14/sexo-espionaje-poder-ruina.html",
-   "f": "2026-11-14T04:45:01Z",
-   "c": "general"
   }
  ]
 }
