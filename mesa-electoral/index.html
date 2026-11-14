@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Mesa electoral el 29-N: 75 € y 5 horas menos el lunes · El Euro Claro</title>
 <meta name="description" content="Si te toca estar en una mesa electoral el 29 de noviembre, cobras 75 € de dieta y el lunes trabajas 5 horas menos. Cuándo es el sorteo, cómo excusarte y qué pasa si no vas.">
-<meta name="theme-color" content="#0e2a47">
+<meta name="theme-color" content="#000000">
 <meta property="og:site_name" content="El Euro Claro">
 <meta property="og:title" content="Mesa electoral el 29-N: 75 € y 5 horas menos el lunes">
 <meta property="og:description" content="Lo que dice la ley, en euros y horas, con sus fuentes oficiales.">
@@ -15,10 +15,11 @@
 <meta name="twitter:card" content="summary">
 <link rel="canonical" href="https://eleuroclaro.es/mesa-electoral/">
 <!-- Página en una subcarpeta: todas las rutas son absolutas (empiezan por /). -->
-<link rel="icon" href="/favicon.svg" type="image/svg+xml">
-<link rel="apple-touch-icon" href="/apple-touch-icon.png">
-<link rel="stylesheet" href="/fonts.css">
-<link rel="stylesheet" href="/style.css?v=20261019c">
+<link rel="icon" href="/favicon.svg?v=20261114" type="image/svg+xml">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png?v=20261114">
+<link rel="preload" href="/fonts/InterDisplay-600.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="/fonts.css?v=20261114">
+<link rel="stylesheet" href="/style.css?v=20261114">
 </head>
 <body>
 
@@ -26,7 +27,7 @@
   <div class="wrap">
     <a class="brand" href="/" aria-label="El Euro Claro, inicio">
       <img class="coin" src="/favicon.svg" alt="" width="40" height="40">
-      El Euro Claro
+      <span class="brand-name">el euro <span class="claro">claro</span></span>
     </a>
     <nav class="nav" aria-label="Secciones">
       <a class="nav-nl" href="/domingo/?src=web-cabecera"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><rect x="2.5" y="5" width="19" height="14" rx="2.5"/><path d="M3 6.5l9 6.5 9-6.5"/></svg>Newsletter gratis</a>
@@ -42,11 +43,15 @@
 </header>
 
 <main>
-  <section class="section">
-    <div class="wrap prose">
+  <header class="page-hero">
+    <div class="wrap">
       <p class="eyebrow">Elecciones del 29 de noviembre · guía práctica</p>
       <h1>Mesa electoral: <em>75&nbsp;€</em> y 5 horas menos el lunes</h1>
       <p class="intro">Estos días, del 31 de octubre al 4 de noviembre, los ayuntamientos sortean quién estará en las mesas del domingo 29 de noviembre. Si te toca, esto es lo que te pagan, lo que te dan y lo que te juegas.</p>
+    </div>
+  </header>
+  <section class="section">
+    <div class="wrap prose">
 
       <h2>Si te toca, en cifras</h2>
       <ul>
@@ -105,7 +110,7 @@
 
 <footer class="foot">
   <div class="wrap">
-    <p class="lema">La actualidad, en euros. Comprobado con datos.</p>
+    <p class="lema">La economía de tu bolsillo, en euros claros.</p>
     <nav aria-label="Legal">
       <a href="/aviso-legal.html">Aviso legal</a>
       <a href="/privacidad.html">Privacidad</a>

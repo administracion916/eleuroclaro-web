@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Cuenta de pago básica: 3 € al mes como mucho · El Euro Claro</title>
 <meta name="description" content="Todos los bancos tienen que ofrecer la cuenta de pago básica: 3 € al mes como mucho y gratis si cumples los requisitos de vulnerabilidad. Qué incluye, cómo pedirla y un texto para copiar.">
-<meta name="theme-color" content="#0e2a47">
+<meta name="theme-color" content="#000000">
 <meta property="og:site_name" content="El Euro Claro">
 <meta property="og:title" content="Cuenta de pago básica: 3 € al mes como mucho">
 <meta property="og:description" content="Qué incluye, cómo pedirla en tu banco y un texto listo para copiar. Con fuentes oficiales.">
@@ -15,10 +15,11 @@
 <meta name="twitter:card" content="summary">
 <link rel="canonical" href="https://eleuroclaro.es/cuenta-basica/">
 <!-- Página en una subcarpeta: todas las rutas son absolutas (empiezan por /). -->
-<link rel="icon" href="/favicon.svg" type="image/svg+xml">
-<link rel="apple-touch-icon" href="/apple-touch-icon.png">
-<link rel="stylesheet" href="/fonts.css">
-<link rel="stylesheet" href="/style.css?v=20261019c">
+<link rel="icon" href="/favicon.svg?v=20261114" type="image/svg+xml">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png?v=20261114">
+<link rel="preload" href="/fonts/InterDisplay-600.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="/fonts.css?v=20261114">
+<link rel="stylesheet" href="/style.css?v=20261114">
 </head>
 <body>
 
@@ -26,7 +27,7 @@
   <div class="wrap">
     <a class="brand" href="/" aria-label="El Euro Claro, inicio">
       <img class="coin" src="/favicon.svg" alt="" width="40" height="40">
-      El Euro Claro
+      <span class="brand-name">el euro <span class="claro">claro</span></span>
     </a>
     <nav class="nav" aria-label="Secciones">
       <a class="nav-nl" href="/domingo/?src=web-cabecera"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><rect x="2.5" y="5" width="19" height="14" rx="2.5"/><path d="M3 6.5l9 6.5 9-6.5"/></svg>Newsletter gratis</a>
@@ -42,11 +43,15 @@
 </header>
 
 <main>
-  <section class="section">
-    <div class="wrap prose">
+  <header class="page-hero">
+    <div class="wrap">
       <p class="eyebrow">Tu banco · guía práctica</p>
       <h1>Cuenta de pago básica: <em>3&nbsp;€ al mes</em> como mucho</h1>
       <p class="intro">Todos los bancos que dan cuentas a particulares tienen que ofrecerla. Cuesta como mucho 3&nbsp;€ al mes, todo incluido, y es gratis si tu familia está en situación vulnerable.</p>
+    </div>
+  </header>
+  <section class="section">
+    <div class="wrap prose">
 
       <h2>Qué incluye</h2>
       <ul>
@@ -68,7 +73,7 @@
       </ol>
 
       <h2>Texto para copiar</h2>
-      <pre id="modelo" style="white-space:pre-wrap;font-family:inherit;font-size:1rem;background:#f3f5f8;color:#10294a;padding:14px;border-radius:10px">Solicito la apertura de una cuenta de pago básica, conforme al Real Decreto-ley 19/2017.
+      <pre id="modelo" style="white-space:pre-wrap;font-family:inherit;font-size:1rem;background:#f2f2f2;color:#111;padding:14px;border-radius:10px">Solicito la apertura de una cuenta de pago básica, conforme al Real Decreto-ley 19/2017.
 [Si es tu caso: Solicito además que sea gratuita por encontrarme en situación de vulnerabilidad, conforme al Real Decreto 164/2019, y aporto la documentación que lo acredita.]
 Les ruego que sellen esta solicitud con la fecha de entrada y la lista de documentos entregados y que, en caso de denegarla, me lo comuniquen por escrito y con el motivo.
 Nombre y apellidos:
@@ -116,7 +121,7 @@ Fecha y firma:</pre>
 
 <footer class="foot">
   <div class="wrap">
-    <p class="lema">La actualidad, en euros. Comprobado con datos.</p>
+    <p class="lema">La economía de tu bolsillo, en euros claros.</p>
     <nav aria-label="Legal">
       <a href="/aviso-legal.html">Aviso legal</a>
       <a href="/privacidad.html">Privacidad</a>

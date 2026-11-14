@@ -309,14 +309,14 @@ PLANTILLA = """<!doctype html>
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Índice del Bolsillo: cuánto te suben los precios según tu edad · El Euro Claro</title>
 <meta name="description" content="{resumen}">{robots}
-<meta name="theme-color" content="#0e2a47">
+<meta name="theme-color" content="#000000">
 <meta property="og:site_name" content="El Euro Claro">
 <meta property="og:title" content="Índice del Bolsillo: a los hogares de 30 a 44 años los precios les suben un {tasa} %">
 <meta property="og:description" content="{resumen}">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://eleuroclaro.es/indice-del-bolsillo/">
 <meta property="og:locale" content="es_ES">
-<meta property="og:image" content="https://eleuroclaro.es/img/og-inflacion.png">
+<meta property="og:image" content="https://eleuroclaro.es/img/og-inflacion.png?v=20261114">
 <meta property="og:image:type" content="image/png">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
@@ -324,10 +324,11 @@ PLANTILLA = """<!doctype html>
 <meta name="twitter:card" content="summary_large_image">
 <link rel="canonical" href="https://eleuroclaro.es/indice-del-bolsillo/">
 <!-- Página generada por scripts/indice.py: no editar a mano. -->
-<link rel="icon" href="/favicon.svg" type="image/svg+xml">
-<link rel="apple-touch-icon" href="/apple-touch-icon.png">
-<link rel="stylesheet" href="/fonts.css">
-<link rel="stylesheet" href="/style.css?v=20261019c">
+<link rel="icon" href="/favicon.svg?v=20261114" type="image/svg+xml">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png?v=20261114">
+<link rel="preload" href="/fonts/InterDisplay-600.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="/fonts.css?v=20261114">
+<link rel="stylesheet" href="/style.css?v=20261114">
 </head>
 <body>
 
@@ -335,7 +336,7 @@ PLANTILLA = """<!doctype html>
   <div class="wrap">
     <a class="brand" href="/" aria-label="El Euro Claro, inicio">
       <img class="coin" src="/favicon.svg" alt="" width="40" height="40">
-      El Euro Claro
+      <span class="brand-name">el euro <span class="claro">claro</span></span>
     </a>
     <nav class="nav" aria-label="Secciones">
       <a class="nav-nl" href="/domingo/?src=web-cabecera"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><rect x="2.5" y="5" width="19" height="14" rx="2.5"/><path d="M3 6.5l9 6.5 9-6.5"/></svg>Newsletter gratis</a>
@@ -351,11 +352,15 @@ PLANTILLA = """<!doctype html>
 </header>
 
 <main>
-  <section class="section page-head">
+  <header class="page-hero">
     <div class="wrap">
       <p class="eyebrow">Índice del Bolsillo · {periodo}</p>
       <h1>¿Cuánto te suben los precios <em>a ti</em>?</h1>
       <p class="intro">El IPC es la media de todos los hogares. Pero no gasta igual una pareja de 35 años que paga alquiler que una persona jubilada. Este índice mide la subida de precios según la edad de quien más aporta al hogar.</p>
+    </div>
+  </header>
+  <section class="section page-head">
+    <div class="wrap">
       <div class="datos-pareja ib-cifras">
         <div class="dato"><p class="que">Hogares de 30 a 44 años</p><p class="cifra">{tasa}&nbsp;%</p><p class="src">en un año, {frente}</p></div>
         <div class="dato dato-gris"><p class="que">IPC general (INE)</p><p class="cifra">{ipc}&nbsp;%</p><p class="src">la media de todos los hogares</p></div>
@@ -449,7 +454,7 @@ PLANTILLA = """<!doctype html>
 
 <footer class="foot">
   <div class="wrap">
-    <p class="lema">La actualidad, en euros. Comprobado con datos.</p>
+    <p class="lema">La economía de tu bolsillo, en euros claros.</p>
     <nav aria-label="Legal">
       <a href="/aviso-legal.html">Aviso legal</a>
       <a href="/privacidad.html">Privacidad</a>

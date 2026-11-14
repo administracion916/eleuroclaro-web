@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Vuelo con retraso: cuánto te deben y cómo reclamar · El Euro Claro</title>
 <meta name="description" content="Si tu vuelo llega con 3 horas o más de retraso, la aerolínea puede deberte 250, 400 o 600 € según la distancia. Cómo reclamar paso a paso y un texto para copiar.">
-<meta name="theme-color" content="#0e2a47">
+<meta name="theme-color" content="#000000">
 <meta property="og:site_name" content="El Euro Claro">
 <meta property="og:title" content="Tu vuelo llegó 3 horas tarde: hasta 600 €">
 <meta property="og:description" content="Cuánto te deben, cómo reclamar a la aerolínea y a AESA, y un texto listo para copiar.">
@@ -15,10 +15,11 @@
 <meta name="twitter:card" content="summary">
 <link rel="canonical" href="https://eleuroclaro.es/vuelos/">
 <!-- Página en una subcarpeta: todas las rutas son absolutas (empiezan por /). -->
-<link rel="icon" href="/favicon.svg" type="image/svg+xml">
-<link rel="apple-touch-icon" href="/apple-touch-icon.png">
-<link rel="stylesheet" href="/fonts.css">
-<link rel="stylesheet" href="/style.css?v=20261019c">
+<link rel="icon" href="/favicon.svg?v=20261114" type="image/svg+xml">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png?v=20261114">
+<link rel="preload" href="/fonts/InterDisplay-600.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="/fonts.css?v=20261114">
+<link rel="stylesheet" href="/style.css?v=20261114">
 </head>
 <body>
 
@@ -26,7 +27,7 @@
   <div class="wrap">
     <a class="brand" href="/" aria-label="El Euro Claro, inicio">
       <img class="coin" src="/favicon.svg" alt="" width="40" height="40">
-      El Euro Claro
+      <span class="brand-name">el euro <span class="claro">claro</span></span>
     </a>
     <nav class="nav" aria-label="Secciones">
       <a class="nav-nl" href="/domingo/?src=web-cabecera"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><rect x="2.5" y="5" width="19" height="14" rx="2.5"/><path d="M3 6.5l9 6.5 9-6.5"/></svg>Newsletter gratis</a>
@@ -42,11 +43,15 @@
 </header>
 
 <main>
-  <section class="section">
-    <div class="wrap prose">
+  <header class="page-hero">
+    <div class="wrap">
       <p class="eyebrow">Tus derechos · guía práctica</p>
       <h1>Tu vuelo llegó 3 horas tarde: <em>hasta 600&nbsp;€</em></h1>
       <p class="intro">Si llegas a tu destino con 3 horas o más de retraso, la aerolínea puede tener que pagarte una compensación fija, además de devolverte lo que gastaste por esperar.</p>
+    </div>
+  </header>
+  <section class="section">
+    <div class="wrap prose">
 
       <h2>Cuánto te deben</h2>
       <ul>
@@ -65,7 +70,7 @@
       </ol>
 
       <h2>Texto para copiar</h2>
-      <pre id="modelo" style="white-space:pre-wrap;font-family:inherit;font-size:1rem;background:#f3f5f8;color:#10294a;padding:14px;border-radius:10px">Reclamo la compensación prevista en el artículo 7 del Reglamento (CE) n.º 261/2004 por el retraso del vuelo [número de vuelo] del [fecha], de [origen] a [destino], que llegó con [horas] horas de retraso.
+      <pre id="modelo" style="white-space:pre-wrap;font-family:inherit;font-size:1rem;background:#f2f2f2;color:#111;padding:14px;border-radius:10px">Reclamo la compensación prevista en el artículo 7 del Reglamento (CE) n.º 261/2004 por el retraso del vuelo [número de vuelo] del [fecha], de [origen] a [destino], que llegó con [horas] horas de retraso.
 Solicito el pago de [250 / 400 / 600] € y el reembolso de los gastos que adjunto.
 Datos de la reserva: [código de reserva].
 Nombre y apellidos:
@@ -112,7 +117,7 @@ Cuenta bancaria (IBAN) para el pago:</pre>
 
 <footer class="foot">
   <div class="wrap">
-    <p class="lema">La actualidad, en euros. Comprobado con datos.</p>
+    <p class="lema">La economía de tu bolsillo, en euros claros.</p>
     <nav aria-label="Legal">
       <a href="/aviso-legal.html">Aviso legal</a>
       <a href="/privacidad.html">Privacidad</a>

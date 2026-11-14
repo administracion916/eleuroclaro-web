@@ -120,25 +120,26 @@ PLANTILLA = """<!doctype html>
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Calendario de datos económicos que tocan tu bolsillo · El Euro Claro</title>
 <meta name="description" content="Cuándo salen el IPC, el IRAV, el paro, las hipotecas, la subida de las pensiones y las decisiones del BCE. Fechas oficiales del INE y el BCE, para añadir al calendario del móvil.">
-<meta name="theme-color" content="#0e2a47">
+<meta name="theme-color" content="#000000">
 <meta property="og:site_name" content="El Euro Claro">
 <meta property="og:title" content="Calendario de los datos que tocan tu bolsillo">
 <meta property="og:description" content="IPC, alquiler, pensiones, hipotecas y BCE: las fechas oficiales, en el calendario de tu móvil.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://eleuroclaro.es/calendario/">
 <meta property="og:locale" content="es_ES">
-<meta property="og:image" content="https://eleuroclaro.es/img/og-eleuroclaro-2026.png">
+<meta property="og:image" content="https://eleuroclaro.es/img/og-eleuroclaro-2026.png?v=20261114">
 <meta property="og:image:type" content="image/png">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
-<meta property="og:image:alt" content="Logo de El Euro Claro, un euro dorado con un visto verde, y el texto: la noticia económica del día, en euros de tu bolsillo.">
+<meta property="og:image:alt" content="Logo de El Euro Claro: un bocadillo rojo anaranjado con el símbolo del euro, sobre fondo negro, con el nombre «el euro claro», la frase «La economía de tu bolsillo, en euros claros.» y la dirección eleuroclaro.es.">
 <meta name="twitter:card" content="summary_large_image">
 <link rel="canonical" href="https://eleuroclaro.es/calendario/">
 <!-- Página generada por scripts/calendario.py: no editar a mano. -->
-<link rel="icon" href="/favicon.svg" type="image/svg+xml">
-<link rel="apple-touch-icon" href="/apple-touch-icon.png">
-<link rel="stylesheet" href="/fonts.css">
-<link rel="stylesheet" href="/style.css?v=20261019c">
+<link rel="icon" href="/favicon.svg?v=20261114" type="image/svg+xml">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png?v=20261114">
+<link rel="preload" href="/fonts/InterDisplay-600.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="/fonts.css?v=20261114">
+<link rel="stylesheet" href="/style.css?v=20261114">
 </head>
 <body>
 
@@ -146,7 +147,7 @@ PLANTILLA = """<!doctype html>
   <div class="wrap">
     <a class="brand" href="/" aria-label="El Euro Claro, inicio">
       <img class="coin" src="/favicon.svg" alt="" width="40" height="40">
-      El Euro Claro
+      <span class="brand-name">el euro <span class="claro">claro</span></span>
     </a>
     <nav class="nav" aria-label="Secciones">
       <a class="nav-nl" href="/domingo/?src=web-cabecera"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><rect x="2.5" y="5" width="19" height="14" rx="2.5"/><path d="M3 6.5l9 6.5 9-6.5"/></svg>Newsletter gratis</a>
@@ -162,11 +163,15 @@ PLANTILLA = """<!doctype html>
 </header>
 
 <main>
-  <section class="section page-head">
+  <header class="page-hero">
     <div class="wrap">
       <p class="eyebrow">Calendario · fechas oficiales</p>
       <h1>Los datos que tocan tu bolsillo, en tu calendario</h1>
       <p class="intro cal-intro">IPC, alquiler, pensiones, hipotecas y tipos de interés: cuándo sale cada dato. Añádelo al móvil y te aparece solo; si cambia una fecha, se actualiza.</p>
+    </div>
+  </header>
+  <section class="section page-head">
+    <div class="wrap">
       <div class="actions">
         <a class="btn btn-sol" href="webcal://eleuroclaro.es/calendario.ics">Añadir al iPhone</a>
         <a class="btn btn-primary" href="https://calendar.google.com/calendar/r?cid=webcal%3A%2F%2Feleuroclaro.es%2Fcalendario.ics" rel="noopener">Añadir a Google Calendar</a>
@@ -211,7 +216,7 @@ PLANTILLA = """<!doctype html>
 
 <footer class="foot">
   <div class="wrap">
-    <p class="lema">La actualidad, en euros. Comprobado con datos.</p>
+    <p class="lema">La economía de tu bolsillo, en euros claros.</p>
     <nav aria-label="Legal">
       <a href="/aviso-legal.html">Aviso legal</a>
       <a href="/privacidad.html">Privacidad</a>

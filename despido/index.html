@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Despido: calcula tus 20 días hábiles para reclamar · El Euro Claro</title>
 <meta name="description" content="Si te despiden, tienes 20 días hábiles para reclamar. Pon la fecha del despido y te decimos el último día, sin contar sábados, domingos ni festivos nacionales. Con los pasos y las fuentes oficiales.">
-<meta name="theme-color" content="#0e2a47">
+<meta name="theme-color" content="#000000">
 <meta property="og:site_name" content="El Euro Claro">
 <meta property="og:title" content="Despido: ¿hasta qué día puedes reclamar?">
 <meta property="og:description" content="20 días hábiles. Pon la fecha y te decimos el último día.">
@@ -15,10 +15,11 @@
 <meta name="twitter:card" content="summary">
 <link rel="canonical" href="https://eleuroclaro.es/despido/">
 <!-- Página en una subcarpeta: todas las rutas son absolutas (empiezan por /). -->
-<link rel="icon" href="/favicon.svg" type="image/svg+xml">
-<link rel="apple-touch-icon" href="/apple-touch-icon.png">
-<link rel="stylesheet" href="/fonts.css">
-<link rel="stylesheet" href="/style.css?v=20261019c">
+<link rel="icon" href="/favicon.svg?v=20261114" type="image/svg+xml">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png?v=20261114">
+<link rel="preload" href="/fonts/InterDisplay-600.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="/fonts.css?v=20261114">
+<link rel="stylesheet" href="/style.css?v=20261114">
 </head>
 <body>
 
@@ -26,7 +27,7 @@
   <div class="wrap">
     <a class="brand" href="/" aria-label="El Euro Claro, inicio">
       <img class="coin" src="/favicon.svg" alt="" width="40" height="40">
-      El Euro Claro
+      <span class="brand-name">el euro <span class="claro">claro</span></span>
     </a>
     <nav class="nav" aria-label="Secciones">
       <a class="nav-nl" href="/domingo/?src=web-cabecera"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><rect x="2.5" y="5" width="19" height="14" rx="2.5"/><path d="M3 6.5l9 6.5 9-6.5"/></svg>Newsletter gratis</a>
@@ -42,15 +43,19 @@
 </header>
 
 <main>
-  <section class="section page-head calc-head">
+  <header class="page-hero">
     <div class="wrap">
       <p class="eyebrow">Calculadora · Estatuto de los Trabajadores</p>
       <h1>Despido: ¿hasta qué día <em>puedes reclamar</em>?</h1>
       <p class="intro">Tienes <strong>20 días hábiles</strong> desde el día siguiente al despido. Si se pasan, ya no puedes. Pon la fecha en que te despidieron.</p>
       <p class="small calc-privado">🔒 Tus datos no salen de tu móvil: el cálculo se hace aquí mismo y no guardamos nada.</p>
+    </div>
+  </header>
+  <section class="section page-head calc-head">
+    <div class="wrap">
       <form class="calc" id="calc" novalidate>
         <label style="font-weight:700">Fecha del despido<br><small style="font-weight:400">La que pone la carta como fecha de efectos.</small>
-          <input style="display:block;width:100%;margin-top:.35rem;padding:.7rem .8rem;font-size:1.15rem;border:1px solid #c9d2de;border-radius:.5rem" type="date" id="fecha"></label>
+          <input style="display:block;width:100%;margin-top:.35rem;padding:.7rem .8rem;font-size:1.15rem;border:1px solid var(--muted);border-radius:.5rem" type="date" id="fecha"></label>
         <button class="btn btn-primary calc-boton" type="submit">Calcular</button>
         <div id="res" aria-live="polite"></div>
       </form>
@@ -110,7 +115,7 @@
 
 <footer class="foot">
   <div class="wrap">
-    <p class="lema">La actualidad, en euros. Comprobado con datos.</p>
+    <p class="lema">La economía de tu bolsillo, en euros claros.</p>
     <nav aria-label="Legal">
       <a href="/aviso-legal.html">Aviso legal</a>
       <a href="/privacidad.html">Privacidad</a>
