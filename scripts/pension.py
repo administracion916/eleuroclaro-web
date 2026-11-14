@@ -146,7 +146,7 @@ PLANTILLA = """<!doctype html>
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Subida de las pensiones en {anyo}: cuánto sube la tuya · El Euro Claro</title>
 <meta name="description" content="{descripcion}">
-<meta name="theme-color" content="#0e2a47">
+<meta name="theme-color" content="#000000">
 <meta property="og:site_name" content="El Euro Claro">
 <meta property="og:title" content="¿Cuánto subirá tu pensión en {anyo}?">
 <meta property="og:description" content="La subida que marca la ley con el IPC publicado hasta ahora ({tasa}). Calcula la tuya en euros.">
@@ -163,8 +163,8 @@ PLANTILLA = """<!doctype html>
 <!-- Página generada por scripts/pension.py con datos del INE: no editar a mano. -->
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="/apple-touch-icon.png">
-<link rel="stylesheet" href="/fonts.css">
-<link rel="stylesheet" href="/style.css?v=20261019c">
+<link rel="stylesheet" href="/fonts.css?v=20261114">
+<link rel="stylesheet" href="/style.css?v=20261114">
 <script type="application/ld+json">{faq}</script>
 </head>
 <body>
@@ -173,7 +173,7 @@ PLANTILLA = """<!doctype html>
   <div class="wrap">
     <a class="brand" href="/" aria-label="El Euro Claro, inicio">
       <img class="coin" src="/favicon.svg" alt="" width="40" height="40">
-      El Euro Claro
+      <span class="brand-name">el euro <span class="claro">claro</span></span>
     </a>
     <nav class="nav" aria-label="Secciones">
       <a class="nav-nl" href="/domingo/?src=web-cabecera"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><rect x="2.5" y="5" width="19" height="14" rx="2.5"/><path d="M3 6.5l9 6.5 9-6.5"/></svg>Newsletter gratis</a>

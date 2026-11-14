@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Lotería de Navidad: cuánto se queda Hacienda de tu premio · El Euro Claro</title>
 <meta name="description" content="Calcula cuánto cobras de verdad si te toca la Lotería de Navidad: los primeros 40.000 € de cada décimo no pagan y del resto se retiene un 20 %. Con décimos compartidos.">
-<meta name="theme-color" content="#0e2a47">
+<meta name="theme-color" content="#000000">
 <meta property="og:site_name" content="El Euro Claro">
 <meta property="og:title" content="Si te toca el Gordo, ¿cuánto cobras de verdad?">
 <meta property="og:description" content="Calculadora gratis con las reglas de la Agencia Tributaria. También para décimos compartidos.">
@@ -17,8 +17,8 @@
 <!-- Página en una subcarpeta: todas las rutas son absolutas (empiezan por /). -->
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="/apple-touch-icon.png">
-<link rel="stylesheet" href="/fonts.css">
-<link rel="stylesheet" href="/style.css?v=20261019c">
+<link rel="stylesheet" href="/fonts.css?v=20261114">
+<link rel="stylesheet" href="/style.css?v=20261114">
 </head>
 <body>
 
@@ -26,7 +26,7 @@
   <div class="wrap">
     <a class="brand" href="/" aria-label="El Euro Claro, inicio">
       <img class="coin" src="/favicon.svg" alt="" width="40" height="40">
-      El Euro Claro
+      <span class="brand-name">el euro <span class="claro">claro</span></span>
     </a>
     <nav class="nav" aria-label="Secciones">
       <a class="nav-nl" href="/domingo/?src=web-cabecera"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><rect x="2.5" y="5" width="19" height="14" rx="2.5"/><path d="M3 6.5l9 6.5 9-6.5"/></svg>Newsletter gratis</a>
@@ -49,9 +49,9 @@
       <p class="intro">De cada décimo, los primeros 40.000&nbsp;€ no pagan impuestos. De lo que pase de ahí, Hacienda se queda el 20&nbsp;% al cobrarlo.</p>
       <form class="calc" id="calc" novalidate>
         <label style="font-weight:700">Premio del décimo (€)<br><small style="font-weight:400">El Gordo de Navidad: 400.000 € por décimo. El segundo: 125.000 €. El tercero: 50.000 €.</small>
-          <input style="display:block;width:100%;margin-top:.35rem;padding:.7rem .8rem;font-size:1.15rem;border:1px solid #c9d2de;border-radius:.5rem" type="number" id="premio" inputmode="decimal" min="0" step="1" value="400000"></label>
+          <input style="display:block;width:100%;margin-top:.35rem;padding:.7rem .8rem;font-size:1.15rem;border:1px solid var(--muted);border-radius:.5rem" type="number" id="premio" inputmode="decimal" min="0" step="1" value="400000"></label>
         <label style="font-weight:700">¿Entre cuántas personas lo compartís, a partes iguales?
-          <input style="display:block;width:100%;margin-top:.35rem;padding:.7rem .8rem;font-size:1.15rem;border:1px solid #c9d2de;border-radius:.5rem" type="number" id="personas" inputmode="numeric" min="1" step="1" value="1"></label>
+          <input style="display:block;width:100%;margin-top:.35rem;padding:.7rem .8rem;font-size:1.15rem;border:1px solid var(--muted);border-radius:.5rem" type="number" id="personas" inputmode="numeric" min="1" step="1" value="1"></label>
         <button class="btn btn-primary calc-boton" type="submit">Calcular</button>
         <div id="res" aria-live="polite"></div>
       </form>

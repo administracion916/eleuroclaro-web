@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Amortizar hipoteca: ¿bajar cuota o años? Calculadora · El Euro Claro</title>
 <meta name="description" content="Pon lo que debes, tu tipo, los años que te quedan y lo que quieres amortizar: te decimos cuánto baja la cuota, cuántas cuotas te quitas, los intereses que ahorras en cada caso y la comisión máxima que permite la ley.">
-<meta name="theme-color" content="#0e2a47">
+<meta name="theme-color" content="#000000">
 <meta property="og:site_name" content="El Euro Claro">
 <meta property="og:title" content="Amortizar hipoteca: ¿bajar cuota o años?">
 <meta property="og:description" content="Calculadora gratis con tus cifras y el tope de comisión de la ley.">
@@ -17,8 +17,8 @@
 <!-- Página en una subcarpeta: todas las rutas son absolutas (empiezan por /). -->
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="/apple-touch-icon.png">
-<link rel="stylesheet" href="/fonts.css">
-<link rel="stylesheet" href="/style.css?v=20261019c">
+<link rel="stylesheet" href="/fonts.css?v=20261114">
+<link rel="stylesheet" href="/style.css?v=20261114">
 </head>
 <body>
 
@@ -26,7 +26,7 @@
   <div class="wrap">
     <a class="brand" href="/" aria-label="El Euro Claro, inicio">
       <img class="coin" src="/favicon.svg" alt="" width="40" height="40">
-      El Euro Claro
+      <span class="brand-name">el euro <span class="claro">claro</span></span>
     </a>
     <nav class="nav" aria-label="Secciones">
       <a class="nav-nl" href="/domingo/?src=web-cabecera"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><rect x="2.5" y="5" width="19" height="14" rx="2.5"/><path d="M3 6.5l9 6.5 9-6.5"/></svg>Newsletter gratis</a>
@@ -50,15 +50,15 @@
       <p class="small calc-privado">🔒 Tus cifras no salen de tu móvil: el cálculo se hace aquí mismo y no guardamos nada.</p>
       <form class="calc" id="calc" novalidate>
         <label style="font-weight:700">Lo que debes ahora (€)<br><small style="font-weight:400">En tu recibo: «capital pendiente».</small>
-          <input style="display:block;width:100%;margin-top:.35rem;padding:.7rem .8rem;font-size:1.15rem;border:1px solid #c9d2de;border-radius:.5rem" type="number" id="deuda" inputmode="decimal" min="0" step="100" value="146556"></label>
+          <input style="display:block;width:100%;margin-top:.35rem;padding:.7rem .8rem;font-size:1.15rem;border:1px solid var(--muted);border-radius:.5rem" type="number" id="deuda" inputmode="decimal" min="0" step="100" value="146556"></label>
         <label style="font-weight:700">Tu tipo de interés (%)
-          <input style="display:block;width:100%;margin-top:.35rem;padding:.7rem .8rem;font-size:1.15rem;border:1px solid #c9d2de;border-radius:.5rem" type="number" id="tipo" inputmode="decimal" min="0" max="20" step="0.001" value="4.247"></label>
+          <input style="display:block;width:100%;margin-top:.35rem;padding:.7rem .8rem;font-size:1.15rem;border:1px solid var(--muted);border-radius:.5rem" type="number" id="tipo" inputmode="decimal" min="0" max="20" step="0.001" value="4.247"></label>
         <label style="font-weight:700">Meses que te quedan<br><small style="font-weight:400">24 años son 288 meses.</small>
-          <input style="display:block;width:100%;margin-top:.35rem;padding:.7rem .8rem;font-size:1.15rem;border:1px solid #c9d2de;border-radius:.5rem" type="number" id="meses" inputmode="numeric" min="1" max="480" step="1" value="288"></label>
+          <input style="display:block;width:100%;margin-top:.35rem;padding:.7rem .8rem;font-size:1.15rem;border:1px solid var(--muted);border-radius:.5rem" type="number" id="meses" inputmode="numeric" min="1" max="480" step="1" value="288"></label>
         <label style="font-weight:700">Lo que quieres amortizar (€)
-          <input style="display:block;width:100%;margin-top:.35rem;padding:.7rem .8rem;font-size:1.15rem;border:1px solid #c9d2de;border-radius:.5rem" type="number" id="extra" inputmode="decimal" min="0" step="100" value="10000"></label>
+          <input style="display:block;width:100%;margin-top:.35rem;padding:.7rem .8rem;font-size:1.15rem;border:1px solid var(--muted);border-radius:.5rem" type="number" id="extra" inputmode="decimal" min="0" step="100" value="10000"></label>
         <label style="font-weight:700">Tu hipoteca<br><small style="font-weight:400">Para la comisión máxima si firmaste, novaste o te subrogaste desde el 16-6-2019.</small>
-          <select style="display:block;width:100%;margin-top:.35rem;padding:.7rem .8rem;font-size:1.15rem;border:1px solid #c9d2de;border-radius:.5rem" id="tope">
+          <select style="display:block;width:100%;margin-top:.35rem;padding:.7rem .8rem;font-size:1.15rem;border:1px solid var(--muted);border-radius:.5rem" id="tope">
             <option value="0.25">Variable, en los 3 primeros años (hasta 0,25 %)</option>
             <option value="0.15">Variable con la opción de 5 años, en esos 5 años (hasta 0,15 %)</option>
             <option value="0" selected>Variable, pasado ese plazo (0 %)</option>

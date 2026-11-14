@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>¿Cuánto de tu cuota de hipoteca son intereses? Calculadora · El Euro Claro</title>
 <meta name="description" content="Pon lo que debes, tu tipo de interés y los años que te quedan: te decimos tu cuota, cuánto son intereses este mes, cuánta deuda bajas y cuántos intereses pagas en 12 meses.">
-<meta name="theme-color" content="#0e2a47">
+<meta name="theme-color" content="#000000">
 <meta property="og:site_name" content="El Euro Claro">
 <meta property="og:title" content="¿Cuánto de tu cuota de hipoteca son intereses?">
 <meta property="og:description" content="Calculadora gratis: intereses y deuda que bajas, mes a mes.">
@@ -17,8 +17,8 @@
 <!-- Página en una subcarpeta: todas las rutas son absolutas (empiezan por /). -->
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="/apple-touch-icon.png">
-<link rel="stylesheet" href="/fonts.css">
-<link rel="stylesheet" href="/style.css?v=20261019c">
+<link rel="stylesheet" href="/fonts.css?v=20261114">
+<link rel="stylesheet" href="/style.css?v=20261114">
 </head>
 <body>
 
@@ -26,7 +26,7 @@
   <div class="wrap">
     <a class="brand" href="/" aria-label="El Euro Claro, inicio">
       <img class="coin" src="/favicon.svg" alt="" width="40" height="40">
-      El Euro Claro
+      <span class="brand-name">el euro <span class="claro">claro</span></span>
     </a>
     <nav class="nav" aria-label="Secciones">
       <a class="nav-nl" href="/domingo/?src=web-cabecera"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><rect x="2.5" y="5" width="19" height="14" rx="2.5"/><path d="M3 6.5l9 6.5 9-6.5"/></svg>Newsletter gratis</a>
@@ -50,11 +50,11 @@
       <p class="small calc-privado">🔒 Tus cifras no salen de tu móvil: el cálculo se hace aquí mismo y no guardamos nada.</p>
       <form class="calc" id="calc" novalidate>
         <label style="font-weight:700">Lo que te queda por pagar (€)<br><small style="font-weight:400">En tu recibo: «capital pendiente».</small>
-          <input style="display:block;width:100%;margin-top:.35rem;padding:.7rem .8rem;font-size:1.15rem;border:1px solid #c9d2de;border-radius:.5rem" type="number" id="deuda" inputmode="decimal" min="0" step="100" value="150000"></label>
+          <input style="display:block;width:100%;margin-top:.35rem;padding:.7rem .8rem;font-size:1.15rem;border:1px solid var(--muted);border-radius:.5rem" type="number" id="deuda" inputmode="decimal" min="0" step="100" value="150000"></label>
         <label style="font-weight:700">Tu tipo de interés (%)<br><small style="font-weight:400">Si es variable: Euríbor + diferencial. En el ejemplo, 3,247 + 1.</small>
-          <input style="display:block;width:100%;margin-top:.35rem;padding:.7rem .8rem;font-size:1.15rem;border:1px solid #c9d2de;border-radius:.5rem" type="number" id="tipo" inputmode="decimal" min="0" max="20" step="0.001" value="4.247"></label>
+          <input style="display:block;width:100%;margin-top:.35rem;padding:.7rem .8rem;font-size:1.15rem;border:1px solid var(--muted);border-radius:.5rem" type="number" id="tipo" inputmode="decimal" min="0" max="20" step="0.001" value="4.247"></label>
         <label style="font-weight:700">Años que te quedan
-          <input style="display:block;width:100%;margin-top:.35rem;padding:.7rem .8rem;font-size:1.15rem;border:1px solid #c9d2de;border-radius:.5rem" type="number" id="anos" inputmode="numeric" min="1" max="40" step="1" value="25"></label>
+          <input style="display:block;width:100%;margin-top:.35rem;padding:.7rem .8rem;font-size:1.15rem;border:1px solid var(--muted);border-radius:.5rem" type="number" id="anos" inputmode="numeric" min="1" max="40" step="1" value="25"></label>
         <button class="btn btn-primary calc-boton" type="submit">Calcular</button>
         <div id="res" aria-live="polite"></div>
       </form>
