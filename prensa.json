@@ -1,61 +1,61 @@
 {
- "actualizado": "2026-11-14T01:32:51Z",
+ "actualizado": "2026-11-14T06:10:24Z",
  "items": [
   {
-   "t": "Cuerpo entierra la herencia de Puente en Renfe y Adif: así son los nuevos responsables de perfil técnico a los que ha encomendado apaciguar el malestar interno",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/11/14/6af756e321efa0c94b8b458f.html",
-   "f": "2026-11-14T00:04:49Z",
-   "c": "transporte"
-  },
-  {
-   "t": "En busca del chivo: tensión en la administración Trump por la crisis de Nvidia y la exportación de chips",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/empresas/2026/11/14/6af76498fdddffc5458b4575.html",
-   "f": "2026-11-14T00:04:48Z",
+   "t": "Juego de culpas en la Casa Blanca ante el caso de espionaje en Nvidia",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261114/11684109/juego-culpas-casa-blanca-caso-espionaje-nvidia.html",
+   "f": "2026-11-14T05:00:00Z",
    "c": "tecnologia"
   },
   {
-   "t": "El inesperado efecto de la IA en la vuelta a la oficina apuntala la demanda: la inversión se dispara un 21% en España",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/empresas/2026/11/14/6af7298dfc6c83cf188b45aa.html",
-   "f": "2026-11-13T23:52:28Z",
+   "t": "Peligro: amor en la oficina",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261114/11683760/peligro-amor-oficina.html",
+   "f": "2026-11-14T05:00:00Z",
+   "c": "general"
+  },
+  {
+   "t": "La pobreza se enquista pese al crecimiento económico: “No puedo ni sentarme con mis amigos a tomar una Coca-Cola”",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-11-14/la-pobreza-se-enquista-pese-al-crecimiento-economico-no-puedo-ni-sentarme-con-mis-amigos-a-tomar-una-coca-cola.html",
+   "f": "2026-11-14T04:45:01Z",
+   "c": "economia"
+  },
+  {
+   "t": "La UE apura las últimas horas del pacto pesquero con Mauritania sin acuerdo para renovarlo",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-11-14/la-ue-apura-las-ultimas-horas-del-pacto-pesquero-con-mauritania-sin-acuerdo-para-renovarlo.html",
+   "f": "2026-11-14T04:45:01Z",
+   "c": "comercio"
+  },
+  {
+   "t": "Sexo, espionaje, Poder: ruina",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-11-14/sexo-espionaje-poder-ruina.html",
+   "f": "2026-11-14T04:45:01Z",
+   "c": "general"
+  },
+  {
+   "t": "La oportunidad inesperada para la Bolsa europea ante el pinchazo en Wall Street",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-14/la-oportunidad-inesperada-para-la-bolsa-europea-ante-el-pinchazo-en-wall-street.html",
+   "f": "2026-11-14T04:30:01Z",
+   "c": "empresas"
+  },
+  {
+   "t": "Solaria, presa de la volatilidad y las dudas sobre la IA y los centros de datos",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-14/solaria-presa-de-la-volatilidad-y-las-dudas-sobre-la-ia-y-los-centros-de-datos.html",
+   "f": "2026-11-14T04:30:01Z",
    "c": "tecnologia"
   },
   {
-   "t": "PP y Vox prometen bajar impuestos, pero PSOE y Frente Amplio cuestionan cómo lo harán sin recortar servicios",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/fiscal-00347/noticia-pp-vox-prometen-bajar-impuestos-psoe-frente-amplio-cuestionan-haran-recortar-servicios-20261113234025.html",
-   "f": "2026-11-13T22:40:25Z",
-   "c": "impuestos"
-  },
-  {
-   "t": "El PSOE admite que el gasto en pensiones necesita de revisiones: \"Hay que ver si hacemos bien los deberes\"",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/laboral-00346/noticia-psoe-admite-gasto-pensiones-necesita-revisiones-hay-ver-si-hacemos-bien-deberes-20261113231131.html",
-   "f": "2026-11-13T22:11:31Z",
-   "c": "pensiones"
-  },
-  {
-   "t": "PSOE y Frente Amplio defienden prórrogas de alquiler, PP apuesta por construir y Vox por la \"reinmigración\"",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/construccion-y-vivienda-00342/noticia-psoe-frente-amplio-defienden-prorrogas-alquiler-pp-apuesta-construir-vox-reinmigracion-20261113225830.html",
-   "f": "2026-11-13T21:58:30Z",
-   "c": "vivienda"
-  },
-  {
-   "t": "Alemania y Francia perfilan el reparto de poder en la cúpula del BCE con el 18 de noviembre como fecha límite",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/alemania-francia-reparto-poder-cupula-bce-favorito-espana_7060934_0.html",
-   "f": "2026-11-13T17:18:03Z",
-   "c": "tipos"
-  },
-  {
-   "t": "¿Dónde está el auge de la IA de Europa?",
-   "m": "Expansión",
-   "u": "https://www.expansion.com/economia/financial-times/2026/11/13/auge-ia-europa.html",
-   "f": "2026-11-13T17:08:42Z",
-   "c": "tecnologia"
+   "t": "Un motor de empleo sénior, y una diseñadora de exoesqueletos triunfan en los premios de Generali",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-11-14/un-motor-de-empleo-senior-y-una-disenadora-de-exoesqueletos-triunfan-en-los-premios-de-generali.html",
+   "f": "2026-11-14T04:30:01Z",
+   "c": "empleo"
   }
  ]
 }
