@@ -2,6 +2,8 @@
    rojo anaranjado #FF3B1F para el bocadillo, «claro», botones, etiquetas y cifras destacadas; blanco y gris #9A9A9A sobre negro.
    Las secciones de contenido van en gris muy claro (o gris muy oscuro en modo oscuro). Nada de amarillo ni azul marino.
    Accesibilidad: sobre fondo claro, #FF3B1F solo para adornos, texto grande o controles; enlaces y etiquetas en #C8260E (5,6:1 sobre blanco).
+   El rojo anaranjado #FF3B1F sí va en titulares grandes (<em> de h1 y h2, 24 px o más) y en las cifras grandes, también sobre claro (3,3:1, vale para texto grande).
+   Las páginas interiores abren con una franja negra (.page-hero: etiqueta, titular y entradilla); la herramienta o el texto van debajo, sobre gris claro.
    Los nombres de las variables (--navy, --sol, --blue, --gold…) se mantienen para no romper las páginas; cambian sus valores. */
 :root {
   --bg: #f5f5f4;
@@ -47,7 +49,7 @@
   color-scheme: dark;
 }
 /* Zonas negras de la marca: dentro, las mismas variables valen para fondo negro (en modo claro y en oscuro) */
-.top, .hero, .cifras, .kit-band, .agenda, .res-card, .calc-banda, .nl-barra, .foot {
+.top, .hero, .page-hero, .cifras, .kit-band, .agenda, .res-card, .calc-banda, .nl-barra, .foot, .links {
   --bg: #000000; --surface: #121212; --ink: #ffffff; --muted: #9a9a9a; --line: #262626;
   --blue: #ff6a52; --gold: #ff3b1f; --gold-text: #ff3b1f; --gold-soft: #2a120d; --accent-text: #ff3b1f; --ok-text: #6fd39a;
   --shadow: 0 0 #0000; --shadow-lg: 0 0 #0000; --focus: var(--sol);
@@ -57,7 +59,7 @@
 
 * { box-sizing: border-box; }
 [hidden] { display: none !important; }
-html { scroll-behavior: smooth; scroll-padding-top: 6.5rem; }
+html { scroll-behavior: smooth; scroll-padding-top: 6.5rem; background: #000; }
 @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
 body {
   margin: 0; background: var(--bg); color: var(--ink);
@@ -69,8 +71,8 @@ a:focus-visible, button:focus-visible, input:focus-visible { outline: 3px solid 
 h1, h2, h3 { font-family: var(--font-display); line-height: 1.1; letter-spacing: -.02em; text-wrap: balance; margin: 0; font-weight: 600; }
 h1 { letter-spacing: -.03em; }
 h3 { letter-spacing: -.012em; }
-/* La parte destacada de un titular: en rojo anaranjado y sin cursiva (Inter Display no lleva cursiva en la web) */
-h1 em, h2 em { font-style: normal; color: var(--accent-text); }
+/* La parte destacada de un titular: en el rojo anaranjado de la marca (es texto grande) y sin cursiva (Inter Display no lleva cursiva en la web) */
+h1 em, h2 em { font-style: normal; color: var(--accent); }
 p { margin: 0; }
 
 .wrap { max-width: var(--wrap); margin-inline: auto; padding-inline: max(1.25rem, env(safe-area-inset-left)) max(1.25rem, env(safe-area-inset-right)); }
@@ -82,7 +84,7 @@ p { margin: 0; }
    Siempre en minúscula, en Inter Display SemiBold, con «claro» en rojo anaranjado. */
 .brand { display: flex; align-items: center; gap: .3em; text-decoration: none; color: #fff; font-family: var(--font-display); font-weight: 600; font-size: clamp(2.1rem, 11.4vw, 2.75rem); letter-spacing: -.035em; line-height: 1.1; text-transform: lowercase; white-space: nowrap; }
 .brand .claro { color: var(--sol); }
-.coin { width: 1.12em; height: 1.12em; flex: none; }
+.coin { width: 1.3em; height: 1.3em; flex: none; position: relative; top: .08em; }
 @media (min-width: 60.01rem) { .brand { font-size: 2.75rem; } }
 .nav { display: flex; align-items: center; gap: 1.3rem; flex-wrap: wrap; font-family: var(--font-display); font-size: .95rem; letter-spacing: .005em; margin-left: auto; }
 /* Ordenador: desde 70rem el nombre y los 8 enlaces del menú caben en una sola fila; entre 60 y 70rem el menú baja a una segunda fila y la cabecera es más alta */
@@ -101,8 +103,8 @@ p { margin: 0; }
 .actions { display: flex; gap: .8rem; flex-wrap: wrap; margin-top: 1.8rem; }
 .btn { display: inline-block; padding: .8rem 1.3rem; border-radius: .6rem; font-weight: 600; letter-spacing: .005em; text-decoration: none; border: 2px solid var(--accent-text); font-family: var(--font-display); font-size: 1rem; cursor: pointer; }
 .btn-primary { background: var(--accent); border-color: var(--accent); color: var(--on-accent); }
-.btn-ghost { color: var(--accent-text); background: transparent; }
-.btn-ghost:hover { background: var(--gold-soft); }
+.btn-ghost { color: var(--ink); border-color: var(--ink); background: transparent; }
+.btn-ghost:hover { border-color: var(--accent); background: transparent; }
 .btn-sol { background: var(--sol); border-color: var(--sol); color: var(--on-accent); }
 .btn-line { background: transparent; border-color: rgba(255, 255, 255, .55); color: #fff; }
 .btn-line:hover { border-color: #fff; background: rgba(255, 255, 255, .08); }
@@ -111,8 +113,9 @@ p { margin: 0; }
 .eyebrow { font-family: var(--font-display); font-size: .8rem; letter-spacing: .12em; text-transform: uppercase; color: var(--gold-text); font-weight: 700; }
 
 /* Portada: negra, titular en blanco y lo destacado en rojo anaranjado */
-.hero { background: radial-gradient(56rem 30rem at 100% 0%, rgba(255, 59, 31, .12), transparent 62%), var(--black); color: #fff; }
-.hero .wrap { display: grid; grid-template-columns: 1.25fr 1fr; gap: 3.5rem; align-items: center; padding-block: 4rem 4.5rem; }
+.hero { background: var(--black); color: #fff; }
+.hero .wrap { display: grid; grid-template-columns: 1.25fr 1fr; gap: 3.5rem; align-items: start; padding-block: 4rem 4.5rem; }
+@media (min-width: 52.01rem) { .presenta { margin-top: 2.6rem; } }
 .hero .wrap > * { min-width: 0; }
 .hero .eyebrow { color: var(--sol); }
 .hero h1 { font-size: clamp(2.3rem, 5.5vw, 3.9rem); margin-block: .8rem 1.1rem; color: #fff; letter-spacing: -.035em; line-height: 1.04; }
@@ -122,20 +125,12 @@ p { margin: 0; }
 .follow { margin-top: 2rem; display: grid; gap: .7rem; justify-items: start; }
 .follow > p { font-size: .92rem; color: var(--gray-light); font-weight: 600; }
 .social { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: .6rem; }
-/* Redes: botones redondos pequeños con el color de cada red; el nombre queda para lectores de pantalla */
-.social a { display: inline-grid; place-items: center; width: 2.5rem; height: 2.5rem; border-radius: 50%; color: #fff; text-decoration: none; box-shadow: 0 2px 6px rgba(0, 0, 0, .18); transition: transform .15s; }
-.social a:hover { transform: translateY(-2px); filter: brightness(1.08); }
+/* Redes: botones redondos pequeños en negro con el icono en blanco (marca E1); al pasar por encima, rojo anaranjado. El nombre queda para lectores de pantalla */
+.social a { display: inline-grid; place-items: center; width: 2.5rem; height: 2.5rem; border-radius: 50%; background: #000; color: #fff; text-decoration: none; box-shadow: inset 0 0 0 1px #3a3a3a; transition: transform .15s; }
+.social a:hover { transform: translateY(-2px); background: var(--sol); color: #000; }
 @media (prefers-reduced-motion: reduce) { .social a { transition: none; } .social a:hover { transform: none; } }
 .social svg { width: 1.3rem; height: 1.3rem; }
 .share-wa svg { width: 1.2rem; height: 1.2rem; flex: none; }
-.s-yt { background: #ff0033; }
-.s-tt { background: #111; }
-.s-tt svg { filter: drop-shadow(-1.5px -1px 0 #25f4ee) drop-shadow(1.5px 1px 0 #fe2c55); }
-.s-ig { background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285aeb 90%); }
-.s-fb { background: #1877f2; }
-.s-wa { background: #25d366; }
-/* Sobre negro, el botón de TikTok (casi negro) lleva un aro para que se vea */
-.hero .s-tt, .foot .s-tt { box-shadow: inset 0 0 0 1px rgba(255, 255, 255, .22); }
 .follow-row { margin-top: 1.6rem; display: flex; flex-wrap: wrap; align-items: center; gap: .7rem 1rem; font-weight: 600; }
 .sr { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; border: 0; }
 .share-wa { display: inline-flex; align-items: center; gap: .45rem; min-height: 2.75rem; color: var(--sol); font-weight: 600; text-underline-offset: 4px; }
@@ -270,7 +265,7 @@ img.presenta-avatar { object-fit: cover; box-shadow: 0 0 0 3px var(--sol), 0 16p
 .foot a:hover { color: #fff; }
 .foot .mail { color: #fff; }
 .disclaimer { max-width: 46rem; font-size: .85rem; }
-.lema { font-family: var(--font-display); font-size: 1.3rem; font-weight: 600; letter-spacing: -.02em; color: #fff; }
+.lema { font-family: var(--font-display); font-size: 1.3rem; font-weight: 500; letter-spacing: -.015em; color: var(--gray); }
 
 /* Páginas legales */
 .legal { max-width: 44rem; padding-block: 3rem 4rem; overflow-wrap: break-word; }
@@ -307,6 +302,7 @@ img.presenta-avatar { object-fit: cover; box-shadow: 0 0 0 3px var(--sol), 0 16p
 .page-head h1 { font-size: clamp(2.1rem, 5vw, 3.2rem); margin-block: .6rem 1.4rem; }
 .dato { background: var(--surface); border: 1px solid var(--line); border-left: 6px solid var(--gold); border-radius: .5rem; padding: 1.2rem 1.4rem; max-width: 40rem; display: grid; gap: .3rem; }
 .dato-gris { border-left-color: var(--line); }
+.dato:not(.dato-gris) .cifra { color: var(--accent); }
 .dato .que { font-family: var(--font-display); font-size: .8rem; font-weight: 700; letter-spacing: .07em; text-transform: uppercase; color: var(--muted); }
 .dato .cifra { font-family: var(--font-display); font-weight: 900; font-size: clamp(2.8rem, 9vw, 4.2rem); line-height: 1; letter-spacing: -.03em; color: var(--ink); font-variant-numeric: tabular-nums; }
 .dato .src, .src-line, .small { font-size: .88rem; color: var(--muted); }
@@ -326,6 +322,29 @@ img.presenta-avatar { object-fit: cover; box-shadow: 0 0 0 3px var(--sol), 0 16p
 .tabla .num { text-align: right; font-variant-numeric: tabular-nums; white-space: nowrap; }
 .tabla th.num { white-space: normal; }
 .tabla tbody tr:last-child td { border-bottom: 0; }
+
+/* Franja negra de título de las páginas interiores (marca E1): etiqueta, titular y entradilla.
+   Debajo, la calculadora, la tabla o el texto siguen sobre gris claro (gris muy oscuro en modo oscuro).
+   En /empresas/, /marcas/, /nomina/, /hipoteca/ y /reto/ toda la primera sección es la franja (section.page-hero), como en /kit/. */
+.page-hero { background: var(--black); color: var(--ink); border-bottom: 1px solid var(--line-black); }
+header.page-hero { padding-block: 3rem 2.6rem; }
+header.page-hero h1 { font-size: clamp(2.1rem, 5vw, 3.2rem); margin-block: .6rem 1rem; max-width: 50rem; }
+header.page-hero h1:last-child { margin-bottom: 0; }
+header.page-hero .intro, header.page-hero .prose-p { color: var(--gray-light); max-width: 40rem; font-size: 1.1rem; margin-top: 0; }
+header.page-hero .small { color: var(--muted); }
+header.page-hero .calc-privado { margin-top: .7rem; }
+header.page-hero .wrap.estrecha { max-width: 44rem; }
+header.page-hero + .section { padding-top: 2.8rem; }
+header.page-hero + .wrap.legal { padding-top: 2.4rem; }
+.page-hero .intro { color: var(--gray-light); }
+/* Test: la pantalla de inicio es la franja negra; las preguntas y el resultado, sobre gris claro.
+   Va en una regla aparte: si un navegador no entiende :has(), solo se pierde esta. */
+.test-head:has(> .wrap > #t-inicio:not([hidden])) {
+  --bg: #000000; --surface: #121212; --ink: #ffffff; --muted: #9a9a9a; --line: #262626;
+  --blue: #ff6a52; --gold: #ff3b1f; --gold-text: #ff3b1f; --gold-soft: #2a120d; --accent-text: #ff3b1f; --focus: var(--sol);
+  color-scheme: dark; background: var(--black); color: var(--ink); border-bottom: 1px solid var(--line-black);
+  -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;
+}
 
 /* Kit de cuentas (y demás bandas destacadas): banda negra; texto a la izquierda, portada del producto a la derecha */
 .kit-band { background: var(--black); color: var(--ink); border-block: 1px solid var(--line-black); }
@@ -372,13 +391,13 @@ img.presenta-avatar { object-fit: cover; box-shadow: 0 0 0 3px var(--sol), 0 16p
 }
 
 /* Calculadora de inflación personal (/inflacion/) */
-.calc-head h1 em { font-style: normal; color: var(--gold-text); }
+.calc-head h1 em { font-style: normal; color: var(--accent); }
 .calc-head .intro { color: var(--muted); max-width: 40rem; font-size: 1.1rem; }
 .calc-privado { margin-top: .6rem; }
 .calc { margin-top: 1.8rem; max-width: 44rem; background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 1.3rem 1.3rem 1.4rem; display: grid; gap: .9rem; box-shadow: var(--shadow); }
 .calc-dato { font-size: .88rem; color: var(--muted); }
 .calc-filas { display: grid; gap: .2rem; }
-.calc-fila { display: grid; grid-template-columns: minmax(0, 1fr) auto 9.5rem; gap: .4rem .9rem; align-items: center; padding: .55rem 0; border-top: 1px solid var(--line); }
+.calc-fila { display: grid; grid-template-columns: minmax(0, 1fr) auto 11rem; gap: .4rem .9rem; align-items: center; padding: .55rem 0; border-top: 1px solid var(--line); }
 .calc-fila label { display: grid; gap: .05rem; min-width: 0; }
 .cf-n { font-weight: 700; }
 .cf-d { font-size: .82rem; color: var(--muted); }
@@ -387,7 +406,7 @@ img.presenta-avatar { object-fit: cover; box-shadow: 0 0 0 3px var(--sol), 0 16p
 /* Precios que bajan: verde (significado, no marca) */
 .cf-baja { color: var(--ok-text); }
 .cf-in { position: relative; display: block; }
-.cf-in input { width: 100%; padding: .7rem 4.2rem .7rem .8rem; border: 1px solid var(--muted); border-radius: .45rem; background: var(--bg); color: var(--ink); font: inherit; font-variant-numeric: tabular-nums; text-align: right; }
+.cf-in input { width: 100%; padding: .7rem 3.9rem .7rem .8rem; border: 1px solid var(--muted); border-radius: .45rem; background: var(--bg); color: var(--ink); font: inherit; font-variant-numeric: tabular-nums; text-align: right; }
 .cf-in span { position: absolute; right: .7rem; top: 50%; transform: translateY(-50%); font-size: .8rem; color: var(--muted); pointer-events: none; }
 .calc-mas summary { cursor: pointer; font-weight: 700; color: var(--blue); padding: .5rem 0; }
 .calc-mas summary span { font-weight: 400; color: var(--muted); font-size: .9rem; }
@@ -436,7 +455,7 @@ img.presenta-avatar { object-fit: cover; box-shadow: 0 0 0 3px var(--sol), 0 16p
 /* Páginas de alta con regalo (/nomina/) */
 .lp-grid { display: grid; grid-template-columns: minmax(0, 1.1fr) minmax(0, 1fr); gap: 3rem; align-items: start; }
 .lp h1 { font-size: clamp(2.2rem, 5.5vw, 3.4rem); margin-block: .6rem 1rem; }
-.lp h1 em { font-style: normal; color: var(--gold-text); }
+.lp h1 em { font-style: normal; color: var(--accent); }
 .lp .intro { color: var(--muted); font-size: 1.1rem; max-width: 34rem; }
 .lp-form { margin-top: 1.6rem; max-width: 30rem; }
 .lp-pasos { margin-top: .8rem; max-width: 30rem; }
@@ -456,13 +475,13 @@ img.presenta-avatar { object-fit: cover; box-shadow: 0 0 0 3px var(--sol), 0 16p
 .reto-pasos li > span:last-child { color: var(--muted); font-size: .95rem; }
 .rp-dia { font-family: var(--font-display); font-size: .75rem; letter-spacing: .09em; text-transform: uppercase; font-weight: 700; color: var(--gold-text); }
 .reto-pasos .rp-siguiente { border-color: var(--gold); box-shadow: 0 0 0 2px var(--gold-soft), var(--shadow); }
-.reto-pasos .rp-hecho { opacity: .7; }
+.reto-pasos .rp-hecho strong { color: var(--muted); }
 .reto-pasos .rp-hecho::before { content: "✓"; background: var(--sol); color: var(--on-accent); box-shadow: none; }
 .faq { border-bottom: 1px solid var(--line); padding: .3rem 0; }
 .faq summary { cursor: pointer; font-weight: 700; padding: .5rem 0; }
 .faq p { margin: 0 0 .8rem; color: var(--muted); }
 
-/* Llamadas destacadas en la portada: la newsletter (rojo anaranjado, texto negro) y la calculadora (tarjeta gris muy oscuro) */
+/* Llamadas destacadas en la portada: la newsletter y la calculadora, en tarjetas gris muy oscuro; el rojo anaranjado, en el icono y el botón */
 .hero-calc { display: grid; grid-template-columns: auto 1fr auto; align-items: center; gap: 1rem; margin-top: 1.6rem; max-width: 36rem; padding: 1rem 1.1rem; border-radius: var(--radius); background: var(--sol); color: var(--on-accent); text-decoration: none; transition: transform .15s ease; }
 .hero-calc:hover { transform: translateY(-2px); }
 .hero-calc:focus-visible { outline: 3px solid #fff; outline-offset: 3px; }
@@ -489,7 +508,7 @@ img.presenta-avatar { object-fit: cover; box-shadow: 0 0 0 3px var(--sol), 0 16p
 
 /* Test de dinero (/test/) */
 .test { max-width: 40rem; }
-.test-head h1 em { font-style: normal; color: var(--gold-text); }
+.test-head h1 em { font-style: normal; color: var(--accent); }
 .test .intro { color: var(--muted); font-size: 1.1rem; }
 .t-empezar { margin: 1.2rem 0 .8rem; font-size: 1.1rem; padding: .9rem 1.6rem; }
 .t-reto { display: inline-block; margin: .6rem 0 0; padding: .5rem .9rem; border-radius: .5rem; background: var(--gold-soft); color: var(--gold-text); font-weight: 700; }
@@ -512,7 +531,7 @@ img.presenta-avatar { object-fit: cover; box-shadow: 0 0 0 3px var(--sol), 0 16p
 .t-v-bien { color: #1f8a4c; }
 .t-v-mal { color: #b3261e; }
 .t-fin { outline: none; }
-.t-nota { font-family: var(--font-display); font-weight: 900; font-size: clamp(3.2rem, 12vw, 5rem); line-height: 1; letter-spacing: -.035em; font-variant-numeric: tabular-nums; margin: .3rem 0 .6rem; color: var(--gold-text); }
+.t-nota { font-family: var(--font-display); font-weight: 900; font-size: clamp(3.2rem, 12vw, 5rem); line-height: 1; letter-spacing: -.035em; font-variant-numeric: tabular-nums; margin: .3rem 0 .6rem; color: var(--accent); }
 .t-frase { font-size: 1.2rem; font-weight: 600; margin: 0 0 .4rem; }
 .t-vs { font-weight: 700; color: var(--blue); }
 @media (prefers-color-scheme: dark) {
@@ -543,7 +562,7 @@ img.presenta-avatar { object-fit: cover; box-shadow: 0 0 0 3px var(--sol), 0 16p
 .cal-org { display: inline-block; margin-left: .3rem; padding: .05rem .4rem; border-radius: .3rem; font-family: var(--font-display); font-size: .68rem; font-weight: 700; letter-spacing: .07em; vertical-align: .12em; color: var(--muted); border: 1px solid var(--line); }
 .cal-para { margin: 0; font-size: .95rem; color: var(--muted); }
 .cal-para a { white-space: nowrap; font-weight: 600; }
-.cal-pasado { opacity: .5; }
+.cal-pasado .cal-dia, .cal-pasado .cal-tit, .cal-pasado .cal-para, .cal-pasado .cal-para a { color: var(--muted); }
 .cal-proximo { background: var(--gold-soft); box-shadow: inset 4px 0 0 var(--gold); }
 .cal-proximo .cal-tit::before { content: "Próximo dato"; display: block; font-family: var(--font-display); font-size: .7rem; letter-spacing: .09em; text-transform: uppercase; color: var(--gold-text); margin-bottom: .15rem; }
 .agenda-mas { margin: .4rem 0 0; font-size: .9rem; font-weight: 700; }
@@ -562,11 +581,16 @@ img.presenta-avatar { object-fit: cover; box-shadow: 0 0 0 3px var(--sol), 0 16p
 @media (min-width: 48rem) {
   .nl-barra { left: auto; right: 1.2rem; bottom: 1.2rem; max-width: 30rem; border-radius: var(--radius); padding: .9rem 1rem; border: 1px solid #2e2e2e; }
 }
+@media (max-width: 47.99rem) {
+  .nl-barra { padding: .55rem .8rem calc(.55rem + env(safe-area-inset-bottom)); }
+  .nl-barra p { font-size: .88rem; }
+  .nl-barra p span { display: none; }
+}
 @keyframes nl-sube { from { transform: translateY(100%); } to { transform: none; } }
 @media (prefers-reduced-motion: reduce) { .nl-barra { animation: none; } }
 
 /* Índice del Bolsillo (/indice-del-bolsillo/, generado por scripts/indice.py): barras grises y la fila destacada en rojo anaranjado */
-.page-head h1 em { font-style: normal; color: var(--gold-text); }
+.page-head h1 em { font-style: normal; color: var(--accent); }
 .ib-cifras { margin: 1.6rem 0 1.2rem; }
 .ib-tabla th[scope="row"] { font-weight: 600; white-space: nowrap; }
 .ib-tabla .num { width: 6rem; }
@@ -593,7 +617,12 @@ img.presenta-avatar { object-fit: cover; box-shadow: 0 0 0 3px var(--sol), 0 16p
 .nav a.nav-nl { display: inline-flex; align-items: center; gap: .4rem; background: var(--sol); color: var(--on-accent); padding: .3rem .85rem; border-radius: 2rem; font-weight: 600; }
 .nav a.nav-nl:hover { color: var(--on-accent); filter: brightness(1.08); }
 .nav a.nav-nl svg { width: 1.1em; height: 1.1em; flex: none; }
-/* Portada: la newsletter va primero (rojo anaranjado) y la calculadora debajo (tarjeta gris muy oscuro con borde fino) */
+/* Portada: la newsletter va primero (botón rojo anaranjado) y la calculadora debajo (botón blanco), las dos en tarjeta gris muy oscuro con borde fino */
+.hero-calc.hc-nl { background: var(--surface); border: 1px solid #2e2e2e; color: var(--ink); }
+.hero-calc.hc-nl:hover { border-color: #4a4a4a; }
+.hero-calc.hc-nl .hc-ico { background: var(--sol); color: var(--on-accent); }
+.hero-calc.hc-nl .hc-txt span { color: var(--muted); }
+.hero-calc.hc-nl .hc-btn { background: var(--sol); color: var(--on-accent); }
 .hero-calc.hc-nl .hc-ico svg { width: 1.45rem; height: 1.45rem; }
 .hero-calc.hc-blanco { background: var(--surface); border: 1px solid #2e2e2e; color: var(--ink); margin-top: .9rem; }
 .hero-calc.hc-blanco:hover { border-color: #4a4a4a; }

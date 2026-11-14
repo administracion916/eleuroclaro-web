@@ -39,22 +39,23 @@
 .dvd-leyenda span { display: inline-flex; align-items: center; gap: .45rem; }
 .dvd-sello { display: inline-flex; align-items: center; gap: .4rem; padding: .3rem .75rem; border-radius: 2rem; font-weight: 800; font-size: .82rem; letter-spacing: .05em; text-transform: uppercase; color: #fff; line-height: 1.2; white-space: nowrap; }
 .dvd-sello::before { content: ""; width: .55rem; height: .55rem; border-radius: 50%; background: currentColor; opacity: .85; }
+/* Colores de los veredictos: de significado, no de marca (verde, amarillo, naranja y rojo de semáforo) */
 .dvd-cierto { background: #1f7a3d; }
 .dvd-contexto { background: #f4c51a; color: #000; }
-.dvd-enganoso { background: #d9620f; }
+.dvd-enganoso { background: #b54d00; }
 .dvd-falso { background: #c0262d; }
 .dvd-filtros { display: grid; gap: .8rem; margin-bottom: 1.6rem; }
 .dvd-fila { display: flex; flex-wrap: wrap; align-items: center; gap: .45rem; }
 .dvd-fila > span { font-weight: 700; font-size: .9rem; margin-right: .3rem; min-width: 5.5rem; }
 .dvd-fila button { font: inherit; font-size: .88rem; font-weight: 600; padding: .4rem .9rem; border-radius: 2rem; border: 1px solid var(--line); background: var(--surface); color: var(--ink); cursor: pointer; }
-.dvd-fila button[aria-pressed="true"] { background: var(--blue); border-color: var(--blue); color: var(--bg); }
+.dvd-fila button[aria-pressed="true"] { background: var(--ink); border-color: var(--ink); color: var(--bg); }
 .dvd-fila button:focus-visible { outline: 3px solid var(--focus, var(--gold)); outline-offset: 2px; }
 .dvd-cuenta { font-size: .9rem; color: var(--muted); margin-bottom: 1.2rem; }
 .dvd-lista { display: grid; gap: 1.4rem; }
 .dvd-ficha { background: var(--surface); border: 1px solid var(--line); border-radius: .8rem; padding: 1.4rem 1.5rem 1.2rem; display: grid; gap: 1rem; scroll-margin-top: 1rem; max-width: 52rem; }
 .dvd-ficha[hidden] { display: none; }
 .dvd-cab { display: flex; flex-wrap: wrap; align-items: center; gap: .5rem .8rem; }
-.dvd-tema { font-size: .8rem; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; color: var(--gold-text); }
+.dvd-tema { font-size: .8rem; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; color: var(--muted); }
 .dvd-previa { font-size: .78rem; font-weight: 700; padding: .2rem .6rem; border-radius: .3rem; border: 1px dashed var(--muted); color: var(--muted); }
 .dvd-quien { font-size: 1.05rem; }
 .dvd-quien strong { font-family: var(--font-display); font-size: 1.3rem; }
@@ -66,7 +67,7 @@
 .dvd-veredicto { border-radius: .5rem; padding: .9rem 1rem; background: var(--bg); border-left: 6px solid var(--line); }
 .dvd-ficha[data-veredicto="cierto"] .dvd-veredicto { border-left-color: #1f7a3d; }
 .dvd-ficha[data-veredicto="contexto"] .dvd-veredicto { border-left-color: #f4c51a; }
-.dvd-ficha[data-veredicto="enganoso"] .dvd-veredicto { border-left-color: #d9620f; }
+.dvd-ficha[data-veredicto="enganoso"] .dvd-veredicto { border-left-color: #b54d00; }
 .dvd-ficha[data-veredicto="falso"] .dvd-veredicto { border-left-color: #c0262d; }
 .dvd-veredicto p + p { margin-top: .4rem; }
 .dvd-pie { font-size: .85rem; color: var(--muted); border-top: 1px solid var(--line); padding-top: .8rem; }
