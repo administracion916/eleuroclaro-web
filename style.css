@@ -336,6 +336,9 @@ header.page-hero .calc-privado { margin-top: .7rem; }
 header.page-hero .wrap.estrecha { max-width: 44rem; }
 header.page-hero + .section { padding-top: 2.8rem; }
 header.page-hero + .wrap.legal { padding-top: 2.4rem; }
+header.page-hero-sola { padding-block: 4rem 4.5rem; }
+header.page-hero-sola p:not(.eyebrow) { color: var(--gray-light); max-width: 40rem; }
+header.page-hero + .section > .wrap > :first-child { margin-top: 0; }
 .page-hero .intro { color: var(--gray-light); }
 /* Test: la pantalla de inicio es la franja negra; las preguntas y el resultado, sobre gris claro.
    Va en una regla aparte: si un navegador no entiende :has(), solo se pierde esta. */

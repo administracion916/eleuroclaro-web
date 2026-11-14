@@ -316,7 +316,7 @@ PLANTILLA = """<!doctype html>
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://eleuroclaro.es/indice-del-bolsillo/">
 <meta property="og:locale" content="es_ES">
-<meta property="og:image" content="https://eleuroclaro.es/img/og-inflacion.png">
+<meta property="og:image" content="https://eleuroclaro.es/img/og-inflacion.png?v=20261114">
 <meta property="og:image:type" content="image/png">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
@@ -324,8 +324,9 @@ PLANTILLA = """<!doctype html>
 <meta name="twitter:card" content="summary_large_image">
 <link rel="canonical" href="https://eleuroclaro.es/indice-del-bolsillo/">
 <!-- Página generada por scripts/indice.py: no editar a mano. -->
-<link rel="icon" href="/favicon.svg" type="image/svg+xml">
-<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="icon" href="/favicon.svg?v=20261114" type="image/svg+xml">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png?v=20261114">
+<link rel="preload" href="/fonts/InterDisplay-600.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="/fonts.css?v=20261114">
 <link rel="stylesheet" href="/style.css?v=20261114">
 </head>
