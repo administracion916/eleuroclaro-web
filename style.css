@@ -376,7 +376,7 @@ header.page-hero + .section > .wrap > :first-child { margin-top: 0; }
 }
 @media (max-width: 40rem) {
   .cifras-grid, .noticias, .datos-pareja { grid-template-columns: 1fr; }
-  .cifra-card { grid-template-columns: auto minmax(0, 1fr); column-gap: 1rem; align-items: center; padding: 1rem 1.1rem; }
+  .cifras .cifra-card { grid-template-columns: auto minmax(0, 1fr); column-gap: 1rem; align-items: center; padding: 1rem 1.1rem; }
   .c-num { grid-row: span 2; font-size: 1.9rem; }
   .tabla { font-size: .9rem; }
   .tabla th, .tabla td { padding: .5rem .45rem; }
