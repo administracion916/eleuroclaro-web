@@ -1,19 +1,47 @@
 {
- "actualizado": "2026-11-13T22:12:23Z",
+ "actualizado": "2026-11-14T01:32:51Z",
  "items": [
   {
-   "t": "PSOE y Frente Amplio prometen más inversión en el tren, frente a PP y Vox que piden una auditoría de la red",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/transportes-00343/noticia-psoe-frente-amplio-prometen-mas-inversion-tren-frente-pp-vox-piden-auditoria-red-20261113222931.html",
-   "f": "2026-11-13T21:29:31Z",
+   "t": "Cuerpo entierra la herencia de Puente en Renfe y Adif: así son los nuevos responsables de perfil técnico a los que ha encomendado apaciguar el malestar interno",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/11/14/6af756e321efa0c94b8b458f.html",
+   "f": "2026-11-14T00:04:49Z",
    "c": "transporte"
   },
   {
-   "t": "Una caída de Microsoft 365 deja sin correo a empresas y gobiernos de 74 países durante más de 20 horas",
+   "t": "En busca del chivo: tensión en la administración Trump por la crisis de Nvidia y la exportación de chips",
    "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/empresas/2026/11/13/6af6b987fdddfff22c8b4587.html",
-   "f": "2026-11-13T17:26:54Z",
-   "c": "empresas"
+   "u": "https://www.elmundo.es/economia/empresas/2026/11/14/6af76498fdddffc5458b4575.html",
+   "f": "2026-11-14T00:04:48Z",
+   "c": "tecnologia"
+  },
+  {
+   "t": "El inesperado efecto de la IA en la vuelta a la oficina apuntala la demanda: la inversión se dispara un 21% en España",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/empresas/2026/11/14/6af7298dfc6c83cf188b45aa.html",
+   "f": "2026-11-13T23:52:28Z",
+   "c": "tecnologia"
+  },
+  {
+   "t": "PP y Vox prometen bajar impuestos, pero PSOE y Frente Amplio cuestionan cómo lo harán sin recortar servicios",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/fiscal-00347/noticia-pp-vox-prometen-bajar-impuestos-psoe-frente-amplio-cuestionan-haran-recortar-servicios-20261113234025.html",
+   "f": "2026-11-13T22:40:25Z",
+   "c": "impuestos"
+  },
+  {
+   "t": "El PSOE admite que el gasto en pensiones necesita de revisiones: \"Hay que ver si hacemos bien los deberes\"",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/laboral-00346/noticia-psoe-admite-gasto-pensiones-necesita-revisiones-hay-ver-si-hacemos-bien-deberes-20261113231131.html",
+   "f": "2026-11-13T22:11:31Z",
+   "c": "pensiones"
+  },
+  {
+   "t": "PSOE y Frente Amplio defienden prórrogas de alquiler, PP apuesta por construir y Vox por la \"reinmigración\"",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/construccion-y-vivienda-00342/noticia-psoe-frente-amplio-defienden-prorrogas-alquiler-pp-apuesta-construir-vox-reinmigracion-20261113225830.html",
+   "f": "2026-11-13T21:58:30Z",
+   "c": "vivienda"
   },
   {
    "t": "Alemania y Francia perfilan el reparto de poder en la cúpula del BCE con el 18 de noviembre como fecha límite",
@@ -28,34 +56,6 @@
    "u": "https://www.expansion.com/economia/financial-times/2026/11/13/auge-ia-europa.html",
    "f": "2026-11-13T17:08:42Z",
    "c": "tecnologia"
-  },
-  {
-   "t": "La UE se encomienda a dos gurús tecnológicos para entrar en la carrera global de la IA",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261113/11683629/ue-encomienda-dos-gurus-tecnologicos-entrar-carrera-global-ia.html",
-   "f": "2026-11-13T17:07:30Z",
-   "c": "tecnologia"
-  },
-  {
-   "t": "El Ibex 35 salva los 20.000 puntos tras subir un 3,36% en una semana marcada por Nvidia y los resultados",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/bolsa-00348/noticia-ibex-35-salva-20000-puntos-subir-336-semana-marcada-nvidia-resultados-20261113180434.html",
-   "f": "2026-11-13T17:04:34Z",
-   "c": "tecnologia"
-  },
-  {
-   "t": "Oryzon vuelve a pedir permiso a su junta para ampliar capital en 125 millones y se desploma en Bolsa",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-11-13/oryzon-vuelve-a-pedir-permiso-a-su-junta-para-ampliar-capital-en-125-millones-y-se-desploma-en-bolsa.html",
-   "f": "2026-11-13T16:58:27Z",
-   "c": "empresas"
-  },
-  {
-   "t": "El Ibex consolida los 20.000 puntos pese al caso Nvidia y al renovado temor a una Fed más agresiva",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-13/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-11-13T16:42:31Z",
-   "c": "tipos"
   }
  ]
 }
