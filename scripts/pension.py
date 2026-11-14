@@ -72,13 +72,19 @@ def main():
                         "La confirma el Gobierno en el BOE antes del 1 de enero.")
     else:
         faltan = 12 - n
-        estado = f"provisional, con {n} de 12 meses"
+        estado = (f"provisional, con {n} de 12 meses" if faltan
+                  else f"provisional, con el dato adelantado de noviembre de {ANYO - 1}")
         etiqueta = "Provisional"
+        if faltan:
+            pendiente = (f"{'Falta' if faltan == 1 else 'Faltan'} {faltan} {'mes' if faltan == 1 else 'meses'}: "
+                         f"la cifra final sale con el IPC de noviembre de {ANYO - 1} y cambiará si los precios suben más o menos.")
+        else:
+            pendiente = (f"Falta el dato definitivo de noviembre de {ANYO - 1}, que el INE publica a mediados de diciembre: "
+                         "si cambia alguna décima, puede cambiar la cifra final.")
         aviso_estado = (f"Es la media de los {n} meses que el INE ya ha publicado "
                         f"(de diciembre de {ANYO - 2} a {nombre_mes(ultimo)}"
                         + (", que es el dato adelantado" if adelantado else "")
-                        + f"). Faltan {faltan} {'mes' if faltan == 1 else 'meses'}: la cifra final sale con el IPC "
-                        f"de noviembre de {ANYO - 1} y cambiará si los precios suben más o menos.")
+                        + "). " + pendiente)
 
     filas_meses = []
     for p, t in meses:
