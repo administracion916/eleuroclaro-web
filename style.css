@@ -82,9 +82,10 @@ p { margin: 0; }
 .top .wrap { display: flex; align-items: center; gap: 1rem 1.6rem; flex-wrap: wrap; padding-block: .75rem; }
 /* El nombre es lo más importante de la cabecera: casi todo el ancho en el móvil (sin pasarse en 320 px) y grande en el ordenador.
    Siempre en minúscula, en Inter Display SemiBold, con «claro» en rojo anaranjado. */
-.brand { display: flex; align-items: center; gap: .3em; text-decoration: none; color: #fff; font-family: var(--font-display); font-weight: 600; font-size: clamp(2.1rem, 11.4vw, 2.75rem); letter-spacing: -.035em; line-height: 1.1; text-transform: lowercase; white-space: nowrap; }
+.brand { display: flex; align-items: center; gap: .28em; text-decoration: none; color: #fff; font-family: var(--font-display); font-weight: 600; font-size: clamp(2.1rem, 11.4vw, 2.75rem); letter-spacing: -.035em; line-height: 1.1; text-transform: lowercase; white-space: nowrap; }
 .brand .claro { color: var(--sol); }
-.coin { width: 1.3em; height: 1.3em; flex: none; position: relative; top: .08em; }
+/* Bocadillo y nombre con las proporciones del logo horizontal del kit (medidas sobre logo-horizontal-negro.png); el margen negativo evita que la cabecera crezca */
+.coin { width: 1.6em; height: 1.6em; flex: none; margin-block: -.2em; }
 @media (min-width: 60.01rem) { .brand { font-size: 2.75rem; } }
 .nav { display: flex; align-items: center; gap: 1.3rem; flex-wrap: wrap; font-family: var(--font-display); font-size: .95rem; letter-spacing: .005em; margin-left: auto; }
 /* Ordenador: desde 70rem el nombre y los 8 enlaces del menú caben en una sola fila; entre 60 y 70rem el menú baja a una segunda fila y la cabecera es más alta */
