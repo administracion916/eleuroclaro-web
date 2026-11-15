@@ -1,6 +1,20 @@
 {
- "actualizado": "2026-11-15T08:10:24Z",
+ "actualizado": "2026-11-15T10:10:12Z",
  "items": [
+  {
+   "t": "Yolanda Díaz aspira a convertirse en la primera mujer y la primera española al frente de la OIT",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/2026/11/15/yolanda-diaz-aspira-convertirse-primera-mujer-primera-espanola-frente-oit.html",
+   "f": "2026-11-15T09:45:22Z",
+   "c": "general"
+  },
+  {
+   "t": "Yolanda Díaz aspira el lunes a convertirse en la primera mujer y española al frente de la OIT",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/laboral-00346/noticia-yolanda-diaz-aspira-lunes-convertirse-primera-mujer-espanola-frente-oit-20261115093250.html",
+   "f": "2026-11-15T08:32:50Z",
+   "c": "general"
+  },
   {
    "t": "Esto es lo que se sabe sobre la decisión tomada por EEUU de cerrar el tráfico aéreo de todo el país por motivos de seguridad",
    "m": "El Mundo",
@@ -13,6 +27,13 @@
    "m": "El Mundo",
    "u": "https://www.elmundo.es/economia/2026/11/15/6af950d5e4d4d834768b456e.html",
    "f": "2026-11-15T07:14:24Z",
+   "c": "transporte"
+  },
+  {
+   "t": "Cuerpo enmienda la 'era Puente' en diez días: cambia la cúpula de Renfe y Adif y negocia con sindicatos para evitar las huelgas",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/nacional/cuerpo-enmienda-era-puente-diez-dias-cambia-cupula-renfe-adif-negocia-con-sindicatos-para-evitar-las-huelgas_7060814_0.html",
+   "f": "2026-11-15T06:53:02Z",
    "c": "transporte"
   },
   {
@@ -35,27 +56,6 @@
    "u": "https://www.lavanguardia.com/economia/20261115/11684380/factura-luz-encarece-61-ano-electrodomesticos.html",
    "f": "2026-11-15T05:00:00Z",
    "c": "energia"
-  },
-  {
-   "t": "El drama de las víctimas de fraude que no pueden recuperar su dinero: “El banco me dijo que era culpa mía”",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-11-15/el-drama-de-las-victimas-de-fraude-que-no-pueden-recuperar-su-dinero-el-banco-me-dijo-que-era-culpa-mia.html",
-   "f": "2026-11-15T04:45:01Z",
-   "c": "bancos"
-  },
-  {
-   "t": "Política y finanzas juegan a favor de Hernández de Cos para la presidencia del BCE",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-11-15/politica-y-finanzas-juegan-a-favor-de-hernandez-de-cos-para-la-presidencia-del-bce.html",
-   "f": "2026-11-15T04:45:01Z",
-   "c": "tipos"
-  },
-  {
-   "t": "Nvidia tiró de la salida a Bolsa de Anthropic con una inyección de 10.000 millones en la última operación de Huang",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-11-15/nvidia-tiro-de-la-salida-a-bolsa-de-anthropic-con-una-inyeccion-de-10000-millones-en-la-ultima-operacion-de-huang.html",
-   "f": "2026-11-15T04:45:00Z",
-   "c": "tecnologia"
   }
  ]
 }
