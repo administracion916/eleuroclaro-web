@@ -1,6 +1,27 @@
 {
- "actualizado": "2026-11-15T06:11:27Z",
+ "actualizado": "2026-11-15T08:10:24Z",
  "items": [
+  {
+   "t": "Esto es lo que se sabe sobre la decisión tomada por EEUU de cerrar el tráfico aéreo de todo el país por motivos de seguridad",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/11/15/6af95298e4d4d8e20f8b4575.html",
+   "f": "2026-11-15T08:08:04Z",
+   "c": "comercio"
+  },
+  {
+   "t": "Aviones en tierra, caída de Microsoft y caos de la IA, ¿puede romperse todo?: \"Las guerras ya no se hacen con bombas\"",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/11/15/6af950d5e4d4d834768b456e.html",
+   "f": "2026-11-15T07:14:24Z",
+   "c": "transporte"
+  },
+  {
+   "t": "Más de 120.000 firmas encabezadas por Musk piden a Nvidia que devuelva a Huang al mando",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261115/11684688/mas-120-000-firmas-encabezadas-musk-piden-nvidia-devuelva-huang-mando.html",
+   "f": "2026-11-15T05:50:46Z",
+   "c": "tecnologia"
+  },
   {
    "t": "El ‘Jexit’ hace temblar a la IA",
    "m": "La Vanguardia",
@@ -14,13 +35,6 @@
    "u": "https://www.lavanguardia.com/economia/20261115/11684380/factura-luz-encarece-61-ano-electrodomesticos.html",
    "f": "2026-11-15T05:00:00Z",
    "c": "energia"
-  },
-  {
-   "t": "Centros de datos en cuestión",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261115/11684379/centros-datos-cuestion.html",
-   "f": "2026-11-15T05:00:00Z",
-   "c": "general"
   },
   {
    "t": "El drama de las víctimas de fraude que no pueden recuperar su dinero: “El banco me dijo que era culpa mía”",
@@ -42,20 +56,6 @@
    "u": "https://elpais.com/economia/2026-11-15/nvidia-tiro-de-la-salida-a-bolsa-de-anthropic-con-una-inyeccion-de-10000-millones-en-la-ultima-operacion-de-huang.html",
    "f": "2026-11-15T04:45:00Z",
    "c": "tecnologia"
-  },
-  {
-   "t": "La banca alarga los plazos de los depósitos hasta los cuatro años y paga más del 3%",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-15/la-banca-alarga-los-plazos-de-los-depositos-hasta-los-cuatro-anos-y-paga-mas-del-3.html",
-   "f": "2026-11-15T04:30:00Z",
-   "c": "bancos"
-  },
-  {
-   "t": "Yolanda Díaz afronta una \"complicada\" batalla por dirigir una OIT sacudida por la retirada de fondos de Trump",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/yolanda-diaz-afronta-una-complicada-batalla-por-dirigir-una-oit-sacudida-por-retirada-fondos-trump_7060963_0.html",
-   "f": "2026-11-15T04:00:00Z",
-   "c": "comercio"
   }
  ]
 }
