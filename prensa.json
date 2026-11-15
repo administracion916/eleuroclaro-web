@@ -1,6 +1,27 @@
 {
- "actualizado": "2026-11-15T19:27:09Z",
+ "actualizado": "2026-11-15T22:10:38Z",
  "items": [
+  {
+   "t": "La UTE apadrinada por el exchófer de Sánchez logró subir a Adif un 15% el precio de la obra del AVE tras resultar la adjudicataria",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/11/15/6af9beaae4d4d8d9558b459d.html",
+   "f": "2026-11-15T21:42:25Z",
+   "c": "precios"
+  },
+  {
+   "t": "Los neobancos arrasan en la captación de nuevos clientes: Trade Republic, Revolut y MyInvestor crecen por encima del 15% este año",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/dinero-inversion/2026/11/15/6af6dc28e9cf4a7b448b457f.html",
+   "f": "2026-11-15T21:04:08Z",
+   "c": "general"
+  },
+  {
+   "t": "El Sindicato de Inquilinas abre su nueva etapa ante el posible cambio de Gobierno en Vistalegre: \"Lo que se ha encendido aquí ya no lo para nadie\"",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/11/15/6af9d36ee85eceb7168b4577.html",
+   "f": "2026-11-15T19:30:07Z",
+   "c": "vivienda"
+  },
   {
    "t": "El Sindicato de Inquilinas exhibe músculo en Vistalegre tras la huelga general por la vivienda",
    "m": "El País",
@@ -9,10 +30,10 @@
    "c": "vivienda"
   },
   {
-   "t": "Trump exige al Congreso aprobar más fondos para modernizar el sistema aéreo de Estados Unidos",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/11/15/6af9fb00fc6c8309458b457b.html",
-   "f": "2026-11-15T18:34:41Z",
+   "t": "Trump exige al Congreso aprobar más fondos para modernizar el sistema aéreo de EEUU",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/2026/11/15/trump-exige-congreso-aprobar-fondos-modernizar-sistema-aereo-eeuu.html",
+   "f": "2026-11-15T17:43:15Z",
    "c": "comercio"
   },
   {
@@ -35,27 +56,6 @@
    "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/vivienda-publica-espana-apenas-llega-3-5-lejos-60-que-tuvo-los-anos-80_7061314_0.html",
    "f": "2026-11-15T15:00:21Z",
    "c": "vivienda"
-  },
-  {
-   "t": "Un seguro público contra los impagos del alquiler elevaría 1,5 puntos la emancipación de los jóvenes de 26 a 30 años en España",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/macroeconomia/2026/11/15/6af748c6fc6c83bf2b8b4585.html",
-   "f": "2026-11-15T13:17:41Z",
-   "c": "vivienda"
-  },
-  {
-   "t": "La 'financiación circular' de la Inteligencia Artificial, en su hora más difícil",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/empresas/2026/11/15/6af61618e85ecef6528b45a4.html",
-   "f": "2026-11-15T13:14:22Z",
-   "c": "tecnologia"
-  },
-  {
-   "t": "CCOO amenaza con una huelga del transporte de mercancías el 23 y 24 de diciembre",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261115/11684756/ccoo-amenaza-huelga-transporte-mercancias-23-24-diciembre.html",
-   "f": "2026-11-15T11:42:11Z",
-   "c": "empleo"
   }
  ]
 }
