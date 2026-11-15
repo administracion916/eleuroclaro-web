@@ -1,6 +1,41 @@
 {
- "actualizado": "2026-11-15T12:53:37Z",
+ "actualizado": "2026-11-15T16:11:29Z",
  "items": [
+  {
+   "t": "Descarrila un tren de mercancías en Madrid por el desprendimiento de un talud",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-11-15/descarrila-un-tren-de-mercancias-en-madrid-por-el-desprendimiento-de-un-talud.html",
+   "f": "2026-11-15T15:12:53Z",
+   "c": "transporte"
+  },
+  {
+   "t": "Las fresas, los tomates, las legumbres verdes y las frutas tropicales, entre los alimentos que más se encarecen en el último año",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/las-fresas-los-tomates-las-legumbres-verdes-las-frutas-tropicales-entre-los-alimentos-que-mas-se-encarecen-ultimo-ano_7061315_0.html",
+   "f": "2026-11-15T15:06:29Z",
+   "c": "precios"
+  },
+  {
+   "t": "La vivienda pública en España apenas llega al 3,5%, lejos del 60% que tuvo en los años 80",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/vivienda-publica-espana-apenas-llega-3-5-lejos-60-que-tuvo-los-anos-80_7061314_0.html",
+   "f": "2026-11-15T15:00:21Z",
+   "c": "vivienda"
+  },
+  {
+   "t": "Un seguro público contra los impagos del alquiler elevaría 1,5 puntos la emancipación de los jóvenes de 26 a 30 años en España",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/macroeconomia/2026/11/15/6af748c6fc6c83bf2b8b4585.html",
+   "f": "2026-11-15T13:17:41Z",
+   "c": "vivienda"
+  },
+  {
+   "t": "La 'financiación circular' de la Inteligencia Artificial, en su hora más difícil",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/empresas/2026/11/15/6af61618e85ecef6528b45a4.html",
+   "f": "2026-11-15T13:14:22Z",
+   "c": "tecnologia"
+  },
   {
    "t": "CCOO amenaza con una huelga del transporte de mercancías el 23 y 24 de diciembre",
    "m": "La Vanguardia",
@@ -21,41 +56,6 @@
    "u": "https://www.elmundo.es/economia/2026/11/15/6af99089e4d4d83f498b4574.html",
    "f": "2026-11-15T11:07:16Z",
    "c": "economia"
-  },
-  {
-   "t": "El transporte de mercancías por carretera irá a la huelga en plena Navidad por el bloqueo del Gobierno a la jubilación anticipada",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/11/15/6af98ae6e9cf4a17278b4579.html",
-   "f": "2026-11-15T10:41:15Z",
-   "c": "pensiones"
-  },
-  {
-   "t": "Los neobancos multiplicaron casi por cuatro sus depósitos entre 2008 y 2024, hasta superar los 80.000 millones",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/los-neobancos-multiplicaron-casi-por-cuatro-sus-depositos-entre-2008-2024-hasta-superar-los-80-000-millones_7061255_0.html",
-   "f": "2026-11-15T10:32:59Z",
-   "c": "general"
-  },
-  {
-   "t": "Las horas extra no pagadas aumentaron un 22,6% este verano e impidieron la creación de 55.355 empleos a jornada completa",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/las-horas-extra-no-pagadas-aumentaron-un-22-6-este-verano-impidieron-creacion-55-355-empleos-jornada-completa_7061247_0.html",
-   "f": "2026-11-15T10:09:41Z",
-   "c": "empleo"
-  },
-  {
-   "t": "Yolanda Díaz aspira a convertirse en la primera mujer y la primera española al frente de la OIT",
-   "m": "Expansión",
-   "u": "https://www.expansion.com/economia/2026/11/15/yolanda-diaz-aspira-convertirse-primera-mujer-primera-espanola-frente-oit.html",
-   "f": "2026-11-15T09:45:22Z",
-   "c": "general"
-  },
-  {
-   "t": "Yolanda Díaz aspira el lunes a convertirse en la primera mujer y española al frente de la OIT",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/laboral-00346/noticia-yolanda-diaz-aspira-lunes-convertirse-primera-mujer-espanola-frente-oit-20261115093250.html",
-   "f": "2026-11-15T08:32:50Z",
-   "c": "general"
   }
  ]
 }
