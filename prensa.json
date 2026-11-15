@@ -1,6 +1,41 @@
 {
- "actualizado": "2026-11-15T10:10:12Z",
+ "actualizado": "2026-11-15T12:10:38Z",
  "items": [
+  {
+   "t": "CC OO convoca huelga en Navidad en el transporte por carretera por el retraso del Gobierno en el anticipo de la jubilación",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-11-15/cc-oo-convoca-huelga-en-navidad-en-el-transporte-de-mercancias-por-el-retraso-del-gobierno-en-el-anticipo-de-la-jubilacion.html",
+   "f": "2026-11-15T11:19:36Z",
+   "c": "pensiones"
+  },
+  {
+   "t": "El matemático Ian Stewart defiende una \"desaceleración\" de la IA: \"Se encuentra actualmente en un estado de anarquía\"",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/11/15/6af99089e4d4d83f498b4574.html",
+   "f": "2026-11-15T11:07:16Z",
+   "c": "economia"
+  },
+  {
+   "t": "El transporte de mercancías por carretera irá a la huelga en plena Navidad por el bloqueo del Gobierno a la jubilación anticipada",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/11/15/6af98ae6e9cf4a17278b4579.html",
+   "f": "2026-11-15T10:41:15Z",
+   "c": "pensiones"
+  },
+  {
+   "t": "Los neobancos multiplicaron casi por cuatro sus depósitos entre 2008 y 2024, hasta superar los 80.000 millones",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/los-neobancos-multiplicaron-casi-por-cuatro-sus-depositos-entre-2008-2024-hasta-superar-los-80-000-millones_7061255_0.html",
+   "f": "2026-11-15T10:32:59Z",
+   "c": "general"
+  },
+  {
+   "t": "Las horas extra no pagadas aumentaron un 22,6% este verano e impidieron la creación de 55.355 empleos a jornada completa",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/las-horas-extra-no-pagadas-aumentaron-un-22-6-este-verano-impidieron-creacion-55-355-empleos-jornada-completa_7061247_0.html",
+   "f": "2026-11-15T10:09:41Z",
+   "c": "empleo"
+  },
   {
    "t": "Yolanda Díaz aspira a convertirse en la primera mujer y la primera española al frente de la OIT",
    "m": "Expansión",
@@ -21,41 +56,6 @@
    "u": "https://www.elmundo.es/economia/2026/11/15/6af95298e4d4d8e20f8b4575.html",
    "f": "2026-11-15T08:08:04Z",
    "c": "comercio"
-  },
-  {
-   "t": "Aviones en tierra, caída de Microsoft y caos de la IA, ¿puede romperse todo?: \"Las guerras ya no se hacen con bombas\"",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/11/15/6af950d5e4d4d834768b456e.html",
-   "f": "2026-11-15T07:14:24Z",
-   "c": "transporte"
-  },
-  {
-   "t": "Cuerpo enmienda la 'era Puente' en diez días: cambia la cúpula de Renfe y Adif y negocia con sindicatos para evitar las huelgas",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/nacional/cuerpo-enmienda-era-puente-diez-dias-cambia-cupula-renfe-adif-negocia-con-sindicatos-para-evitar-las-huelgas_7060814_0.html",
-   "f": "2026-11-15T06:53:02Z",
-   "c": "transporte"
-  },
-  {
-   "t": "Más de 120.000 firmas encabezadas por Musk piden a Nvidia que devuelva a Huang al mando",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261115/11684688/mas-120-000-firmas-encabezadas-musk-piden-nvidia-devuelva-huang-mando.html",
-   "f": "2026-11-15T05:50:46Z",
-   "c": "tecnologia"
-  },
-  {
-   "t": "El ‘Jexit’ hace temblar a la IA",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261115/11684389/jexit-temblar-ia.html",
-   "f": "2026-11-15T05:00:00Z",
-   "c": "tecnologia"
-  },
-  {
-   "t": "La factura de la luz encarece un 61% en un año el uso de los electrodomésticos",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261115/11684380/factura-luz-encarece-61-ano-electrodomesticos.html",
-   "f": "2026-11-15T05:00:00Z",
-   "c": "energia"
   }
  ]
 }
