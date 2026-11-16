@@ -1,6 +1,20 @@
 {
- "actualizado": "2026-11-16T18:12:12Z",
+ "actualizado": "2026-11-16T20:10:49Z",
  "items": [
+  {
+   "t": "El Gobierno también aprobará este martes la nueva deducción del salario mínimo para que sus perceptores no paguen IRPF",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-11-16/el-gobierno-tambien-aprobara-este-martes-la-nueva-deduccion-del-salario-minimo-para-que-sus-perceptores-no-paguen-irpf.html",
+   "f": "2026-11-16T19:56:01Z",
+   "c": "empleo"
+  },
+  {
+   "t": "La junta directiva de Nvidia no contempla restituir a Jensen Huang como CEO del gigante de los chips",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/noticia-junta-directiva-nvidia-no-contempla-restituir-jensen-huang-ceo-gigante-chips-20261116200346.html",
+   "f": "2026-11-16T19:03:46Z",
+   "c": "tecnologia"
+  },
   {
    "t": "La suspensión de los vuelos en Estados Unidos abre un agujero millonario a las aerolíneas",
    "m": "20minutos",
@@ -42,20 +56,6 @@
    "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/cuatro-cada-diez-consumidores-pediran-consejo-ia-proximas-compras-navidenas_7061490_0.html",
    "f": "2026-11-16T17:03:29Z",
    "c": "precios"
-  },
-  {
-   "t": "La campaña para que Jensen Huang vuelva a ser consejero delegado de Nvidia",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/empresas/2026/11/16/6afb3008e4d4d810428b4575.html",
-   "f": "2026-11-16T16:49:20Z",
-   "c": "tecnologia"
-  },
-  {
-   "t": "El impacto positivo y la coherencia en los valores, aspectos a mejorar en las organizaciones",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261116/11685569/impacto-positivo-coherencia-valores-aspectos-mejorar-organizaciones.html",
-   "f": "2026-11-16T16:49:09Z",
-   "c": "general"
   }
  ]
 }
