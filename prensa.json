@@ -1,26 +1,47 @@
 {
- "actualizado": "2026-11-15T22:10:38Z",
+ "actualizado": "2026-11-16T00:05:27Z",
  "items": [
   {
-   "t": "La UTE apadrinada por el exchófer de Sánchez logró subir a Adif un 15% el precio de la obra del AVE tras resultar la adjudicataria",
+   "t": "La firma que avaló a la petrolera del 'caso Aldama' y a otros 30 operadores expulsados por fraude sigue en la lista oficial de verificadores del Gobierno",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/empresas/2026/11/16/6af3198221efa028658b4585.html",
+   "f": "2026-11-16T00:01:33Z",
+   "c": "general"
+  },
+  {
+   "t": "Los cuarenta y seis sectores que crean empleo en España",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/2026/11/16/cuarenta-seis-sectores-crean-empleo-espana.html",
+   "f": "2026-11-15T23:03:21Z",
+   "c": "empleo"
+  },
+  {
+   "t": "Parón del transporte de mercancías por carretera en plena Nochebuena",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/2026/11/15/paron-transporte-mercancias-carretera-plena-nochebuena.html",
+   "f": "2026-11-15T22:57:18Z",
+   "c": "transporte"
+  },
+  {
+   "t": "Cómo quieren los partidos deshacer el nudo gordiano de la burocracia",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/2026/11/15/quieren-partidos-deshacer-nudo-gordiano-burocracia.html",
+   "f": "2026-11-15T22:56:24Z",
+   "c": "general"
+  },
+  {
+   "t": "Jensen Huang planea su regreso a Nvidia con el apoyo de Elon Musk y otros líderes de Silicon Valley",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/empresas/2026/11/15/6afa2b78fc6c83b0238b4591.html",
+   "f": "2026-11-15T22:12:33Z",
+   "c": "tecnologia"
+  },
+  {
+   "t": "La UTE apadrinada por el exchófer de Sánchez logró que Adif le subiera un 15% el precio de la obra tras tenerla adjudicada",
    "m": "El Mundo",
    "u": "https://www.elmundo.es/economia/2026/11/15/6af9beaae4d4d8d9558b459d.html",
    "f": "2026-11-15T21:42:25Z",
    "c": "precios"
-  },
-  {
-   "t": "Los neobancos arrasan en la captación de nuevos clientes: Trade Republic, Revolut y MyInvestor crecen por encima del 15% este año",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/dinero-inversion/2026/11/15/6af6dc28e9cf4a7b448b457f.html",
-   "f": "2026-11-15T21:04:08Z",
-   "c": "general"
-  },
-  {
-   "t": "El Sindicato de Inquilinas abre su nueva etapa ante el posible cambio de Gobierno en Vistalegre: \"Lo que se ha encendido aquí ya no lo para nadie\"",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/11/15/6af9d36ee85eceb7168b4577.html",
-   "f": "2026-11-15T19:30:07Z",
-   "c": "vivienda"
   },
   {
    "t": "El Sindicato de Inquilinas exhibe músculo en Vistalegre tras la huelga general por la vivienda",
@@ -30,32 +51,11 @@
    "c": "vivienda"
   },
   {
-   "t": "Trump exige al Congreso aprobar más fondos para modernizar el sistema aéreo de EEUU",
-   "m": "Expansión",
-   "u": "https://www.expansion.com/economia/2026/11/15/trump-exige-congreso-aprobar-fondos-modernizar-sistema-aereo-eeuu.html",
-   "f": "2026-11-15T17:43:15Z",
-   "c": "comercio"
-  },
-  {
    "t": "Descarrila un tren de mercancías en Madrid por el desprendimiento de un talud",
    "m": "El País",
    "u": "https://elpais.com/economia/2026-11-15/descarrila-un-tren-de-mercancias-en-madrid-por-el-desprendimiento-de-un-talud.html",
    "f": "2026-11-15T15:12:53Z",
    "c": "transporte"
-  },
-  {
-   "t": "Las fresas, los tomates, las legumbres verdes y las frutas tropicales, entre los alimentos que más se encarecen en el último año",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/las-fresas-los-tomates-las-legumbres-verdes-las-frutas-tropicales-entre-los-alimentos-que-mas-se-encarecen-ultimo-ano_7061315_0.html",
-   "f": "2026-11-15T15:06:29Z",
-   "c": "precios"
-  },
-  {
-   "t": "La vivienda pública en España apenas llega al 3,5%, lejos del 60% que tuvo en los años 80",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/vivienda-publica-espana-apenas-llega-3-5-lejos-60-que-tuvo-los-anos-80_7061314_0.html",
-   "f": "2026-11-15T15:00:21Z",
-   "c": "vivienda"
   }
  ]
 }
