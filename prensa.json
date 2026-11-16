@@ -1,61 +1,61 @@
 {
- "actualizado": "2026-11-16T00:05:27Z",
+ "actualizado": "2026-11-16T06:11:51Z",
  "items": [
   {
-   "t": "La firma que avaló a la petrolera del 'caso Aldama' y a otros 30 operadores expulsados por fraude sigue en la lista oficial de verificadores del Gobierno",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/empresas/2026/11/16/6af3198221efa028658b4585.html",
-   "f": "2026-11-16T00:01:33Z",
-   "c": "general"
-  },
-  {
-   "t": "Los cuarenta y seis sectores que crean empleo en España",
-   "m": "Expansión",
-   "u": "https://www.expansion.com/economia/2026/11/16/cuarenta-seis-sectores-crean-empleo-espana.html",
-   "f": "2026-11-15T23:03:21Z",
-   "c": "empleo"
-  },
-  {
-   "t": "Parón del transporte de mercancías por carretera en plena Nochebuena",
-   "m": "Expansión",
-   "u": "https://www.expansion.com/economia/2026/11/15/paron-transporte-mercancias-carretera-plena-nochebuena.html",
-   "f": "2026-11-15T22:57:18Z",
-   "c": "transporte"
-  },
-  {
-   "t": "Cómo quieren los partidos deshacer el nudo gordiano de la burocracia",
-   "m": "Expansión",
-   "u": "https://www.expansion.com/economia/2026/11/15/quieren-partidos-deshacer-nudo-gordiano-burocracia.html",
-   "f": "2026-11-15T22:56:24Z",
-   "c": "general"
-  },
-  {
-   "t": "Jensen Huang planea su regreso a Nvidia con el apoyo de Elon Musk y otros líderes de Silicon Valley",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/empresas/2026/11/15/6afa2b78fc6c83b0238b4591.html",
-   "f": "2026-11-15T22:12:33Z",
+   "t": "Los valores tecnológicos arrastran a las Bolsas asiáticas en su caída mientras Europa apunta al alza",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-16/la-bolsa-y-el-ibex-35.html",
+   "f": "2026-11-16T05:46:03Z",
    "c": "tecnologia"
   },
   {
-   "t": "La UTE apadrinada por el exchófer de Sánchez logró que Adif le subiera un 15% el precio de la obra tras tenerla adjudicada",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/11/15/6af9beaae4d4d8d9558b459d.html",
-   "f": "2026-11-15T21:42:25Z",
-   "c": "precios"
+   "t": "Dell, Telefónica y Multiverse: tecnología para Móra la Nova // El audaz historial de Hernández de Cos",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261116/11684873/dell-telefonica-multiverse-tecnologia-mora-nova-audaz-historial-hernandez-cos.html",
+   "f": "2026-11-16T05:00:00Z",
+   "c": "tecnologia"
   },
   {
-   "t": "El Sindicato de Inquilinas exhibe músculo en Vistalegre tras la huelga general por la vivienda",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-11-15/el-sindicato-de-inquilinas-exhibe-musculo-en-vistalegre-tras-la-huelga-general-por-la-vivienda.html",
-   "f": "2026-11-15T18:54:53Z",
+   "t": "La compra de vivienda de extranjeros no residentes se hunde un 35% en Barcelona",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261116/11684866/compra-vivienda-extranjeros-residentes-hunde-35-barcelona.html",
+   "f": "2026-11-16T05:00:00Z",
    "c": "vivienda"
   },
   {
-   "t": "Descarrila un tren de mercancías en Madrid por el desprendimiento de un talud",
+   "t": "La deuda hipotecaria llega al nivel más alto en una década",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261116/11684863/deuda-hipotecaria-llega-nivel-mas-alto-decada.html",
+   "f": "2026-11-16T05:00:00Z",
+   "c": "tipos"
+  },
+  {
+   "t": "Bruselas se reserva la aprobación del último pago del plan de recuperación hasta el día después de las elecciones",
    "m": "El País",
-   "u": "https://elpais.com/economia/2026-11-15/descarrila-un-tren-de-mercancias-en-madrid-por-el-desprendimiento-de-un-talud.html",
-   "f": "2026-11-15T15:12:53Z",
-   "c": "transporte"
+   "u": "https://elpais.com/economia/2026-11-16/bruselas-se-reserva-la-aprobacion-del-ultimo-pago-del-plan-de-recuperacion-hasta-el-dia-despues-de-las-elecciones.html",
+   "f": "2026-11-16T04:45:01Z",
+   "c": "comercio"
+  },
+  {
+   "t": "Feijóo pone en el foco a casi 30 consejeros del Ibex con su plan de despolitización",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-11-16/feijoo-pone-en-el-foco-a-casi-30-consejeros-del-ibex-con-su-plan-de-despolitizacion.html",
+   "f": "2026-11-16T04:45:00Z",
+   "c": "empresas"
+  },
+  {
+   "t": "Amplios horizontes sindicales",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-11-16/amplios-horizontes-sindicales.html",
+   "f": "2026-11-16T04:30:00Z",
+   "c": "general"
+  },
+  {
+   "t": "Decisiones inmobiliarias y el corte de pelo de 300.000 dólares",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-16/decisiones-inmobiliarias-y-el-corte-de-pelo-de-300000-dolares.html",
+   "f": "2026-11-16T04:25:00Z",
+   "c": "vivienda"
   }
  ]
 }
