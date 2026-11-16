@@ -1,12 +1,54 @@
 {
- "actualizado": "2026-11-16T06:11:51Z",
+ "actualizado": "2026-11-16T08:16:49Z",
  "items": [
   {
-   "t": "Los valores tecnológicos arrastran a las Bolsas asiáticas en su caída mientras Europa apunta al alza",
+   "t": "Las Bolsas europeas abren al alza pese a la caída de los valores tecnológicos",
    "m": "Cinco Días",
    "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-16/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-11-16T05:46:03Z",
+   "f": "2026-11-16T08:03:11Z",
    "c": "tecnologia"
+  },
+  {
+   "t": "Yolanda Díaz retira su candidatura para dirigir la Organización Internacional del Trabajo",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/2026/11/16/yolanda-diaz-retira-candidatura-dirigir-organizacion-internacional-trabajo.html",
+   "f": "2026-11-16T07:36:05Z",
+   "c": "general"
+  },
+  {
+   "t": "Yolanda Díaz retira su candidatura a la Organización Internacional del Trabajo (OIT) para \"no dividir\" al movimiento sindical",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/11/16/6afaae0021efa0532e8b4579.html",
+   "f": "2026-11-16T07:17:22Z",
+   "c": "general"
+  },
+  {
+   "t": "Díaz retira su candidatura para dirigir la OIT para \"no dividir\" al movimiento sindical",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/laboral-00346/noticia-diaz-retira-candidatura-dirigir-oit-no-dividir-movimiento-sindical-20261116081310.html",
+   "f": "2026-11-16T07:13:10Z",
+   "c": "general"
+  },
+  {
+   "t": "Moeve sondea la venta de sus estaciones de servicio",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/noticia-moeve-sondea-venta-estaciones-servicio-20261116080903.html",
+   "f": "2026-11-16T07:09:03Z",
+   "c": "general"
+  },
+  {
+   "t": "Yolanda Díaz retira su candidatura a presidir la Organización Internacional del Trabajo entre críticas a la actual dirección: \"Ha pisoteado el diálogo social\"",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/yolanda-diaz-retira-su-candidatura-presidir-oit-horas-antes-las-elecciones_7061421_0.html",
+   "f": "2026-11-16T07:08:20Z",
+   "c": "general"
+  },
+  {
+   "t": "Yolanda Díaz retira su candidatura a la dirección general de la OIT",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-11-16/yolanda-diaz-retira-su-candidatura-a-la-direccion-general-de-la-oit.html",
+   "f": "2026-11-16T06:59:46Z",
+   "c": "general"
   },
   {
    "t": "Dell, Telefónica y Multiverse: tecnología para Móra la Nova // El audaz historial de Hernández de Cos",
@@ -14,48 +56,6 @@
    "u": "https://www.lavanguardia.com/economia/20261116/11684873/dell-telefonica-multiverse-tecnologia-mora-nova-audaz-historial-hernandez-cos.html",
    "f": "2026-11-16T05:00:00Z",
    "c": "tecnologia"
-  },
-  {
-   "t": "La compra de vivienda de extranjeros no residentes se hunde un 35% en Barcelona",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261116/11684866/compra-vivienda-extranjeros-residentes-hunde-35-barcelona.html",
-   "f": "2026-11-16T05:00:00Z",
-   "c": "vivienda"
-  },
-  {
-   "t": "La deuda hipotecaria llega al nivel más alto en una década",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261116/11684863/deuda-hipotecaria-llega-nivel-mas-alto-decada.html",
-   "f": "2026-11-16T05:00:00Z",
-   "c": "tipos"
-  },
-  {
-   "t": "Bruselas se reserva la aprobación del último pago del plan de recuperación hasta el día después de las elecciones",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-11-16/bruselas-se-reserva-la-aprobacion-del-ultimo-pago-del-plan-de-recuperacion-hasta-el-dia-despues-de-las-elecciones.html",
-   "f": "2026-11-16T04:45:01Z",
-   "c": "comercio"
-  },
-  {
-   "t": "Feijóo pone en el foco a casi 30 consejeros del Ibex con su plan de despolitización",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-11-16/feijoo-pone-en-el-foco-a-casi-30-consejeros-del-ibex-con-su-plan-de-despolitizacion.html",
-   "f": "2026-11-16T04:45:00Z",
-   "c": "empresas"
-  },
-  {
-   "t": "Amplios horizontes sindicales",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-11-16/amplios-horizontes-sindicales.html",
-   "f": "2026-11-16T04:30:00Z",
-   "c": "general"
-  },
-  {
-   "t": "Decisiones inmobiliarias y el corte de pelo de 300.000 dólares",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-16/decisiones-inmobiliarias-y-el-corte-de-pelo-de-300000-dolares.html",
-   "f": "2026-11-16T04:25:00Z",
-   "c": "vivienda"
   }
  ]
 }
