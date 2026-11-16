@@ -1,61 +1,61 @@
 {
- "actualizado": "2026-11-16T13:53:18Z",
+ "actualizado": "2026-11-16T16:13:21Z",
  "items": [
   {
-   "t": "Las aseguradoras piden que las empresas deban abrir planes de pensiones a los trabajadores",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261116/11685626/aseguradoras-piden-empresas-deban-abrir-planes-pensiones-trabajadores.html",
-   "f": "2026-11-16T13:34:24Z",
+   "t": "El inversor español José Alberto Barreras reactiva un proyecto inmobiliario de más de 20 millones en Bucarest",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-11-16/el-inversor-espanol-jose-alberto-barreras-reactiva-un-proyecto-inmobiliario-de-mas-de-20-millones-en-bucarest.html",
+   "f": "2026-11-16T15:32:30Z",
+   "c": "vivienda"
+  },
+  {
+   "t": "EEUU cierra a China la puerta de atrás a sus chips de IA tras el escándalo de Nvidia",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/2026/11/16/eeuu-cierra-china-puerta-atras-chips-ia-escandalo-nvidia.html",
+   "f": "2026-11-16T15:31:17Z",
+   "c": "tecnologia"
+  },
+  {
+   "t": "La OCDE señala la baja rentabilidad de los planes de pensiones como causa de su escasa penetración",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-11-16/la-ocde-senala-la-baja-rentabilidad-de-los-planes-de-pensiones-como-causa-de-su-escasa-penetracion.html",
+   "f": "2026-11-16T15:30:14Z",
    "c": "pensiones"
   },
   {
-   "t": "El Consejo de Ministros aprobará mañana la subida del 5,3% del SMI",
+   "t": "El Gobierno adjudica 17,5 millones a Orange y Telefónica para desplegar 5G en zonas muy rurales",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-11-16/el-gobierno-adjudica-175-millones-a-orange-y-telefonica-para-desplegar-5g-en-zonas-muy-rurales.html",
+   "f": "2026-11-16T15:09:19Z",
+   "c": "empresas"
+  },
+  {
+   "t": "Las startups textiles del TecnoCampus tendrán espacio y contactos en Suecia gracias a un acuerdo con la incubadora de Borås",
    "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261116/11685617/consejo-ministros-aprobara-manana-subida-5-3-smi.html",
-   "f": "2026-11-16T13:28:41Z",
-   "c": "empleo"
+   "u": "https://www.lavanguardia.com/economia/innovacion/20261116/11685673/startups-textiles-tecnocampus-tendran-espacio-contactos-suecia-gracias-acuerdo-incubadora-boraas-brl.html",
+   "f": "2026-11-16T15:01:08Z",
+   "c": "tecnologia"
   },
   {
-   "t": "El Gobierno aprobará el martes la subida del salario mínimo hasta 1.286 euros al mes a 12 días de las elecciones",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/gobierno-aprobara-martes-subida-salario-minimo-hasta-1-286-euros-mes-12-dias-las-elecciones_7061669_0.html",
-   "f": "2026-11-16T13:14:37Z",
-   "c": "empleo"
-  },
-  {
-   "t": "El Gobierno aprobará mañana la subida del 5,3% del SMI en 2027, hasta los 1.286 euros al mes",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/laboral-00346/noticia-gobierno-aprobara-manana-subida-53-smi-2027-1286-euros-mes-20261116140908.html",
-   "f": "2026-11-16T13:09:08Z",
-   "c": "empleo"
-  },
-  {
-   "t": "El Gobierno aprobará mañana la subida del 5,3% del SMI",
+   "t": "Confirmado por Hacienda: los trabajadores que acepten una prejubilación voluntaria tendrán que tributar por el dinero recibido",
    "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/empresas/2026/11/16/6afafd7d21efa00b548b45bd.html",
-   "f": "2026-11-16T13:06:11Z",
-   "c": "empleo"
+   "u": "https://www.elmundo.es/economia/2026/11/16/6afadc96e85ece37488b4576.html",
+   "f": "2026-11-16T14:42:17Z",
+   "c": "pensiones"
   },
   {
-   "t": "El Gobierno aprobará este martes la subida del salario mínimo de 2027 a 1.286 euros",
+   "t": "¿Yalta 2.0? Trump, Xi y Putin encabezan una semana de intensa diplomacia internacional en Asia",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/financial-times/2026/11/16/yalta-2-0-trump-xi-putin-encabezan-semana-intensa-diplomacia-internacional-asia.html",
+   "f": "2026-11-16T14:33:24Z",
+   "c": "comercio"
+  },
+  {
+   "t": "Los sindicatos mantienen la huelga de este martes en el ferrocarril pese a las mejoras en seguridad ofrecidas por Transportes",
    "m": "El País",
-   "u": "https://elpais.com/economia/2026-11-16/el-gobierno-aprobara-este-martes-la-subida-del-salario-minimo-de-2027-a-1286-euros.html",
-   "f": "2026-11-16T13:00:18Z",
-   "c": "empleo"
-  },
-  {
-   "t": "La justicia italiana interviene la sucursal de Revolut por fallos en los controles antiblanqueo de fondos vinculados a la mafia",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/justicia-italiana-interviene-sucursal-revolut-por-fallos-los-controles-antiblanqueo_7061656_0.html",
-   "f": "2026-11-16T12:55:43Z",
-   "c": "general"
-  },
-  {
-   "t": "El hiperciclo de las infraestructuras: un cambio económico global",
-   "m": "El País",
-   "u": "https://elpais.com/economia/negocios/2026-11-16/el-hiperciclo-de-las-infraestructuras-un-cambio-economico-global.html",
-   "f": "2026-11-16T12:43:35Z",
-   "c": "general"
+   "u": "https://elpais.com/economia/2026-11-16/transportes-espera-la-respuesta-sindical-a-su-oferta-de-mejoras-en-el-ferrocarril-a-horas-de-una-nueva-huelga-de-24-horas.html",
+   "f": "2026-11-16T14:32:19Z",
+   "c": "transporte"
   }
  ]
 }
