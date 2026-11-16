@@ -1,6 +1,48 @@
 {
- "actualizado": "2026-11-16T20:10:49Z",
+ "actualizado": "2026-11-16T22:10:51Z",
  "items": [
+  {
+   "t": "Sánchez atribuye el apagón a una sobretensión: \"Hoy Repsol ha denunciado a otras compañías energéticas\"",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/energia-00341/noticia-sanchez-atribuye-apagon-sobretension-hoy-repsol-denunciado-otras-companias-energeticas-20261116222857.html",
+   "f": "2026-11-16T21:28:57Z",
+   "c": "energia"
+  },
+  {
+   "t": "Las claves de la primera gran operación europea entre Commerzbank y UniCredit: del golpe de efecto de Orcel a la 'cesión' para los alemanes",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/las-claves-primera-gran-operacion-europea-entre-commerzbank-unicredit-golpe-efecto-orcel-cesion-para-los-alemanes_7061870_0.html",
+   "f": "2026-11-16T20:56:38Z",
+   "c": "general"
+  },
+  {
+   "t": "El Gobierno aprobará mañana la subida de sueldo de los funcionarios para 2027",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261116/11685911/gobierno-aprobara-manana-subida-sueldo-funcionarios-2027.html",
+   "f": "2026-11-16T20:46:34Z",
+   "c": "empleo"
+  },
+  {
+   "t": "El Gobierno aprobará este martes la subida del 4,5% de los salarios de los funcionarios para 2027",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-11-16/el-gobierno-aprobara-este-martes-la-subida-del-45-de-los-salarios-de-los-funcionarios-para-2027.html",
+   "f": "2026-11-16T20:42:46Z",
+   "c": "empleo"
+  },
+  {
+   "t": "El Gobierno aprobará mañana la subida del sueldo de los funcionarios para 2027",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/2026/11/16/gobierno-aprobara-manana-subida-sueldo-funcionarios-2027.html",
+   "f": "2026-11-16T20:35:04Z",
+   "c": "empleo"
+  },
+  {
+   "t": "Sánchez anuncia que el Gobierno aprobará este martes la subida salarial del 4,5% para funcionarios en 2027",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/laboral-00346/noticia-sanchez-anuncia-consejo-ministros-aprobara-martes-subida-salarial-empleados-publicos-20261116212958.html",
+   "f": "2026-11-16T20:29:58Z",
+   "c": "empleo"
+  },
   {
    "t": "El Gobierno también aprobará este martes la nueva deducción del salario mínimo para que sus perceptores no paguen IRPF",
    "m": "El País",
@@ -9,53 +51,11 @@
    "c": "empleo"
   },
   {
-   "t": "La junta directiva de Nvidia no contempla restituir a Jensen Huang como CEO del gigante de los chips",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/noticia-junta-directiva-nvidia-no-contempla-restituir-jensen-huang-ceo-gigante-chips-20261116200346.html",
-   "f": "2026-11-16T19:03:46Z",
-   "c": "tecnologia"
-  },
-  {
-   "t": "La suspensión de los vuelos en Estados Unidos abre un agujero millonario a las aerolíneas",
+   "t": "Miles de usuarios de EEUU denuncian problemas de acceso a los principales bancos del país",
    "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/empresas/suspension-los-vuelos-estados-unidos-abre-un-agujero-millonario-las-aerolineas_7061831_0.html",
-   "f": "2026-11-16T18:07:23Z",
-   "c": "pensiones"
-  },
-  {
-   "t": "Fly2Galicia, obligada a cambiar de aerolínea por impagos a dos semanas de empezar a volar",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-11-16/fly2galicia-obligada-a-cambiar-de-aerolinea-por-impagos-a-dos-semanas-de-empezar-a-volar.html",
-   "f": "2026-11-16T18:02:16Z",
-   "c": "transporte"
-  },
-  {
-   "t": "El grupo de Jainaga se refuerza en almacenaje industrial con la compra de Polypal",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-11-16/el-grupo-de-jainaga-se-refuerza-en-almacenaje-industrial-con-la-compra-de-polypal.html",
-   "f": "2026-11-16T17:25:28Z",
-   "c": "empresas"
-  },
-  {
-   "t": "Warren Buffett dona 5.500 millones a las fundaciones de su familia",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261116/11685795/warren-buffett-dona-5-500-millones-fundaciones-familia.html",
-   "f": "2026-11-16T17:06:42Z",
-   "c": "general"
-  },
-  {
-   "t": "La prensa de Países Bajos ya apunta a una posible retirada del rival de Hernández de Cos p la presidencia del BCE aunque el Gobierno lo niega",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/11/16/6afb299e21efa0e4508b4597.html",
-   "f": "2026-11-16T17:06:40Z",
-   "c": "tipos"
-  },
-  {
-   "t": "Cuatro de cada diez consumidores pedirán consejo a la IA para las próximas compras navideñas",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/cuatro-cada-diez-consumidores-pediran-consejo-ia-proximas-compras-navidenas_7061490_0.html",
-   "f": "2026-11-16T17:03:29Z",
-   "c": "precios"
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/miles-usuarios-eeuu-denuncian-problemas-acceso-los-principales-bancos-pais_7061863_0.html",
+   "f": "2026-11-16T19:51:09Z",
+   "c": "bancos"
   }
  ]
 }
