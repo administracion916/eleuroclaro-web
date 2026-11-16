@@ -1,6 +1,27 @@
 {
- "actualizado": "2026-11-16T22:10:51Z",
+ "actualizado": "2026-11-16T23:28:49Z",
  "items": [
+  {
+   "t": "Biogran ante el regreso a la 'comida limpia' tras el desencanto con lo ultraprocesado: \"El consumidor se ha dado cuenta de que esa tendencia sí, pero no a…",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/11/17/6aecc917e85ece42678b458d.html",
+   "f": "2026-11-16T23:02:42Z",
+   "c": "precios"
+  },
+  {
+   "t": "United Airlines sufre una caída generalizada de sus sistemas días después del caos aéreo en Estados Unidos",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/11/16/6afb88f6fc6c8357268b458b.html",
+   "f": "2026-11-16T22:51:37Z",
+   "c": "comercio"
+  },
+  {
+   "t": "De comprar una casa 'okupada' a perderla el primer día... por una empresa de 'desokupas': \"Te dan una patada en la puerta, se quedan tu casa por la cara y…",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/vivienda/2026/11/16/6af5aabbfdddff742b8b4574.html",
+   "f": "2026-11-16T21:43:11Z",
+   "c": "vivienda"
+  },
   {
    "t": "Sánchez atribuye el apagón a una sobretensión: \"Hoy Repsol ha denunciado a otras compañías energéticas\"",
    "m": "Europa Press",
@@ -35,27 +56,6 @@
    "u": "https://www.expansion.com/economia/2026/11/16/gobierno-aprobara-manana-subida-sueldo-funcionarios-2027.html",
    "f": "2026-11-16T20:35:04Z",
    "c": "empleo"
-  },
-  {
-   "t": "Sánchez anuncia que el Gobierno aprobará este martes la subida salarial del 4,5% para funcionarios en 2027",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/laboral-00346/noticia-sanchez-anuncia-consejo-ministros-aprobara-martes-subida-salarial-empleados-publicos-20261116212958.html",
-   "f": "2026-11-16T20:29:58Z",
-   "c": "empleo"
-  },
-  {
-   "t": "El Gobierno también aprobará este martes la nueva deducción del salario mínimo para que sus perceptores no paguen IRPF",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-11-16/el-gobierno-tambien-aprobara-este-martes-la-nueva-deduccion-del-salario-minimo-para-que-sus-perceptores-no-paguen-irpf.html",
-   "f": "2026-11-16T19:56:01Z",
-   "c": "empleo"
-  },
-  {
-   "t": "Miles de usuarios de EEUU denuncian problemas de acceso a los principales bancos del país",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/miles-usuarios-eeuu-denuncian-problemas-acceso-los-principales-bancos-pais_7061863_0.html",
-   "f": "2026-11-16T19:51:09Z",
-   "c": "bancos"
   }
  ]
 }
