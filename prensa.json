@@ -1,60 +1,60 @@
 {
- "actualizado": "2026-11-16T10:11:28Z",
+ "actualizado": "2026-11-16T12:13:50Z",
  "items": [
   {
-   "t": "Moeve sondea el precio de su red de estaciones de servicio para una posible venta",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-11-16/moeve-sondea-el-precio-de-su-red-de-estaciones-de-servicio-para-una-posible-venta.html",
-   "f": "2026-11-16T10:00:35Z",
-   "c": "precios"
-  },
-  {
-   "t": "Precio del aceite de oliva virgen extra desde hoy, lunes, 16 de noviembre de 2026, en los supermercados: cuánto cuesta en Mercadona, Carrefour o Alcampo",
+   "t": "Euríbor hoy, lunes 16 de noviembre: sube con fuerza y se consolida la tendencia al alza",
    "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/11/16/6afab365e9cf4a1d118b4590.html",
-   "f": "2026-11-16T09:40:53Z",
-   "c": "precios"
+   "u": "https://www.elmundo.es/economia/2026/11/16/6afae942e9cf4a5c798b4593.html",
+   "f": "2026-11-16T12:09:29Z",
+   "c": "tipos"
   },
   {
-   "t": "Huelga de trenes de Renfe el 17 de noviembre: consulta las cancelaciones y los servicios mínimos",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/transportes-00343/noticia-huelga-trenes-renfe-17-noviembre-consulta-cancelaciones-servicios-minimos-20261116102532.html",
-   "f": "2026-11-16T09:25:32Z",
-   "c": "transporte"
-  },
-  {
-   "t": "Indecisión en las Bolsas europeas por la incertidumbre sobre Nvidia y Anthropic",
+   "t": "Millicom compra Entel Perú por 1.580 millones de euros y refuerza su expansión en Latinoamérica",
    "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-16/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-11-16T09:25:03Z",
-   "c": "tecnologia"
+   "u": "https://cincodias.elpais.com/companias/2026-11-16/millicom-compra-entel-peru-por-1580-millones-de-euros-y-refuerza-su-expansion-en-latinoamerica.html",
+   "f": "2026-11-16T12:06:45Z",
+   "c": "comercio"
   },
   {
-   "t": "Cuerpo anuncia que este lunes se constituye el comité de expertos ferroviarios para impulsar un plan de seguridad",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/11/16/6afacab8fc6c83924a8b4595.html",
-   "f": "2026-11-16T09:19:57Z",
+   "t": "Yolanda Díaz no optará a ningún otro puesto dentro de la OIT tras retirar su candidatura",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/yolanda-diaz-no-optara-ningun-otro-puesto-dentro-oit-tras-retirar-su-candidatura_7061591_0.html",
+   "f": "2026-11-16T12:02:20Z",
    "c": "general"
   },
   {
-   "t": "Precio de los huevos desde hoy, lunes, 16 de noviembre de 2026, en los supermercados: cuánto cuestan en Mercadona, Carrefour o Alcampo",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/11/16/6afab35efc6c8305658b4575.html",
-   "f": "2026-11-16T09:15:44Z",
-   "c": "precios"
+   "t": "Telefónica abre una nueva etapa en su capital riesgo y nombra a Paloma Castellano directora general de Wayra",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-11-16/telefonica-abre-una-nueva-etapa-en-su-capital-riesgo-y-nombra-a-paloma-castellano-directora-general-de-wayra.html",
+   "f": "2026-11-16T12:02:16Z",
+   "c": "empresas"
   },
   {
-   "t": "Transportes espera la respuesta sindical a su oferta de mejoras en el ferrocarril en puertas de una nueva huelga de 24 horas",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-11-16/transportes-espera-la-respuesta-sindical-a-su-oferta-de-mejoras-en-el-ferrocarril-a-horas-de-una-nueva-huelga-de-24-horas.html",
-   "f": "2026-11-16T09:09:34Z",
-   "c": "transporte"
+   "t": "Los sindicatos amagan con huelga en el transporte por carretera si el Gobierno no da luz verde a la jubilación anticipada",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/2026/11/16/sindicatos-amagan-huelga-transporte-carretera-gobierno-da-luz-verde-jubilacion-anticipada.html",
+   "f": "2026-11-16T12:00:13Z",
+   "c": "pensiones"
   },
   {
-   "t": "La bombona de butano sube un 3,5% y se encarece hasta 19,55 euros, el precio máximo fijado por el Gobierno",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/energia-00341/noticia-bombona-butano-sube-35-encarece-1955-euros-precio-maximo-fijado-gobierno-20261116100843.html",
-   "f": "2026-11-16T09:08:43Z",
+   "t": "Repsol demanda a Iberdrola, Naturgy, Endesa y Red Eléctrica por los daños del apagón",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/empresas/repsol-demanda-iberdrola-naturgy-endesa-red-electrica-por-los-danos-apagon_7061619_0.html",
+   "f": "2026-11-16T12:00:01Z",
+   "c": "energia"
+  },
+  {
+   "t": "Andrés Millán, abogado, sobre la edad a la que dejar de trabajar: \"Jubilarte dos años antes te quita un 21% de pensión para siempre\"",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/2026/11/16/andres-millan-abogado-sobre-edad-dejar-trabajar-jubilarte-dos-anos-te-quita-21-pension-siempre.html",
+   "f": "2026-11-16T11:52:12Z",
+   "c": "pensiones"
+  },
+  {
+   "t": "El precio de la bombona de butano sube a un récord de 19,55 euros, el tope fijado por el Gobierno",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261116/11685391/bombona-butano-precio-coste-revision-gas.html",
+   "f": "2026-11-16T11:51:13Z",
    "c": "precios"
   }
  ]
