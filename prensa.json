@@ -1,61 +1,61 @@
 {
- "actualizado": "2026-11-17T10:12:16Z",
+ "actualizado": "2026-11-17T12:12:22Z",
  "items": [
   {
-   "t": "Bruselas impulsa a España con matices: mejora su crecimiento al 2,6% este año pero la inflación se dispara por la factura energética",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/bruselas-impulsa-espana-con-matices-mejora-su-crecimiento-2-6-para-este-ano-pero-inflacion-se-dispara-por-factura-energetica_7061952_0.html",
-   "f": "2026-11-17T10:06:35Z",
-   "c": "energia"
-  },
-  {
-   "t": "La advertencia de Bruselas en plena campaña: mejora su previsión de crecimiento para España pero constata que los precios se disparan",
+   "t": "El Gobierno lanza en plena campaña electoral la subida del salario mínimo a 1.286 euros que alcanza a 2,5 millones de trabajadores",
    "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/11/17/6afc1a57e9cf4af8588b45ab.html",
-   "f": "2026-11-17T10:04:54Z",
-   "c": "precios"
-  },
-  {
-   "t": "Bruselas mejora las previsiones económicas de la zona euro y España pese a la guerra y la inflación",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-11-17/bruselas-mejora-las-previsiones-economicas-de-la-zona-euro-y-espana-pese-a-la-guerra-y-la-inflacion.html",
-   "f": "2026-11-17T10:02:40Z",
-   "c": "precios"
-  },
-  {
-   "t": "Ibercaja devuelve a los jóvenes hasta 150 euros de sus compras con tarjeta",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/empresas/ibercaja-devuelve-los-jovenes-hasta-150-euros-sus-compras-con-tarjeta_7061997_0.html",
-   "f": "2026-11-17T10:01:31Z",
-   "c": "bancos"
-  },
-  {
-   "t": "Sube el precio de la bombona de butano: esto es lo que costará a partir de este martes",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/11/17/6afc22b0fdddff2c608b4582.html",
-   "f": "2026-11-17T09:59:52Z",
-   "c": "precios"
-  },
-  {
-   "t": "La huelga del ferrocarril paraliza por completo Cercanías de Madrid y deja en Rodalies un 40% de los servicios mínimos suspendidos",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-11-17/mas-de-15-millones-de-viajeros-en-tren-vuelven-a-estar-pendientes-de-24-horas-de-paro-sindical.html",
-   "f": "2026-11-17T09:59:23Z",
-   "c": "transporte"
-  },
-  {
-   "t": "Sordo (CCOO) dice que la subida salarial de los funcionarios \"tiene que ser la habitual para todos\"",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/laboral-00346/noticia-sordo-ccoo-dice-subida-salarial-funcionarios-tiene-ser-habitual-todos-20261117103258.html",
-   "f": "2026-11-17T09:32:58Z",
+   "u": "https://www.elmundo.es/economia/2026/11/17/6afc2279fc6c83ea548b45a1.html",
+   "f": "2026-11-17T12:05:00Z",
    "c": "empleo"
   },
   {
-   "t": "La deuda pública se modera en septiembre al 100,3% del PIB con un importe récord de 1,767 billones",
+   "t": "El coste de criar a un hijo se eleva hasta los 835 euros al mes, lastrado por la vivienda",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/11/17/6afc391de85eced2268b458e.html",
+   "f": "2026-11-17T11:59:02Z",
+   "c": "vivienda"
+  },
+  {
+   "t": "El Gobierno da luz verde a la subida del SMI en un 5,3% en 2027, hasta los 1.286 euros mensuales",
    "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/macroeconomia-00338/noticia-deuda-publica-modera-septiembre-1003-pib-importe-record-1767-billones-20261117102945.html",
-   "f": "2026-11-17T09:29:45Z",
-   "c": "impuestos"
+   "u": "https://www.europapress.es/economia/laboral-00346/noticia-gobierno-da-luz-verde-subida-smi-53-2027-1286-euros-mensuales-20261117125842.html",
+   "f": "2026-11-17T11:58:42Z",
+   "c": "energia"
+  },
+  {
+   "t": "El Gobierno aprueba subir el salario mínimo un 5,3% y el sueldo de los funcionarios un 4,5%",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-11-17/el-gobierno-aprueba-subir-el-salario-minimo-un-53-y-el-sueldo-de-los-funcionarios-un-45.html",
+   "f": "2026-11-17T11:50:39Z",
+   "c": "empleo"
+  },
+  {
+   "t": "Irene Montero propone prisión para los empresarios que no paguen ni compensen las horas extra",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/laboral-00346/noticia-irene-montero-propone-prision-empresarios-no-paguen-compensen-horas-extra-20261117124611.html",
+   "f": "2026-11-17T11:46:11Z",
+   "c": "empresas"
+  },
+  {
+   "t": "Luz verde a la subida de sueldo a los funcionarios del 4,5% para 2027",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/2026/11/17/luz-verde-subida-sueldo-funcionarios-4-5-2027.html",
+   "f": "2026-11-17T11:45:00Z",
+   "c": "energia"
+  },
+  {
+   "t": "El Gobierno aprueba la subida del salario mínimo hasta 1.286 euros para 2027",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/2026/11/17/gobierno-aprueba-subida-salario-minimo-1-286-euros-2027.html",
+   "f": "2026-11-17T11:42:45Z",
+   "c": "empleo"
+  },
+  {
+   "t": "Euríbor hoy, martes 17 de noviembre: nueva subida que mira ya hacia el 3,3%",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/11/17/6afc3aaae9cf4af7268b4596.html",
+   "f": "2026-11-17T11:38:14Z",
+   "c": "tipos"
   }
  ]
 }
