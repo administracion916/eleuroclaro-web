@@ -1,12 +1,33 @@
 {
- "actualizado": "2026-11-17T22:12:20Z",
+ "actualizado": "2026-11-17T23:05:04Z",
  "items": [
   {
-   "t": "Nvidia bate previsiones al disparar sus ingresos un 103% y defiende el poder de su tecnología y su remuneración a los accionistas",
+   "t": "Alerta digital en EEUU: las redes de seguridad, aeropuertos, bancos y tecnológicas caen en una misma semana",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/2026/11/17/alerta-digital-eeuu-redes-seguridad-aeropuertos-bancos-tecnologicas-caen-semana.html",
+   "f": "2026-11-17T22:42:13Z",
+   "c": "transporte"
+  },
+  {
+   "t": "Nvidia bate todas las expectativas en el primer informe trimestral sin Jensen Huang",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261117/11686877/nvidia-bate-todas-expectativas-primer-informe-trimestral-jensen-huang.html",
+   "f": "2026-11-17T22:27:18Z",
+   "c": "tecnologia"
+  },
+  {
+   "t": "Nvidia bate previsiones al duplicar los ingresos y los beneficios, y defiende el poder de su tecnología",
    "m": "El País",
    "u": "https://elpais.com/economia/2026-11-17/nvidia-bate-previsiones-al-disparar-sus-ingresos-un-103-y-defiende-el-poder-de-su-tecnologia-y-su-remuneracion-a-los-accionistas.html",
    "f": "2026-11-17T21:49:21Z",
    "c": "economia"
+  },
+  {
+   "t": "Nvidia anuncia un beneficio acumulado de 183.297 millones en pleno escándalo por la dimisión de su CEO",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/empresas/nvidia-anuncia-un-beneficio-183-297-millones-hasta-septiembre-pleno-escandalo-por-dimision-su-ceo_7062387_0.html",
+   "f": "2026-11-17T21:43:50Z",
+   "c": "tecnologia"
   },
   {
    "t": "Nvidia supera expectativas y gana 59.335 millones en su tercer trimestre, un 105% más",
@@ -35,27 +56,6 @@
    "u": "https://elpais.com/economia/2026-11-17/openai-presiona-a-anthropic-en-plena-salida-a-bolsa-con-su-nueva-version-de-astra.html",
    "f": "2026-11-17T19:29:02Z",
    "c": "tecnologia"
-  },
-  {
-   "t": "Cercanías de Madrid y Rodalies recuperan pulso tras tener las líneas paralizadas y 700.000 afectados por la huelga del ferrocarril",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-11-17/mas-de-15-millones-de-viajeros-en-tren-vuelven-a-estar-pendientes-de-24-horas-de-paro-sindical.html",
-   "f": "2026-11-17T19:05:41Z",
-   "c": "transporte"
-  },
-  {
-   "t": "Bruselas estima que la subida encubierta de impuestos del Gobierno al no deflactar el IRPF costará a los ciudadanos más de 2.500 millones este año",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/11/17/6afc3f49e9cf4aa8668b4572.html",
-   "f": "2026-11-17T18:55:48Z",
-   "c": "impuestos"
-  },
-  {
-   "t": "El primer centro europeo de mantenimiento de motores de Ryanair se instalará en Sevilla",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-11-17/el-primer-centro-europeo-de-mantenimiento-de-motores-de-ryanair-se-instalara-en-sevilla.html",
-   "f": "2026-11-17T18:02:38Z",
-   "c": "empresas"
   }
  ]
 }
