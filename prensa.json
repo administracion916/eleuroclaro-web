@@ -1,6 +1,34 @@
 {
- "actualizado": "2026-11-17T18:09:53Z",
+ "actualizado": "2026-11-17T20:11:56Z",
  "items": [
+  {
+   "t": "Apple sufre una interrupción de algunos de sus servicios y problemas de acceso a iCloud",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/empresas/2026/11/17/6afca6bc21efa0fd7e8b45ca.html",
+   "f": "2026-11-17T19:32:03Z",
+   "c": "general"
+  },
+  {
+   "t": "OpenAI presiona a Anthropic en plena salida a Bolsa con su nueva versión de Astra",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-11-17/openai-presiona-a-anthropic-en-plena-salida-a-bolsa-con-su-nueva-version-de-astra.html",
+   "f": "2026-11-17T19:29:02Z",
+   "c": "tecnologia"
+  },
+  {
+   "t": "Cercanías de Madrid y Rodalies recuperan pulso tras tener las líneas paralizadas y 700.000 afectados por la huelga del ferrocarril",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-11-17/mas-de-15-millones-de-viajeros-en-tren-vuelven-a-estar-pendientes-de-24-horas-de-paro-sindical.html",
+   "f": "2026-11-17T19:05:41Z",
+   "c": "transporte"
+  },
+  {
+   "t": "Bruselas estima que la subida encubierta de impuestos del Gobierno al no deflactar el IRPF costará a los ciudadanos más de 2.500 millones este año",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/11/17/6afc3f49e9cf4aa8668b4572.html",
+   "f": "2026-11-17T18:55:48Z",
+   "c": "impuestos"
+  },
   {
    "t": "El primer centro europeo de mantenimiento de motores de Ryanair se instalará en Sevilla",
    "m": "Cinco Días",
@@ -16,25 +44,11 @@
    "c": "general"
   },
   {
-   "t": "¿Un mercado sin ‘traders’? Agentes de IA cierran por la primera venta de bonos sin intervención humana",
+   "t": "¿Un mercado sin ‘traders’? Agentes de IA negocian la primera venta de bonos sin intervención humana",
    "m": "Cinco Días",
    "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-17/un-mercado-sin-traders-agentes-de-ia-cierran-por-la-primera-venta-de-bonos-sin-intervencion-humana.html",
    "f": "2026-11-17T17:45:40Z",
    "c": "tecnologia"
-  },
-  {
-   "t": "José Luis Bonet, reelegido como presidente de la Cámara de Comercio de España hasta 2030",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-11-17/jose-luis-bonet-reelegido-como-presidente-de-la-camara-de-comercio-de-espana-hasta-2030.html",
-   "f": "2026-11-17T17:22:12Z",
-   "c": "general"
-  },
-  {
-   "t": "Cercanías de Madrid y Rodalies recuperan algo de pulso tras tener las líneas paralizadas y 700.000 afectados por la huelga del ferrocarril",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-11-17/mas-de-15-millones-de-viajeros-en-tren-vuelven-a-estar-pendientes-de-24-horas-de-paro-sindical.html",
-   "f": "2026-11-17T17:20:37Z",
-   "c": "transporte"
   },
   {
    "t": "El Ibex 35 cede un 1,61% al cierre y se sitúa en los 19.625 puntos, con Indra cayendo un 6,4%",
@@ -42,20 +56,6 @@
    "u": "https://www.europapress.es/economia/bolsa-00348/noticia-ibex-35-cede-161-cierre-situa-19625-puntos-indra-cayendo-64-20261117181746.html",
    "f": "2026-11-17T17:17:46Z",
    "c": "empresas"
-  },
-  {
-   "t": "Jensen Huang dice que \"se sentiría honrado de volver a dirigir Nvidia\" si se lo pide el consejo de administración",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/empresas/2026/11/17/6afc8958fc6c83ea548b45ba.html",
-   "f": "2026-11-17T17:16:38Z",
-   "c": "tecnologia"
-  },
-  {
-   "t": "La CEOE y organizaciones empresariales francesas piden impulsar el crecimiento de las compañías de tamaño intermedio",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-11-17/la-ceoe-y-organizaciones-empresariales-francesas-piden-impulsar-el-crecimiento-de-las-companias-de-tamano-intermedio.html",
-   "f": "2026-11-17T17:12:05Z",
-   "c": "economia"
   }
  ]
 }
