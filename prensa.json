@@ -1,6 +1,20 @@
 {
- "actualizado": "2026-11-17T14:14:57Z",
+ "actualizado": "2026-11-17T14:46:44Z",
  "items": [
+  {
+   "t": "Cuerpo da una semana a los expertos para elaborar un plan de acción del ferrocarril",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-11-17/cuerpo-da-una-semana-a-los-expertos-para-elaborar-un-plan-de-accion-del-ferrocarril.html",
+   "f": "2026-11-17T14:38:31Z",
+   "c": "transporte"
+  },
+  {
+   "t": "Tubacex gana cuota en el sector nuclear con un nuevo pedido para una central en construcción en Reino Unido",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-11-17/tubacex-gana-cuota-en-el-sector-nuclear-con-un-nuevo-pedido-para-una-central-en-construccion-en-reino-unido.html",
+   "f": "2026-11-17T14:25:01Z",
+   "c": "energia"
+  },
   {
    "t": "El Gobierno pone fin al secreto salarial y prohíbe preguntar el sueldo previo en las entrevistas de trabajo",
    "m": "20minutos",
@@ -37,25 +51,11 @@
    "c": "empleo"
   },
   {
-   "t": "Las Bolsas europeas aceleran los recortes con las tecnológicas y Nvidia de telón de fondo",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-17/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-11-17T13:14:38Z",
-   "c": "tecnologia"
-  },
-  {
    "t": "Europa aparca la ley de morosidad impulsada por Pimec y otras patronales de pymes",
    "m": "La Vanguardia",
    "u": "https://www.lavanguardia.com/economia/20261117/11686518/europa-aparca-ley-morosidad-impulsada-pimec-patronales-pymes.html",
    "f": "2026-11-17T13:04:37Z",
    "c": "bancos"
-  },
-  {
-   "t": "El TSJC deberá resolver si fue legal retirar el teletrabajo a los subdirectores de la Generalitat",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261117/11686444/tsjc-debera-resolver-legal-retirar-teletrabajo-subdirectores-generalitat.html",
-   "f": "2026-11-17T12:54:32Z",
-   "c": "empleo"
   }
  ]
 }
