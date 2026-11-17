@@ -1,61 +1,61 @@
 {
- "actualizado": "2026-11-17T08:11:17Z",
+ "actualizado": "2026-11-17T10:12:16Z",
  "items": [
   {
-   "t": "Cercanías y Rodalies alertan de que no se están cumpliendo los servicios mínimos y recomiendan usar transporte alternativo",
+   "t": "Bruselas impulsa a España con matices: mejora su crecimiento al 2,6% este año pero la inflación se dispara por la factura energética",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/bruselas-impulsa-espana-con-matices-mejora-su-crecimiento-2-6-para-este-ano-pero-inflacion-se-dispara-por-factura-energetica_7061952_0.html",
+   "f": "2026-11-17T10:06:35Z",
+   "c": "energia"
+  },
+  {
+   "t": "La advertencia de Bruselas en plena campaña: mejora su previsión de crecimiento para España pero constata que los precios se disparan",
    "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/11/17/6afbf4c2e9cf4a547f8b4577.html",
-   "f": "2026-11-17T08:03:44Z",
-   "c": "general"
+   "u": "https://www.elmundo.es/economia/2026/11/17/6afc1a57e9cf4af8588b45ab.html",
+   "f": "2026-11-17T10:04:54Z",
+   "c": "precios"
   },
   {
-   "t": "Nerviosismo en las Bolsas por las trabas tecnológicas de EE UU a China y con el foco en Nvidia",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-17/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-11-17T08:02:46Z",
-   "c": "tecnologia"
+   "t": "Bruselas mejora las previsiones económicas de la zona euro y España pese a la guerra y la inflación",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-11-17/bruselas-mejora-las-previsiones-economicas-de-la-zona-euro-y-espana-pese-a-la-guerra-y-la-inflacion.html",
+   "f": "2026-11-17T10:02:40Z",
+   "c": "precios"
   },
   {
-   "t": "Zegona pierde 109 millones en seis meses por la refinanciación de la deuda y suma cuatro trimestres de crecimiento acelerado de ingresos",
+   "t": "Ibercaja devuelve a los jóvenes hasta 150 euros de sus compras con tarjeta",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/empresas/ibercaja-devuelve-los-jovenes-hasta-150-euros-sus-compras-con-tarjeta_7061997_0.html",
+   "f": "2026-11-17T10:01:31Z",
+   "c": "bancos"
+  },
+  {
+   "t": "Sube el precio de la bombona de butano: esto es lo que costará a partir de este martes",
    "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/empresas/2026/11/17/6afc0471e85ece51138b45c1.html",
-   "f": "2026-11-17T07:56:07Z",
-   "c": "economia"
+   "u": "https://www.elmundo.es/economia/2026/11/17/6afc22b0fdddff2c608b4582.html",
+   "f": "2026-11-17T09:59:52Z",
+   "c": "precios"
   },
   {
-   "t": "Huelga en Renfe: recomiendan transporte alternativo por no cumplirse los servicios mínimos",
-   "m": "Expansión",
-   "u": "https://www.expansion.com/economia/2026/11/17/huelga-renfe-recomiendan-transporte-alternativo-cumplirse-servicios-minimos.html",
-   "f": "2026-11-17T07:43:11Z",
-   "c": "transporte"
-  },
-  {
-   "t": "Vodafone España consolida su recuperación y encadena cuatro trimestres de crecimiento",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-11-17/vodafone-espana-consolida-su-recuperacion-y-encadena-cuatro-trimestres-de-crecimiento.html",
-   "f": "2026-11-17T07:27:05Z",
-   "c": "economia"
-  },
-  {
-   "t": "EEUU decide restringir el acceso de China a sus chips de IA en medio del caso de posible espionaje en Nvidia",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/11/17/6afbf8a9e4d4d82f448b459f.html",
-   "f": "2026-11-17T07:23:39Z",
-   "c": "tecnologia"
-  },
-  {
-   "t": "¿Qué ventajas fiscales ofrece invertir en un plan de pensiones?",
-   "m": "Expansión",
-   "u": "https://www.expansion.com/economia/2026/11/17/ventajas-fiscales-ofrece-invertir-plan-pensiones.html",
-   "f": "2026-11-17T07:21:02Z",
-   "c": "pensiones"
-  },
-  {
-   "t": "Renfe pide a los viajeros que busquen alternativas a Cercanías y Rodalies por el incumplimiento de los servicios mínimos en la huelga del ferrocarril",
+   "t": "La huelga del ferrocarril paraliza por completo Cercanías de Madrid y deja en Rodalies un 40% de los servicios mínimos suspendidos",
    "m": "El País",
    "u": "https://elpais.com/economia/2026-11-17/mas-de-15-millones-de-viajeros-en-tren-vuelven-a-estar-pendientes-de-24-horas-de-paro-sindical.html",
-   "f": "2026-11-17T07:10:29Z",
+   "f": "2026-11-17T09:59:23Z",
    "c": "transporte"
+  },
+  {
+   "t": "Sordo (CCOO) dice que la subida salarial de los funcionarios \"tiene que ser la habitual para todos\"",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/laboral-00346/noticia-sordo-ccoo-dice-subida-salarial-funcionarios-tiene-ser-habitual-todos-20261117103258.html",
+   "f": "2026-11-17T09:32:58Z",
+   "c": "empleo"
+  },
+  {
+   "t": "La deuda pública se modera en septiembre al 100,3% del PIB con un importe récord de 1,767 billones",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/macroeconomia-00338/noticia-deuda-publica-modera-septiembre-1003-pib-importe-record-1767-billones-20261117102945.html",
+   "f": "2026-11-17T09:29:45Z",
+   "c": "impuestos"
   }
  ]
 }
