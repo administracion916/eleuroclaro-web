@@ -1,61 +1,61 @@
 {
- "actualizado": "2026-11-17T23:05:04Z",
+ "actualizado": "2026-11-18T06:12:35Z",
  "items": [
   {
-   "t": "Alerta digital en EEUU: las redes de seguridad, aeropuertos, bancos y tecnológicas caen en una misma semana",
-   "m": "Expansión",
-   "u": "https://www.expansion.com/economia/2026/11/17/alerta-digital-eeuu-redes-seguridad-aeropuertos-bancos-tecnologicas-caen-semana.html",
-   "f": "2026-11-17T22:42:13Z",
+   "t": "PLD Space refuerza su futuro cohete Miura 5 al contratar el lanzamiento de un satélite de su socio Mitsubishi Electric",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-11-18/pld-space-refuerza-su-futuro-cohete-miura-5-al-contratar-el-lanzamiento-de-un-satelite-de-su-socio-mitsubishi-electric.html",
+   "f": "2026-11-18T06:00:00Z",
+   "c": "energia"
+  },
+  {
+   "t": "Las Bolsas fluctúan tras los resultados de Nvidia",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-18/la-bolsa-y-el-ibex-35.html",
+   "f": "2026-11-18T05:33:13Z",
+   "c": "tecnologia"
+  },
+  {
+   "t": "El ecosistema digital europeo dispara la inversión en startups un 62%",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261118/11686819/ecosistema-digital-europeo-dispara-inversion-startups-62.html",
+   "f": "2026-11-18T05:00:00Z",
+   "c": "tecnologia"
+  },
+  {
+   "t": "Ante la incertidumbre en el mercado residencial: ¿por qué invertir en apartamentos hoteleros?",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261118/11686258/apartamentos-hoteleros-oportunidad-inversion-barcelona-2028-brl.html",
+   "f": "2026-11-18T04:55:00Z",
    "c": "transporte"
   },
   {
-   "t": "Nvidia bate todas las expectativas en el primer informe trimestral sin Jensen Huang",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261117/11686877/nvidia-bate-todas-expectativas-primer-informe-trimestral-jensen-huang.html",
-   "f": "2026-11-17T22:27:18Z",
-   "c": "tecnologia"
-  },
-  {
-   "t": "Nvidia bate previsiones al duplicar los ingresos y los beneficios, y defiende el poder de su tecnología",
+   "t": "La vivienda protegida pierde peso en el mercado inmobiliario en plena crisis habitacional",
    "m": "El País",
-   "u": "https://elpais.com/economia/2026-11-17/nvidia-bate-previsiones-al-disparar-sus-ingresos-un-103-y-defiende-el-poder-de-su-tecnologia-y-su-remuneracion-a-los-accionistas.html",
-   "f": "2026-11-17T21:49:21Z",
-   "c": "economia"
+   "u": "https://elpais.com/economia/vivienda/2026-11-18/la-vivienda-protegida-pierde-peso-en-el-mercado-inmobiliario-en-plena-crisis-habitacional.html",
+   "f": "2026-11-18T04:45:01Z",
+   "c": "vivienda"
   },
   {
-   "t": "Nvidia anuncia un beneficio acumulado de 183.297 millones en pleno escándalo por la dimisión de su CEO",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/empresas/nvidia-anuncia-un-beneficio-183-297-millones-hasta-septiembre-pleno-escandalo-por-dimision-su-ceo_7062387_0.html",
-   "f": "2026-11-17T21:43:50Z",
-   "c": "tecnologia"
-  },
-  {
-   "t": "Nvidia supera expectativas y gana 59.335 millones en su tercer trimestre, un 105% más",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/noticia-nvidia-supera-expectativas-gana-59335-millones-tercer-trimestre-105-mas-20261117223237.html",
-   "f": "2026-11-17T21:32:37Z",
-   "c": "tecnologia"
-  },
-  {
-   "t": "¿Sabías que existe un seguro de cancelación de bodas? Te lo contamos en un minuto",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/sabias-que-existe-un-seguro-cancelacion-bodas-te-contamos-un-minuto_7062316_0.html",
-   "f": "2026-11-17T20:27:34Z",
+   "t": "El Gobierno entierra el registro horario pese a las promesas de aprobarlo antes de las elecciones",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-11-18/el-gobierno-entierra-el-registro-horario-pese-a-las-promesas-de-aprobarlo-antes-de-las-elecciones.html",
+   "f": "2026-11-18T04:45:01Z",
    "c": "general"
   },
   {
-   "t": "Apple sufre una interrupción de algunos de sus servicios y problemas de acceso a iCloud",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/empresas/2026/11/17/6afca6bc21efa0fd7e8b45ca.html",
-   "f": "2026-11-17T19:32:03Z",
+   "t": "El capitalismo de Estado gana terreno",
+   "m": "El País",
+   "u": "https://elpais.com/economia/negocios/2026-11-18/el-capitalismo-de-estado-gana-terreno.html",
+   "f": "2026-11-18T04:30:00Z",
    "c": "general"
   },
   {
-   "t": "OpenAI presiona a Anthropic en plena salida a Bolsa con su nueva versión de Astra",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-11-17/openai-presiona-a-anthropic-en-plena-salida-a-bolsa-con-su-nueva-version-de-astra.html",
-   "f": "2026-11-17T19:29:02Z",
-   "c": "tecnologia"
+   "t": "María del Pino gana 445 millones a través de su holding gracias a la venta de acciones de Ferrovial",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-11-18/maria-del-pino-gana-445-millones-a-traves-de-su-holding-gracias-a-la-venta-de-acciones-de-ferrovial.html",
+   "f": "2026-11-18T04:15:00Z",
+   "c": "empresas"
   }
  ]
 }
