@@ -1,61 +1,61 @@
 {
- "actualizado": "2026-11-18T12:10:30Z",
+ "actualizado": "2026-11-18T14:10:34Z",
  "items": [
   {
-   "t": "Unos 130.000 funcionarios tendrán una subida de sueldo extra en 2027: ¿a quién le afecta?",
-   "m": "Expansión",
-   "u": "https://www.expansion.com/economia/funcion-publica/2026/11/18/130-000-funcionarios-tendran-subida-sueldo-extra-2027-le-afecta.html",
-   "f": "2026-11-18T12:04:41Z",
-   "c": "empleo"
-  },
-  {
-   "t": "Alemania oficializa el apoyo a De Cos para presidir el BCE tras confirmar la candidatura de Brunnermeier para economista jefe",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/alemania-oficializa-apoyo-cos-presidir-bce_7062614_0.html",
-   "f": "2026-11-18T12:00:42Z",
+   "t": "El BCE ve \"paralelismos\" entre el auge del endeudamiento de la IA y las burbujas puntocom y subprime",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/finanzas-00340/noticia-bce-ve-paralelismos-auge-endeudamiento-ia-burbujas-puntocom-subprime-20261118144932.html",
+   "f": "2026-11-18T13:49:32Z",
    "c": "tipos"
   },
   {
-   "t": "Crece el número de nacimientos en España por primera vez en tres años",
+   "t": "¿Qué hay detrás de la serie de caídas tecnológicas que afectan a empresas y viajeros?",
    "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/11/18/6afd8a96fdddff9c5c8b45c2.html",
-   "f": "2026-11-18T11:39:29Z",
+   "u": "https://www.elmundo.es/economia/2026/11/18/6afda0ede4d4d8672b8b4572.html",
+   "f": "2026-11-18T13:33:50Z",
+   "c": "transporte"
+  },
+  {
+   "t": "El BCE advierte de que el auge de la IA tiene “paralelismos históricos” con las ‘subprime’",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-18/el-bce-advierte-de-que-el-auge-de-la-ia-tiene-paralelismos-historicos-con-las-subprime.html",
+   "f": "2026-11-18T13:30:23Z",
+   "c": "tipos"
+  },
+  {
+   "t": "Cuenta atrás para acudir a la salida a Bolsa de Anthropic: guía para los minoristas españoles",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/empresas/cuenta-atras-para-acudir-salida-bolsa-anthropic-guia-para-los-minoristas-espanoles_7062646_0.html",
+   "f": "2026-11-18T13:20:05Z",
+   "c": "empresas"
+  },
+  {
+   "t": "Terres de l'Ebre aprueba el planeamiento urbanístico de la gigafactoría en Móra la Nova",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261118/11687299/terres-l-ebre-aprueba-planeamiento-urbanistico-gigafactoria-mora-nova.html",
+   "f": "2026-11-18T13:20:02Z",
    "c": "general"
   },
   {
-   "t": "El BCE señala la alta deuda pública y las \"ambiciosas\" expectativas de ganancias con la IA como los principales riesgos para la estabilidad financiera",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/bce-alerta-riesgos-estabilidad-financiera_7062526_0.html",
-   "f": "2026-11-18T11:33:53Z",
-   "c": "tipos"
-  },
-  {
-   "t": "Fedea propone rebajar los impuestos de transmisiones y actos jurídicos para abaratar la vivienda",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261118/11687146/fedea-propone-rebajar-impuestos-transmisiones-actos-juridicos-abaratar-vivienda.html",
-   "f": "2026-11-18T11:30:16Z",
-   "c": "vivienda"
-  },
-  {
-   "t": "Talde y un grupo de inversores compran el fabricante de galletas ‘Elgorriaga’",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-11-18/talde-y-un-grupo-de-inversores-compran-el-fabricante-de-galletas-elgorriaga.html",
-   "f": "2026-11-18T11:29:39Z",
-   "c": "empresas"
-  },
-  {
-   "t": "El Ibex 35 sigue a la baja en la media sesión con una caída del 0,31%, hasta los 19.560 puntos",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/bolsa-00348/noticia-ibex-35-sigue-baja-media-sesion-caida-031-19560-puntos-20261118122520.html",
-   "f": "2026-11-18T11:25:20Z",
-   "c": "empresas"
-  },
-  {
-   "t": "Las Bolsas europeas caen tras los resultados de Nvidia",
+   "t": "Las Bolsas europeas ignoran el balón de oxígeno de Nvidia y el Ibex pierde más de un 0,5%",
    "m": "Cinco Días",
    "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-18/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-11-18T11:25:04Z",
+   "f": "2026-11-18T13:19:46Z",
    "c": "tecnologia"
+  },
+  {
+   "t": "Juan Bravo apunta que el Estado saldrá de CaixaBank si Feijóo llega a La Moncloa y las acciones de la entidad se dejan más del 1%",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/empresas/2026/11/18/6afd9f7521efa0fb1c8b4583.html",
+   "f": "2026-11-18T13:10:17Z",
+   "c": "bancos"
+  },
+  {
+   "t": "Euríbor hoy, miércoles 18 de noviembre: la tendencia al alza se topa con una ligera bajada de la tasa diaria",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/11/18/6afd8c43e9cf4ae5228b4570.html",
+   "f": "2026-11-18T12:25:58Z",
+   "c": "tipos"
   }
  ]
 }
