@@ -1,11 +1,39 @@
 {
- "actualizado": "2026-11-18T18:09:46Z",
+ "actualizado": "2026-11-18T20:12:22Z",
  "items": [
+  {
+   "t": "Repsol y sus socios en Reino Unido compran por 874 millones los pozos petrolíferos de EnQuest en el Mar del Norte",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-11-18/repsol-y-sus-socios-en-reino-unido-compran-por-874-millones-los-pozos-petroliferos-de-enquest-en-el-mar-del-norte.html",
+   "f": "2026-11-18T19:58:48Z",
+   "c": "empresas"
+  },
+  {
+   "t": "Meloni recibe en Roma a Hernández de Cos, el candidato español a la presidencia del BCE",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/meloni-recibe-roma-hernandez-cos-uno-los-dos-candidatos-presidencia-bce_7062848_0.html",
+   "f": "2026-11-18T18:43:37Z",
+   "c": "tipos"
+  },
+  {
+   "t": "El Eurogrupo amplía el plazo para presentar candidatos a la dirección del BCE con Hernández de Cos como favorito a la presidencia",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-11-18/el-eurogrupo-amplia-el-plazo-para-presentar-candidatos-a-la-direccion-del-bce-con-hernandez-de-cos-como-favorito-a-la-presidencia.html",
+   "f": "2026-11-18T18:15:45Z",
+   "c": "tipos"
+  },
   {
    "t": "Avanade, participada por Accenture y Microsoft, compra la española Plain Concepts para crecer en ingenierías basadas en IA",
    "m": "Cinco Días",
    "u": "https://cincodias.elpais.com/companias/2026-11-18/avanade-controlada-por-accenture-y-microsoft-compra-la-espanola-plain-concepts-para-crecer-en-ingenierias-basadas-en-ia.html",
    "f": "2026-11-18T17:52:59Z",
+   "c": "tecnologia"
+  },
+  {
+   "t": "Santalucía AM apuesta por aprovechar la caída de Nvidia y comprar deuda italiana",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-18/santalucia-am-apuesta-por-aprovechar-la-caida-de-nvidia-y-comprar-deuda-italiana.html",
+   "f": "2026-11-18T17:51:07Z",
    "c": "tecnologia"
   },
   {
@@ -28,34 +56,6 @@
    "u": "https://www.elmundo.es/economia/2026/11/18/6afddc1ae4d4d8a9518b459e.html",
    "f": "2026-11-18T17:12:34Z",
    "c": "comercio"
-  },
-  {
-   "t": "La deuda de EE UU desafía las previsiones: el 5% deja de asustar y el mercado mira ya al 6%",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-18/la-deuda-de-ee-uu-desafia-las-previsiones-el-5-deja-de-asustar-y-el-mercado-mira-ya-al-6.html",
-   "f": "2026-11-18T17:09:50Z",
-   "c": "economia"
-  },
-  {
-   "t": "El Ibex 35 cede un 1,28% y pierde los 19.400 puntos",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/bolsa-00348/noticia-ibex-35-cede-128-pierde-19400-puntos-20261118180812.html",
-   "f": "2026-11-18T17:08:12Z",
-   "c": "empresas"
-  },
-  {
-   "t": "Las Bolsas ignoran el balón de oxígeno de Nvidia y el Ibex pierde más de un 1,2%",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-18/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-11-18T16:38:35Z",
-   "c": "tecnologia"
-  },
-  {
-   "t": "Los presidentes de Ferrero y Brembo, premiados por estrechar los lazos empresariales entre España e Italia",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/11/18/6afcaa0c21efa049238b458f.html",
-   "f": "2026-11-18T16:29:25Z",
-   "c": "empresas"
   }
  ]
 }
