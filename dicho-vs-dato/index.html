@@ -5,18 +5,18 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Dicho vs. Dato: frases de políticos frente a los datos oficiales · El Euro Claro</title>
 <meta name="description" content="Lo que dicen los políticos de todos los partidos sobre tu dinero, comprobado con datos oficiales: cita literal, dato con su fuente y veredicto.">
-<meta name="theme-color" content="#0e2a47">
+<meta name="theme-color" content="#000000">
 <meta property="og:site_name" content="El Euro Claro">
 <meta property="og:title" content="Dicho vs. Dato · ¿Verdad o no?">
 <meta property="og:description" content="Frases de políticos de todos los partidos sobre tu dinero, frente a los datos oficiales. Cita literal, fuente y veredicto.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://eleuroclaro.es/dicho-vs-dato/">
 <meta property="og:locale" content="es_ES">
-<meta property="og:image" content="https://eleuroclaro.es/img/og-eleuroclaro-2026.png">
+<meta property="og:image" content="https://eleuroclaro.es/img/og-eleuroclaro-2026.png?v=20261114">
 <meta property="og:image:type" content="image/png">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
-<meta property="og:image:alt" content="Logo de El Euro Claro, un euro dorado con un visto verde, y el texto: la noticia económica del día, en euros de tu bolsillo.">
+<meta property="og:image:alt" content="Logo de El Euro Claro: un bocadillo rojo anaranjado con el símbolo del euro, sobre fondo negro, con el nombre «el euro claro», la frase «La economía de tu bolsillo, en euros claros.» y la dirección eleuroclaro.es.">
 <meta name="twitter:card" content="summary_large_image">
 <link rel="canonical" href="https://eleuroclaro.es/dicho-vs-dato/">
 <!-- Página en una subcarpeta: todas las rutas son absolutas (empiezan por /). -->
@@ -25,10 +25,11 @@
      (cierto | contexto | enganoso | falso), data-partido y data-desde (fecha en que sale la pieza en redes).
      Sin data-desde es un borrador. Antes de su fecha, y los borradores, solo se ven con ?previa.
      Reglas de la sección: /mnt/project-files/canal-economia/contradicciones/plan-seccion.md -->
-<link rel="icon" href="/favicon.svg" type="image/svg+xml">
-<link rel="apple-touch-icon" href="/apple-touch-icon.png">
-<link rel="stylesheet" href="/fonts.css">
-<link rel="stylesheet" href="/style.css?v=20261019c">
+<link rel="icon" href="/favicon.svg?v=20261114" type="image/svg+xml">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png?v=20261114">
+<link rel="preload" href="/fonts/InterDisplay-600.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="/fonts.css?v=20261114">
+<link rel="stylesheet" href="/style.css?v=20261114">
 <style>
 /* Solo /dicho-vs-dato/ */
 .dvd .section { padding-block: 3rem; }
@@ -39,22 +40,23 @@
 .dvd-leyenda span { display: inline-flex; align-items: center; gap: .45rem; }
 .dvd-sello { display: inline-flex; align-items: center; gap: .4rem; padding: .3rem .75rem; border-radius: 2rem; font-weight: 800; font-size: .82rem; letter-spacing: .05em; text-transform: uppercase; color: #fff; line-height: 1.2; white-space: nowrap; }
 .dvd-sello::before { content: ""; width: .55rem; height: .55rem; border-radius: 50%; background: currentColor; opacity: .85; }
+/* Colores de los veredictos: de significado, no de marca (verde, amarillo, naranja y rojo de semáforo) */
 .dvd-cierto { background: #1f7a3d; }
-.dvd-contexto { background: #f4c51a; color: #10294a; }
-.dvd-enganoso { background: #d9620f; }
+.dvd-contexto { background: #f4c51a; color: #000; }
+.dvd-enganoso { background: #b54d00; }
 .dvd-falso { background: #c0262d; }
 .dvd-filtros { display: grid; gap: .8rem; margin-bottom: 1.6rem; }
 .dvd-fila { display: flex; flex-wrap: wrap; align-items: center; gap: .45rem; }
 .dvd-fila > span { font-weight: 700; font-size: .9rem; margin-right: .3rem; min-width: 5.5rem; }
 .dvd-fila button { font: inherit; font-size: .88rem; font-weight: 600; padding: .4rem .9rem; border-radius: 2rem; border: 1px solid var(--line); background: var(--surface); color: var(--ink); cursor: pointer; }
-.dvd-fila button[aria-pressed="true"] { background: var(--blue); border-color: var(--blue); color: var(--bg); }
+.dvd-fila button[aria-pressed="true"] { background: var(--ink); border-color: var(--ink); color: var(--bg); }
 .dvd-fila button:focus-visible { outline: 3px solid var(--focus, var(--gold)); outline-offset: 2px; }
 .dvd-cuenta { font-size: .9rem; color: var(--muted); margin-bottom: 1.2rem; }
 .dvd-lista { display: grid; gap: 1.4rem; }
 .dvd-ficha { background: var(--surface); border: 1px solid var(--line); border-radius: .8rem; padding: 1.4rem 1.5rem 1.2rem; display: grid; gap: 1rem; scroll-margin-top: 1rem; max-width: 52rem; }
 .dvd-ficha[hidden] { display: none; }
 .dvd-cab { display: flex; flex-wrap: wrap; align-items: center; gap: .5rem .8rem; }
-.dvd-tema { font-size: .8rem; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; color: var(--gold-text); }
+.dvd-tema { font-size: .8rem; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; color: var(--muted); }
 .dvd-previa { font-size: .78rem; font-weight: 700; padding: .2rem .6rem; border-radius: .3rem; border: 1px dashed var(--muted); color: var(--muted); }
 .dvd-quien { font-size: 1.05rem; }
 .dvd-quien strong { font-family: var(--font-display); font-size: 1.3rem; }
@@ -66,7 +68,7 @@
 .dvd-veredicto { border-radius: .5rem; padding: .9rem 1rem; background: var(--bg); border-left: 6px solid var(--line); }
 .dvd-ficha[data-veredicto="cierto"] .dvd-veredicto { border-left-color: #1f7a3d; }
 .dvd-ficha[data-veredicto="contexto"] .dvd-veredicto { border-left-color: #f4c51a; }
-.dvd-ficha[data-veredicto="enganoso"] .dvd-veredicto { border-left-color: #d9620f; }
+.dvd-ficha[data-veredicto="enganoso"] .dvd-veredicto { border-left-color: #b54d00; }
 .dvd-ficha[data-veredicto="falso"] .dvd-veredicto { border-left-color: #c0262d; }
 .dvd-veredicto p + p { margin-top: .4rem; }
 .dvd-pie { font-size: .85rem; color: var(--muted); border-top: 1px solid var(--line); padding-top: .8rem; }
@@ -89,7 +91,7 @@
   <div class="wrap">
     <a class="brand" href="/" aria-label="El Euro Claro, inicio">
       <img class="coin" src="/favicon.svg" alt="" width="40" height="40">
-      El Euro Claro
+      <span class="brand-name">el euro <span class="claro">claro</span></span>
     </a>
     <nav class="nav" aria-label="Secciones">
       <a class="nav-nl" href="/domingo/?src=web-cabecera"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><rect x="2.5" y="5" width="19" height="14" rx="2.5"/><path d="M3 6.5l9 6.5 9-6.5"/></svg>Newsletter gratis</a>
@@ -105,11 +107,15 @@
 </header>
 
 <main class="dvd">
-  <section class="section page-head">
+  <header class="page-hero">
     <div class="wrap">
       <p class="eyebrow">Dicho vs. Dato</p>
       <h1>¿Verdad o no? Lo que dicen los políticos, frente a <em>los datos</em></h1>
       <p class="prose-p">Frases de políticos de todos los partidos sobre tu dinero: paro, sueldos, alquiler, precios, pensiones e impuestos. Ponemos la frase tal cual, el dato oficial al lado y un veredicto. Se juzga la frase, no a la persona.</p>
+    </div>
+  </header>
+  <section class="section page-head">
+    <div class="wrap">
       <div class="dvd-reglas">
         <div><strong>Todos los partidos</strong>Gobierno y oposición, derecha e izquierda. Llevamos la cuenta de cuántas frases salen de cada partido.</div>
         <div><strong>La frase, literal</strong>Con fecha, lugar y enlace a donde se dijo. Si no hay una fuente seria que la recoja, no sale.</div>
@@ -278,7 +284,7 @@
 
 <footer class="foot">
   <div class="wrap">
-    <p class="lema">La actualidad, en euros. Comprobado con datos.</p>
+    <p class="lema">La economía de tu bolsillo, en euros claros.</p>
     <nav aria-label="Legal">
       <a href="/aviso-legal.html">Aviso legal</a>
       <a href="/privacidad.html">Privacidad</a>

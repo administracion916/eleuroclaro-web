@@ -116,28 +116,36 @@
     var texto = (extra >= 0 ? "A mí la subida de precios me cuesta " + euros(extra) + " más al año." : "A mí la subida de precios no me afecta: pago " + euros(-extra) + " menos al año.") +
       " ¿Y a ti? Calcúlalo en 1 minuto con los datos del INE: https://" + WEB + "/";
     document.getElementById("b-whatsapp").href = "https://wa.me/?text=" + encodeURIComponent(texto);
-    Promise.all([document.fonts ? document.fonts.ready : null, logoListo]).then(function () {
+    // Colores y letras de la marca: fondo negro, rojo anaranjado #FF3B1F, blanco y gris #9A9A9A; Inter Display.
+    var ID = "'Inter Display', 'Public Sans', Arial, sans-serif";
+    var letras = [];
+    if (document.fonts && document.fonts.load) {
+      ["500 40px", "600 56px", "700 50px", "900 170px"].forEach(function (f) {
+        letras.push(document.fonts.load(f + " 'Inter Display'").catch(function () {}));
+      });
+      letras.push(document.fonts.load("400 40px 'Public Sans'").catch(function () {}));
+    }
+    Promise.all([document.fonts ? document.fonts.ready : null, logoListo].concat(letras)).then(function () {
       var c = document.createElement("canvas");
       c.width = 1080; c.height = 1350;
       var x = c.getContext("2d");
-      x.fillStyle = "#0e2a47"; x.fillRect(0, 0, 1080, 1350);
-      var grad = x.createRadialGradient(1080, 0, 50, 1080, 0, 900);
-      grad.addColorStop(0, "rgba(245,197,26,.28)"); grad.addColorStop(1, "rgba(245,197,26,0)");
-      x.fillStyle = grad; x.fillRect(0, 0, 1080, 1350);
-      // logo y marca
+      x.fillStyle = "#000000"; x.fillRect(0, 0, 1080, 1350);
+      // logo y marca: «el euro» en blanco y «claro» en rojo anaranjado
       if (logo.naturalWidth) x.drawImage(logo, 80, 90, 100, 100);
-      x.textAlign = "left"; x.fillStyle = "#f5c518"; x.font = "700 56px Fraunces, Georgia, serif"; x.fillText("El Euro Claro", 200, 160);
-      x.fillStyle = "#ffffff"; x.font = "600 66px Fraunces, Georgia, serif";
+      x.textAlign = "left"; x.font = "600 56px " + ID;
+      x.fillStyle = "#ffffff"; x.fillText("el euro ", 200, 160);
+      x.fillStyle = "#ff3b1f"; x.fillText("claro", 200 + x.measureText("el euro ").width, 160);
+      x.fillStyle = "#ffffff"; x.font = "600 66px " + ID;
       lineas(x, extra >= 0 ? "A mí la subida de precios me cuesta" : "Con lo que yo compro, los precios me han bajado", 90, 420, 900, 80);
-      x.fillStyle = "#f5c518"; x.font = "700 170px Fraunces, Georgia, serif";
+      x.fillStyle = "#ff3b1f"; x.font = "900 170px " + ID;
       x.fillText(euros(Math.abs(extra)), 90, extra >= 0 ? 700 : 700);
-      x.fillStyle = "#ffffff"; x.font = "600 64px Fraunces, Georgia, serif"; x.fillText(extra >= 0 ? "más al año" : "al año", 90, 800);
-      x.fillStyle = "#c9d5e6"; x.font = "400 40px 'Public Sans', Arial, sans-serif";
+      x.fillStyle = "#ffffff"; x.font = "600 64px " + ID; x.fillText(extra >= 0 ? "más al año" : "al año", 90, 800);
+      x.fillStyle = "#ffffff"; x.font = "400 40px 'Public Sans', Arial, sans-serif";
       x.fillText("Mi subida: " + signo(tasa) + "  ·  La media (IPC): " + signo(datos.general), 90, 900);
-      x.fillStyle = "#f5c518"; roundRect(x, 90, 1010, 900, 150, 28); x.fill();
-      x.fillStyle = "#0e2a47"; x.font = "700 50px 'Public Sans', Arial, sans-serif"; x.fillText("¿Y a ti? Calcúlalo en", 140, 1078);
-      x.font = "700 54px 'Public Sans', Arial, sans-serif"; x.fillText(WEB, 140, 1140);
-      x.fillStyle = "#93a6c2"; x.font = "400 30px 'Public Sans', Arial, sans-serif";
+      x.fillStyle = "#ff3b1f"; roundRect(x, 90, 1010, 900, 150, 28); x.fill();
+      x.fillStyle = "#000000"; x.font = "700 50px " + ID; x.fillText("¿Y a ti? Calcúlalo en", 140, 1078);
+      x.font = "700 54px " + ID; x.fillText(WEB, 140, 1140);
+      x.fillStyle = "#9a9a9a"; x.font = "500 30px " + ID;
       x.fillText("Datos: INE, IPC por grupos (" + datos.periodo + "). Estimación.", 90, 1270);
       c.toBlob(function (blob) {
         if (!blob) return;

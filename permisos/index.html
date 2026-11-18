@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Permisos retribuidos: los días que puedes faltar cobrando · El Euro Claro</title>
 <meta name="description" content="Los permisos pagados del Estatuto de los Trabajadores: 15 días por boda, 5 por hospitalización de un familiar, 2 por fallecimiento, 1 por mudanza y más. Cómo pedirlos.">
-<meta name="theme-color" content="#0e2a47">
+<meta name="theme-color" content="#000000">
 <meta property="og:site_name" content="El Euro Claro">
 <meta property="og:title" content="Días que puedes faltar al trabajo cobrando">
 <meta property="og:description" content="Los permisos pagados que te da la ley, en una tabla. Con el artículo 37 del Estatuto de los Trabajadores.">
@@ -15,10 +15,11 @@
 <meta name="twitter:card" content="summary">
 <link rel="canonical" href="https://eleuroclaro.es/permisos/">
 <!-- Página en una subcarpeta: todas las rutas son absolutas (empiezan por /). -->
-<link rel="icon" href="/favicon.svg" type="image/svg+xml">
-<link rel="apple-touch-icon" href="/apple-touch-icon.png">
-<link rel="stylesheet" href="/fonts.css">
-<link rel="stylesheet" href="/style.css?v=20261019c">
+<link rel="icon" href="/favicon.svg?v=20261114" type="image/svg+xml">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png?v=20261114">
+<link rel="preload" href="/fonts/InterDisplay-600.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="/fonts.css?v=20261114">
+<link rel="stylesheet" href="/style.css?v=20261114">
 </head>
 <body>
 
@@ -26,7 +27,7 @@
   <div class="wrap">
     <a class="brand" href="/" aria-label="El Euro Claro, inicio">
       <img class="coin" src="/favicon.svg" alt="" width="40" height="40">
-      El Euro Claro
+      <span class="brand-name">el euro <span class="claro">claro</span></span>
     </a>
     <nav class="nav" aria-label="Secciones">
       <a class="nav-nl" href="/domingo/?src=web-cabecera"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><rect x="2.5" y="5" width="19" height="14" rx="2.5"/><path d="M3 6.5l9 6.5 9-6.5"/></svg>Newsletter gratis</a>
@@ -42,11 +43,15 @@
 </header>
 
 <main>
-  <section class="section">
-    <div class="wrap prose">
+  <header class="page-hero">
+    <div class="wrap">
       <p class="eyebrow">Tu trabajo · guía práctica</p>
       <h1>Días que puedes faltar <em>cobrando</em></h1>
       <p class="intro">Son los permisos pagados que da la ley a cualquier trabajador por cuenta ajena. Tu convenio puede darte más días, nunca menos.</p>
+    </div>
+  </header>
+  <section class="section">
+    <div class="wrap prose">
       <div style="overflow-x:auto">
       <table style="width:100%;border-collapse:collapse">
         <thead><tr><th style="text-align:left">Qué pasa</th><th style="text-align:left">Días pagados</th></tr></thead>
@@ -63,7 +68,7 @@
         </tbody>
       </table>
       </div>
-      <style>.prose table td,.prose table th{padding:.6rem .4rem;border-top:1px solid #d9dfe7;vertical-align:top}.prose table td:last-child{min-width:8rem}</style>
+      <style>.prose table td,.prose table th{padding:.6rem .4rem;border-top:1px solid var(--line);vertical-align:top}.prose table td:last-child{min-width:8rem}</style>
 
       <h2>Cómo pedirlos</h2>
       <ol>
@@ -79,11 +84,37 @@
       <p class="small note-legal">Contenido divulgativo: no es asesoramiento laboral. Ante dudas, consulta tu convenio o a un profesional.</p>
     </div>
   </section>
+  <section class="section alt" id="newsletter" aria-labelledby="cada-mes">
+    <div class="wrap news">
+      <div>
+        <p class="eyebrow">Newsletter · domingos · gratis</p>
+        <h2 id="cada-mes">Y cada domingo, lo que cambia en tu bolsillo</h2>
+        <p class="intro">Cada domingo te mandamos, en 3 minutos, las noticias de la semana que tocan tu bolsillo, con ejemplos en euros.</p>
+        <div class="nl-autor">
+          <img src="/img/pere-jaume-avatar.jpg" width="56" height="56" alt="" loading="lazy">
+          <p>Cada domingo te lo cuento yo, con datos oficiales y ejemplos en euros.<span class="firma">Pere Jaume</span></p>
+        </div>
+        <p class="regalo">De regalo al apuntarte: la guía de una página <strong>«Cómo leer tu nómina en 2 minutos»</strong>, con lo que te quitan y a dónde va.</p>
+        <p class="small note-legal">Contenido divulgativo. No es asesoramiento financiero.</p>
+      </div>
+      <form class="signup" data-campana="permisos" novalidate>
+        <label for="email">Tu correo electrónico</label>
+        <input type="email" id="email" name="email" placeholder="nombre@correo.es" autocomplete="email" required>
+        <label class="consent" for="consent">
+          <input type="checkbox" id="consent" name="consent" required>
+          <span>Quiero recibir la newsletter y he leído la <a href="/privacidad.html">política de privacidad</a>.</span>
+        </label>
+        <button class="btn btn-primary" type="submit">Apuntarme gratis</button>
+        <p class="msg" role="status"></p>
+        <p class="fine">Odana Ingeniería SL usará tu correo para enviarte la newsletter semanal, que puede incluir publicidad marcada y ofertas de nuestros productos, con tu consentimiento. Lo guarda nuestra plataforma de envíos, Substack (EE. UU.). Puedes darte de baja cuando quieras y ejercer tus derechos en hola@eleuroclaro.es. Más información en la <a href="/privacidad.html">política de privacidad</a>.</p>
+      </form>
+    </div>
+  </section>
 </main>
 
 <footer class="foot">
   <div class="wrap">
-    <p class="lema">La actualidad, en euros. Comprobado con datos.</p>
+    <p class="lema">La economía de tu bolsillo, en euros claros.</p>
     <nav aria-label="Legal">
       <a href="/aviso-legal.html">Aviso legal</a>
       <a href="/privacidad.html">Privacidad</a>
@@ -95,6 +126,7 @@
     <p>© 2026 El Euro Claro · Odana Ingeniería SL</p>
   </div>
 </footer>
+<script src="/suscribir.js?v=20261011n" defer></script>
 <!-- Cloudflare Web Analytics --><script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "e81aecc33a6b40ccab86c1fbc9fa801c"}'></script><!-- End Cloudflare Web Analytics -->
 </body>
 </html>
