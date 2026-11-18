@@ -1,6 +1,13 @@
 {
- "actualizado": "2026-11-18T22:10:14Z",
+ "actualizado": "2026-11-18T22:16:18Z",
  "items": [
+  {
+   "t": "Anthropic eleva el precio de la acción a 83 dólares por el fervor del mercado",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261118/11687612/anthropic-eleva-precio-accion-83-dolares-fervor-mercado.html",
+   "f": "2026-11-18T21:54:13Z",
+   "c": "precios"
+  },
   {
    "t": "Anthropic desbanca a SpaceX como la mayor salida a Bolsa de la historia y fija su valoración en 1,5 billones de dólares",
    "m": "Cinco Días",
@@ -49,13 +56,6 @@
    "u": "https://cincodias.elpais.com/companias/2026-11-18/avanade-controlada-por-accenture-y-microsoft-compra-la-espanola-plain-concepts-para-crecer-en-ingenierias-basadas-en-ia.html",
    "f": "2026-11-18T17:52:59Z",
    "c": "tecnologia"
-  },
-  {
-   "t": "La empresa familiar pide reducir impuestos, construir vivienda y combatir el absentismo",
-   "m": "Expansión",
-   "u": "https://www.expansion.com/economia/2026/11/18/empresa-familiar-pide-reducir-impuestos-construir-vivienda-combatir-absentismo.html",
-   "f": "2026-11-18T17:36:02Z",
-   "c": "vivienda"
   }
  ]
 }
