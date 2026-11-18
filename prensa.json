@@ -1,12 +1,33 @@
 {
- "actualizado": "2026-11-18T20:12:22Z",
+ "actualizado": "2026-11-18T22:10:14Z",
  "items": [
   {
-   "t": "Repsol y sus socios en Reino Unido compran por 874 millones los pozos petrolíferos de EnQuest en el Mar del Norte",
+   "t": "Anthropic desbanca a SpaceX como la mayor salida a Bolsa de la historia y fija su valoración en 1,5 billones de dólares",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-18/anthropic-desbanca-a-spacex-y-protagoniza-la-mayor-salida-a-bolsa-de-la-historia.html",
+   "f": "2026-11-18T21:41:11Z",
+   "c": "empresas"
+  },
+  {
+   "t": "Las actas de la Reserva Federal abren la puerta a subir los tipos por encima de 25 puntos en diciembre",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/las-actas-reserva-federal-abren-puerta-subir-los-tipos-por-encima-25-puntos-diciembre_7062876_0.html",
+   "f": "2026-11-18T20:21:28Z",
+   "c": "tipos"
+  },
+  {
+   "t": "Repsol y sus socios en el Reino Unido compran por 874 millones los pozos petrolíferos de EnQuest en el Mar del Norte",
    "m": "Cinco Días",
    "u": "https://cincodias.elpais.com/companias/2026-11-18/repsol-y-sus-socios-en-reino-unido-compran-por-874-millones-los-pozos-petroliferos-de-enquest-en-el-mar-del-norte.html",
    "f": "2026-11-18T19:58:48Z",
    "c": "empresas"
+  },
+  {
+   "t": "Las actas de la Fed abren la puerta a subir tipos por encima de 25 puntos en diciembre",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/macroeconomia-00338/noticia-actas-fed-abren-puerta-subir-tipos-encima-25-puntos-diciembre-20261118203321.html",
+   "f": "2026-11-18T19:33:21Z",
+   "c": "tipos"
   },
   {
    "t": "Meloni recibe en Roma a Hernández de Cos, el candidato español a la presidencia del BCE",
@@ -30,32 +51,11 @@
    "c": "tecnologia"
   },
   {
-   "t": "Santalucía AM apuesta por aprovechar la caída de Nvidia y comprar deuda italiana",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-18/santalucia-am-apuesta-por-aprovechar-la-caida-de-nvidia-y-comprar-deuda-italiana.html",
-   "f": "2026-11-18T17:51:07Z",
-   "c": "tecnologia"
-  },
-  {
    "t": "La empresa familiar pide reducir impuestos, construir vivienda y combatir el absentismo",
    "m": "Expansión",
    "u": "https://www.expansion.com/economia/2026/11/18/empresa-familiar-pide-reducir-impuestos-construir-vivienda-combatir-absentismo.html",
    "f": "2026-11-18T17:36:02Z",
    "c": "vivienda"
-  },
-  {
-   "t": "Hernández de Cos asegura todos los apoyos para ser presidente del BCE a pesar del retraso del Eurogrupo para nombrar candidatos",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/11/18/6afdd1d1fc6c83c1318b4590.html",
-   "f": "2026-11-18T17:31:41Z",
-   "c": "tipos"
-  },
-  {
-   "t": "España incumple el plazo para implantar el sistema de devolución de latas y botellas y pone en riesgo el objetivo de reciclaje de Bruselas",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/11/18/6afddc1ae4d4d8a9518b459e.html",
-   "f": "2026-11-18T17:12:34Z",
-   "c": "comercio"
   }
  ]
 }
