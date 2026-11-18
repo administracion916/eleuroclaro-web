@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Calculadora de la baja por enfermedad: cuánto cobras · El Euro Claro</title>
 <meta name="description" content="Pon tu base de cotización y los días de baja: te decimos cuánto cobras por enfermedad común (nada los 3 primeros días, 60 % del 4 al 20 y 75 % desde el 21). Datos de la Seguridad Social.">
-<meta name="theme-color" content="#0e2a47">
+<meta name="theme-color" content="#000000">
 <meta property="og:site_name" content="El Euro Claro">
 <meta property="og:title" content="De baja: cuánto cobras cada día">
 <meta property="og:description" content="Calculadora gratis con las reglas de la Seguridad Social. Tus cifras no salen de tu móvil.">
@@ -15,10 +15,11 @@
 <meta name="twitter:card" content="summary">
 <link rel="canonical" href="https://eleuroclaro.es/baja/">
 <!-- Página en una subcarpeta: todas las rutas son absolutas (empiezan por /). -->
-<link rel="icon" href="/favicon.svg" type="image/svg+xml">
-<link rel="apple-touch-icon" href="/apple-touch-icon.png">
-<link rel="stylesheet" href="/fonts.css">
-<link rel="stylesheet" href="/style.css?v=20261019c">
+<link rel="icon" href="/favicon.svg?v=20261114" type="image/svg+xml">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png?v=20261114">
+<link rel="preload" href="/fonts/InterDisplay-600.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="/fonts.css?v=20261114">
+<link rel="stylesheet" href="/style.css?v=20261114">
 </head>
 <body>
 
@@ -26,7 +27,7 @@
   <div class="wrap">
     <a class="brand" href="/" aria-label="El Euro Claro, inicio">
       <img class="coin" src="/favicon.svg" alt="" width="40" height="40">
-      El Euro Claro
+      <span class="brand-name">el euro <span class="claro">claro</span></span>
     </a>
     <nav class="nav" aria-label="Secciones">
       <a class="nav-nl" href="/domingo/?src=web-cabecera"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><rect x="2.5" y="5" width="19" height="14" rx="2.5"/><path d="M3 6.5l9 6.5 9-6.5"/></svg>Newsletter gratis</a>
@@ -42,17 +43,21 @@
 </header>
 
 <main>
-  <section class="section page-head calc-head">
+  <header class="page-hero">
     <div class="wrap">
       <p class="eyebrow">Calculadora · reglas de la Seguridad Social</p>
       <h1>De baja: ¿cuánto cobras <em>cada día</em>?</h1>
       <p class="intro">Para una baja por enfermedad común o accidente no laboral. Pon tu base de cotización y los días que dura la baja.</p>
       <p class="small calc-privado">🔒 Tus cifras no salen de tu móvil: el cálculo se hace aquí mismo y no guardamos nada.</p>
+    </div>
+  </header>
+  <section class="section page-head calc-head">
+    <div class="wrap">
       <form class="calc" id="calc" novalidate>
         <label style="font-weight:700">Tu base de cotización del mes anterior (€)<br><small style="font-weight:400">En tu nómina: «base de contingencias comunes».</small>
-          <input style="display:block;width:100%;margin-top:.35rem;padding:.7rem .8rem;font-size:1.15rem;border:1px solid #c9d2de;border-radius:.5rem" type="number" id="base" inputmode="decimal" min="0" step="1" value="1500"></label>
+          <input style="display:block;width:100%;margin-top:.35rem;padding:.7rem .8rem;font-size:1.15rem;border:1px solid var(--muted);border-radius:.5rem" type="number" id="base" inputmode="decimal" min="0" step="1" value="1500"></label>
         <label style="font-weight:700">Días de baja
-          <input style="display:block;width:100%;margin-top:.35rem;padding:.7rem .8rem;font-size:1.15rem;border:1px solid #c9d2de;border-radius:.5rem" type="number" id="dias" inputmode="numeric" min="1" max="545" step="1" value="30"></label>
+          <input style="display:block;width:100%;margin-top:.35rem;padding:.7rem .8rem;font-size:1.15rem;border:1px solid var(--muted);border-radius:.5rem" type="number" id="dias" inputmode="numeric" min="1" max="545" step="1" value="30"></label>
         <button class="btn btn-primary calc-boton" type="submit">Calcular</button>
         <div id="res" aria-live="polite"></div>
       </form>
@@ -104,7 +109,7 @@
 
 <footer class="foot">
   <div class="wrap">
-    <p class="lema">La actualidad, en euros. Comprobado con datos.</p>
+    <p class="lema">La economía de tu bolsillo, en euros claros.</p>
     <nav aria-label="Legal">
       <a href="/aviso-legal.html">Aviso legal</a>
       <a href="/privacidad.html">Privacidad</a>

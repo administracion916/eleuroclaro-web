@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>¿Cuánto colchón necesitas? Calculadora del fondo para imprevistos · El Euro Claro</title>
 <meta name="description" content="Suma tus gastos fijos de un mes y elige cuántos meses quieres cubrir: te decimos tu meta de colchón y en cuántos meses llegas ahorrando lo que puedas. Paso 1 del reto gratis «Tu colchón en 4 domingos».">
-<meta name="theme-color" content="#0e2a47">
+<meta name="theme-color" content="#000000">
 <meta property="og:site_name" content="El Euro Claro">
 <meta property="og:title" content="¿Cuánto colchón necesitas?">
 <meta property="og:description" content="Tu meta para imprevistos, con tus gastos de verdad.">
@@ -15,10 +15,11 @@
 <meta name="twitter:card" content="summary">
 <link rel="canonical" href="https://eleuroclaro.es/colchon/">
 <!-- Página en una subcarpeta: todas las rutas son absolutas (empiezan por /). -->
-<link rel="icon" href="/favicon.svg" type="image/svg+xml">
-<link rel="apple-touch-icon" href="/apple-touch-icon.png">
-<link rel="stylesheet" href="/fonts.css">
-<link rel="stylesheet" href="/style.css?v=20261019c">
+<link rel="icon" href="/favicon.svg?v=20261114" type="image/svg+xml">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png?v=20261114">
+<link rel="preload" href="/fonts/InterDisplay-600.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="/fonts.css?v=20261114">
+<link rel="stylesheet" href="/style.css?v=20261114">
 </head>
 <body>
 
@@ -26,7 +27,7 @@
   <div class="wrap">
     <a class="brand" href="/" aria-label="El Euro Claro, inicio">
       <img class="coin" src="/favicon.svg" alt="" width="40" height="40">
-      El Euro Claro
+      <span class="brand-name">el euro <span class="claro">claro</span></span>
     </a>
     <nav class="nav" aria-label="Secciones">
       <a class="nav-nl" href="/domingo/?src=web-cabecera"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><rect x="2.5" y="5" width="19" height="14" rx="2.5"/><path d="M3 6.5l9 6.5 9-6.5"/></svg>Newsletter gratis</a>
@@ -42,27 +43,31 @@
 </header>
 
 <main>
-  <section class="section page-head calc-head">
+  <header class="page-hero">
     <div class="wrap">
       <p class="eyebrow">Calculadora · paso 1 del reto</p>
       <h1>¿Cuánto <em>colchón</em> necesitas?</h1>
       <p class="intro">Un colchón es dinero apartado para imprevistos: una avería, el dentista o un mes con menos ingresos. Suma lo que gastas sí o sí cada mes y ponte una meta a tu medida.</p>
       <p class="small calc-privado">🔒 Tus cifras no salen de tu móvil: el cálculo se hace aquí mismo y no guardamos nada.</p>
+    </div>
+  </header>
+  <section class="section page-head calc-head">
+    <div class="wrap">
       <form class="calc" id="calc" novalidate>
         <label style="font-weight:700">Alquiler o hipoteca (€ al mes)
-          <input style="display:block;width:100%;margin-top:.35rem;padding:.7rem .8rem;font-size:1.15rem;border:1px solid #c9d2de;border-radius:.5rem" type="number" id="viv" inputmode="decimal" min="0" step="10" value="700"></label>
+          <input style="display:block;width:100%;margin-top:.35rem;padding:.7rem .8rem;font-size:1.15rem;border:1px solid var(--muted);border-radius:.5rem" type="number" id="viv" inputmode="decimal" min="0" step="10" value="700"></label>
         <label style="font-weight:700">Comida y casa (€ al mes)
-          <input style="display:block;width:100%;margin-top:.35rem;padding:.7rem .8rem;font-size:1.15rem;border:1px solid #c9d2de;border-radius:.5rem" type="number" id="com" inputmode="decimal" min="0" step="10" value="350"></label>
+          <input style="display:block;width:100%;margin-top:.35rem;padding:.7rem .8rem;font-size:1.15rem;border:1px solid var(--muted);border-radius:.5rem" type="number" id="com" inputmode="decimal" min="0" step="10" value="350"></label>
         <label style="font-weight:700">Luz, agua, gas, internet y móvil (€ al mes)
-          <input style="display:block;width:100%;margin-top:.35rem;padding:.7rem .8rem;font-size:1.15rem;border:1px solid #c9d2de;border-radius:.5rem" type="number" id="rec" inputmode="decimal" min="0" step="10" value="150"></label>
+          <input style="display:block;width:100%;margin-top:.35rem;padding:.7rem .8rem;font-size:1.15rem;border:1px solid var(--muted);border-radius:.5rem" type="number" id="rec" inputmode="decimal" min="0" step="10" value="150"></label>
         <label style="font-weight:700">Transporte (€ al mes)
-          <input style="display:block;width:100%;margin-top:.35rem;padding:.7rem .8rem;font-size:1.15rem;border:1px solid #c9d2de;border-radius:.5rem" type="number" id="tra" inputmode="decimal" min="0" step="10" value="100"></label>
+          <input style="display:block;width:100%;margin-top:.35rem;padding:.7rem .8rem;font-size:1.15rem;border:1px solid var(--muted);border-radius:.5rem" type="number" id="tra" inputmode="decimal" min="0" step="10" value="100"></label>
         <label style="font-weight:700">Otros fijos: seguros, colegio, préstamos (€ al mes)
-          <input style="display:block;width:100%;margin-top:.35rem;padding:.7rem .8rem;font-size:1.15rem;border:1px solid #c9d2de;border-radius:.5rem" type="number" id="otr" inputmode="decimal" min="0" step="10" value="100"></label>
+          <input style="display:block;width:100%;margin-top:.35rem;padding:.7rem .8rem;font-size:1.15rem;border:1px solid var(--muted);border-radius:.5rem" type="number" id="otr" inputmode="decimal" min="0" step="10" value="100"></label>
         <label style="font-weight:700">Cuántos meses quieres cubrir
-          <select style="display:block;width:100%;margin-top:.35rem;padding:.7rem .8rem;font-size:1.15rem;border:1px solid #c9d2de;border-radius:.5rem" id="meses"><option value="3" selected>3 meses</option><option value="4">4 meses</option><option value="6">6 meses</option></select></label>
+          <select style="display:block;width:100%;margin-top:.35rem;padding:.7rem .8rem;font-size:1.15rem;border:1px solid var(--muted);border-radius:.5rem" id="meses"><option value="3" selected>3 meses</option><option value="4">4 meses</option><option value="6">6 meses</option></select></label>
         <label style="font-weight:700">Lo que puedes apartar cada mes (€)<br><small style="font-weight:400">Aunque sea poco: empezar cuenta más que la cifra.</small>
-          <input style="display:block;width:100%;margin-top:.35rem;padding:.7rem .8rem;font-size:1.15rem;border:1px solid #c9d2de;border-radius:.5rem" type="number" id="aho" inputmode="decimal" min="0" step="10" value="100"></label>
+          <input style="display:block;width:100%;margin-top:.35rem;padding:.7rem .8rem;font-size:1.15rem;border:1px solid var(--muted);border-radius:.5rem" type="number" id="aho" inputmode="decimal" min="0" step="10" value="100"></label>
         <button class="btn btn-primary calc-boton" type="submit">Calcular mi meta</button>
         <div id="res" aria-live="polite"></div>
       </form>
@@ -114,7 +119,7 @@
 
 <footer class="foot">
   <div class="wrap">
-    <p class="lema">La actualidad, en euros. Comprobado con datos.</p>
+    <p class="lema">La economía de tu bolsillo, en euros claros.</p>
     <nav aria-label="Legal">
       <a href="/aviso-legal.html">Aviso legal</a>
       <a href="/privacidad.html">Privacidad</a>

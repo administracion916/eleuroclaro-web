@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>¿Cobras el salario mínimo? Compruébalo (SMI 2026) · El Euro Claro</title>
 <meta name="description" content="El salario mínimo de 2026 es 1.221 € al mes en 14 pagas (17.094 € al año, BOE). Pon tu sueldo y tu jornada y comprueba si llegas.">
-<meta name="theme-color" content="#0e2a47">
+<meta name="theme-color" content="#000000">
 <meta property="og:site_name" content="El Euro Claro">
 <meta property="og:title" content="¿Cobras al menos el salario mínimo?">
 <meta property="og:description" content="1.221 € al mes en 14 pagas en 2026. Compruébalo con tu jornada en 1 minuto.">
@@ -15,10 +15,11 @@
 <meta name="twitter:card" content="summary">
 <link rel="canonical" href="https://eleuroclaro.es/smi/">
 <!-- Página en una subcarpeta: todas las rutas son absolutas (empiezan por /). -->
-<link rel="icon" href="/favicon.svg" type="image/svg+xml">
-<link rel="apple-touch-icon" href="/apple-touch-icon.png">
-<link rel="stylesheet" href="/fonts.css">
-<link rel="stylesheet" href="/style.css?v=20261019c">
+<link rel="icon" href="/favicon.svg?v=20261114" type="image/svg+xml">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png?v=20261114">
+<link rel="preload" href="/fonts/InterDisplay-600.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="/fonts.css?v=20261114">
+<link rel="stylesheet" href="/style.css?v=20261114">
 </head>
 <body>
 
@@ -26,7 +27,7 @@
   <div class="wrap">
     <a class="brand" href="/" aria-label="El Euro Claro, inicio">
       <img class="coin" src="/favicon.svg" alt="" width="40" height="40">
-      El Euro Claro
+      <span class="brand-name">el euro <span class="claro">claro</span></span>
     </a>
     <nav class="nav" aria-label="Secciones">
       <a class="nav-nl" href="/domingo/?src=web-cabecera"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><rect x="2.5" y="5" width="19" height="14" rx="2.5"/><path d="M3 6.5l9 6.5 9-6.5"/></svg>Newsletter gratis</a>
@@ -42,19 +43,23 @@
 </header>
 
 <main>
-  <section class="section page-head calc-head">
+  <header class="page-hero">
     <div class="wrap">
       <p class="eyebrow">Calculadora · salario mínimo 2026 (BOE)</p>
       <h1>¿Cobras <em>al menos</em> el salario mínimo?</h1>
       <p class="intro">En 2026 el salario mínimo es de 1.221&nbsp;€ brutos al mes en 14 pagas: 17.094&nbsp;€ al año a jornada completa. Pon tu sueldo y comprueba si llegas.</p>
       <p class="small calc-privado">🔒 Tus cifras no salen de tu móvil: el cálculo se hace aquí mismo y no guardamos nada.</p>
+    </div>
+  </header>
+  <section class="section page-head calc-head">
+    <div class="wrap">
       <form class="calc" id="calc" novalidate>
         <label style="font-weight:700">Tu sueldo bruto de cada mes (€)<br><small style="font-weight:400">El total devengado de tu nómina, antes de quitar Seguridad Social e IRPF.</small>
-          <input style="display:block;width:100%;margin-top:.35rem;padding:.7rem .8rem;font-size:1.15rem;border:1px solid #c9d2de;border-radius:.5rem" type="number" id="bruto" inputmode="decimal" min="0" step="1" value="1200"></label>
+          <input style="display:block;width:100%;margin-top:.35rem;padding:.7rem .8rem;font-size:1.15rem;border:1px solid var(--muted);border-radius:.5rem" type="number" id="bruto" inputmode="decimal" min="0" step="1" value="1200"></label>
         <label style="font-weight:700">¿Cuántas pagas al año?
-          <select style="display:block;width:100%;margin-top:.35rem;padding:.7rem .8rem;font-size:1.15rem;border:1px solid #c9d2de;border-radius:.5rem" id="pagas"><option value="14" selected>14 (con dos pagas extra aparte)</option><option value="12">12 (extras prorrateadas)</option></select></label>
+          <select style="display:block;width:100%;margin-top:.35rem;padding:.7rem .8rem;font-size:1.15rem;border:1px solid var(--muted);border-radius:.5rem" id="pagas"><option value="14" selected>14 (con dos pagas extra aparte)</option><option value="12">12 (extras prorrateadas)</option></select></label>
         <label style="font-weight:700">Horas a la semana de tu contrato<br><small style="font-weight:400">Jornada completa: 40.</small>
-          <input style="display:block;width:100%;margin-top:.35rem;padding:.7rem .8rem;font-size:1.15rem;border:1px solid #c9d2de;border-radius:.5rem" type="number" id="horas" inputmode="decimal" min="1" max="40" step="0.5" value="40"></label>
+          <input style="display:block;width:100%;margin-top:.35rem;padding:.7rem .8rem;font-size:1.15rem;border:1px solid var(--muted);border-radius:.5rem" type="number" id="horas" inputmode="decimal" min="1" max="40" step="0.5" value="40"></label>
         <button class="btn btn-primary calc-boton" type="submit">Comprobar</button>
         <div id="res" aria-live="polite"></div>
       </form>
@@ -106,7 +111,7 @@
 
 <footer class="foot">
   <div class="wrap">
-    <p class="lema">La actualidad, en euros. Comprobado con datos.</p>
+    <p class="lema">La economía de tu bolsillo, en euros claros.</p>
     <nav aria-label="Legal">
       <a href="/aviso-legal.html">Aviso legal</a>
       <a href="/privacidad.html">Privacidad</a>
