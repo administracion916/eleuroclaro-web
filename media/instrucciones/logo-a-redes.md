@@ -20,7 +20,7 @@ Comprueba que en las tres sale el micrófono con el euro. Si sale el euro solo, 
 - **Foto:** la foto de perfil.
 - **Presentación:** cópiate antes la de ahora y pon esta, tal cual, en tres líneas:
 
-  La actualidad, en euros. Comprobado con datos.
+  La economía de tu bolsillo, en euros claros.
   Cada día, la noticia y lo que te toca a ti. Sin tecnicismos.
   Web y newsletter: eleuroclaro.es
 

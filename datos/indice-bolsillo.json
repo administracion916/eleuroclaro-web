@@ -1,11 +1,11 @@
 {
- "actualizado": "2026-10-14 09:38",
- "periodo": "septiembre de 2026",
+ "actualizado": "2026-11-13 09:51",
+ "periodo": "octubre de 2026",
  "anyo": 2026,
- "mes": 9,
+ "mes": 10,
  "ipc": 4.9,
  "edades": {
-  "De 16 a 29 años": 5.2,
+  "De 16 a 29 años": 5.3,
   "De 30 a 44 años": 5.1,
   "De 45 a 64 años": 4.9,
   "65 y más años": 4.6
@@ -23,31 +23,31 @@
    "grupo": "Transporte",
    "peso": 164.5,
    "peso_ipc": 154.7,
-   "tasa": 10.5
+   "tasa": 10.3
   },
   {
    "grupo": "Casa: alquiler, luz, gas y agua",
    "peso": 145.9,
    "peso_ipc": 122.6,
-   "tasa": 7.2
+   "tasa": 7.6
   },
   {
    "grupo": "Restaurantes y hoteles",
    "peso": 179.8,
    "peso_ipc": 170.3,
-   "tasa": 4.9
+   "tasa": 4.8
   },
   {
    "grupo": "Comida y bebida",
    "peso": 147.2,
    "peso_ipc": 174.1,
-   "tasa": 2.7
+   "tasa": 2.4
   },
   {
    "grupo": "Ocio, deporte y cultura",
    "peso": 82.9,
    "peso_ipc": 74.8,
-   "tasa": 3.6
+   "tasa": 4.1
   },
   {
    "grupo": "Cuidado personal y otros",
@@ -59,7 +59,7 @@
    "grupo": "Móvil, internet y ordenadores",
    "peso": 36.9,
    "peso_ipc": 37.5,
-   "tasa": 3.2
+   "tasa": 4.2
   },
   {
    "grupo": "Salud",
@@ -68,16 +68,16 @@
    "tasa": 2.0
   },
   {
-   "grupo": "Ropa y calzado",
-   "peso": 40.5,
-   "peso_ipc": 35.8,
-   "tasa": 2.1
-  },
-  {
    "grupo": "Alcohol y tabaco",
    "peso": 27.7,
    "peso_ipc": 35.1,
    "tasa": 2.8
+  },
+  {
+   "grupo": "Ropa y calzado",
+   "peso": 40.5,
+   "peso_ipc": 35.8,
+   "tasa": 1.8
   },
   {
    "grupo": "Muebles y hogar",
@@ -89,13 +89,13 @@
    "grupo": "Seguros y banca",
    "peso": 18.0,
    "peso_ipc": 22.7,
-   "tasa": 3.4
+   "tasa": 3.5
   },
   {
    "grupo": "Educación",
    "peso": 16.0,
    "peso_ipc": 16.1,
-   "tasa": 2.0
+   "tasa": 2.3
   }
  ],
  "serie": [
@@ -251,11 +251,28 @@
     "De 45 a 64 años": 4.943,
     "65 y más años": 4.562
    }
+  },
+  {
+   "anyo": 2026,
+   "mes": 10,
+   "ipc": 4.9,
+   "edades": {
+    "De 16 a 29 años": 5.3,
+    "De 30 a 44 años": 5.1,
+    "De 45 a 64 años": 4.9,
+    "65 y más años": 4.6
+   },
+   "exacto": {
+    "De 16 a 29 años": 5.296,
+    "De 30 a 44 años": 5.126,
+    "De 45 a 64 años": 4.936,
+    "65 y más años": 4.552
+   }
   }
  ],
  "prueba": {
   "max_diferencia": 0.05,
-  "meses": 9
+  "meses": 10
  },
  "fuentes": {
   "ipc": "INE, IPC base 2025, tablas 79181 y 79185",

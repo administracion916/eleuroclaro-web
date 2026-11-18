@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Reclamar a tu banco gratis, paso a paso · El Euro Claro</title>
 <meta name="description" content="Cómo reclamar a tu banco sin abogado: primero a su servicio de atención al cliente (15 días hábiles o un mes para contestar) y después al Banco de España. Plazos oficiales y un texto para copiar.">
-<meta name="theme-color" content="#0e2a47">
+<meta name="theme-color" content="#000000">
 <meta property="og:site_name" content="El Euro Claro">
 <meta property="og:title" content="Reclamar a tu banco gratis, paso a paso">
 <meta property="og:description" content="Plazos oficiales del Banco de España y un texto listo para copiar.">
@@ -15,10 +15,11 @@
 <meta name="twitter:card" content="summary">
 <link rel="canonical" href="https://eleuroclaro.es/reclamar-banco/">
 <!-- Página en una subcarpeta: todas las rutas son absolutas (empiezan por /). -->
-<link rel="icon" href="/favicon.svg" type="image/svg+xml">
-<link rel="apple-touch-icon" href="/apple-touch-icon.png">
-<link rel="stylesheet" href="/fonts.css">
-<link rel="stylesheet" href="/style.css?v=20261019c">
+<link rel="icon" href="/favicon.svg?v=20261114" type="image/svg+xml">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png?v=20261114">
+<link rel="preload" href="/fonts/InterDisplay-600.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="/fonts.css?v=20261114">
+<link rel="stylesheet" href="/style.css?v=20261114">
 </head>
 <body>
 
@@ -26,7 +27,7 @@
   <div class="wrap">
     <a class="brand" href="/" aria-label="El Euro Claro, inicio">
       <img class="coin" src="/favicon.svg" alt="" width="40" height="40">
-      El Euro Claro
+      <span class="brand-name">el euro <span class="claro">claro</span></span>
     </a>
     <nav class="nav" aria-label="Secciones">
       <a class="nav-nl" href="/domingo/?src=web-cabecera"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><rect x="2.5" y="5" width="19" height="14" rx="2.5"/><path d="M3 6.5l9 6.5 9-6.5"/></svg>Newsletter gratis</a>
@@ -42,11 +43,15 @@
 </header>
 
 <main>
-  <section class="section">
-    <div class="wrap prose">
+  <header class="page-hero">
+    <div class="wrap">
       <p class="eyebrow">Tu banco · guía práctica</p>
       <h1>Reclamar a tu banco: <em>gratis y sin abogado</em></h1>
       <p class="intro">Una comisión que no te cuadra, un cargo que no reconoces, una transferencia que no llega. Se reclama en dos pasos y no cuesta nada.</p>
+    </div>
+  </header>
+  <section class="section">
+    <div class="wrap prose">
 
       <h2>Paso 1: al banco, por escrito</h2>
       <p>Escribe al <strong>Servicio de Atención al Cliente</strong> o al <strong>Defensor del Cliente</strong> de tu banco (en la web, en la app o en la oficina). Este paso es obligatorio. Guarda el justificante con la fecha.</p>
@@ -68,7 +73,7 @@
       <p><strong>Ojo a los plazos:</strong> tienes como mucho <strong>un año</strong> desde que reclamaste al banco. Y no se admite si han pasado más de 5 años desde los hechos sin haber reclamado antes al banco.</p>
 
       <h2>Texto para copiar (paso 1)</h2>
-      <pre id="modelo" style="white-space:pre-wrap;font-family:inherit;font-size:1rem;background:#f3f5f8;color:#10294a;padding:14px;border-radius:10px">Al Servicio de Atención al Cliente de [nombre del banco]:
+      <pre id="modelo" style="white-space:pre-wrap;font-family:inherit;font-size:1rem;background:#f2f2f2;color:#111;padding:14px;border-radius:10px">Al Servicio de Atención al Cliente de [nombre del banco]:
 Soy cliente con la cuenta/tarjeta/préstamo nº [número].
 Reclamo lo siguiente: [qué ha pasado, con fechas e importes].
 Solicito: [lo que pides: que me devuelvan X €, que anulen el cargo, etc.].
@@ -120,7 +125,7 @@ Fecha y firma:</pre>
 
 <footer class="foot">
   <div class="wrap">
-    <p class="lema">La actualidad, en euros. Comprobado con datos.</p>
+    <p class="lema">La economía de tu bolsillo, en euros claros.</p>
     <nav aria-label="Legal">
       <a href="/aviso-legal.html">Aviso legal</a>
       <a href="/privacidad.html">Privacidad</a>
