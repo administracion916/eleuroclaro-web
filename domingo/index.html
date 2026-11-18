@@ -6,14 +6,14 @@
 <meta name="robots" content="noindex">
 <title>La plantilla 50/30/20, gratis con la newsletter · El Euro Claro</title>
 <meta name="description" content="Apúntate gratis a la newsletter del domingo de El Euro Claro y descarga al momento la plantilla 50/30/20 para repartir tu sueldo.">
-<meta name="theme-color" content="#0e2a47">
+<meta name="theme-color" content="#000000">
 <meta property="og:site_name" content="El Euro Claro">
 <meta property="og:title" content="La plantilla 50/30/20, gratis con la newsletter del domingo">
 <meta property="og:description" content="Una página para apuntar lo que entra cada mes y adónde va. Te la llevas al apuntarte, sin pagar nada.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://eleuroclaro.es/domingo/">
 <meta property="og:locale" content="es_ES">
-<meta property="og:image" content="https://eleuroclaro.es/img/og-eleuroclaro-2026.png">
+<meta property="og:image" content="https://eleuroclaro.es/img/og-eleuroclaro-2026.png?v=20261114">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <!-- Dirección corta de la newsletter (eleuroclaro.es/domingo; /tt trae aquí con ?src=tiktok). No sale en el sitemap ni en Google.
@@ -21,10 +21,11 @@
      Al apuntarse: abre Substack en otra pestaña con el correo puesto y aquí enseña la descarga, para no depender del correo de bienvenida.
      utm_source dice de dónde llega el alta: ?src=… si lo trae; si no, la web del clic (facebook, instagram, youtube…);
      y «redes» si la dirección se escribe a mano, que es lo normal desde un vídeo de TikTok o Instagram. -->
-<link rel="icon" href="/favicon.svg" type="image/svg+xml">
-<link rel="apple-touch-icon" href="/apple-touch-icon.png">
-<link rel="stylesheet" href="/fonts.css">
-<link rel="stylesheet" href="/style.css?v=20261019c">
+<link rel="icon" href="/favicon.svg?v=20261114" type="image/svg+xml">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png?v=20261114">
+<link rel="preload" href="/fonts/InterDisplay-600.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="/fonts.css?v=20261114">
+<link rel="stylesheet" href="/style.css?v=20261114">
 <style>
 .dom { padding-block: 2.2rem 3.5rem; }
 /* Ordenador: texto y hoja a la izquierda, formulario a la derecha. Móvil: el formulario sube justo después del título. */
@@ -32,16 +33,16 @@
 .dom-cab { grid-area: cab; } .dom-mas { grid-area: mas; } .dom-form { grid-area: form; }
 .dom-grid > * { min-width: 0; }
 .dom h1 { font-size: clamp(2.1rem, 5vw, 3.1rem); margin-block: .5rem 1rem; }
-.dom h1 em { font-style: italic; color: var(--gold-text); }
+.dom h1 em { font-style: normal; color: var(--accent); }
 .dom .intro { color: var(--muted); font-size: 1.1rem; max-width: 36rem; margin: 0; }
-.dom-hoja { display: block; width: 100%; max-width: 22rem; height: auto; margin-top: 1.4rem; border: 1px solid var(--line); border-radius: .5rem; box-shadow: 0 18px 40px -28px rgba(15, 31, 61, .55); transform: rotate(-1.5deg); background: #fff; }
+.dom-hoja { display: block; width: 100%; max-width: 22rem; height: auto; margin-top: 1.4rem; border: 1px solid var(--line); border-radius: .5rem; box-shadow: var(--shadow-lg); transform: rotate(-1.5deg); background: #fff; }
 .dom .nl-autor { display: flex; gap: .8rem; align-items: center; margin-top: 1.4rem; }
 .dom .nl-autor img { border-radius: 50%; flex: none; }
 .dom .nl-autor p { margin: 0; font-size: .95rem; }
 .dom .firma { display: block; font-weight: 700; }
 .dom .signup .btn { width: 100%; font-size: 1.08rem; }
 .dom-regalo-tag { margin: 0; font-weight: 700; color: var(--gold-text); }
-.dom-ok { background: var(--surface); border: 2px solid #1fbf6a; border-radius: .7rem; padding: 1.5rem; display: grid; gap: .9rem; }
+.dom-ok { background: var(--surface); border: 2px solid var(--sol); border-radius: var(--radius); padding: 1.5rem; display: grid; gap: .9rem; }
 .dom-ok h2 { font-size: 1.6rem; }
 .dom-ok p { margin: 0; }
 .dom-ok .btn { width: 100%; text-align: center; box-sizing: border-box; }
@@ -61,13 +62,13 @@
   <div class="wrap">
     <a class="brand" href="/" aria-label="El Euro Claro, inicio">
       <img class="coin" src="/favicon.svg" alt="" width="40" height="40">
-      El Euro Claro
+      <span class="brand-name">el euro <span class="claro">claro</span></span>
     </a>
   </div>
 </header>
 
 <main>
-  <section class="dom">
+  <section class="dom page-hero">
     <div class="wrap dom-grid">
       <div class="dom-cab">
         <p class="eyebrow">Newsletter gratis · domingos</p>
@@ -122,7 +123,7 @@
 
 <footer class="foot">
   <div class="wrap">
-    <p class="lema">La actualidad, en euros. Comprobado con datos.</p>
+    <p class="lema">La economía de tu bolsillo, en euros claros.</p>
     <nav aria-label="Legal">
       <a href="/aviso-legal.html">Aviso legal</a>
       <a href="/privacidad.html">Privacidad</a>
