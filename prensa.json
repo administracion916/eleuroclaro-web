@@ -1,19 +1,47 @@
 {
- "actualizado": "2026-11-19T20:10:12Z",
+ "actualizado": "2026-11-19T22:10:02Z",
  "items": [
+  {
+   "t": "Take Two corrige en Bolsa el día del estreno del GTA VI pese al entusiasmo general de la crítica",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-19/take-two-cae-un-35-en-bolsa-el-dia-del-estreno-del-gta-vi-pese-al-entusiasmo-general-de-la-critica.html",
+   "f": "2026-11-19T21:33:18Z",
+   "c": "empresas"
+  },
+  {
+   "t": "Las Bolsas europeas aceleran las caídas penalizadas por la volatilidad de las tecnológicas",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-19/la-bolsa-y-el-ibex-35.html",
+   "f": "2026-11-19T21:32:42Z",
+   "c": "tecnologia"
+  },
+  {
+   "t": "Anthropic se dispara en su histórico estreno en Bolsa con una subida del 17% y un valor de casi 1,8 billones de dólares",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-11-19/anthropic-se-estrena-con-fuertes-subidas-en-la-mayor-salida-a-bolsa-de-la-historia.html",
+   "f": "2026-11-19T21:30:23Z",
+   "c": "empresas"
+  },
+  {
+   "t": "Del equipo fundador a Ashton Kutcher: Anthropic deja una legión de nuevos millonarios",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-19/del-equipo-fundador-a-ashton-kutcher-anthropic-deja-una-legion-de-nuevos-millonarios.html",
+   "f": "2026-11-19T21:28:31Z",
+   "c": "general"
+  },
+  {
+   "t": "Llardén cree que España podría exportar energía por primera vez con el hidrógeno",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261119/11688566/llarden-cree-espana-exportar-energia-primera-vez-hidrogeno.html",
+   "f": "2026-11-19T20:46:53Z",
+   "c": "energia"
+  },
   {
    "t": "Bono alquiler joven 2026: requisitos, importe, quién puede acceder y cómo solicitarlo",
    "m": "El Mundo",
    "u": "https://www.elmundo.es/economia/vivienda/2026/11/19/6aff427ce4d4d871728b4570.html",
    "f": "2026-11-19T19:39:12Z",
    "c": "vivienda"
-  },
-  {
-   "t": "Grupo San José gana 37,2 millones hasta septiembre, un 35% más, y dispara su ebitda un 25,5%",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-11-19/grupo-san-jose-gana-372-millones-hasta-septiembre-un-35-mas-y-dispara-su-ebitda-un-255.html",
-   "f": "2026-11-19T19:32:02Z",
-   "c": "empresas"
   },
   {
    "t": "Trump, Xi y Putin pactan evitar una guerra nuclear y producir más crudo",
@@ -28,34 +56,6 @@
    "u": "https://www.expansion.com/economia/2026/11/19/reino-unido-ultima-acuerdos-ue-impacto-18-000-millones.html",
    "f": "2026-11-19T18:25:42Z",
    "c": "comercio"
-  },
-  {
-   "t": "Un informe alerta que el 20% de la capacidad mundial prevista de centros de datos sufrirá retrasos de conexión eléctrica",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261119/11688489/informe-alerta-20-capacidad-mundial-prevista-centros-datos-sufrira-retrasos-conexion-electrica.html",
-   "f": "2026-11-19T18:06:50Z",
-   "c": "energia"
-  },
-  {
-   "t": "El consumo cayó un 4% la semana de la huelga del 11-N, según un informe del BBVA",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-11-19/el-consumo-cayo-un-4-la-semana-de-la-huelga-del-11-n-segun-un-informe-del-bbva.html",
-   "f": "2026-11-19T18:01:25Z",
-   "c": "empleo"
-  },
-  {
-   "t": "La política económica tras las elecciones del 29-N obligará a una reorganización de los gastos y las prioridades, según Mapfre Economics",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/politica-economica-tras-elecciones-29-n-realineamiento-gastos-prioridades_7063265_0.html",
-   "f": "2026-11-19T18:01:08Z",
-   "c": "general"
-  },
-  {
-   "t": "Zara reabre su tienda 'flagship' de la Quinta Avenida de Nueva York tras una reforma integral",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/empresas/zara-reabre-su-tienda-flagship-quinta-avenida-nueva-york-tras-una-reforma-integral_7063320_0.html",
-   "f": "2026-11-19T17:37:57Z",
-   "c": "general"
   }
  ]
 }
