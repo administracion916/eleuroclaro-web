@@ -1,6 +1,34 @@
 {
- "actualizado": "2026-11-19T06:10:32Z",
+ "actualizado": "2026-11-19T08:10:28Z",
  "items": [
+  {
+   "t": "Las Bolsas europeas abren al alza con la expectación en máximos ante el estreno de Anthropic",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-19/la-bolsa-y-el-ibex-35.html",
+   "f": "2026-11-19T08:03:33Z",
+   "c": "general"
+  },
+  {
+   "t": "Publicado en el BOE el decreto que eleva el SMI en un 5,3% para 2027, hasta los 1.286 euros mensuales",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/laboral-00346/noticia-publicado-boe-decreto-eleva-smi-53-2027-1286-euros-mensuales-20261119081708.html",
+   "f": "2026-11-19T07:17:08Z",
+   "c": "empleo"
+  },
+  {
+   "t": "El consumo de energía para aire acondicionado supera por primera vez al de calefacción",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/11/19/6afe9e03fdddffc62e8b4580.html",
+   "f": "2026-11-19T07:04:41Z",
+   "c": "energia"
+  },
+  {
+   "t": "La luz de los gurús económicos se apaga en la política",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-11-19/la-luz-de-los-gurus-economicos-se-apaga-en-la-politica.html",
+   "f": "2026-11-19T06:39:56Z",
+   "c": "energia"
+  },
   {
    "t": "Amazon, Temu y AliExpress suben precios por el nuevo arancel europeo a los pedidos de bajo coste",
    "m": "El País",
@@ -9,11 +37,11 @@
    "c": "precios"
   },
   {
-   "t": "Las Bolsas europeas apuntan al alza con la expectación en máximos ante el estreno de Anthropic",
+   "t": "La AIE prevé un mundo con más nuclear, más renovables y menos dependencia de Ormuz tras la guerra",
    "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-19/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-11-19T05:47:23Z",
-   "c": "general"
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-19/mas-energia-nuclear-y-renovables-y-mucha-menos-dependencia-de-ormuz-en-un-mundo-que-no-volvera-a-ser-como-antes-segun-la-aie.html",
+   "f": "2026-11-19T05:00:00Z",
+   "c": "energia"
   },
   {
    "t": "La IA puede mejorar la rentabilidad de los depósitos bancarios, según el BCE",
@@ -28,34 +56,6 @@
    "u": "https://www.lavanguardia.com/economia/20261119/11687600/ayudas-compra-coches-electricos-agotaran-15-dias.html",
    "f": "2026-11-19T05:00:00Z",
    "c": "transporte"
-  },
-  {
-   "t": "Sin industria no hay bienestar",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261119/11687534/industria-hay-bienestar.html",
-   "f": "2026-11-19T05:00:00Z",
-   "c": "general"
-  },
-  {
-   "t": "Endesa entra en el negocio ‘teleco’ y ofrecerá fibra, luz y gas en un ‘pack’ con Orange con descuentos de hasta 200 euros para nuevas altas",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/empresas/endesa-entra-negocio-teleco-ofrecera-fibra-luz-gas-un-pack-con-orange-con-descuentos-hasta-200-euros-para-nuevas-altas_7062705_0.html",
-   "f": "2026-11-19T05:00:00Z",
-   "c": "energia"
-  },
-  {
-   "t": "La luz de los gurús económicos se apaga en la política",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-11-19/la-luz-de-los-gurus-economicos-se-apaga-en-la-politica.html",
-   "f": "2026-11-19T04:45:01Z",
-   "c": "energia"
-  },
-  {
-   "t": "Menos consumo, trabas laborales y más desigualdad: la crisis de la vivienda amenaza con enfriar el auge económico español",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-11-19/menos-consumo-trabas-laborales-y-mas-desigualdad-la-crisis-de-la-vivienda-amenaza-con-enfriar-el-auge-economico-espanol.html",
-   "f": "2026-11-19T04:45:01Z",
-   "c": "vivienda"
   }
  ]
 }
