@@ -1,61 +1,61 @@
 {
- "actualizado": "2026-11-18T22:16:18Z",
+ "actualizado": "2026-11-19T03:44:50Z",
  "items": [
   {
-   "t": "Anthropic eleva el precio de la acción a 83 dólares por el fervor del mercado",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261118/11687612/anthropic-eleva-precio-accion-83-dolares-fervor-mercado.html",
-   "f": "2026-11-18T21:54:13Z",
-   "c": "precios"
-  },
-  {
    "t": "Anthropic desbanca a SpaceX como la mayor salida a Bolsa de la historia y fija su valoración en 1,5 billones de dólares",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-18/anthropic-desbanca-a-spacex-y-protagoniza-la-mayor-salida-a-bolsa-de-la-historia.html",
-   "f": "2026-11-18T21:41:11Z",
-   "c": "empresas"
-  },
-  {
-   "t": "Las actas de la Reserva Federal abren la puerta a subir los tipos por encima de 25 puntos en diciembre",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/las-actas-reserva-federal-abren-puerta-subir-los-tipos-por-encima-25-puntos-diciembre_7062876_0.html",
-   "f": "2026-11-18T20:21:28Z",
-   "c": "tipos"
-  },
-  {
-   "t": "Repsol y sus socios en el Reino Unido compran por 874 millones los pozos petrolíferos de EnQuest en el Mar del Norte",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-11-18/repsol-y-sus-socios-en-reino-unido-compran-por-874-millones-los-pozos-petroliferos-de-enquest-en-el-mar-del-norte.html",
-   "f": "2026-11-18T19:58:48Z",
-   "c": "empresas"
-  },
-  {
-   "t": "Las actas de la Fed abren la puerta a subir tipos por encima de 25 puntos en diciembre",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/macroeconomia-00338/noticia-actas-fed-abren-puerta-subir-tipos-encima-25-puntos-diciembre-20261118203321.html",
-   "f": "2026-11-18T19:33:21Z",
-   "c": "tipos"
-  },
-  {
-   "t": "Meloni recibe en Roma a Hernández de Cos, el candidato español a la presidencia del BCE",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/meloni-recibe-roma-hernandez-cos-uno-los-dos-candidatos-presidencia-bce_7062848_0.html",
-   "f": "2026-11-18T18:43:37Z",
-   "c": "tipos"
-  },
-  {
-   "t": "El Eurogrupo amplía el plazo para presentar candidatos a la dirección del BCE con Hernández de Cos como favorito a la presidencia",
    "m": "El País",
-   "u": "https://elpais.com/economia/2026-11-18/el-eurogrupo-amplia-el-plazo-para-presentar-candidatos-a-la-direccion-del-bce-con-hernandez-de-cos-como-favorito-a-la-presidencia.html",
-   "f": "2026-11-18T18:15:45Z",
-   "c": "tipos"
+   "u": "https://elpais.com/economia/2026-11-18/anthropic-desbanca-a-spacex-y-protagoniza-la-mayor-salida-a-bolsa-de-la-historia.html",
+   "f": "2026-11-19T00:25:13Z",
+   "c": "empresas"
   },
   {
-   "t": "Avanade, participada por Accenture y Microsoft, compra la española Plain Concepts para crecer en ingenierías basadas en IA",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-11-18/avanade-controlada-por-accenture-y-microsoft-compra-la-espanola-plain-concepts-para-crecer-en-ingenierias-basadas-en-ia.html",
-   "f": "2026-11-18T17:52:59Z",
+   "t": "La justicia tumba el desalojo inmediato de dos 'okupas' de una gasolinera de Repsol cerrada desde hace seis años",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/empresas/2026/11/19/6afc8b0efc6c83920e8b45b1.html",
+   "f": "2026-11-19T00:03:43Z",
+   "c": "vivienda"
+  },
+  {
+   "t": "Las empresas podrán perder contratos públicos por desigualdad salarial",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/2026/11/19/empresas-podran-perder-contratos-publicos-desigualdad-salarial.html",
+   "f": "2026-11-18T23:41:45Z",
+   "c": "empleo"
+  },
+  {
+   "t": "El 90% de las empresas españolas temen problemas de liquidez por retrasos en los pagos hasta 2028",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/2026/11/19/90-empresas-espanolas-temen-problemas-liquidez-retrasos-pagos-2028.html",
+   "f": "2026-11-18T23:16:19Z",
+   "c": "empresas"
+  },
+  {
+   "t": "Trump llega debilitado a la cumbre con Putin y Xi por Nvidia, las 'midterms' y los fallos tecnológicos",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/2026/11/19/trump-llega-debilitado-cumbre-putin-xi-nvidia-midterms-fallos-tecnologicos.html",
+   "f": "2026-11-18T23:15:34Z",
    "c": "tecnologia"
+  },
+  {
+   "t": "Anthropic protagonizará este jueves la mayor salida a bolsa de la historia con una valoración de 1,5 billones",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/empresas/anthropic-protagonizara-este-jueves-mayor-salida-bolsa-historia-con-una-valoracion-1-5-billones_7062893_0.html",
+   "f": "2026-11-18T23:14:57Z",
+   "c": "empresas"
+  },
+  {
+   "t": "Un año de Infinito Delicias",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/empresas/2026/11/19/6af72f2e21efa056798b4571.html",
+   "f": "2026-11-18T23:07:07Z",
+   "c": "general"
+  },
+  {
+   "t": "Anthropic protagoniza hoy la mayor salida a bolsa de la historia con el desafío de poner en valor el sueño de 'crear la inteligencia'",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/dinero-inversion/2026/11/18/6afdb1f3e9cf4a680a8b4575.html",
+   "f": "2026-11-18T22:02:07Z",
+   "c": "empresas"
   }
  ]
 }
