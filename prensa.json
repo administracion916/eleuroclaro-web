@@ -1,61 +1,61 @@
 {
- "actualizado": "2026-11-20T16:11:03Z",
+ "actualizado": "2026-11-20T18:09:55Z",
  "items": [
   {
-   "t": "Anthropic corrige con fuerza en su segunda jornada en Bolsa en pleno castigo a las empresas de IA",
+   "t": "Meta ficha al 'hacker' Chema Alonso y lo incopora a su estructura global",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/empresas/2026/11/20/6b007341e9cf4a3b3b8b4596.html",
+   "f": "2026-11-20T18:01:00Z",
+   "c": "general"
+  },
+  {
+   "t": "Francia propone a Laurence Boone para relevar a Schnabel y deja a un paso de la presidencia a De Cos",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/francia-allana-camino-cos-bce-elecciones-economista-laura-boone_7063880_0.html",
+   "f": "2026-11-20T17:57:52Z",
+   "c": "general"
+  },
+  {
+   "t": "Anthropic cae con fuerza y pone en riesgo el precio de su salida a Bolsa",
    "m": "El País",
    "u": "https://elpais.com/economia/2026-11-20/la-segunda-jornada-en-bolsa-de-anthropic.html",
-   "f": "2026-11-20T15:46:28Z",
-   "c": "empleo"
+   "f": "2026-11-20T17:57:08Z",
+   "c": "precios"
   },
   {
-   "t": "Ashton Kutcher y el manager de Madonna, entre los posibles 'milmillonarios' de la OPV de Anthropic",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/11/20/6b0068c4fdddff9b058b4584.html",
-   "f": "2026-11-20T15:43:56Z",
-   "c": "general"
-  },
-  {
-   "t": "La aseguradora Pelayo sufre un ciberataque que afecta a los datos personales de sus clientes, \"incluyendo información sobre sus pólizas y el IBAN registrado\"",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/aseguradora-pelayo-sufre-un-ciberataque-que-afecta-los-datos-personales-sus-clientes-incluyendo-informacion-sobre-sus-polizas-iban-registrado_7063791_0.html",
-   "f": "2026-11-20T15:42:07Z",
-   "c": "tecnologia"
-  },
-  {
-   "t": "Anthropic no logra contener el miedo a una 'burbuja' en la IA : las bolsas se desploman en su sexta semana fatídica",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/dinero-inversion/2026/11/20/6b0046b4e4d4d877208b459f.html",
-   "f": "2026-11-20T15:40:39Z",
-   "c": "tecnologia"
-  },
-  {
-   "t": "Estas son las ofertas de los bancos para el Black Friday 2026: Santander, BBVA y Unicaja lanzan descuentos en préstamos, tarjetas y cuentas",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-20/estas-son-las-ofertas-de-los-bancos-para-el-black-friday-2026-santander-bbva-y-unicaja-lanzan-descuentos-en-prestamos-tarjetas-y-cuentas.html",
-   "f": "2026-11-20T15:09:25Z",
-   "c": "bancos"
-  },
-  {
-   "t": "La inteligencia artificial arrastra a Wall Street y el Ibex intensifica las caídas por debajo de los 19.000",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-20/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-11-20T14:44:57Z",
-   "c": "tecnologia"
-  },
-  {
-   "t": "El Gobierno desbloquea la directiva del nuevo mercado de emisiones para coches y calefacciones",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-11-20/el-gobierno-desbloquea-la-directiva-del-nuevo-mercado-de-emisiones-para-coches-y-calefacciones.html",
-   "f": "2026-11-20T14:36:38Z",
-   "c": "transporte"
-  },
-  {
-   "t": "Economía autoriza la compra por Zurich de las filiales en Irlanda y Reino Unido de Generali España",
+   "t": "Alemania y Francia formalizan sus candidatos a la cúpula del BCE y allanan el camino a De Cos",
    "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/finanzas-00340/noticia-economia-autoriza-compra-zurich-filiales-irlanda-reino-unido-generali-espana-20261120143209.html",
-   "f": "2026-11-20T13:32:09Z",
+   "u": "https://www.europapress.es/economia/finanzas-00340/noticia-alemania-francia-formalizan-candidatos-cupula-bce-allanan-camino-cos-20261120185216.html",
+   "f": "2026-11-20T17:52:16Z",
+   "c": "tipos"
+  },
+  {
+   "t": "Zara reabre su tienda insignia de Bourke Street en Melbourne tras una reforma integral",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/zara-reabre-su-tienda-insignia-bourke-street-melbourne-tras-una-reforma-integral_7063877_0.html",
+   "f": "2026-11-20T17:43:01Z",
    "c": "general"
+  },
+  {
+   "t": "La filial española de Mercedes-Benz cuadruplicó beneficios en 2025 tras “normalizar” la actividad en la planta de Vitoria",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-11-20/la-filial-espanola-de-mercedes-benz-cuadruplico-beneficios-en-2025-tras-normalizar-la-actividad-en-la-planta-de-vitoria.html",
+   "f": "2026-11-20T17:39:04Z",
+   "c": "empresas"
+  },
+  {
+   "t": "La favorita a dirigir la ONU promete transformar una organización ‘arrogante’ e ‘invisible’",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/financial-times/2026/11/20/favorita-dirigir-onu-promete-transformar-organizacion-arrogante-e-invisible.html",
+   "f": "2026-11-20T17:39:01Z",
+   "c": "general"
+  },
+  {
+   "t": "Siete de cada diez españoles prevén comprar en un Black Friday marcado por la planificación, la búsqueda de precios bajos y la comparación de ofertas",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/empresas/2026/11/20/6b008589e9cf4a3d648b45a0.html",
+   "f": "2026-11-20T17:38:22Z",
+   "c": "precios"
   }
  ]
 }
