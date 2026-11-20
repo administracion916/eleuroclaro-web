@@ -1,61 +1,61 @@
 {
- "actualizado": "2026-11-19T22:44:07Z",
+ "actualizado": "2026-11-20T06:10:03Z",
  "items": [
   {
-   "t": "Feijóo promete bajar los impuestos y Sánchez plantea rebajas a familias y subidas a grandes fortunas",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/noticia-feijoo-promete-bajar-impuestos-sanchez-plantea-rebajas-familias-subidas-grandes-fortunas-20261119231657.html",
-   "f": "2026-11-19T22:16:57Z",
-   "c": "impuestos"
-  },
-  {
-   "t": "Sánchez reta a Feijóo a una reforma constitucional para garantizar la subida de pensiones con el IPC",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/noticia-sanchez-reta-feijoo-reforma-constitucional-garantizar-subida-pensiones-ipc-20261119230340.html",
-   "f": "2026-11-19T22:03:40Z",
-   "c": "pensiones"
-  },
-  {
-   "t": "Sánchez pregunta a Feijóo si se \"doblegará\" a la patronal y este le reprocha que \"controla\" a sindicatos",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/noticia-sanchez-pregunta-feijoo-si-doblegara-patronal-le-reprocha-controla-sindicatos-20261119230114.html",
-   "f": "2026-11-19T22:01:14Z",
-   "c": "empleo"
-  },
-  {
-   "t": "Take Two corrige en Bolsa el día del estreno del GTA VI pese al entusiasmo general de la crítica",
+   "t": "El Ibex pone en juego los 19.000 puntos",
    "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-19/take-two-cae-un-35-en-bolsa-el-dia-del-estreno-del-gta-vi-pese-al-entusiasmo-general-de-la-critica.html",
-   "f": "2026-11-19T21:33:18Z",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-20/la-bolsa-y-el-ibex-35.html",
+   "f": "2026-11-20T05:39:26Z",
    "c": "empresas"
   },
   {
-   "t": "Las Bolsas europeas aceleran las caídas penalizadas por la volatilidad de las tecnológicas",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-19/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-11-19T21:32:42Z",
-   "c": "tecnologia"
-  },
-  {
-   "t": "Anthropic se dispara en su histórico estreno en Bolsa con una subida del 17% y un valor de casi 1,8 billones de dólares",
+   "t": "Las rentas más altas acaparan tres cuartas partes de las ventajas fiscales al alquiler de vivienda",
    "m": "El País",
-   "u": "https://elpais.com/economia/2026-11-19/anthropic-se-estrena-con-fuertes-subidas-en-la-mayor-salida-a-bolsa-de-la-historia.html",
-   "f": "2026-11-19T21:30:23Z",
-   "c": "empresas"
+   "u": "https://elpais.com/economia/2026-11-20/las-rentas-mas-altas-acaparan-tres-cuartas-partes-de-las-ventajas-fiscales-al-alquiler-de-vivienda.html",
+   "f": "2026-11-20T04:45:01Z",
+   "c": "vivienda"
   },
   {
-   "t": "Del equipo fundador a Ashton Kutcher: Anthropic deja una legión de nuevos millonarios",
+   "t": "La histórica OPV de Anthropic deja de lado a los inversores españoles: “Nunca nos llega nada de papel”",
    "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-19/del-equipo-fundador-a-ashton-kutcher-anthropic-deja-una-legion-de-nuevos-millonarios.html",
-   "f": "2026-11-19T21:28:31Z",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-20/la-historica-opv-de-anthropic-deja-de-lado-a-los-inversores-espanoles-nunca-nos-llega-nada-de-papel.html",
+   "f": "2026-11-20T04:30:01Z",
    "c": "general"
   },
   {
-   "t": "Llardén cree que España podría exportar energía por primera vez con el hidrógeno",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261119/11688566/llarden-cree-espana-exportar-energia-primera-vez-hidrogeno.html",
-   "f": "2026-11-19T20:46:53Z",
+   "t": "La operación de Unicredit y Commerzbank abre la puerta al gran sueño del BCE de grandes bancos europeos",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-11-20/la-operacion-de-unicredit-y-commerzbank-abre-la-puerta-al-gran-sueno-del-bce-de-grandes-bancos-europeos.html",
+   "f": "2026-11-20T04:30:01Z",
+   "c": "tipos"
+  },
+  {
+   "t": "Competencia rebaja la responsabilidad de Iberdrola y otras generadoras en la primera sanción por el apagón",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-11-20/competencia-rebaja-la-responsabilidad-de-iberdrola-y-otras-generadoras-en-la-primera-sancion-por-el-apagon.html",
+   "f": "2026-11-20T04:30:01Z",
    "c": "energia"
+  },
+  {
+   "t": "finReg360, el despacho que desafía a las ‘big four’ con la superespecialización en regulación financiera",
+   "m": "El País",
+   "u": "https://elpais.com/economia/negocios/2026-11-20/finreg360-el-despacho-que-desafia-a-las-big-four-con-la-superespecializacion-en-regulacion-financiera.html",
+   "f": "2026-11-20T04:30:01Z",
+   "c": "general"
+  },
+  {
+   "t": "El plazo para presentar candidatos a la cúpula del BCE concluye esta tarde con De Cos a las puertas de hacer historia",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/plazo-presentar-candidatos-cupula-bce-concluye-este-viernes_7062756_0.html",
+   "f": "2026-11-20T04:00:09Z",
+   "c": "tipos"
+  },
+  {
+   "t": "Los Escribano 'se van de gira' por mercados estratégicos y firman nuevas alianzas en India y África",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/empresas/los-escribano-gira-mercados-estrategicos-firman-nuevas-alianzas-india-africa_7063134_0.html",
+   "f": "2026-11-20T04:00:00Z",
+   "c": "general"
   }
  ]
 }
