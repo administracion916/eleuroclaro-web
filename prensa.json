@@ -1,12 +1,47 @@
 {
- "actualizado": "2026-11-20T06:10:03Z",
+ "actualizado": "2026-11-20T08:10:29Z",
  "items": [
+  {
+   "t": "El sindicato de maquinistas Semaf desconvoca la huelga del 23 de noviembre tras llegar a un acuerdo con Transportes y Renfe en materia de seguridad ferroviaria",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-11-20/el-sindicato-de-maquinistas-semaf-desconvoca-la-huelga-del-23-de-noviembre-tras-alcanzar-acuerdos-en-materia-de-seguridad-ferroviaria.html",
+   "f": "2026-11-20T07:38:06Z",
+   "c": "transporte"
+  },
+  {
+   "t": "Desconvocada la huelga de maquinistas del lunes 23 de noviembre tras alcanzar acuerdo en seguridad ferroviaria",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/2026/11/20/desconvocada-huelga-maquinistas-lunes-23-noviembre-alcanzar-acuerdo-seguridad-ferroviaria.html",
+   "f": "2026-11-20T07:07:14Z",
+   "c": "empleo"
+  },
   {
    "t": "El Ibex pone en juego los 19.000 puntos",
    "m": "Cinco Días",
    "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-20/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-11-20T05:39:26Z",
+   "f": "2026-11-20T07:03:17Z",
    "c": "empresas"
+  },
+  {
+   "t": "No todos los estudios interesan como antes: qué está cambiando en el mercado de la formación",
+   "m": "El País",
+   "u": "https://elpais.com/economia/formacion/2026-11-20/no-todos-los-estudios-interesan-como-antes-que-esta-cambiando-en-el-mercado-de-la-formacion.html",
+   "f": "2026-11-20T06:30:00Z",
+   "c": "general"
+  },
+  {
+   "t": "Semaf desconvoca la huelga de maquinistas del 23 de noviembre tras alcanzar un acuerdo en seguridad ferroviaria",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/11/20/6affe386e85ece240e8b45a2.html",
+   "f": "2026-11-20T06:08:49Z",
+   "c": "empleo"
+  },
+  {
+   "t": "Semaf desconvoca la huelga de maquinistas del día 23 tras alcanzar un acuerdo con Transportes y Renfe",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/transportes-00343/noticia-semaf-desconvoca-huelga-maquinistas-23-noviembre-alcanzar-acuerdo-seguridad-ferroviaria-20261120064428.html",
+   "f": "2026-11-20T05:44:28Z",
+   "c": "transporte"
   },
   {
    "t": "Las rentas más altas acaparan tres cuartas partes de las ventajas fiscales al alquiler de vivienda",
@@ -20,41 +55,6 @@
    "m": "Cinco Días",
    "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-20/la-historica-opv-de-anthropic-deja-de-lado-a-los-inversores-espanoles-nunca-nos-llega-nada-de-papel.html",
    "f": "2026-11-20T04:30:01Z",
-   "c": "general"
-  },
-  {
-   "t": "La operación de Unicredit y Commerzbank abre la puerta al gran sueño del BCE de grandes bancos europeos",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-11-20/la-operacion-de-unicredit-y-commerzbank-abre-la-puerta-al-gran-sueno-del-bce-de-grandes-bancos-europeos.html",
-   "f": "2026-11-20T04:30:01Z",
-   "c": "tipos"
-  },
-  {
-   "t": "Competencia rebaja la responsabilidad de Iberdrola y otras generadoras en la primera sanción por el apagón",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-11-20/competencia-rebaja-la-responsabilidad-de-iberdrola-y-otras-generadoras-en-la-primera-sancion-por-el-apagon.html",
-   "f": "2026-11-20T04:30:01Z",
-   "c": "energia"
-  },
-  {
-   "t": "finReg360, el despacho que desafía a las ‘big four’ con la superespecialización en regulación financiera",
-   "m": "El País",
-   "u": "https://elpais.com/economia/negocios/2026-11-20/finreg360-el-despacho-que-desafia-a-las-big-four-con-la-superespecializacion-en-regulacion-financiera.html",
-   "f": "2026-11-20T04:30:01Z",
-   "c": "general"
-  },
-  {
-   "t": "El plazo para presentar candidatos a la cúpula del BCE concluye esta tarde con De Cos a las puertas de hacer historia",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/plazo-presentar-candidatos-cupula-bce-concluye-este-viernes_7062756_0.html",
-   "f": "2026-11-20T04:00:09Z",
-   "c": "tipos"
-  },
-  {
-   "t": "Los Escribano 'se van de gira' por mercados estratégicos y firman nuevas alianzas en India y África",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/empresas/los-escribano-gira-mercados-estrategicos-firman-nuevas-alianzas-india-africa_7063134_0.html",
-   "f": "2026-11-20T04:00:00Z",
    "c": "general"
   }
  ]
