@@ -1,61 +1,61 @@
 {
- "actualizado": "2026-11-20T12:09:52Z",
+ "actualizado": "2026-11-20T14:10:26Z",
  "items": [
-  {
-   "t": "Sánchez desoye al sector y aprueba el decreto de centros de datos a nueve días de las elecciones",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/empresas/2026/11/20/6b00340be85ecec7198b4571.html",
-   "f": "2026-11-20T11:53:59Z",
-   "c": "general"
-  },
-  {
-   "t": "El Gobierno aprueba el decreto de centros de datos para evitar un alza de 5.000 millones en la factura",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/noticia-gobierno-aprueba-decreto-centros-datos-evitar-alza-5000-millones-factura-20261120125128.html",
-   "f": "2026-11-20T11:51:28Z",
-   "c": "empresas"
-  },
   {
    "t": "El Ibex pierde los 19.000 puntos en plena huida de la inteligencia artificial",
    "m": "Cinco Días",
    "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-20/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-11-20T11:47:34Z",
+   "f": "2026-11-20T14:06:39Z",
    "c": "tecnologia"
   },
   {
-   "t": "Euríbor hoy, viernes 20 de noviembre: la semana cierra con una subida para afianzar la tendencia al alza",
+   "t": "Anthropic no logra contener el miedo a una 'burbuja' en la IA : las bolsas se desploman en su sexta semana fatídica",
    "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/11/20/6b002f41fdddff9b058b456f.html",
-   "f": "2026-11-20T11:40:43Z",
-   "c": "tipos"
+   "u": "https://www.elmundo.es/economia/dinero-inversion/2026/11/20/6b0046b4e4d4d877208b459f.html",
+   "f": "2026-11-20T13:44:29Z",
+   "c": "tecnologia"
   },
   {
-   "t": "Alfonso Muñoz, funcionario de la Seguridad Social, aclara la diferencia entre la vida laboral y el simulador de jubilación: \"No siempre coinciden\"",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/alfonso-munoz-funcionario-seguridad-social-aclara-diferencia-entre-vida-laboral-simulador-jubilacion-no-siempre-coinciden_7063561_0.html",
-   "f": "2026-11-20T11:11:14Z",
-   "c": "pensiones"
-  },
-  {
-   "t": "El Ibex 35 salva por la mínima los 19.000 puntos en la media sesión (-0,9%), con el crudo en 90 dólares",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/bolsa-00348/noticia-ibex-35-salva-minima-19000-puntos-media-sesion-09-crudo-90-dolares-20261120120704.html",
-   "f": "2026-11-20T11:07:04Z",
-   "c": "empresas"
-  },
-  {
-   "t": "Anthropic apunta a una caída de alrededor del 6% en su segunda sesión como cotizada",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/noticia-anthropic-apunta-caida-alrededor-segunda-sesion-cotizada-20261120120404.html",
-   "f": "2026-11-20T11:04:04Z",
-   "c": "empresas"
-  },
-  {
-   "t": "El Gobierno aprueba el decreto de centros de datos y la planificación eléctrica a una semana de las elecciones",
+   "t": "Anthropic avanza una caída del 10% en Bolsa ante el castigo a las empresas de IA",
    "m": "El País",
-   "u": "https://elpais.com/economia/2026-11-20/el-gobierno-aprueba-este-viernes-el-decreto-de-centros-de-datos-y-la-planificacion-electrica.html",
-   "f": "2026-11-20T10:32:18Z",
-   "c": "energia"
+   "u": "https://elpais.com/economia/2026-11-20/la-segunda-jornada-en-bolsa-de-anthropic.html",
+   "f": "2026-11-20T13:39:31Z",
+   "c": "tecnologia"
+  },
+  {
+   "t": "Economía autoriza la compra por Zurich de las filiales en Irlanda y Reino Unido de Generali España",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/finanzas-00340/noticia-economia-autoriza-compra-zurich-filiales-irlanda-reino-unido-generali-espana-20261120143209.html",
+   "f": "2026-11-20T13:32:09Z",
+   "c": "general"
+  },
+  {
+   "t": "Auto+: los fondos de las ayudas a la compra de coches se agotan oficialmente",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261120/11689161/auto-compra-ayudas-coche-fondos-agotan-autoplus.html",
+   "f": "2026-11-20T13:09:50Z",
+   "c": "transporte"
+  },
+  {
+   "t": "Hacienda rebate al PP que la presión fiscal está por debajo de la UE y le acusa de querer un \"infierno social\"",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/fiscal-00347/noticia-hacienda-rebate-pp-presion-fiscal-debajo-ue-le-acusa-querer-infierno-social-20261120140943.html",
+   "f": "2026-11-20T13:09:43Z",
+   "c": "impuestos"
+  },
+  {
+   "t": "Transportes confía en que la línea Madrid-Sevilla en Urda se repare en unas dos semanas",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-11-20/transportes-confia-en-que-la-linea-madrid-sevilla-en-urda-se-repare-en-unas-dos-semanas.html",
+   "f": "2026-11-20T12:31:22Z",
+   "c": "general"
+  },
+  {
+   "t": "Pekín rechaza el nuevo veto de EE UU a las operadoras chinas",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-11-20/pekin-rechaza-el-nuevo-veto-de-ee-uu-a-las-operadoras-chinas.html",
+   "f": "2026-11-20T12:13:25Z",
+   "c": "comercio"
   }
  ]
 }
