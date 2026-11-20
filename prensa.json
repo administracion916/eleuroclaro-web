@@ -1,26 +1,54 @@
 {
- "actualizado": "2026-11-20T14:10:26Z",
+ "actualizado": "2026-11-20T16:11:03Z",
  "items": [
   {
-   "t": "El Ibex pierde los 19.000 puntos en plena huida de la inteligencia artificial",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-20/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-11-20T14:06:39Z",
+   "t": "Anthropic corrige con fuerza en su segunda jornada en Bolsa en pleno castigo a las empresas de IA",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-11-20/la-segunda-jornada-en-bolsa-de-anthropic.html",
+   "f": "2026-11-20T15:46:28Z",
+   "c": "empleo"
+  },
+  {
+   "t": "Ashton Kutcher y el manager de Madonna, entre los posibles 'milmillonarios' de la OPV de Anthropic",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/11/20/6b0068c4fdddff9b058b4584.html",
+   "f": "2026-11-20T15:43:56Z",
+   "c": "general"
+  },
+  {
+   "t": "La aseguradora Pelayo sufre un ciberataque que afecta a los datos personales de sus clientes, \"incluyendo información sobre sus pólizas y el IBAN registrado\"",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/aseguradora-pelayo-sufre-un-ciberataque-que-afecta-los-datos-personales-sus-clientes-incluyendo-informacion-sobre-sus-polizas-iban-registrado_7063791_0.html",
+   "f": "2026-11-20T15:42:07Z",
    "c": "tecnologia"
   },
   {
    "t": "Anthropic no logra contener el miedo a una 'burbuja' en la IA : las bolsas se desploman en su sexta semana fatídica",
    "m": "El Mundo",
    "u": "https://www.elmundo.es/economia/dinero-inversion/2026/11/20/6b0046b4e4d4d877208b459f.html",
-   "f": "2026-11-20T13:44:29Z",
+   "f": "2026-11-20T15:40:39Z",
    "c": "tecnologia"
   },
   {
-   "t": "Anthropic avanza una caída del 10% en Bolsa ante el castigo a las empresas de IA",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-11-20/la-segunda-jornada-en-bolsa-de-anthropic.html",
-   "f": "2026-11-20T13:39:31Z",
+   "t": "Estas son las ofertas de los bancos para el Black Friday 2026: Santander, BBVA y Unicaja lanzan descuentos en préstamos, tarjetas y cuentas",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-20/estas-son-las-ofertas-de-los-bancos-para-el-black-friday-2026-santander-bbva-y-unicaja-lanzan-descuentos-en-prestamos-tarjetas-y-cuentas.html",
+   "f": "2026-11-20T15:09:25Z",
+   "c": "bancos"
+  },
+  {
+   "t": "La inteligencia artificial arrastra a Wall Street y el Ibex intensifica las caídas por debajo de los 19.000",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-20/la-bolsa-y-el-ibex-35.html",
+   "f": "2026-11-20T14:44:57Z",
    "c": "tecnologia"
+  },
+  {
+   "t": "El Gobierno desbloquea la directiva del nuevo mercado de emisiones para coches y calefacciones",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-11-20/el-gobierno-desbloquea-la-directiva-del-nuevo-mercado-de-emisiones-para-coches-y-calefacciones.html",
+   "f": "2026-11-20T14:36:38Z",
+   "c": "transporte"
   },
   {
    "t": "Economía autoriza la compra por Zurich de las filiales en Irlanda y Reino Unido de Generali España",
@@ -28,34 +56,6 @@
    "u": "https://www.europapress.es/economia/finanzas-00340/noticia-economia-autoriza-compra-zurich-filiales-irlanda-reino-unido-generali-espana-20261120143209.html",
    "f": "2026-11-20T13:32:09Z",
    "c": "general"
-  },
-  {
-   "t": "Auto+: los fondos de las ayudas a la compra de coches se agotan oficialmente",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261120/11689161/auto-compra-ayudas-coche-fondos-agotan-autoplus.html",
-   "f": "2026-11-20T13:09:50Z",
-   "c": "transporte"
-  },
-  {
-   "t": "Hacienda rebate al PP que la presión fiscal está por debajo de la UE y le acusa de querer un \"infierno social\"",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/fiscal-00347/noticia-hacienda-rebate-pp-presion-fiscal-debajo-ue-le-acusa-querer-infierno-social-20261120140943.html",
-   "f": "2026-11-20T13:09:43Z",
-   "c": "impuestos"
-  },
-  {
-   "t": "Transportes confía en que la línea Madrid-Sevilla en Urda se repare en unas dos semanas",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-11-20/transportes-confia-en-que-la-linea-madrid-sevilla-en-urda-se-repare-en-unas-dos-semanas.html",
-   "f": "2026-11-20T12:31:22Z",
-   "c": "general"
-  },
-  {
-   "t": "Pekín rechaza el nuevo veto de EE UU a las operadoras chinas",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-11-20/pekin-rechaza-el-nuevo-veto-de-ee-uu-a-las-operadoras-chinas.html",
-   "f": "2026-11-20T12:13:25Z",
-   "c": "comercio"
   }
  ]
 }
