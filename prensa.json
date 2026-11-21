@@ -1,8 +1,15 @@
 {
- "actualizado": "2026-11-21T12:09:57Z",
+ "actualizado": "2026-11-21T13:38:44Z",
  "items": [
   {
-   "t": "Impuesto a la banca: ¿en qué consiste un tributo que recauda 1.400 millones al año?",
+   "t": "La UE plantea una tasa digital para financiar los próximos presupuestos europeos y reducir los recortes",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-11-21/la-ue-plantea-una-tasa-digital-para-financiar-los-proximos-presupuestos-europeos-y-reducir-los-recortes.html",
+   "f": "2026-11-21T12:40:45Z",
+   "c": "impuestos"
+  },
+  {
+   "t": "Sánchez anuncia la prórroga del impuesto a la banca en 2027: ¿en qué consiste un tributo que recauda 1.400 millones al año?",
    "m": "El Mundo",
    "u": "https://www.elmundo.es/economia/macroeconomia/2026/11/21/6b017050e9cf4ad5138b45a2.html",
    "f": "2026-11-21T12:04:42Z",
@@ -49,13 +56,6 @@
    "u": "https://www.europapress.es/economia/finanzas-00340/noticia-costa-plantea-recorte-10-proximo-presupuesto-europeo-20261121112253.html",
    "f": "2026-11-21T10:22:53Z",
    "c": "general"
-  },
-  {
-   "t": "Elecciones generales 2026: qué propone cada partido sobre empleo, salarios, SMI y jornada laboral",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/laboral-00346/noticia-elecciones-generales-2026-propone-cada-partido-empleo-salarios-smi-jornada-laboral-20261121105954.html",
-   "f": "2026-11-21T09:59:54Z",
-   "c": "empleo"
   }
  ]
 }
