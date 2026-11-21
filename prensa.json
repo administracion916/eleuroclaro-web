@@ -1,6 +1,20 @@
 {
- "actualizado": "2026-11-21T16:09:55Z",
+ "actualizado": "2026-11-21T18:10:14Z",
  "items": [
+  {
+   "t": "Mercadona sigue expandiendo en España su modelo de 'Tienda 9': así son los nuevos supermercados",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/empresas/mercadona-sigue-expandiendo-espana-su-modelo-tienda-9-asi-son-los-nuevos-supermercados_7063912_0.html",
+   "f": "2026-11-21T17:48:25Z",
+   "c": "precios"
+  },
+  {
+   "t": "El precio de la luz cae un 56,1% este domingo 22 de noviembre y se sitúa en 65,14 euros/MWh",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/precio-luz-cae-un-56-1-este-domingo-22-noviembre-se-situa-65-14-euros-mwh_7064098_0.html",
+   "f": "2026-11-21T16:27:41Z",
+   "c": "energia"
+  },
   {
    "t": "Anthropic se dispara en una salida a bolsa récord tras las dudas en el sector",
    "m": "La Vanguardia",
@@ -42,20 +56,6 @@
    "u": "https://www.elmundo.es/economia/macroeconomia/2026/11/21/6b017050e9cf4ad5138b45a2.html",
    "f": "2026-11-21T12:04:42Z",
    "c": "impuestos"
-  },
-  {
-   "t": "Chema Alonso, el ‘ex hacker’ de Telefónica, ficha por Meta (Facebook) y abandona Cloudflare",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-11-21/chema-alonso-el-ex-hacker-de-telefonica-ficha-por-meta-facebook-y-abandona-cloudflare.html",
-   "f": "2026-11-21T11:28:22Z",
-   "c": "empresas"
-  },
-  {
-   "t": "Costa propone un recorte adicional del 10% del presupuesto europeo de 2028 a 2034",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/macroeconomia/2026/11/21/6b017a9d21efa0cd1e8b45a6.html",
-   "f": "2026-11-21T11:08:02Z",
-   "c": "general"
   }
  ]
 }
