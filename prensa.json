@@ -1,6 +1,34 @@
 {
- "actualizado": "2026-11-21T13:38:44Z",
+ "actualizado": "2026-11-21T16:09:55Z",
  "items": [
+  {
+   "t": "Anthropic se dispara en una salida a bolsa récord tras las dudas en el sector",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261121/11688804/anthropic-dispara-salida-bolsa-record-dudas-sector.html",
+   "f": "2026-11-21T14:49:41Z",
+   "c": "empresas"
+  },
+  {
+   "t": "Cinco millones de consumidores se endeudarán para financiar sus compras del 'Black Friday'",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261121/11689913/mas-cinco-millones-consumidores-endeudaran-financiar-compras-black-friday-justalia-servimedia20261121.html",
+   "f": "2026-11-21T14:00:18Z",
+   "c": "precios"
+  },
+  {
+   "t": "El precio de la luz baja mañana un 56,1% hasta los 65,14 euros por MWh",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261121/11689910/precio-luz-baja-manana-56-1-65-14-euros-mwh-servimedia20261121.html",
+   "f": "2026-11-21T13:53:45Z",
+   "c": "energia"
+  },
+  {
+   "t": "Cuánto cuesta celebrar unas elecciones generales en España",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/cuanto-cuesta-celebrar-elecciones-generales-espana_7064052_0.html",
+   "f": "2026-11-21T13:09:51Z",
+   "c": "general"
+  },
   {
    "t": "La UE plantea una tasa digital para financiar los próximos presupuestos europeos y reducir los recortes",
    "m": "El País",
@@ -27,34 +55,6 @@
    "m": "El Mundo",
    "u": "https://www.elmundo.es/economia/macroeconomia/2026/11/21/6b017a9d21efa0cd1e8b45a6.html",
    "f": "2026-11-21T11:08:02Z",
-   "c": "general"
-  },
-  {
-   "t": "Costa plantea un impuesto a las Big Tech como fuente de ingreso para el presupuesto de la UE",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261121/11689797/costa-plantea-impuesto-big-tech-fuente-ingreso-presupuesto-ue.html",
-   "f": "2026-11-21T11:03:58Z",
-   "c": "impuestos"
-  },
-  {
-   "t": "José Elías, empresario, sobre las ofertas para comprar una compañía: \"Si ves un mensaje así alguna vez, por lo general, huye\"",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/jose-elias-empresario-sobre-ofertas-comprar-compania-si-ves-mensaje-asi-alguna-vez-general-huye_7063996_0.html",
-   "f": "2026-11-21T10:35:29Z",
-   "c": "empresas"
-  },
-  {
-   "t": "El Gobierno prorrogará el impuesto a la banca un año más para financiar políticas de vivienda",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-11-21/el-gobierno-prorrogara-el-impuesto-a-la-banca-un-ano-mas-para-financiar-politicas-de-vivienda.html",
-   "f": "2026-11-21T10:32:32Z",
-   "c": "vivienda"
-  },
-  {
-   "t": "Costa plantea un recorte del 10% en el próximo presupuesto europeo",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/finanzas-00340/noticia-costa-plantea-recorte-10-proximo-presupuesto-europeo-20261121112253.html",
-   "f": "2026-11-21T10:22:53Z",
    "c": "general"
   }
  ]
