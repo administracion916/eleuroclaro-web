@@ -1,6 +1,34 @@
 {
- "actualizado": "2026-11-21T22:11:04Z",
+ "actualizado": "2026-11-22T01:29:05Z",
  "items": [
+  {
+   "t": "La trampa de la ventanilla 'online': más de 3.300 millones de inversión europea mientras \"se traslada toda la carga de trabajo al ciudadano\"",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/11/22/6ad78f0be85ece69198b4591.html",
+   "f": "2026-11-22T00:02:15Z",
+   "c": "general"
+  },
+  {
+   "t": "James Bond, el agente 007 con licencia para recaudar",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261122/11689226/james-bond-agente-007-licencia-recaudar.html",
+   "f": "2026-11-21T23:05:00Z",
+   "c": "general"
+  },
+  {
+   "t": "Así en la nube como en la tierra",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/macroeconomia/2026/11/22/6afedf96fc6c83370f8b45cb.html",
+   "f": "2026-11-21T23:04:35Z",
+   "c": "general"
+  },
+  {
+   "t": "Desde las operaciones sin 'bonus' que ha empezado a hacer la IA en Wall Street, hasta la UE, que ante la falta de gas, decide que el medio ambiente es…",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/macroeconomia/2026/11/22/6b0079dbfdddffdf3c8b45af.html",
+   "f": "2026-11-21T23:04:29Z",
+   "c": "energia"
+  },
   {
    "t": "¿TikTok Shop, hortera? ¡Gran error!",
    "m": "La Vanguardia",
@@ -16,13 +44,6 @@
    "c": "general"
   },
   {
-   "t": "España: el reto de crecer mejor",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261121/11690058/espana-reto-crecer-mejor.html",
-   "f": "2026-11-21T20:39:51Z",
-   "c": "general"
-  },
-  {
    "t": "Una de cada cuatro capitales se queda sin oferta de alquiler asequible",
    "m": "Expansión",
    "u": "https://www.expansion.com/economia/2026/11/21/cuatro-capitales-queda-oferta-alquiler-asequible.html",
@@ -35,27 +56,6 @@
    "u": "https://www.20minutos.es/lainformacion/empresas/mercadona-sigue-expandiendo-espana-su-modelo-tienda-9-asi-son-los-nuevos-supermercados_7063912_0.html",
    "f": "2026-11-21T17:48:25Z",
    "c": "precios"
-  },
-  {
-   "t": "El precio de la luz cae un 56,1% este domingo 22 de noviembre y se sitúa en 65,14 euros/MWh",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/precio-luz-cae-un-56-1-este-domingo-22-noviembre-se-situa-65-14-euros-mwh_7064098_0.html",
-   "f": "2026-11-21T16:27:41Z",
-   "c": "energia"
-  },
-  {
-   "t": "Cuánto cuesta celebrar unas elecciones generales en España",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/cuanto-cuesta-celebrar-elecciones-generales-espana_7064052_0.html",
-   "f": "2026-11-21T13:09:51Z",
-   "c": "general"
-  },
-  {
-   "t": "La UE plantea una tasa digital para financiar los próximos presupuestos europeos y reducir los recortes",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-11-21/la-ue-plantea-una-tasa-digital-para-financiar-los-proximos-presupuestos-europeos-y-reducir-los-recortes.html",
-   "f": "2026-11-21T12:40:45Z",
-   "c": "impuestos"
   }
  ]
 }
