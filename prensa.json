@@ -1,12 +1,40 @@
 {
- "actualizado": "2026-11-22T13:30:29Z",
+ "actualizado": "2026-11-22T16:10:50Z",
  "items": [
+  {
+   "t": "Los autónomos se manifiestan en Madrid para reclamar al Gobierno medidas \"concretas y eficaces\" y \"menos burocracia\"",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/macroeconomia/2026/11/22/6b0310ebe9cf4a462a8b4592.html",
+   "f": "2026-11-22T16:01:09Z",
+   "c": "empleo"
+  },
+  {
+   "t": "Autónomos reclaman medidas \"concretas y eficaces\" y \"menos burocracia\" en una manifestación en Madrid",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/laboral-00346/noticia-autonomos-reclaman-medidas-concretas-eficaces-menos-burocracia-manifestacion-madrid-20261122151535.html",
+   "f": "2026-11-22T14:15:35Z",
+   "c": "empleo"
+  },
   {
    "t": "Caos en Barajas: una avería del tren satélite en la Terminal 4 provoca largas colas de viajeros",
    "m": "El Mundo",
    "u": "https://www.elmundo.es/economia/macroeconomia/2026/11/22/6b02e79c21efa01e3e8b4575.html",
-   "f": "2026-11-22T13:02:00Z",
+   "f": "2026-11-22T13:34:16Z",
    "c": "transporte"
+  },
+  {
+   "t": "La mitad de los españoles gastará más de 200 euros este 'Black Friday' y un 40% aumentará su presupuesto",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261122/11690465/mitad-espanoles-gastara-mas-200-euros-black-friday-40-aumentara-presupuesto-servimedia20261122.html",
+   "f": "2026-11-22T13:24:22Z",
+   "c": "general"
+  },
+  {
+   "t": "Los directivos españoles moderan su optimismo a medio plazo, pero mantienen la apuesta por el empleo y la IA",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-11-22/los-directivos-espanoles-moderan-su-optimismo-a-medio-plazo-pero-mantienen-la-apuesta-por-el-empleo-y-la-ia.html",
+   "f": "2026-11-22T13:00:00Z",
+   "c": "empleo"
   },
   {
    "t": "Los consejeros delegados moderan su previsión de crecimiento y priorizan la inversión en IA",
@@ -27,34 +55,6 @@
    "m": "20minutos",
    "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/malaga-alicante-concentran-mitad-las-viviendas-millonarias-espana_7064240_0.html",
    "f": "2026-11-22T12:47:42Z",
-   "c": "vivienda"
-  },
-  {
-   "t": "Los trabajadores con empleo en Madrid que viven en las ciudades del corredor sur de la alta velocidad se multiplican por más de cuatro desde 2011",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/macroeconomia/2026/11/22/6aff3ddf21efa0821c8b4584.html",
-   "f": "2026-11-22T11:28:13Z",
-   "c": "empleo"
-  },
-  {
-   "t": "Los directivos españoles moderan su optimismo a medio plazo, pero mantienen la apuesta por el empleo y la IA",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-11-22/los-directivos-espanoles-moderan-su-optimismo-a-medio-plazo-pero-mantienen-la-apuesta-por-el-empleo-y-la-ia.html",
-   "f": "2026-11-22T11:00:00Z",
-   "c": "empleo"
-  },
-  {
-   "t": "Estos son los lugares de España con más viviendas millonarias",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/construccion-y-vivienda-00342/noticia-son-lugares-espana-mas-viviendas-millonarias-20261122111452.html",
-   "f": "2026-11-22T10:14:52Z",
-   "c": "vivienda"
-  },
-  {
-   "t": "Los programas electorales: ¿Qué proponen los partidos en materia de vivienda?",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/construccion-y-vivienda-00342/noticia-programas-electorales-proponen-partidos-materia-vivienda-20261122101849.html",
-   "f": "2026-11-22T09:18:49Z",
    "c": "vivienda"
   }
  ]
