@@ -1,6 +1,27 @@
 {
- "actualizado": "2026-11-22T06:09:58Z",
+ "actualizado": "2026-11-22T10:10:11Z",
  "items": [
+  {
+   "t": "Los programas electorales: ¿Qué proponen los partidos en materia de vivienda?",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/construccion-y-vivienda-00342/noticia-programas-electorales-proponen-partidos-materia-vivienda-20261122101849.html",
+   "f": "2026-11-22T09:18:49Z",
+   "c": "vivienda"
+  },
+  {
+   "t": "El economista Daniel Lacalle critica el efecto de la subida del SMI: \"El coste salarial aumenta 1.210 euros y el sueldo solo 910\"",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/economista-daniel-lacalle-critica-efecto-subida-smi-coste-salarial-aumenta-1-210-euros-sueldo-solo-910_7063752_0.html",
+   "f": "2026-11-22T08:12:05Z",
+   "c": "empleo"
+  },
+  {
+   "t": "Mercadona incorpora un nuevo método de pago en sus supermercados, sin necesidad de tarjeta o efectivo",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/mercadona-incorpora-un-nuevo-metodo-pago-sus-supermercados-sin-necesidad-tarjeta-efectivo_7064151_0.html",
+   "f": "2026-11-22T08:08:27Z",
+   "c": "precios"
+  },
   {
    "t": "La semana “grande” de Puigdemont no ha acabado",
    "m": "La Vanguardia",
@@ -34,27 +55,6 @@
    "m": "El País",
    "u": "https://elpais.com/economia/2026-11-22/economistas-e-intelectuales-denuncian-en-una-cumbre-en-paris-la-amenaza-de-la-oligarquia-internacional-para-las-democracias.html",
    "f": "2026-11-22T04:45:01Z",
-   "c": "general"
-  },
-  {
-   "t": "La defensa pincha en Bolsa y se encamina a su primer año en rojo desde la pandemia",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-22/la-defensa-pincha-en-bolsa-y-se-encamina-a-su-primer-ano-en-rojo-desde-la-pandemia.html",
-   "f": "2026-11-22T04:30:00Z",
-   "c": "empresas"
-  },
-  {
-   "t": "ASML, con armas para defender su dominio tecnológico en la vorágine de la IA",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-22/asml-con-armas-para-defender-su-dominio-tecnologico-en-la-voragine-de-la-ia.html",
-   "f": "2026-11-22T04:30:00Z",
-   "c": "tecnologia"
-  },
-  {
-   "t": "El arte se abre a nuevos públicos",
-   "m": "El País",
-   "u": "https://elpais.com/economia/negocios/2026-11-22/el-arte-se-abre-a-nuevos-publicos.html",
-   "f": "2026-11-22T04:30:00Z",
    "c": "general"
   }
  ]
