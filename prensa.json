@@ -1,6 +1,34 @@
 {
- "actualizado": "2026-11-22T12:10:25Z",
+ "actualizado": "2026-11-22T13:30:29Z",
  "items": [
+  {
+   "t": "Caos en Barajas: una avería del tren satélite en la Terminal 4 provoca largas colas de viajeros",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/macroeconomia/2026/11/22/6b02e79c21efa01e3e8b4575.html",
+   "f": "2026-11-22T13:02:00Z",
+   "c": "transporte"
+  },
+  {
+   "t": "Los consejeros delegados moderan su previsión de crecimiento y priorizan la inversión en IA",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261122/11690445/consejeros-delegados-moderan-prevision-crecimiento-priorizan-inversion-ia.html",
+   "f": "2026-11-22T13:00:00Z",
+   "c": "economia"
+  },
+  {
+   "t": "Los CEO españoles enfrían las previsiones de crecimiento de sus empresas a medio plazo",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/los-ceo-espanoles-enfrian-las-previsiones-crecimiento-sus-empresas-medio-plazo_7064174_0.html",
+   "f": "2026-11-22T13:00:00Z",
+   "c": "economia"
+  },
+  {
+   "t": "Málaga y Alicante concentran la mitad de las viviendas millonarias en España",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/malaga-alicante-concentran-mitad-las-viviendas-millonarias-espana_7064240_0.html",
+   "f": "2026-11-22T12:47:42Z",
+   "c": "vivienda"
+  },
   {
    "t": "Los trabajadores con empleo en Madrid que viven en las ciudades del corredor sur de la alta velocidad se multiplican por más de cuatro desde 2011",
    "m": "El Mundo",
@@ -28,34 +56,6 @@
    "u": "https://www.europapress.es/economia/construccion-y-vivienda-00342/noticia-programas-electorales-proponen-partidos-materia-vivienda-20261122101849.html",
    "f": "2026-11-22T09:18:49Z",
    "c": "vivienda"
-  },
-  {
-   "t": "El economista Daniel Lacalle critica el efecto de la subida del SMI: \"El coste salarial aumenta 1.210 euros y el sueldo solo 910\"",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/economista-daniel-lacalle-critica-efecto-subida-smi-coste-salarial-aumenta-1-210-euros-sueldo-solo-910_7063752_0.html",
-   "f": "2026-11-22T08:12:05Z",
-   "c": "empleo"
-  },
-  {
-   "t": "Mercadona incorpora un nuevo método de pago en sus supermercados, sin necesidad de tarjeta o efectivo",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/mercadona-incorpora-un-nuevo-metodo-pago-sus-supermercados-sin-necesidad-tarjeta-efectivo_7064151_0.html",
-   "f": "2026-11-22T08:08:27Z",
-   "c": "precios"
-  },
-  {
-   "t": "La semana “grande” de Puigdemont no ha acabado",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261122/11690315/semana-grande-puigdemont-acabado.html",
-   "f": "2026-11-22T05:00:00Z",
-   "c": "general"
-  },
-  {
-   "t": "Huang recurría a las humillaciones para motivar a los empleados de Nvidia",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261122/11689992/huang-recurria-humillaciones-motivar-empleados-nvidia.html",
-   "f": "2026-11-22T05:00:00Z",
-   "c": "tecnologia"
   }
  ]
 }
