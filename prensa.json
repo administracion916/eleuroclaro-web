@@ -1,6 +1,27 @@
 {
- "actualizado": "2026-11-22T10:10:11Z",
+ "actualizado": "2026-11-22T12:10:25Z",
  "items": [
+  {
+   "t": "Los trabajadores con empleo en Madrid que viven en las ciudades del corredor sur de la alta velocidad se multiplican por más de cuatro desde 2011",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/macroeconomia/2026/11/22/6aff3ddf21efa0821c8b4584.html",
+   "f": "2026-11-22T11:28:13Z",
+   "c": "empleo"
+  },
+  {
+   "t": "Los directivos españoles moderan su optimismo a medio plazo, pero mantienen la apuesta por el empleo y la IA",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-11-22/los-directivos-espanoles-moderan-su-optimismo-a-medio-plazo-pero-mantienen-la-apuesta-por-el-empleo-y-la-ia.html",
+   "f": "2026-11-22T11:00:00Z",
+   "c": "empleo"
+  },
+  {
+   "t": "Estos son los lugares de España con más viviendas millonarias",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/construccion-y-vivienda-00342/noticia-son-lugares-espana-mas-viviendas-millonarias-20261122111452.html",
+   "f": "2026-11-22T10:14:52Z",
+   "c": "vivienda"
+  },
   {
    "t": "Los programas electorales: ¿Qué proponen los partidos en materia de vivienda?",
    "m": "Europa Press",
@@ -35,27 +56,6 @@
    "u": "https://www.lavanguardia.com/economia/20261122/11689992/huang-recurria-humillaciones-motivar-empleados-nvidia.html",
    "f": "2026-11-22T05:00:00Z",
    "c": "tecnologia"
-  },
-  {
-   "t": "La crisis sanitaria por la peste porcina afecta la inversión de grandes grupos",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261122/11689989/crisis-sanitaria-peste-porcina-afecta-inversion-grandes-grupos.html",
-   "f": "2026-11-22T05:00:00Z",
-   "c": "general"
-  },
-  {
-   "t": "Los fallos en los sistemas antiblanqueo ponen a Revolut y otros neobancos en el punto de mira",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-11-22/los-fallos-en-los-sistemas-antiblanqueo-ponen-a-revolut-y-otros-neobancos-en-el-punto-de-mira.html",
-   "f": "2026-11-22T04:45:01Z",
-   "c": "general"
-  },
-  {
-   "t": "Economistas e intelectuales denuncian en París la amenaza de la oligarquía internacional para las democracias",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-11-22/economistas-e-intelectuales-denuncian-en-una-cumbre-en-paris-la-amenaza-de-la-oligarquia-internacional-para-las-democracias.html",
-   "f": "2026-11-22T04:45:01Z",
-   "c": "general"
   }
  ]
 }
