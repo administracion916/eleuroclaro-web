@@ -1,6 +1,34 @@
 {
- "actualizado": "2026-11-22T20:10:11Z",
+ "actualizado": "2026-11-23T01:54:09Z",
  "items": [
+  {
+   "t": "Así trabajó Hernández de Cos la presidencia del BCE con Sánchez y Feijóo: \"No hay que decir nada aún\"",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/11/23/6b032cffe9cf4ac8208b4576.html",
+   "f": "2026-11-22T23:58:45Z",
+   "c": "tipos"
+  },
+  {
+   "t": "La inflación y la 'tasa Shein' enfrían el 'Black Friday': tres de cada cuatro españoles comprarán, pero gastarán un 10% menos",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/11/23/6b02df14e4d4d84d058b457e.html",
+   "f": "2026-11-22T23:54:11Z",
+   "c": "precios"
+  },
+  {
+   "t": "‘Bomba’ demográfica: el reto de las pensiones que esquivan los partidos políticos",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/2026/11/23/bomba-demografica-reto-pensiones-esquivan-partidos-politicos.html",
+   "f": "2026-11-22T23:02:48Z",
+   "c": "pensiones"
+  },
+  {
+   "t": "El reto de llevar la transición energética a alta mar",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/empresas/2026/11/23/6aff36d0e4d4d88e308b4594.html",
+   "f": "2026-11-22T23:02:13Z",
+   "c": "energia"
+  },
   {
    "t": "La UE propone una nueva cesta de impuestos con una tasa digital para recaudar 60.000 milllones",
    "m": "Expansión",
@@ -16,13 +44,6 @@
    "c": "empleo"
   },
   {
-   "t": "Los autónomos se manifiestan en Madrid para reclamar al Gobierno medidas \"concretas y eficaces\" y \"menos burocracia\"",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/macroeconomia/2026/11/22/6b0310ebe9cf4a462a8b4592.html",
-   "f": "2026-11-22T16:01:09Z",
-   "c": "empleo"
-  },
-  {
    "t": "Autónomos reclaman medidas \"concretas y eficaces\" y \"menos burocracia\" en una manifestación en Madrid",
    "m": "Europa Press",
    "u": "https://www.europapress.es/economia/laboral-00346/noticia-autonomos-reclaman-medidas-concretas-eficaces-menos-burocracia-manifestacion-madrid-20261122151535.html",
@@ -30,32 +51,11 @@
    "c": "empleo"
   },
   {
-   "t": "Caos en Barajas: una avería del tren satélite en la Terminal 4 provoca largas colas de viajeros",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/macroeconomia/2026/11/22/6b02e79c21efa01e3e8b4575.html",
-   "f": "2026-11-22T13:34:16Z",
-   "c": "transporte"
-  },
-  {
    "t": "La mitad de los españoles gastará más de 200 euros este 'Black Friday' y un 40% aumentará su presupuesto",
    "m": "La Vanguardia",
    "u": "https://www.lavanguardia.com/economia/20261122/11690465/mitad-espanoles-gastara-mas-200-euros-black-friday-40-aumentara-presupuesto-servimedia20261122.html",
    "f": "2026-11-22T13:24:22Z",
    "c": "general"
-  },
-  {
-   "t": "Los directivos españoles moderan su optimismo a medio plazo, pero mantienen la apuesta por el empleo y la IA",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-11-22/los-directivos-espanoles-moderan-su-optimismo-a-medio-plazo-pero-mantienen-la-apuesta-por-el-empleo-y-la-ia.html",
-   "f": "2026-11-22T13:00:00Z",
-   "c": "empleo"
-  },
-  {
-   "t": "Los consejeros delegados moderan su previsión de crecimiento y priorizan la inversión en IA",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261122/11690445/consejeros-delegados-moderan-prevision-crecimiento-priorizan-inversion-ia.html",
-   "f": "2026-11-22T13:00:00Z",
-   "c": "economia"
   }
  ]
 }
