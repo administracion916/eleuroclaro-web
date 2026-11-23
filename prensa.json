@@ -1,6 +1,41 @@
 {
- "actualizado": "2026-11-23T18:11:33Z",
+ "actualizado": "2026-11-23T20:09:44Z",
  "items": [
+  {
+   "t": "El Gobierno aprobará el permiso de fallecimiento de 10 días con cargo a la empresa",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/2026/11/23/gobierno-aprobara-permiso-fallecimiento-10-dias-cargo-empresa.html",
+   "f": "2026-11-23T19:09:41Z",
+   "c": "empresas"
+  },
+  {
+   "t": "El Gobierno aprobará mañana la ampliación de los permisos por fallecimiento a 10 días",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261123/11691537/gobierno-aprobara-manana-ampliacion-permisos-fallecimiento-10-dias.html",
+   "f": "2026-11-23T18:20:06Z",
+   "c": "general"
+  },
+  {
+   "t": "El Gobierno aprobará mañana el permiso de diez días por el fallecimiento de un familiar",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/transportes-00343/noticia-gobierno-aprobara-manana-permiso-diez-dias-fallecimiento-familiar-20261123191837.html",
+   "f": "2026-11-23T18:18:37Z",
+   "c": "general"
+  },
+  {
+   "t": "Sánchez y Díaz lanzan en campaña el permiso por fallecimiento de 10 días pactado con los sindicatos hace un año",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/11/23/6b0480fee4d4d8bf7c8b457b.html",
+   "f": "2026-11-23T18:16:50Z",
+   "c": "empleo"
+  },
+  {
+   "t": "El Gobierno ampliará mañana el permiso retribuido por fallecimiento de dos a diez días a menos de una semana de las elecciones",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/gobierno-ampliara-manana-permiso-retribuido-por-fallecimiento-dos-diez-dias-menos-una-semana-las-elecciones_7064805_0.html",
+   "f": "2026-11-23T18:11:02Z",
+   "c": "general"
+  },
   {
    "t": "El Gobierno ampliará este martes el permiso de duelo por fallecimiento a 10 días",
    "m": "El País",
@@ -21,41 +56,6 @@
    "u": "https://www.expansion.com/economia/financial-times/2026/11/23/nueva-normalidad-golfo-persico.html",
    "f": "2026-11-23T17:26:26Z",
    "c": "general"
-  },
-  {
-   "t": "El Ibex 35 sube un 1,6% y roza los 19.200 puntos ante el impulso del Nasdaq tras el rebote de Nvidia",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/bolsa-00348/noticia-ibex-35-sube-16-roza-19200-puntos-impulso-nasdaq-rebote-nvidia-20261123180632.html",
-   "f": "2026-11-23T17:06:32Z",
-   "c": "tecnologia"
-  },
-  {
-   "t": "El Gobierno llevará al Consejo de Ministros el tope a los intereses en el crédito al consumo",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/gobierno-consejo-ministros-intereses-credito-consumo_7064758_0.html",
-   "f": "2026-11-23T17:03:43Z",
-   "c": "bancos"
-  },
-  {
-   "t": "Los inversores vuelven a apostar por la IA tras el regreso de Huang y las firmas tecnológicas reavivan las bolsas disparando el Nasdaq más de un 7%",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/dinero-inversion/2026/11/23/6b044c51e9cf4a657b8b458e.html",
-   "f": "2026-11-23T17:00:56Z",
-   "c": "tecnologia"
-  },
-  {
-   "t": "Trump asegura que habló con la junta directiva de Nvidia sobre la reincorporación de Jensen Huang: \"Me pareció que era muy razonable\"",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/11/23/6b04686d21efa04a028b45a3.html",
-   "f": "2026-11-23T16:51:31Z",
-   "c": "tecnologia"
-  },
-  {
-   "t": "El Nasdaq se dispara un 7% tras el regreso de Jensen Huang como primer ejecutivo de Nvidia",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-23/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-11-23T16:44:51Z",
-   "c": "tecnologia"
   }
  ]
 }
