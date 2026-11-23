@@ -1,60 +1,60 @@
 {
- "actualizado": "2026-11-23T08:10:51Z",
+ "actualizado": "2026-11-23T10:10:28Z",
  "items": [
+  {
+   "t": "Los precios hoteleros registran su mayor incremento en dos años tras dispararse otro 7,4% en octubre",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/precios-hoteleros-registran-mayor-incremento-dos-anos-dispararse-7-4-octubre_7064468_0.html",
+   "f": "2026-11-23T10:02:44Z",
+   "c": "transporte"
+  },
+  {
+   "t": "Sánchez propone un impuesto para “ultrarricos” con fortunas superiores a 100 millones de euros",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-11-23/sanchez-propone-un-impuesto-para-ultrarricos-con-fortunas-superiores-a-100-millones-de-euros.html",
+   "f": "2026-11-23T09:51:45Z",
+   "c": "impuestos"
+  },
+  {
+   "t": "Precio del aceite de oliva virgen extra desde hoy, lunes, 23 de noviembre de 2026, en los supermercados: cuánto cuesta en Mercadona, Carrefour o Alcampo",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/11/23/6b03ecb9fdddffe66f8b4578.html",
+   "f": "2026-11-23T09:43:32Z",
+   "c": "precios"
+  },
+  {
+   "t": "Mercadona da un giro a su horario en diciembre: a esta hora cierran sus supermercados en Navidad y Nochevieja",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/noticia-mercadona-adelantara-hora-cierre-supermercados-24-31-diciembre-18-horas-20261123103920.html",
+   "f": "2026-11-23T09:39:20Z",
+   "c": "precios"
+  },
+  {
+   "t": "Precio de los huevos desde hoy, lunes, 23 de noviembre de 2026, en los supermercados: cuánto cuestan en Mercadona, Carrefour o Alcampo",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/11/23/6b03ecb4fdddff63218b4572.html",
+   "f": "2026-11-23T09:34:17Z",
+   "c": "precios"
+  },
+  {
+   "t": "Pasajeros de dos vuelos reciben atención médica tras aterrizar en Frankfurt en aviones procedentes de República Dominicana",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/11/23/6b040707fc6c831d088b4571.html",
+   "f": "2026-11-23T09:28:22Z",
+   "c": "transporte"
+  },
+  {
+   "t": "El Ibex rebota este lunes tras el fuerte retroceso de la última semana",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261123/11690882/ibex-rebota-lunes-pese-dudas-sobre-sector-tecnologico.html",
+   "f": "2026-11-23T09:15:59Z",
+   "c": "empresas"
+  },
   {
    "t": "Las Bolsas europeas recuperan el tono positivo y los futuros del Nasdaq se disparan un 3%",
    "m": "Cinco Días",
    "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-23/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-11-23T08:02:41Z",
-   "c": "general"
-  },
-  {
-   "t": "Técnicas Reunidas desarrollará tres centrales eléctricas para RWE en Alemania por más de 1.500 millones",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-11-23/tecnicas-reunidas-desarrollara-tres-centrales-electricas-para-rwe-en-alemania-por-mas-de-1500-millones.html",
-   "f": "2026-11-23T07:34:31Z",
-   "c": "energia"
-  },
-  {
-   "t": "Alice Huang estaba en contacto con el espionaje chino durante su relación con el CEO de Nvidia",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261123/11690803/alice-jensen-huang-espia-china-nvidia.html",
-   "f": "2026-11-23T05:12:50Z",
-   "c": "tecnologia"
-  },
-  {
-   "t": "Un notario en el juzgado: Sultán y la familia Andic // Cuenta atrás para el circuito de Montmeló",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261123/11690783/notario-juzgado-sultan-familia-andic-cuenta-circuito-montmelo.html",
-   "f": "2026-11-23T05:00:00Z",
-   "c": "general"
-  },
-  {
-   "t": "La ministra que ha transformado el mercado laboral",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261123/11690599/la-ministra-que-ha-transformado-el-mercado-laboral.html",
-   "f": "2026-11-23T05:00:00Z",
-   "c": "general"
-  },
-  {
-   "t": "Las aerolíneas anticipan una subida de precios y un recorte de plazas para el próximo verano",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-11-23/las-aerolineas-anticipan-una-subida-de-precios-y-un-recorte-de-plazas-para-el-proximo-verano.html",
-   "f": "2026-11-23T04:45:01Z",
-   "c": "transporte"
-  },
-  {
-   "t": "La sede fantasma de la CNMC en Barcelona",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-11-23/la-sede-fantasma-de-la-cnmc-en-barcelona.html",
-   "f": "2026-11-23T04:45:00Z",
-   "c": "general"
-  },
-  {
-   "t": "Promesas electorales bajo sospecha",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-11-23/promesas-electorales-bajo-sospecha.html",
-   "f": "2026-11-23T04:30:01Z",
+   "f": "2026-11-23T08:58:37Z",
    "c": "general"
   }
  ]
