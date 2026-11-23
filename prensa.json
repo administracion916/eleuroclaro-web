@@ -1,12 +1,19 @@
 {
- "actualizado": "2026-11-23T06:10:49Z",
+ "actualizado": "2026-11-23T08:10:51Z",
  "items": [
   {
    "t": "Las Bolsas europeas recuperan el tono positivo y los futuros del Nasdaq se disparan un 3%",
    "m": "Cinco Días",
    "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-23/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-11-23T05:53:07Z",
+   "f": "2026-11-23T08:02:41Z",
    "c": "general"
+  },
+  {
+   "t": "Técnicas Reunidas desarrollará tres centrales eléctricas para RWE en Alemania por más de 1.500 millones",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-11-23/tecnicas-reunidas-desarrollara-tres-centrales-electricas-para-rwe-en-alemania-por-mas-de-1500-millones.html",
+   "f": "2026-11-23T07:34:31Z",
+   "c": "energia"
   },
   {
    "t": "Alice Huang estaba en contacto con el espionaje chino durante su relación con el CEO de Nvidia",
@@ -48,13 +55,6 @@
    "m": "El País",
    "u": "https://elpais.com/economia/2026-11-23/promesas-electorales-bajo-sospecha.html",
    "f": "2026-11-23T04:30:01Z",
-   "c": "general"
-  },
-  {
-   "t": "Tokenización de activos reales: el punto de inflexión que redefine los mercados financieros",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-23/tokenizacion-de-activos-reales-el-punto-de-inflexion-que-redefine-los-mercados-financieros.html",
-   "f": "2026-11-23T04:30:00Z",
    "c": "general"
   }
  ]
