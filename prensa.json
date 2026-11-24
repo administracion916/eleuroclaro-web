@@ -1,61 +1,61 @@
 {
- "actualizado": "2026-11-24T10:10:14Z",
+ "actualizado": "2026-11-24T12:10:18Z",
  "items": [
   {
-   "t": "Sanofi cierra un acuerdo para comprar Insmed por 37.600 millones en la mayor operación del sector farmacéutico en tres años",
+   "t": "El Gobierno rebaja el IRPF a 2,6 millones de autónomos y simplifica la declaración del IVA",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/fiscal-00347/noticia-gobierno-rebaja-irpf-26-millones-autonomos-simplifica-declaracion-iva-20261124130743.html",
+   "f": "2026-11-24T12:07:43Z",
+   "c": "empleo"
+  },
+  {
+   "t": "Enagás calcula en 6.000 millones el coste de la factura energética de España por la crisis de Ormuz",
    "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-11-24/sanofi-cierra-un-acuerdo-para-comprar-insmed-por-37600-millones-en-la-mayor-operacion-del-sector-farmaceutico-en-tres-anos.html",
-   "f": "2026-11-24T09:57:20Z",
+   "u": "https://cincodias.elpais.com/companias/2026-11-24/enagas-calcula-en-6000-millones-el-coste-de-la-factura-energetica-de-espana-por-la-crisis-de-ormuz.html",
+   "f": "2026-11-24T12:00:20Z",
+   "c": "energia"
+  },
+  {
+   "t": "Las empresas ganaron un 35% más e ingresaron un 10% más hasta septiembre",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261124/11691901/empresas-ganaron-35-mas-e-ingresaron-10-mas-septiembre.html",
+   "f": "2026-11-24T12:00:00Z",
    "c": "empresas"
   },
   {
-   "t": "Pedro López Mena asume la dirección ejecutiva como CEO de Grupo LEW Brand para liderar la nueva etapa",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/noticia-pedro-lopez-mena-asume-direccion-ejecutiva-ceo-grupo-lew-brand-liderar-nueva-etapa-20261124105410.html",
-   "f": "2026-11-24T09:54:10Z",
+   "t": "El Gobierno prorroga para 2027 las ayudas al transporte público con los mismos descuentos",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261124/11692151/gobierno-prorroga-2027-ayudas-transporte-publico-descuentos.html",
+   "f": "2026-11-24T11:55:34Z",
    "c": "general"
   },
   {
-   "t": "Cautela en las Bolsas europeas pese a la renovada euforia por la IA",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-24/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-11-24T09:41:07Z",
-   "c": "tecnologia"
-  },
-  {
-   "t": "El Gobierno aprueba la ampliación a 20 semanas del permiso de nacimiento",
-   "m": "Expansión",
-   "u": "https://www.expansion.com/economia/2026/11/24/gobierno-aprueba-ampliacion-20-semanas-permiso-nacimiento.html",
-   "f": "2026-11-24T09:39:32Z",
-   "c": "general"
-  },
-  {
-   "t": "Nvidia no es equipo de fútbol de segunda división mal dirigido, pero lo parece",
+   "t": "El Gobierno remodela el impuesto a la banca para obligar a repartir los 1.400 millones de recaudación en la conferencia sectorial de Vivienda",
    "m": "El País",
-   "u": "https://elpais.com/economia/2026-11-24/nvidia-no-es-equipo-de-futbol-de-segunda-division-mal-dirigido-pero-lo-parece.html",
-   "f": "2026-11-24T09:26:32Z",
+   "u": "https://elpais.com/economia/2026-11-24/el-gobierno-remodela-el-impuesto-a-la-banca-para-obligar-a-repartir-los-1400-millones-de-recaudacion-en-la-conferencia-sectorial-de-vivienda.html",
+   "f": "2026-11-24T11:55:01Z",
+   "c": "vivienda"
+  },
+  {
+   "t": "Nvidia: la bragueta del CEO",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/empresas/2026/11/24/6b0577b321efa05e5a8b458e.html",
+   "f": "2026-11-24T11:54:32Z",
    "c": "tecnologia"
   },
   {
-   "t": "Es oficial: estas 11 enfermedades permiten adelantar la jubilación a los 56 años sin penalización en la pensión",
+   "t": "Euríbor hoy, martes 24 de noviembre: nuevo repunte que consolida la tasa mensual al 3,3%",
    "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/11/24/6b05514ffc6c835c2b8b457e.html",
-   "f": "2026-11-24T09:22:35Z",
-   "c": "pensiones"
+   "u": "https://www.elmundo.es/economia/2026/11/24/6b057541e85ece28708b45b5.html",
+   "f": "2026-11-24T11:54:31Z",
+   "c": "tipos"
   },
   {
-   "t": "Los partidos políticos firman la propuesta de un Pacto de Estado por la Seguridad Ferroviaria a instancias de las víctimas de Adamuz",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/11/24/6b055027e4d4d852258b45a8.html",
-   "f": "2026-11-24T09:10:08Z",
-   "c": "general"
-  },
-  {
-   "t": "Garijo impulsa la mayor compra de Sanofi desde su nombramiento: se hace con la biotecnológica Insmed por 41.000 millones",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/empresas/garijo-impulsa-mayor-compra-sanofi-desde-su-nombramiento-se-hace-con-biotecnologica-insmed-por-41-000-millones_7064946_0.html",
-   "f": "2026-11-24T09:04:10Z",
-   "c": "tecnologia"
+   "t": "El Gobierno aprueba los nuevos convenios del Estado con Adif hasta 2030, con un alza del 50% de la inversión",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/transportes-00343/noticia-gobierno-aprueba-nuevos-convenios-estado-adif-2030-alza-50-inversion-20261124125251.html",
+   "f": "2026-11-24T11:52:51Z",
+   "c": "empleo"
   }
  ]
 }
