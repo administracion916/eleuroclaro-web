@@ -1,12 +1,33 @@
 {
- "actualizado": "2026-11-24T06:10:51Z",
+ "actualizado": "2026-11-24T08:10:24Z",
  "items": [
   {
    "t": "Las Bolsas se estabilizan tras la renovada euforia por la IA",
    "m": "Cinco Días",
    "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-24/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-11-24T05:32:04Z",
+   "f": "2026-11-24T08:02:44Z",
    "c": "tecnologia"
+  },
+  {
+   "t": "Consumo abre expediente a un banco por no permitir cancelar por internet las cuentas digitales",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-11-24/consumo-abre-expediente-a-un-banco-por-no-permitir-cancelar-por-internet-las-cuentas-digitales.html",
+   "f": "2026-11-24T08:00:00Z",
+   "c": "bancos"
+  },
+  {
+   "t": "Plus Ultra deja a miles de personas sin vuelo y a la SEPI en un atolladero",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261124/11691833/plus-ultra-deja-miles-personas-vuelo-sepi-atolladero.html",
+   "f": "2026-11-24T07:32:20Z",
+   "c": "transporte"
+  },
+  {
+   "t": "Iberia celebra el 'Black Friday' con vuelos desde 24 euros",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/iberia-celebra-black-friday-con-vuelos-desde-24-euros_7064879_0.html",
+   "f": "2026-11-24T06:49:53Z",
+   "c": "transporte"
   },
   {
    "t": "Nvidia gana 952.000 millones de dólares en valor en Bolsa, nuevo récord histórico en un día",
@@ -35,27 +56,6 @@
    "u": "https://elpais.com/economia/2026-11-24/alemania-planea-poner-fin-al-carbon-empleando-mas-centrales-de-gas-para-garantizar-el-suministro-electrico.html",
    "f": "2026-11-24T04:45:01Z",
    "c": "energia"
-  },
-  {
-   "t": "Los analistas se preparan para nuevos episodios de inestabilidad en un mercado más frágil",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-24/los-analistas-se-preparan-para-nuevos-episodios-de-inestabilidad-en-un-mercado-mas-fragil.html",
-   "f": "2026-11-24T04:30:01Z",
-   "c": "general"
-  },
-  {
-   "t": "El mercado levanta parcialmente el castigo a Nvidia: “La reincorporación de Huang elimina el principal lastre”",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-24/el-mercado-levanta-parcialmente-el-castigo-a-nvidia-la-reincorporacion-de-huang-elimina-el-principal-lastre.html",
-   "f": "2026-11-24T04:30:01Z",
-   "c": "tecnologia"
-  },
-  {
-   "t": "Faes Farma apuesta por la oftalmología para doblar su tamaño",
-   "m": "El País",
-   "u": "https://elpais.com/economia/negocios/2026-11-24/faes-farma-apuesta-por-la-oftalmologia-para-doblar-su-tamano.html",
-   "f": "2026-11-24T04:30:00Z",
-   "c": "general"
   }
  ]
 }
