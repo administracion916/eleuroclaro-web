@@ -1,12 +1,40 @@
 {
- "actualizado": "2026-11-24T20:10:07Z",
+ "actualizado": "2026-11-24T22:12:30Z",
  "items": [
+  {
+   "t": "¿Sabías que ya no tendrás que adelantar dinero a Hacienda si cobras el SMI? te lo explicamos en un minuto",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/sabias-que-ya-no-tendras-que-adelantar-dinero-hacienda-si-cobras-smi-te-explicamos-un-minuto_7065399_0.html",
+   "f": "2026-11-24T21:25:34Z",
+   "c": "empleo"
+  },
+  {
+   "t": "Pablo Isla (Nestlé), primer doctor honoris causa por ESIC University: \"La gestión de la incertidumbre es la base del éxito empresarial\"",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/empresas/pablo-isla-nestle-primer-doctor-honoris-causa-esic-university-gestion-incertidumbre-base-exito-gestion-empresarial_7065066_0.html",
+   "f": "2026-11-24T21:04:33Z",
+   "c": "empresas"
+  },
+  {
+   "t": "Huang pide disculpas a los empleados, dice que está en terapia pero se muestra desafiante tras su regreso",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261124/11692567/huang-pide-disculpas-empleados-dice-esta-terapia-muestra-desafiante-regreso.html",
+   "f": "2026-11-24T20:45:44Z",
+   "c": "general"
+  },
   {
    "t": "Pablo Isla, primer doctor ‘honoris causa’ de ESIC University: “El propósito de una empresa no puede ser ganar dinero”",
    "m": "Cinco Días",
    "u": "https://cincodias.elpais.com/companias/2026-11-24/pablo-isla-primer-doctor-honoris-causa-de-esic-university-el-proposito-de-una-empresa-no-puede-ser-ganar-dinero.html",
    "f": "2026-11-24T19:57:29Z",
    "c": "empresas"
+  },
+  {
+   "t": "Aldama, de Inverco, pide potenciar el acceso a los mercados financieros en España y dar un impulso a los planes de pensiones privados",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/inverco-potenciar-planes-pensiones-privados-potenciar-mercados-financieros_7065342_0.html",
+   "f": "2026-11-24T19:25:50Z",
+   "c": "pensiones"
   },
   {
    "t": "Anthropic ya cotiza por debajo del precio de su debut bursátil",
@@ -28,34 +56,6 @@
    "u": "https://cincodias.elpais.com/companias/2026-11-24/stripe-negocia-una-oferta-para-recomprar-acciones-con-una-valoracion-superior-a-200000-millones-de-dolares.html",
    "f": "2026-11-24T17:54:19Z",
    "c": "empresas"
-  },
-  {
-   "t": "El Ibex 35 cae un 0,86% al cierre, pero salva los 19.000 puntos",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/bolsa-00348/noticia-ibex-35-cae-086-cierre-salva-19000-puntos-20261124182655.html",
-   "f": "2026-11-24T17:26:55Z",
-   "c": "empresas"
-  },
-  {
-   "t": "Trump prepara un aumento de los aranceles para la Unión Europea, China y otros países",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/trump-prepara-un-aumento-los-aranceles-para-union-europea-china-otros-paises_7065318_0.html",
-   "f": "2026-11-24T17:11:34Z",
-   "c": "comercio"
-  },
-  {
-   "t": "DCOOP defiende que el Gobierno retire aceite de oliva para estabilizar el mercado y sitúa el precio justo entre 4 y 5 euros",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/dcoop-defiende-que-gobierno-retire-aceite-oliva-para-estabilizar-mercado-situa-precio-justo-entre-4-5-euros_7065061_0.html",
-   "f": "2026-11-24T17:06:34Z",
-   "c": "precios"
-  },
-  {
-   "t": "Los Notarios estiman que los fondos ilícitos blanqueados en España alcanzan el 1% del PIB",
-   "m": "Expansión",
-   "u": "https://www.expansion.com/economia/2026/11/24/notarios-estiman-fondos-ilicitos-blanqueados-espana-alcanzan-1-pib.html",
-   "f": "2026-11-24T16:59:22Z",
-   "c": "economia"
   }
  ]
 }
