@@ -1,61 +1,61 @@
 {
- "actualizado": "2026-11-25T08:10:30Z",
+ "actualizado": "2026-11-25T10:10:19Z",
  "items": [
   {
-   "t": "Las Bolsas europeas avanzan posiciones pese a los fuertes recortes de Asia",
+   "t": "Complemento a mínimos de la pensión: el límite de ingresos de 2026 y por qué la Seguridad Social puede pedir que lo devuelvas",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/2026/11/25/complemento-minimos-pension-limite-ingresos-2026-seguridad-social-pedir-devuelvas.html",
+   "f": "2026-11-25T10:02:21Z",
+   "c": "pensiones"
+  },
+  {
+   "t": "Un jurado de Nueva York declara culpable a Huawei de robo de secretos industriales",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/empresas/2026/11/25/6b06b0a821efa0ae248b45a7.html",
+   "f": "2026-11-25T10:01:11Z",
+   "c": "general"
+  },
+  {
+   "t": "El Ibex duda y pone en peligro los 19.000 puntos",
    "m": "Cinco Días",
    "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-25/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-11-25T08:04:51Z",
-   "c": "general"
-  },
-  {
-   "t": "Las hipotecas sobre viviendas marcan récord en 16 años para un mes de septiembre tras subir un 2,3%",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/finanzas-00340/noticia-hipotecas-viviendas-marcan-record-16-anos-mes-septiembre-subir-23-20261125090101.html",
-   "f": "2026-11-25T08:01:01Z",
-   "c": "tipos"
-  },
-  {
-   "t": "El PIB de Alemania creció un 0,1% en el tercer trimestre, por debajo de lo previsto",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/macroeconomia-00338/noticia-pib-alemania-crecio-01-tercer-trimestre-debajo-previsto-20261125085818.html",
-   "f": "2026-11-25T07:58:18Z",
-   "c": "economia"
-  },
-  {
-   "t": "Indra vuelca el negocio a la Defensa y la IA para triplicar sus ingresos en 2035 y generar la mitad fuera de España",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/empresas/indra-vuelca-su-negocio-defensa-para-triplicar-sus-ingresos-2035-generar-mitad-fuera-espana_7065448_0.html",
-   "f": "2026-11-25T07:31:06Z",
-   "c": "tecnologia"
-  },
-  {
-   "t": "Indra prevé duplicar sus ingresos en 2030, hasta los 12.000 millones de euros",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/noticia-indra-preve-duplicar-ingresos-2030-12000-millones-euros-20261125082310.html",
-   "f": "2026-11-25T07:23:10Z",
-   "c": "general"
-  },
-  {
-   "t": "Huawei, declarada culpable de fraude y robo de secretos en Estados Unidos",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261125/11692812/huawei-declarada-culpable-fraude-robo-secretos-estados-unidos.html",
-   "f": "2026-11-25T07:20:32Z",
-   "c": "comercio"
-  },
-  {
-   "t": "Indra aspira a facturar 12.000 millones en 2030 y triplicar la rentabilidad con un plan estratégico que nace con el asterisco de las elecciones",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/empresas/2026/11/25/6b06805921efa0674a8b459f.html",
-   "f": "2026-11-25T07:13:43Z",
+   "f": "2026-11-25T09:54:02Z",
    "c": "empresas"
   },
   {
-   "t": "Indra lanza su gran plan: 20.000 millones de ingresos en 2035 y la IA como motor de crecimiento de todas las divisiones",
+   "t": "El permiso de diez días por duelo entra en vigor este jueves",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/laboral-00346/noticia-permiso-diez-dias-duelo-entra-vigor-jueves-20261125104427.html",
+   "f": "2026-11-25T09:44:27Z",
+   "c": "general"
+  },
+  {
+   "t": "La justicia eleva a más de 1,1 millones de euros la indemnización por la negligencia médica que dejó a una niña sin posibilidad de trabajar",
+   "m": "El País",
+   "u": "https://elpais.com/economia/mis-derechos/2026-11-25/la-justicia-eleva-a-mas-de-un-millon-de-euros-la-indemnizacion-a-una-nina-que-nunca-podra-trabajar-por-una-negligencia-medica.html",
+   "f": "2026-11-25T09:38:27Z",
+   "c": "general"
+  },
+  {
+   "t": "¿Starbucks se vende? La compañía está en conversaciones con Citi y Morgan Stanley para deshacerse de su negocio en Japón",
    "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-11-25/indra-se-fija-unos-ingresos-de-12000-millones-para-2030-casi-el-doble-que-en-2025.html",
-   "f": "2026-11-25T07:11:18Z",
-   "c": "economia"
+   "u": "https://cincodias.elpais.com/companias/2026-11-25/starbucks-se-vende-la-compania-esta-en-conversaciones-con-citi-y-morgan-stanley-para-deshacerse-de-su-negocio-en-japon.html",
+   "f": "2026-11-25T09:35:00Z",
+   "c": "empresas"
+  },
+  {
+   "t": "Oficial: si tienes un árbol en el jardín, cuidado antes de talarlo que la multa puede llegar a 100.000 euros o más",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/11/25/6b069bb2e9cf4acc798b4585.html",
+   "f": "2026-11-25T09:27:46Z",
+   "c": "general"
+  },
+  {
+   "t": "Repsol mantiene hasta el 10 de enero sus descuentos: los clientes con Waylet podrán acumular ahorros de hasta 45 céntimos de euro por litro de combustible",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/empresas/repsol-mantiene-hasta-10-enero-sus-descuentos-los-clientes-con-waylet-podran-seguir-acumulando-ahorros-hasta-45-centimos-euro-por-litro-combustible_7065496_0.html",
+   "f": "2026-11-25T09:26:54Z",
+   "c": "energia"
   }
  ]
 }
