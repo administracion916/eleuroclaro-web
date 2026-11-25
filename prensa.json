@@ -1,12 +1,26 @@
 {
- "actualizado": "2026-11-25T18:10:26Z",
+ "actualizado": "2026-11-25T20:09:57Z",
  "items": [
   {
-   "t": "Recompensa a la generación de flujo de caja",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/caracter-independiente/2026-11-25/recompensa-a-la-generacion-de-flujo-de-caja.html",
-   "f": "2026-11-25T18:01:22Z",
+   "t": "Cambian los permisos laborales en España: cuándo entran en vigor y cuántos días corresponden por fallecimiento, maternidad y paternidad",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/11/25/6b0695b7e85ecec2568b4584.html",
+   "f": "2026-11-25T18:28:10Z",
    "c": "general"
+  },
+  {
+   "t": "La CNMV autoriza la opa del grupo de Jainaga sobre el 100% de Azkoyen",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-11-25/la-cnmv-autoriza-la-opa-del-grupo-de-jainaga-sobre-el-100-de-azkoyen.html",
+   "f": "2026-11-25T18:21:20Z",
+   "c": "empresas"
+  },
+  {
+   "t": "El BBVA anuncia que excluirá sus acciones de la Bolsa de Londres",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-11-25/el-bbva-anuncia-que-excluira-sus-acciones-de-la-bolsa-de-londres.html",
+   "f": "2026-11-25T18:14:33Z",
+   "c": "bancos"
   },
   {
    "t": "Los mercados caen presionados por la inestabilidad de la IA y la sorpresa de los aranceles, y el Nasdaq cede más del 4%",
@@ -42,20 +56,6 @@
    "u": "https://www.europapress.es/economia/bolsa-00348/noticia-indra-lidera-subidas-ibex-35-381-cierre-presentar-nueva-hoja-ruta-20261125181021.html",
    "f": "2026-11-25T17:10:21Z",
    "c": "empresas"
-  },
-  {
-   "t": "El Supremo admite a trámite un recurso de El Prat contra los trabajos previos a la ampliación del aeropuerto",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261125/11693389/supremo-admite-tramite-recurso-prat-trabajos-previos-ampliacion-aeropuerto.html",
-   "f": "2026-11-25T17:08:55Z",
-   "c": "transporte"
-  },
-  {
-   "t": "La tecnología se hunde de nuevo: el Nasdaq se deja hasta un 4% con fuertes descensos de Nvidia y Anthropic",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-25/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-11-25T17:07:04Z",
-   "c": "tecnologia"
   }
  ]
 }
