@@ -1,61 +1,61 @@
 {
- "actualizado": "2026-11-25T10:10:19Z",
+ "actualizado": "2026-11-25T12:10:16Z",
  "items": [
   {
-   "t": "Complemento a mínimos de la pensión: el límite de ingresos de 2026 y por qué la Seguridad Social puede pedir que lo devuelvas",
-   "m": "Expansión",
-   "u": "https://www.expansion.com/economia/2026/11/25/complemento-minimos-pension-limite-ingresos-2026-seguridad-social-pedir-devuelvas.html",
-   "f": "2026-11-25T10:02:21Z",
-   "c": "pensiones"
-  },
-  {
-   "t": "Un jurado de Nueva York declara culpable a Huawei de robo de secretos industriales",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/empresas/2026/11/25/6b06b0a821efa0ae248b45a7.html",
-   "f": "2026-11-25T10:01:11Z",
-   "c": "general"
-  },
-  {
-   "t": "El Ibex duda y pone en peligro los 19.000 puntos",
+   "t": "Las dudas sobre la IA y la amenaza arancelaria lastran a los futuros de Wall Street",
    "m": "Cinco Días",
    "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-25/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-11-25T09:54:02Z",
-   "c": "empresas"
+   "f": "2026-11-25T12:02:47Z",
+   "c": "tecnologia"
   },
   {
-   "t": "El permiso de diez días por duelo entra en vigor este jueves",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/laboral-00346/noticia-permiso-diez-dias-duelo-entra-vigor-jueves-20261125104427.html",
-   "f": "2026-11-25T09:44:27Z",
-   "c": "general"
-  },
-  {
-   "t": "La justicia eleva a más de 1,1 millones de euros la indemnización por la negligencia médica que dejó a una niña sin posibilidad de trabajar",
-   "m": "El País",
-   "u": "https://elpais.com/economia/mis-derechos/2026-11-25/la-justicia-eleva-a-mas-de-un-millon-de-euros-la-indemnizacion-a-una-nina-que-nunca-podra-trabajar-por-una-negligencia-medica.html",
-   "f": "2026-11-25T09:38:27Z",
-   "c": "general"
-  },
-  {
-   "t": "¿Starbucks se vende? La compañía está en conversaciones con Citi y Morgan Stanley para deshacerse de su negocio en Japón",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-11-25/starbucks-se-vende-la-compania-esta-en-conversaciones-con-citi-y-morgan-stanley-para-deshacerse-de-su-negocio-en-japon.html",
-   "f": "2026-11-25T09:35:00Z",
-   "c": "empresas"
-  },
-  {
-   "t": "Oficial: si tienes un árbol en el jardín, cuidado antes de talarlo que la multa puede llegar a 100.000 euros o más",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/11/25/6b069bb2e9cf4acc798b4585.html",
-   "f": "2026-11-25T09:27:46Z",
-   "c": "general"
-  },
-  {
-   "t": "Repsol mantiene hasta el 10 de enero sus descuentos: los clientes con Waylet podrán acumular ahorros de hasta 45 céntimos de euro por litro de combustible",
+   "t": "El Parlamento Europeo avisa de que los recortes en el nuevo presupuesto \"harán a la UE más débil\"",
    "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/empresas/repsol-mantiene-hasta-10-enero-sus-descuentos-los-clientes-con-waylet-podran-seguir-acumulando-ahorros-hasta-45-centimos-euro-por-litro-combustible_7065496_0.html",
-   "f": "2026-11-25T09:26:54Z",
-   "c": "energia"
+   "u": "https://www.20minutos.es/internacional/parlamento-europeo-avisa-que-los-recortes-nuevo-presupuesto-haran-ue-mas-debil_7065620_0.html",
+   "f": "2026-11-25T11:56:53Z",
+   "c": "comercio"
+  },
+  {
+   "t": "Cuerpo responde a Bruselas y atribuye el desvío del gasto al escudo social contra la inflación",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/cuerpo-responde-bruselas-atribuye-desvio-gasto-escudo-social-contra-inflacion_7065576_0.html",
+   "f": "2026-11-25T11:56:09Z",
+   "c": "precios"
+  },
+  {
+   "t": "El sueldo medio se sitúa en 2.497 euros al mes y toca máximos desde 2006",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/2026/11/25/sueldo-medio-situa-2-497-euros-mes-toca-maximos-2006.html",
+   "f": "2026-11-25T11:31:57Z",
+   "c": "empleo"
+  },
+  {
+   "t": "El salario medio subió un 4,7% en 2025, pero con las mujeres cobrando 500 euros menos al mes",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261125/11693057/salario-medio-subio-4-7-2025-mujeres-cobrando-500-euros-mes.html",
+   "f": "2026-11-25T11:23:49Z",
+   "c": "empleo"
+  },
+  {
+   "t": "Interpath negocia en exclusiva la compra de una firma para crecer en EE UU",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-25/interpath-negocia-en-exclusiva-la-compra-de-una-firma-para-crecer-en-ee-uu.html",
+   "f": "2026-11-25T11:22:54Z",
+   "c": "general"
+  },
+  {
+   "t": "Cártama revive la pesadilla de los 'pisos fantasma' del Grupo 21: \"He pagado 10.000 euros y no sé si recuperaré mi dinero\"",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/vivienda/2026/11/24/6b045654fc6c83da638b4589.html",
+   "f": "2026-11-25T11:16:29Z",
+   "c": "vivienda"
+  },
+  {
+   "t": "Ibercaja pide que el diseño del impuesto a la banca no frene la concesión de crédito a familias y empresas",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/empresas/ibercaja-pide-impuesto-banca-no-frene-financiacion_7065569_0.html",
+   "f": "2026-11-25T11:12:27Z",
+   "c": "impuestos"
   }
  ]
 }
