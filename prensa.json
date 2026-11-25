@@ -1,6 +1,41 @@
 {
- "actualizado": "2026-11-24T22:12:30Z",
+ "actualizado": "2026-11-25T00:58:06Z",
  "items": [
+  {
+   "t": "Vivienda: Intervencionismo, falta de oferta y precios marcan la era Sánchez",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/2026/11/25/vivienda-intervencionismo-falta-oferta-precios-marcan-sanchez.html",
+   "f": "2026-11-25T00:29:53Z",
+   "c": "vivienda"
+  },
+  {
+   "t": "España deja de recaudar casi 90.000 millones en IVA por tipos reducidos y exenciones",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/2026/11/25/espana-deja-recaudar-90-000-millones-iva-tipos-reducidos-exenciones.html",
+   "f": "2026-11-25T00:29:02Z",
+   "c": "impuestos"
+  },
+  {
+   "t": "Bañarse dentro de la montaña",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/empresas/2026/11/25/6aff3a4ce85ece75148b4595.html",
+   "f": "2026-11-24T23:12:09Z",
+   "c": "general"
+  },
+  {
+   "t": "¿Adiós al IVA trimestral? Las claves de la rebaja fiscal a los autónomos: qué cambia, quién gana y quién se queda fuera",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/11/25/6b05c5ba21efa0d46b8b459c.html",
+   "f": "2026-11-24T23:12:00Z",
+   "c": "empleo"
+  },
+  {
+   "t": "El legado de Sánchez al próximo Gobierno en Bruselas: un gasto público \"disparado\", amenaza de expediente y una gestión fiscal sin presupuestos \"que no es…",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/11/25/6b05af6de4d4d8a35c8b459a.html",
+   "f": "2026-11-24T23:11:59Z",
+   "c": "impuestos"
+  },
   {
    "t": "¿Sabías que ya no tendrás que adelantar dinero a Hacienda si cobras el SMI? te lo explicamos en un minuto",
    "m": "20minutos",
@@ -21,41 +56,6 @@
    "u": "https://www.lavanguardia.com/economia/20261124/11692567/huang-pide-disculpas-empleados-dice-esta-terapia-muestra-desafiante-regreso.html",
    "f": "2026-11-24T20:45:44Z",
    "c": "general"
-  },
-  {
-   "t": "Pablo Isla, primer doctor ‘honoris causa’ de ESIC University: “El propósito de una empresa no puede ser ganar dinero”",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-11-24/pablo-isla-primer-doctor-honoris-causa-de-esic-university-el-proposito-de-una-empresa-no-puede-ser-ganar-dinero.html",
-   "f": "2026-11-24T19:57:29Z",
-   "c": "empresas"
-  },
-  {
-   "t": "Aldama, de Inverco, pide potenciar el acceso a los mercados financieros en España y dar un impulso a los planes de pensiones privados",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/inverco-potenciar-planes-pensiones-privados-potenciar-mercados-financieros_7065342_0.html",
-   "f": "2026-11-24T19:25:50Z",
-   "c": "pensiones"
-  },
-  {
-   "t": "Anthropic ya cotiza por debajo del precio de su debut bursátil",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261124/11692526/anthropic-cotiza-debajo-precio-debut-bursatil.html",
-   "f": "2026-11-24T19:00:12Z",
-   "c": "precios"
-  },
-  {
-   "t": "Macron prepara una reserva estratégica de tierras raras para reducir la dependencia de China",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/11/24/6b05d753fdddffa5238b458a.html",
-   "f": "2026-11-24T18:36:10Z",
-   "c": "comercio"
-  },
-  {
-   "t": "Stripe negocia una oferta para recomprar acciones con una valoración superior a 200.000 millones de dólares",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-11-24/stripe-negocia-una-oferta-para-recomprar-acciones-con-una-valoracion-superior-a-200000-millones-de-dolares.html",
-   "f": "2026-11-24T17:54:19Z",
-   "c": "empresas"
   }
  ]
 }
