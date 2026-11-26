@@ -1,6 +1,27 @@
 {
- "actualizado": "2026-11-26T06:10:50Z",
+ "actualizado": "2026-11-26T08:11:51Z",
  "items": [
+  {
+   "t": "Las Bolsas europeas rebotan con fuerza sin la referencia de Wall Street por Acción de Gracias",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-26/la-bolsa-y-el-ibex-35.html",
+   "f": "2026-11-26T08:07:06Z",
+   "c": "general"
+  },
+  {
+   "t": "La IA puede pensar por los alumnos, pero la escuela no debería permitírselo",
+   "m": "El País",
+   "u": "https://elpais.com/economia/formacion/2026-11-26/la-ia-puede-pensar-por-los-alumnos-pero-la-escuela-no-deberia-permitirselo.html",
+   "f": "2026-11-26T06:30:00Z",
+   "c": "tecnologia"
+  },
+  {
+   "t": "Cambian los impuestos de los autónomos: deducción de hasta 3.000 euros, menos pagos trimestrales y nuevo calendario de Verifactu",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/cambian-impuestos-autonomos-deduccion-hasta-3-000-euros-menos-pagos-trimestrales-nuevo-calendario-verifactu_7065699_0.html",
+   "f": "2026-11-26T06:30:00Z",
+   "c": "empleo"
+  },
   {
    "t": "El precio de la vivienda acelera la salida de trabajadores de Madrid, mientras en Barcelona se mantiene el equilibrio",
    "m": "La Vanguardia",
@@ -35,27 +56,6 @@
    "u": "https://elpais.com/economia/2026-11-26/la-desigualdad-salarial-entre-las-cupulas-del-ibex-y-sus-empleados-se-dispara-a-niveles-record-en-cinco-anos.html",
    "f": "2026-11-26T04:30:01Z",
    "c": "empleo"
-  },
-  {
-   "t": "Buscador de la movilidad laboral en España",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-11-26/buscador-de-la-movilidad-laboral-en-espana-madrid-pierde-trabajadores-y-valencia-lidera-la-atraccion-de-asalariados.html",
-   "f": "2026-11-26T04:30:01Z",
-   "c": "general"
-  },
-  {
-   "t": "¿Cuánto vale un CEO en Bolsa? Del billón de dólares de Elon Musk y Jensen Huang al jet de Steve Jobs",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-26/cuanto-vale-un-ceo-en-bolsa-del-billon-de-dolares-de-elon-musk-y-jensen-huang-al-jet-de-steve-jobs.html",
-   "f": "2026-11-26T04:25:00Z",
-   "c": "empresas"
-  },
-  {
-   "t": "Mapfre quiere hacerse con uno de los últimos palacetes de la Castellana de Madrid",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-11-26/mapfre-quiere-hacerse-con-uno-de-los-ultimos-palacetes-de-la-castellana-de-madrid.html",
-   "f": "2026-11-26T04:15:00Z",
-   "c": "empresas"
   }
  ]
 }
