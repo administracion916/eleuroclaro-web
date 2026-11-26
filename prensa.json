@@ -1,12 +1,26 @@
 {
- "actualizado": "2026-11-25T22:10:38Z",
+ "actualizado": "2026-11-26T00:35:57Z",
  "items": [
   {
-   "t": "Cambian los permisos laborales en España: cuándo entran en vigor y cuántos días corresponden por fallecimiento, maternidad y paternidad",
+   "t": "La realidad detrás del aumento de las hipotecas: no solo hay más compradores, sino viviendas más caras y hogares que no pueden pagarlas",
    "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/11/25/6b0695b7e85ecec2568b4584.html",
-   "f": "2026-11-25T18:28:10Z",
-   "c": "general"
+   "u": "https://www.elmundo.es/economia/vivienda/2026/11/26/6b06f8d121efa04c238b456e.html",
+   "f": "2026-11-25T23:59:29Z",
+   "c": "tipos"
+  },
+  {
+   "t": "La engañifa del impuesto a la banca: Hacienda elude desvelar en el BOE cómo repartirlo entre las CCAA y el Banco de España se mantiene en contra",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/11/26/6b0723c521efa0a0268b459f.html",
+   "f": "2026-11-25T23:59:28Z",
+   "c": "impuestos"
+  },
+  {
+   "t": "El Corte Inglés aprueba su plan estratégico con 5.000 millones de inversión y sin horizonte de salida a Bolsa",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/empresas/2026/11/26/6b0723f0e9cf4a2a398b4598.html",
+   "f": "2026-11-25T23:53:08Z",
+   "c": "empresas"
   },
   {
    "t": "La CNMV autoriza la opa del grupo de Jainaga sobre el 100% de Azkoyen",
@@ -21,13 +35,6 @@
    "u": "https://cincodias.elpais.com/companias/2026-11-25/el-bbva-anuncia-que-excluira-sus-acciones-de-la-bolsa-de-londres.html",
    "f": "2026-11-25T18:14:33Z",
    "c": "bancos"
-  },
-  {
-   "t": "Los mercados caen presionados por la inestabilidad de la IA y la sorpresa de los aranceles, y el Nasdaq cede más del 4%",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/dinero-inversion/2026/11/25/6b07147fe9cf4a9b788b45a9.html",
-   "f": "2026-11-25T17:40:02Z",
-   "c": "tecnologia"
   },
   {
    "t": "Indra lanza su gran plan: 20.000 millones de ingresos en 2035 y la IA como motor de crecimiento de todas las divisiones",
@@ -49,13 +56,6 @@
    "u": "https://www.lavanguardia.com/economia/20261125/11693391/efecto-huang-disipa-indices-wall-street-desploman-forma-generalizada.html",
    "f": "2026-11-25T17:14:18Z",
    "c": "tecnologia"
-  },
-  {
-   "t": "Indra lidera las subidas del Ibex 35 (+3,81%) al cierre tras presentar su nueva hoja de ruta",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/bolsa-00348/noticia-indra-lidera-subidas-ibex-35-381-cierre-presentar-nueva-hoja-ruta-20261125181021.html",
-   "f": "2026-11-25T17:10:21Z",
-   "c": "empresas"
   }
  ]
 }
