@@ -1,61 +1,61 @@
 {
- "actualizado": "2026-11-26T00:35:57Z",
+ "actualizado": "2026-11-26T06:10:50Z",
  "items": [
   {
-   "t": "La realidad detrás del aumento de las hipotecas: no solo hay más compradores, sino viviendas más caras y hogares que no pueden pagarlas",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/vivienda/2026/11/26/6b06f8d121efa04c238b456e.html",
-   "f": "2026-11-25T23:59:29Z",
-   "c": "tipos"
+   "t": "El precio de la vivienda acelera la salida de trabajadores de Madrid, mientras en Barcelona se mantiene el equilibrio",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261126/11693463/precio-vivienda-acelera-salida-trabajadores-madrid-barcelona-mantiene-equilibrio.html",
+   "f": "2026-11-26T05:00:00Z",
+   "c": "vivienda"
   },
   {
-   "t": "La engañifa del impuesto a la banca: Hacienda elude desvelar en el BOE cómo repartirlo entre las CCAA y el Banco de España se mantiene en contra",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/11/26/6b0723c521efa0a0268b459f.html",
-   "f": "2026-11-25T23:59:28Z",
-   "c": "impuestos"
-  },
-  {
-   "t": "El Corte Inglés aprueba su plan estratégico con 5.000 millones de inversión y sin horizonte de salida a Bolsa",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/empresas/2026/11/26/6b0723f0e9cf4a2a398b4598.html",
-   "f": "2026-11-25T23:53:08Z",
-   "c": "empresas"
-  },
-  {
-   "t": "La CNMV autoriza la opa del grupo de Jainaga sobre el 100% de Azkoyen",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-11-25/la-cnmv-autoriza-la-opa-del-grupo-de-jainaga-sobre-el-100-de-azkoyen.html",
-   "f": "2026-11-25T18:21:20Z",
-   "c": "empresas"
-  },
-  {
-   "t": "El BBVA anuncia que excluirá sus acciones de la Bolsa de Londres",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-11-25/el-bbva-anuncia-que-excluira-sus-acciones-de-la-bolsa-de-londres.html",
-   "f": "2026-11-25T18:14:33Z",
+   "t": "El Govern vuelve a rescatar Leitat con un préstamo de 6 millones",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261126/11693443/govern-vuelve-rescatar-leitat-prestamo-6-millones.html",
+   "f": "2026-11-26T05:00:00Z",
    "c": "bancos"
   },
   {
-   "t": "Indra lanza su gran plan: 20.000 millones de ingresos en 2035 y la IA como motor de crecimiento de todas las divisiones",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-11-25/indra-se-fija-unos-ingresos-de-12000-millones-para-2030-casi-el-doble-que-en-2025.html",
-   "f": "2026-11-25T17:34:11Z",
-   "c": "economia"
-  },
-  {
-   "t": "El Ibex 35 cae un 2%, al borde de los 18.600 puntos, ante el regreso de los aranceles de Trump",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/bolsa-00348/noticia-ibex-35-cae-borde-18600-puntos-regreso-aranceles-trump-20261125181543.html",
-   "f": "2026-11-25T17:15:43Z",
-   "c": "comercio"
-  },
-  {
-   "t": "El efecto Huang se disipa en Wall Street y los valores tecnológicos caen de forma generalizada",
+   "t": "Nvidia y la mala decisión de Trump sobre el regreso de su jefe",
    "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261125/11693391/efecto-huang-disipa-indices-wall-street-desploman-forma-generalizada.html",
-   "f": "2026-11-25T17:14:18Z",
+   "u": "https://www.lavanguardia.com/economia/20261126/11693096/nvidia-trump-pablo-foncillas-pf-video-seo-lv.html",
+   "f": "2026-11-26T05:00:00Z",
    "c": "tecnologia"
+  },
+  {
+   "t": "Países Bajos se resiste a aceptar la derrota ante Hernández de Cos en la presidencia del BCE",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-11-26/paises-bajos-se-resiste-a-aceptar-la-derrota-ante-hernandez-de-cos-en-la-presidencia-del-bce.html",
+   "f": "2026-11-26T04:30:01Z",
+   "c": "tipos"
+  },
+  {
+   "t": "La desigualdad salarial entre las cúpulas del Ibex y sus empleados se dispara a niveles récord en cinco años",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-11-26/la-desigualdad-salarial-entre-las-cupulas-del-ibex-y-sus-empleados-se-dispara-a-niveles-record-en-cinco-anos.html",
+   "f": "2026-11-26T04:30:01Z",
+   "c": "empleo"
+  },
+  {
+   "t": "Buscador de la movilidad laboral en España",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-11-26/buscador-de-la-movilidad-laboral-en-espana-madrid-pierde-trabajadores-y-valencia-lidera-la-atraccion-de-asalariados.html",
+   "f": "2026-11-26T04:30:01Z",
+   "c": "general"
+  },
+  {
+   "t": "¿Cuánto vale un CEO en Bolsa? Del billón de dólares de Elon Musk y Jensen Huang al jet de Steve Jobs",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-26/cuanto-vale-un-ceo-en-bolsa-del-billon-de-dolares-de-elon-musk-y-jensen-huang-al-jet-de-steve-jobs.html",
+   "f": "2026-11-26T04:25:00Z",
+   "c": "empresas"
+  },
+  {
+   "t": "Mapfre quiere hacerse con uno de los últimos palacetes de la Castellana de Madrid",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-11-26/mapfre-quiere-hacerse-con-uno-de-los-ultimos-palacetes-de-la-castellana-de-madrid.html",
+   "f": "2026-11-26T04:15:00Z",
+   "c": "empresas"
   }
  ]
 }
