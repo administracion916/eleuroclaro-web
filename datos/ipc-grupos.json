@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-26",
+ "actualizado": "2026-11-27",
  "periodo": "octubre de 2026",
  "anyo": 2026,
  "mes": 10,
@@ -72,11 +72,6 @@
   }
  ],
  "general_historia": [
-  {
-   "anyo": 2022,
-   "mes": 11,
-   "tasa": 6.8
-  },
   {
    "anyo": 2022,
    "mes": 12,
@@ -311,6 +306,11 @@
    "anyo": 2026,
    "mes": 10,
    "tasa": 4.9
+  },
+  {
+   "anyo": 2026,
+   "mes": 11,
+   "tasa": 4.1
   }
  ],
  "fuente": "INE, Índice de Precios de Consumo, variación anual por grupos (tabla 79181)",
