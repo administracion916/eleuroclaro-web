@@ -1,12 +1,54 @@
 {
- "actualizado": "2026-11-27T06:14:08Z",
+ "actualizado": "2026-11-27T08:11:34Z",
  "items": [
   {
-   "t": "Las Bolsas europeas apuntan al alza con los futuros de EE UU disparados por el rebote de la tecnología",
+   "t": "Las Bolsas europeas siguen en racha con los futuros de EE UU disparados por el rebote de la tecnología",
    "m": "Cinco Días",
    "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-27/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-11-27T05:32:30Z",
+   "f": "2026-11-27T08:04:21Z",
    "c": "empleo"
+  },
+  {
+   "t": "La inflación se modera al 4,1% en noviembre y las pensiones se revalorizarán un 3,5% en 2027",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/2026/11/27/inflacion-modera-4-1-noviembre-pensiones-revalorizaran-3-5-2027.html",
+   "f": "2026-11-27T08:04:09Z",
+   "c": "pensiones"
+  },
+  {
+   "t": "Las pensiones subirán un 3,5% en 2027 y las mínimas y no contributivas hasta un 14,2%",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/2026/11/27/pensiones-subiran-3-5-2027-minimas-contributivas-14-2.html",
+   "f": "2026-11-27T08:00:23Z",
+   "c": "pensiones"
+  },
+  {
+   "t": "Las pensiones subirán un 3,5% en 2027 tras crecer la inflación el 4,1% en noviembre",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-11-27/las-pensiones-subiran-un-35-en-2027.html",
+   "f": "2026-11-27T08:00:08Z",
+   "c": "pensiones"
+  },
+  {
+   "t": "El Gobierno confirma que subirá las pensiones un 3,5% a dos días de las elecciones: 775 euros más al año de media para los jubilados",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/11/27/6b0935cb21efa0364f8b45a2.html",
+   "f": "2026-11-27T08:00:04Z",
+   "c": "pensiones"
+  },
+  {
+   "t": "La alemana SAP planea 10.000 despidos, el 9% de su plantilla, para adaptar sus operaciones a la IA",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-11-27/la-alemana-sap-planea-10000-despidos-el-9-de-su-plantilla-para-adaptar-sus-operaciones-a-la-ia.html",
+   "f": "2026-11-27T07:04:25Z",
+   "c": "empleo"
+  },
+  {
+   "t": "EEUU anuncia nuevos aranceles a la UE, China o Japón tras una investigación formal sobre presuntos subsidios y exceso de capacidad industrial",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/11/25/6b06ef89e4d4d8ad388b45b2.html",
+   "f": "2026-11-27T06:28:54Z",
+   "c": "comercio"
   },
   {
    "t": "La hora de los bajistas: ETF inversos y ‘hedge funds’ con posiciones cortas se forran con la caída de la IA",
@@ -14,48 +56,6 @@
    "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-27/la-hora-de-los-bajistas-etf-inversos-y-hedge-funds-con-posiciones-cortas-se-forran-con-la-caida-de-la-ia.html",
    "f": "2026-11-27T05:04:49Z",
    "c": "tecnologia"
-  },
-  {
-   "t": "Hernández de Cos, el valor del prestigio",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-11-27/hernandez-de-cos-el-valor-del-prestigio.html",
-   "f": "2026-11-27T05:03:52Z",
-   "c": "general"
-  },
-  {
-   "t": "El latido político de un tecnócrata",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261127/11694370/latido-politico-tecnocrata.html",
-   "f": "2026-11-27T05:00:00Z",
-   "c": "general"
-  },
-  {
-   "t": "El primer 'black friday' con la tasa Shein da aire a los comercios locales",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261127/11694364/primer-black-friday-tasa-shein-da-aire-comercios-locales.html",
-   "f": "2026-11-27T05:00:00Z",
-   "c": "general"
-  },
-  {
-   "t": "Los diez minutos que desenredaron el nudo para encumbrar a Hernández de Cos como presidente del BCE",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-11-27/los-diez-minutos-que-desenredaron-el-nudo-para-encumbrar-a-hernandez-de-cos-como-presidente-del-bce.html",
-   "f": "2026-11-27T04:30:01Z",
-   "c": "tipos"
-  },
-  {
-   "t": "Qué es el BCE y cómo afectan sus decisiones al ciudadano de a pie",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-11-27/que-es-el-bce-y-como-afectan-sus-decisiones-al-ciudadano-de-a-pie.html",
-   "f": "2026-11-27T04:30:01Z",
-   "c": "tipos"
-  },
-  {
-   "t": "Quién es quién en la nueva cúpula del BCE",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-27/quien-es-quien-en-la-nueva-cupula-del-bce.html",
-   "f": "2026-11-27T04:30:01Z",
-   "c": "tipos"
   }
  ]
 }
