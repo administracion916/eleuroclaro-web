@@ -1,6 +1,27 @@
 {
- "actualizado": "2026-11-27T14:10:09Z",
+ "actualizado": "2026-11-27T15:24:36Z",
  "items": [
+  {
+   "t": "La pensión media de jubilación de los hombres ya supera los 1.800 euros al mes",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-11-27/la-pension-media-de-jubilacion-de-los-hombres-ya-supera-los-1800-euros-al-mes.html",
+   "f": "2026-11-27T15:00:24Z",
+   "c": "pensiones"
+  },
+  {
+   "t": "Messi amplía su patrimonio hotelero en España y compra un inmueble a Meliá en el Valle de Arán",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-11-27/messi-amplia-su-patrimonio-hotelero-en-espana-y-compra-un-inmueble-a-melia-en-el-valle-de-aran.html",
+   "f": "2026-11-27T14:58:19Z",
+   "c": "transporte"
+  },
+  {
+   "t": "Las Bolsas europeas prolongan las subidas por el rebote de la tecnología",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-27/la-bolsa-y-el-ibex-35.html",
+   "f": "2026-11-27T14:58:02Z",
+   "c": "tecnologia"
+  },
   {
    "t": "Banco Santander potencia su negocio de empresas en España con relevos en siete Direcciones Territoriales del país",
    "m": "El Mundo",
@@ -14,20 +35,6 @@
    "u": "https://cincodias.elpais.com/companias/2026-11-27/thales-negocia-la-compra-del-516-de-lumibird-para-crear-un-gigante-europeo-de-fotonica.html",
    "f": "2026-11-27T12:37:29Z",
    "c": "empresas"
-  },
-  {
-   "t": "El Santander refuerza su modelo de empresas en España con cambios en sus directores territoriales",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-11-27/el-santander-refuerza-su-modelo-de-empresas-en-espana-con-cambios-en-sus-directores-territoriales.html",
-   "f": "2026-11-27T12:10:52Z",
-   "c": "bancos"
-  },
-  {
-   "t": "Las Bolsas europeas siguen en racha con los futuros de EE UU disparados por el rebote de la tecnología",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-27/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-11-27T11:29:11Z",
-   "c": "empleo"
   },
   {
    "t": "Euríbor hoy, viernes 27 de noviembre: la tasa diaria cierra la semana con una subida para empañar las bajadas previas",
@@ -49,13 +56,6 @@
    "u": "https://www.elmundo.es/economia/ahorro-y-consumo/2026/11/27/6b043ffce85ece81488b456d.html",
    "f": "2026-11-27T11:00:00Z",
    "c": "bancos"
-  },
-  {
-   "t": "Fallece Sabino García Vallina, fundador y presidente de TSK",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/empresas/fallece-sabino-garcia-vallina-fundador-presidente-tsk_7066641_0.html",
-   "f": "2026-11-27T10:45:43Z",
-   "c": "general"
   }
  ]
 }
