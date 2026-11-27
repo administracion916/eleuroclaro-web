@@ -1,6 +1,41 @@
 {
- "actualizado": "2026-11-27T18:08:49Z",
+ "actualizado": "2026-11-27T20:08:58Z",
  "items": [
+  {
+   "t": "Puig compra la marca francesa Parfums de Marly por 1.200 millones de euros",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-11-27/puig-compra-la-marca-francesa-parfums-de-marly-por-2000-millones-de-euros.html",
+   "f": "2026-11-27T19:41:21Z",
+   "c": "empresas"
+  },
+  {
+   "t": "Puig adquiere el 75% del Grupo Artessence por 1.200 millones de euros",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/empresas/2026/11/27/6b09d574fdddff01718b4582.html",
+   "f": "2026-11-27T19:28:13Z",
+   "c": "general"
+  },
+  {
+   "t": "Puig compra el 75% de Grupo Artessence por 1.200 millones de euros",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261127/11695367/puig-compra-75-grupo-artessenece-1-200-millones-euros.html",
+   "f": "2026-11-27T19:17:08Z",
+   "c": "general"
+  },
+  {
+   "t": "Estados Unidos y Europa tienen problemas económicos opuestos",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/financial-times/2026/11/27/estados-unidos-europa-problemas-economicos-opuestos.html",
+   "f": "2026-11-27T18:57:33Z",
+   "c": "comercio"
+  },
+  {
+   "t": "Amancio Ortega compra un edificio en Lisboa por 100 millones que alberga la mayor tienda de Zara en Portugal",
+   "m": "20minutos",
+   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/amancio-ortega-compra-un-edificio-lisboa-por-100-millones-que-alberga-mayor-tienda-zara-portugal_7066911_0.html",
+   "f": "2026-11-27T18:32:10Z",
+   "c": "general"
+  },
   {
    "t": "El Ibex 35 sube más de un 2,7% en la semana con el crudo en 95 dólares y la vista puesta en el 29N",
    "m": "Europa Press",
@@ -21,41 +56,6 @@
    "u": "https://cincodias.elpais.com/companias/2026-11-27/grifols-adquiere-los-centros-de-donacion-de-biotest-por-220-millones-y-refuerza-su-posicion-en-alemania-hungria-y-chequia.html",
    "f": "2026-11-27T16:55:13Z",
    "c": "empresas"
-  },
-  {
-   "t": "El Ibex rebota un 2,7% con el regreso del interés por los valores tradicionales",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-27/la-bolsa-y-el-ibex-35.html",
-   "f": "2026-11-27T16:48:39Z",
-   "c": "empresas"
-  },
-  {
-   "t": "Alfonso Muñoz, funcionario de la Seguridad Social: \"Creo que a finales de año vamos a asistir a una auténtica estampida de jubilaciones\"",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/alfonso-munoz-funcionario-seguridad-social-creo-que-finales-ano-vamos-asistir-una-autentica-estampida-jubilaciones_7066846_0.html",
-   "f": "2026-11-27T16:17:15Z",
-   "c": "pensiones"
-  },
-  {
-   "t": "El Sindicato de Inquilinas lleva a los tribunales la actuación policial en la manifestación del 11N en Madrid",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/construccion-y-vivienda-00342/noticia-sindicato-inquilinas-lleva-tribunales-actuacion-policial-manifestacion-11n-madrid-20261127164830.html",
-   "f": "2026-11-27T15:48:30Z",
-   "c": "vivienda"
-  },
-  {
-   "t": "Trichet confía en que el extremismo no triunfe en Francia, pero avisa a París: “Tiene que hacer lo que es necesario”",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-11-27/trichet-confia-en-que-el-extremismo-no-triunfe-en-francia-pero-avisa-a-paris-tiene-que-hacer-lo-que-es-necesario.html",
-   "f": "2026-11-27T15:36:19Z",
-   "c": "general"
-  },
-  {
-   "t": "Francia entra en recesión técnica tras la caída del PIB por segundo trimestre consecutivo",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/11/27/6b09a09021efa02d428b459b.html",
-   "f": "2026-11-27T15:31:22Z",
-   "c": "economia"
   }
  ]
 }
