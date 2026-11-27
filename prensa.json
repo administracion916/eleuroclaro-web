@@ -1,61 +1,61 @@
 {
- "actualizado": "2026-11-26T22:10:15Z",
+ "actualizado": "2026-11-27T00:43:57Z",
  "items": [
+  {
+   "t": "El precio del alquiler de habitaciones se dispara un 45% desde 2018 pese al 'boom' de oferta",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/2026/11/27/precio-alquiler-habitaciones-dispara-45-2018-pese-boom-oferta.html",
+   "f": "2026-11-27T00:12:24Z",
+   "c": "vivienda"
+  },
+  {
+   "t": "Las grietas del mercado laboral: absentismo desbocado y el artificio del fijo discontinuo",
+   "m": "Expansión",
+   "u": "https://www.expansion.com/economia/2026/11/27/grietas-mercado-laboral-absentismo-desbocado-artificio-fijo-discontinuo.html",
+   "f": "2026-11-27T00:08:07Z",
+   "c": "general"
+  },
+  {
+   "t": "La mitad de la ropa 'rebajada' en el 'Black Friday' cuesta lo mismo que hace un mes: las tiendas prometen un 31% de descuento, pero el ahorro real es del 9%",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/11/27/6b0879e7e85ece58048b458d.html",
+   "f": "2026-11-26T23:01:01Z",
+   "c": "general"
+  },
+  {
+   "t": "La precarización de la vivienda en la 'era Sánchez': el triple de aspirantes para alquilar una habitación y compras más caras",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/vivienda/2026/11/27/6b08261c21efa0364f8b457b.html",
+   "f": "2026-11-26T23:01:00Z",
+   "c": "vivienda"
+  },
+  {
+   "t": "La Caixa avisa: retendrá el control de CaixaBank aunque un nuevo Gobierno venda las acciones del Estado",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/empresas/2026/11/27/6b0852aae4d4d8305a8b457e.html",
+   "f": "2026-11-26T23:00:59Z",
+   "c": "bancos"
+  },
+  {
+   "t": "Sánchez tacha de \"cuento\" las dudas de Feijóo sobre las cuentas: \"No busque excusas para hacer recortes\"",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/macroeconomia-00338/noticia-sanchez-tacha-cuento-dudas-feijoo-cuentas-no-busque-excusas-hacer-recortes-20261126234146.html",
+   "f": "2026-11-26T22:41:46Z",
+   "c": "general"
+  },
+  {
+   "t": "Sánchez y Colau alertan contra la \"motosierra\" de Vox y las \"tijeras\" del PP",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/macroeconomia-00338/noticia-sanchez-colau-alertan-contra-motosierra-vox-tijeras-pp-20261126231502.html",
+   "f": "2026-11-26T22:15:02Z",
+   "c": "general"
+  },
   {
    "t": "Feijóo, sorprendido de que Sánchez felicite a De Cos cuando le \"criticaba tanto\" mientras era gobernador",
    "m": "Europa Press",
    "u": "https://www.europapress.es/economia/macroeconomia-00338/noticia-feijoo-sorprendido-sanchez-felicite-cos-cuando-le-criticaba-tanto-mientras-era-gobernador-20261126224952.html",
    "f": "2026-11-26T21:49:52Z",
    "c": "general"
-  },
-  {
-   "t": "Plus Ultra plantea su cierre y el despido de sus 659 trabajadores, según los sindicatos",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/empresas/plus-ultra-plantea-su-cierre-despido-sus-659-trabajadores-segun-los-sindicatos_7066431_0.html",
-   "f": "2026-11-26T19:43:57Z",
-   "c": "empleo"
-  },
-  {
-   "t": "La mitad de los pilotos en España considera que la aerolínea donde trabajan no se preocupa por su bienestar emocional",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/empresas/2026/11/26/6b088085e4d4d85c5c8b4596.html",
-   "f": "2026-11-26T19:12:55Z",
-   "c": "transporte"
-  },
-  {
-   "t": "Lagarde destaca \"el intelecto, la calidez y buen humor\" de Hernández de Cos para coger el testigo al frente del BCE",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/lagarde-intelecto-calidez_7066409_0.html",
-   "f": "2026-11-26T18:49:12Z",
-   "c": "tipos"
-  },
-  {
-   "t": "Los sindicatos temen un cierre exprés de Plus Ultra ante las dificultades para encontrar un comprador",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-11-26/los-sindicatos-temen-un-cierre-expres-de-plus-ultra-ante-las-dificultades-para-encontrar-un-comprador.html",
-   "f": "2026-11-26T18:42:02Z",
-   "c": "empleo"
-  },
-  {
-   "t": "La sombra de Le Pen sobrevuela la negociación del próximo presupuesto comunitario",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261126/11694170/sombra-le-pen-sobrevuela-negociacion-proximo-presupuesto-comunitario.html",
-   "f": "2026-11-26T18:36:20Z",
-   "c": "general"
-  },
-  {
-   "t": "Cuerpo felicita a De Cos por su nombramiento como presidente del BCE y muestra su \"orgullo\" por el peso de España en Europa",
-   "m": "20minutos",
-   "u": "https://www.20minutos.es/lainformacion/economia-y-finanzas/cuerpo-felicita-cos-presidente-orgullo-peso-espana-europa_7066389_0.html",
-   "f": "2026-11-26T18:04:58Z",
-   "c": "tipos"
-  },
-  {
-   "t": "La mitad de los pilotos en España cree que sus aerolíneas no se preocupan por su estado emocional",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-11-26/la-mitad-de-los-pilotos-en-espana-cree-que-sus-aerolineas-no-se-preocupan-por-su-estado-emocional.html",
-   "f": "2026-11-26T17:57:14Z",
-   "c": "transporte"
   }
  ]
 }
