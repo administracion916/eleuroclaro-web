@@ -1,12 +1,26 @@
 {
- "actualizado": "2026-11-27T20:08:58Z",
+ "actualizado": "2026-11-27T22:09:32Z",
  "items": [
+  {
+   "t": "Amancio Ortega compra por 100 millones el edificio que alberga Zara en el centro de Lisboa",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/companias/2026-11-27/amancio-ortega-compra-por-100-millones-el-edificio-que-alberga-zara-en-el-centro-de-lisboa.html",
+   "f": "2026-11-27T20:34:39Z",
+   "c": "empresas"
+  },
   {
    "t": "Puig compra la marca francesa Parfums de Marly por 1.200 millones de euros",
    "m": "Cinco Días",
    "u": "https://cincodias.elpais.com/companias/2026-11-27/puig-compra-la-marca-francesa-parfums-de-marly-por-2000-millones-de-euros.html",
    "f": "2026-11-27T19:41:21Z",
    "c": "empresas"
+  },
+  {
+   "t": "Puig alcanza un acuerdo para adquirir el 75% de Marly e Initio",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/noticia-puig-alcanza-acuerdo-adquirir-75-marly-initio-20261127202925.html",
+   "f": "2026-11-27T19:29:25Z",
+   "c": "general"
   },
   {
    "t": "Puig adquiere el 75% del Grupo Artessence por 1.200 millones de euros",
@@ -16,7 +30,7 @@
    "c": "general"
   },
   {
-   "t": "Puig compra el 75% de Grupo Artessence por 1.200 millones de euros",
+   "t": "Puig adquiere el 75% de Artessence por 1.200 millones",
    "m": "La Vanguardia",
    "u": "https://www.lavanguardia.com/economia/20261127/11695367/puig-compra-75-grupo-artessenece-1-200-millones-euros.html",
    "f": "2026-11-27T19:17:08Z",
@@ -41,20 +55,6 @@
    "m": "Europa Press",
    "u": "https://www.europapress.es/economia/bolsa-00348/noticia-ibex-35-sube-mas-27-semana-crudo-95-dolares-vista-puesta-29n-20261127181012.html",
    "f": "2026-11-27T17:10:12Z",
-   "c": "empresas"
-  },
-  {
-   "t": "La alemana SAP planea 10.000 despidos, el 9% de su plantilla, para adaptar sus operaciones a la IA",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-11-27/la-alemana-sap-planea-10000-despidos-el-9-de-su-plantilla-para-adaptar-sus-operaciones-a-la-ia.html",
-   "f": "2026-11-27T16:57:49Z",
-   "c": "empleo"
-  },
-  {
-   "t": "Grifols adquiere los centros de donación de Biotest por 220 millones y refuerza su posición en Alemania, Hungría y Chequia",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-11-27/grifols-adquiere-los-centros-de-donacion-de-biotest-por-220-millones-y-refuerza-su-posicion-en-alemania-hungria-y-chequia.html",
-   "f": "2026-11-27T16:55:13Z",
    "c": "empresas"
   }
  ]
