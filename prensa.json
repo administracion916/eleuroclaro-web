@@ -1,6 +1,20 @@
 {
- "actualizado": "2026-11-28T08:09:23Z",
+ "actualizado": "2026-11-28T10:09:10Z",
  "items": [
+  {
+   "t": "Corea del Sur inicia las obras del “mayor centro de datos” de Asia",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261128/11695664/corea-sur-inicia-obras-mayor-centro-datos-asia.html",
+   "f": "2026-11-28T08:07:26Z",
+   "c": "general"
+  },
+  {
+   "t": "Propuestas económicas 29N: qué propone cada partido sobre vivienda, impuestos, pensiones, empleo, energía y turismo",
+   "m": "Europa Press",
+   "u": "https://www.europapress.es/economia/macroeconomia-00338/noticia-propuestas-economicas-29n-propone-cada-partido-vivienda-impuestos-pensiones-empleo-energia-turismo-20261128085954.html",
+   "f": "2026-11-28T07:59:54Z",
+   "c": "pensiones"
+  },
   {
    "t": "Renfe fue advertida hace un año del desgaste de las ruedas de sus trenes",
    "m": "El Mundo",
@@ -30,13 +44,6 @@
    "c": "general"
   },
   {
-   "t": "M&A apuesta por las fusiones entre pymes para ganar tamaño y elevar la productividad",
-   "m": "La Vanguardia",
-   "u": "https://www.lavanguardia.com/economia/20261128/11695336/m-apuesta-fusiones-pymes-ganar-tamano-elevar-productividad.html",
-   "f": "2026-11-28T05:00:00Z",
-   "c": "economia"
-  },
-  {
    "t": "La crisis de Nvidia deja en ‘shock’ a la industria tecnológica global bajo la sombra de una grave crisis financiera",
    "m": "El País",
    "u": "https://elpais.com/economia/2026-11-28/la-crisis-de-nvidia-deja-en-shock-a-la-industria-tecnologica-global-bajo-la-sombra-de-una-grave-crisis-financiera.html",
@@ -49,13 +56,6 @@
    "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-28/la-bolsa-espanola-ante-el-29-n-ganadores-y-perdedores-de-un-posible-cambio-de-gobierno.html",
    "f": "2026-11-28T04:30:01Z",
    "c": "empresas"
-  },
-  {
-   "t": "Desatascar el suelo, una de las claves contra la crisis de la vivienda",
-   "m": "El País",
-   "u": "https://elpais.com/economia/vivienda/2026-11-28/desatascar-el-suelo-una-de-las-claves-contra-la-crisis-de-la-vivienda.html",
-   "f": "2026-11-28T04:30:01Z",
-   "c": "vivienda"
   }
  ]
 }
