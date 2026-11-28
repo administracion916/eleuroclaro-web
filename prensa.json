@@ -1,6 +1,20 @@
 {
- "actualizado": "2026-11-28T06:08:49Z",
+ "actualizado": "2026-11-28T08:09:23Z",
  "items": [
+  {
+   "t": "Renfe fue advertida hace un año del desgaste de las ruedas de sus trenes",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/2026/11/28/6b09cebbe9cf4a055a8b457a.html",
+   "f": "2026-11-28T06:35:11Z",
+   "c": "transporte"
+  },
+  {
+   "t": "Trump resucita la guerra comercial contra China: una ofensiva de aranceles y chips que golpea también a sus aliados asiáticos",
+   "m": "El Mundo",
+   "u": "https://www.elmundo.es/economia/macroeconomia/2026/11/28/6b080af9fc6c833c0c8b45a9.html",
+   "f": "2026-11-28T06:18:25Z",
+   "c": "tecnologia"
+  },
   {
    "t": "Los sindicatos tratan de negociar un convenio en Seat pese a la congelación salarial impuesta por VW",
    "m": "La Vanguardia",
@@ -42,20 +56,6 @@
    "u": "https://elpais.com/economia/vivienda/2026-11-28/desatascar-el-suelo-una-de-las-claves-contra-la-crisis-de-la-vivienda.html",
    "f": "2026-11-28T04:30:01Z",
    "c": "vivienda"
-  },
-  {
-   "t": "Rodrigo Valdés, director de Asuntos Fiscales del FMI: “La situación fiscal en España requiere atención a las pensiones”",
-   "m": "El País",
-   "u": "https://elpais.com/economia/2026-11-28/rodrigo-valdes-director-de-asuntos-fiscales-del-fmi-la-situacion-fiscal-en-espana-requiere-atencion-a-las-pensiones.html",
-   "f": "2026-11-28T04:30:01Z",
-   "c": "pensiones"
-  },
-  {
-   "t": "Economía podrá bloquear cuentas y transacciones bancarias si tiene sospechas de blanqueo de capitales",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-11-28/economia-podra-bloquear-cuentas-y-transacciones-bancarias-si-tiene-sospechas-de-blanqueo-de-capitales.html",
-   "f": "2026-11-28T04:15:00Z",
-   "c": "bancos"
   }
  ]
 }
