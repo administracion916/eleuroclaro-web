@@ -1,61 +1,61 @@
 {
- "actualizado": "2026-11-28T00:08:47Z",
+ "actualizado": "2026-11-28T06:08:49Z",
  "items": [
   {
-   "t": "Corregir el déficit de 813.000 viviendas costará 131.560 millones: el mapa de inversión por autonomías",
-   "m": "Expansión",
-   "u": "https://www.expansion.com/economia/2026/11/28/corregir-deficit-813-000-viviendas-costara-131-560-millones-mapa-inversion-autonomias.html",
-   "f": "2026-11-27T23:18:29Z",
+   "t": "Los sindicatos tratan de negociar un convenio en Seat pese a la congelación salarial impuesta por VW",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261128/11695352/sindicatos-tratan-negociar-convenio-seat-pese-congelacion-salarial-impuesta-vw.html",
+   "f": "2026-11-28T05:00:00Z",
+   "c": "empleo"
+  },
+  {
+   "t": "El comercio cumple las expectativas con el primer compás del ‘black friday’",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261128/11695339/comercio-cumple-expectativas-primer-compas-black-friday.html",
+   "f": "2026-11-28T05:00:00Z",
+   "c": "general"
+  },
+  {
+   "t": "M&A apuesta por las fusiones entre pymes para ganar tamaño y elevar la productividad",
+   "m": "La Vanguardia",
+   "u": "https://www.lavanguardia.com/economia/20261128/11695336/m-apuesta-fusiones-pymes-ganar-tamano-elevar-productividad.html",
+   "f": "2026-11-28T05:00:00Z",
+   "c": "economia"
+  },
+  {
+   "t": "La crisis de Nvidia deja en ‘shock’ a la industria tecnológica global bajo la sombra de una grave crisis financiera",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-11-28/la-crisis-de-nvidia-deja-en-shock-a-la-industria-tecnologica-global-bajo-la-sombra-de-una-grave-crisis-financiera.html",
+   "f": "2026-11-28T04:45:00Z",
+   "c": "tecnologia"
+  },
+  {
+   "t": "La Bolsa española ante el 29-N: ganadores y perdedores de un posible cambio de Gobierno",
+   "m": "Cinco Días",
+   "u": "https://cincodias.elpais.com/mercados-financieros/2026-11-28/la-bolsa-espanola-ante-el-29-n-ganadores-y-perdedores-de-un-posible-cambio-de-gobierno.html",
+   "f": "2026-11-28T04:30:01Z",
+   "c": "empresas"
+  },
+  {
+   "t": "Desatascar el suelo, una de las claves contra la crisis de la vivienda",
+   "m": "El País",
+   "u": "https://elpais.com/economia/vivienda/2026-11-28/desatascar-el-suelo-una-de-las-claves-contra-la-crisis-de-la-vivienda.html",
+   "f": "2026-11-28T04:30:01Z",
    "c": "vivienda"
   },
   {
-   "t": "Golpe de casi 1.000 millones a las empresas por la subida de la cotización máxima",
-   "m": "Expansión",
-   "u": "https://www.expansion.com/economia/2026/11/28/golpe-1-000-millones-empresas-subida-cotizacion-maxima.html",
-   "f": "2026-11-27T23:18:27Z",
-   "c": "empresas"
-  },
-  {
-   "t": "Así quedan las pensiones en 2027 con la revalorización del 3,5%",
-   "m": "Expansión",
-   "u": "https://www.expansion.com/economia/2026/11/27/asi-quedan-pensiones-2027-revalorizacion-3-5.html",
-   "f": "2026-11-27T22:55:29Z",
+   "t": "Rodrigo Valdés, director de Asuntos Fiscales del FMI: “La situación fiscal en España requiere atención a las pensiones”",
+   "m": "El País",
+   "u": "https://elpais.com/economia/2026-11-28/rodrigo-valdes-director-de-asuntos-fiscales-del-fmi-la-situacion-fiscal-en-espana-requiere-atencion-a-las-pensiones.html",
+   "f": "2026-11-28T04:30:01Z",
    "c": "pensiones"
   },
   {
-   "t": "Tres generaciones, ante el reto de las pensiones: \"Mi nieta no tiene las mismas posibilidades que tuve yo, a pesar de que fueron los años de la posguerra y…",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/2026/11/27/6b08115cfdddff7c108b45ac.html",
-   "f": "2026-11-27T21:44:06Z",
-   "c": "pensiones"
-  },
-  {
-   "t": "Amancio Ortega compra por 100 millones el edificio que alberga Zara en el centro de Lisboa",
+   "t": "Economía podrá bloquear cuentas y transacciones bancarias si tiene sospechas de blanqueo de capitales",
    "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-11-27/amancio-ortega-compra-por-100-millones-el-edificio-que-alberga-zara-en-el-centro-de-lisboa.html",
-   "f": "2026-11-27T20:34:39Z",
-   "c": "empresas"
-  },
-  {
-   "t": "Puig compra la marca francesa Parfums de Marly por 1.200 millones de euros",
-   "m": "Cinco Días",
-   "u": "https://cincodias.elpais.com/companias/2026-11-27/puig-compra-la-marca-francesa-parfums-de-marly-por-2000-millones-de-euros.html",
-   "f": "2026-11-27T19:41:21Z",
-   "c": "empresas"
-  },
-  {
-   "t": "Puig alcanza un acuerdo para adquirir el 75% de Marly e Initio",
-   "m": "Europa Press",
-   "u": "https://www.europapress.es/economia/noticia-puig-alcanza-acuerdo-adquirir-75-marly-initio-20261127202925.html",
-   "f": "2026-11-27T19:29:25Z",
-   "c": "general"
-  },
-  {
-   "t": "Puig adquiere el 75% del Grupo Artessence por 1.200 millones de euros",
-   "m": "El Mundo",
-   "u": "https://www.elmundo.es/economia/empresas/2026/11/27/6b09d574fdddff01718b4582.html",
-   "f": "2026-11-27T19:28:13Z",
-   "c": "general"
+   "u": "https://cincodias.elpais.com/companias/2026-11-28/economia-podra-bloquear-cuentas-y-transacciones-bancarias-si-tiene-sospechas-de-blanqueo-de-capitales.html",
+   "f": "2026-11-28T04:15:00Z",
+   "c": "bancos"
   }
  ]
 }
