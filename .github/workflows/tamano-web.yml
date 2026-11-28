@@ -1,0 +1,48 @@
+name: Tamaño de la web
+
+# Construye la web igual que GitHub Pages y comprueba que cabe en el límite de
+# 1 GB y que no falta ninguna página. No publica nada.
+on:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  comprobar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - name: Construir como GitHub Pages
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: ./
+          destination: ./_site
+      - name: Comprobar tamaño y páginas
+        run: |
+          set -euo pipefail
+          bytes=$(sudo du -sb _site | cut -f1)
+          echo "Tamaño de la web: $((bytes / 1024 / 1024)) MB"
+          limite=$((900 * 1024 * 1024))
+          if [ "$bytes" -ge "$limite" ]; then
+            echo "::error::La web pesa $((bytes / 1024 / 1024)) MB; GitHub Pages admite como máximo 1 GB."
+            exit 1
+          fi
+          faltan=0
+          while IFS= read -r f; do
+            case "$f" in
+              media/videos/*|_config.yml|.gitignore|.github/*) continue ;;
+            esac
+            if [ ! -e "_site/$f" ]; then
+              echo "::error::Falta en la web: $f"
+              faltan=$((faltan + 1))
+            fi
+          done < <(git ls-files)
+          if ls _site/media/videos >/dev/null 2>&1; then
+            echo "::error::media/videos/ no debería publicarse"
+            exit 1
+          fi
+          echo "Archivos publicados: $(sudo find _site -type f | wc -l)"
+          [ "$faltan" -eq 0 ] || exit 1

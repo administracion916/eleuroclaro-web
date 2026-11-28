@@ -1,0 +1,11 @@
+# Configuración de GitHub Pages para eleuroclaro.es.
+#
+# Los vídeos de media/videos/ siguen en el repositorio (Metricool y Montaje los
+# cogen por su URL de raw.githubusercontent.com), pero no se publican en la web:
+# con ellos el sitio pesaba 3,7 GB y GitHub Pages admite como máximo 1 GB, así
+# que los despliegues fallaban o se quedaban colgados.
+#
+# Las páginas no llevan cabecera YAML, así que Jekyll las copia tal cual, sin
+# tocar su contenido.
+exclude:
+  - media/videos/
